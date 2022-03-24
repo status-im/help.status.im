@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://status.im/help/en/</loc>
+         <lastmod>2022-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://status.im/help/en/first-steps/</loc>
+         <lastmod>2022-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://status.im/help/en/first-steps/download-status-for-mac/</loc>
+         <lastmod>2022-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://status.im/help/en/first-steps/using-status/</loc>
+         <lastmod>2022-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://status.im/help/en/status-communities/</loc>
+         <lastmod>2022-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://status.im/help/en/status-communities/adding-members-to-your-community/</loc>
+         <lastmod>2022-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>

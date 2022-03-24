@@ -1,0 +1,2 @@
+*[seed phrase]: A seed phrase is a series of words.
+*[wallet]: A cryptocurrency wallet is a device, physical medium, program or a service which stores the public and/or private keys for cryptocurrency transactions.
