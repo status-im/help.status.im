@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block copyright %}
+  <a href="https://status.im/get/">Contribute</a>
+{% endblock %}
+
+{% block announce %}
+  <!-- <a href="https://status.im/get/">Check out the new Status release!</a> -->
+{% endblock %}
