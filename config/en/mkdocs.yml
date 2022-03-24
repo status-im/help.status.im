@@ -22,7 +22,7 @@ copyright: 'Status Research & Development GmbH'
 theme:
     name: material
     custom_dir: '../../overrides/'
-    logo: assets/images/status-logo-280x280.png
+    logo: assets/images/status-logo-320x320.png
     favicon: assets/images/status-logo-32x32.png             # Status favicon
     language: en
     palette:
