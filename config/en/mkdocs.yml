@@ -13,7 +13,7 @@ site_dir: '../../generated/en/'
 # Repository
 repo_name: 'Status Help'
 repo_url: https://github.com/status-im/help.status.im
-edit_uri: edit/main/docs/en
+edit_uri: edit/master/docs/en
 
 # Copyright
 copyright: 'Status Research & Development GmbH'
