@@ -6,4 +6,5 @@ hide:
 # Start
 
 - [First steps](./first-steps/index.md)
-- [Status communities](./status-communities/index.md)
+- [Status Communities](./status-communities/index.md)
+- [Style guide](../style-guide/index.md)
