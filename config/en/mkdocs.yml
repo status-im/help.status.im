@@ -133,5 +133,6 @@ plugins:
   - git-revision-date
   - git-revision-date-localized:
       type: date
+      fallback_to_build_date: true
 
 # Page tree (we don't show a page tree)
