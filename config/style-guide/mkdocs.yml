@@ -1,19 +1,19 @@
-# Material for MkDocs ENGLISH configuration file
+# Material for MkDocs STYLE GUIDE configuration file
 
 # Project information
-site_name: 'Status Help'
-site_url: https://status.im/help/en/
+site_name: 'Status Style Guide'
+site_url: https://status.im/help/style-guide/
 site_author: 'Status Research & Development GmbH'
-site_description: 'Status app user documentation'
+site_description: 'Status style guide'
 
 # Project directories
-docs_dir: '../../docs/en/'
-site_dir: '../../generated/en/'
+docs_dir: '../../docs/style-guide/'
+site_dir: '../../generated/style-guide/'
 
 # Repository
 repo_name: 'Status Help'
 repo_url: https://github.com/status-im/help.status.im
-edit_uri: edit/master/docs/en
+edit_uri: edit/master/docs/style-guide
 
 # Copyright
 copyright: 'Status Research & Development GmbH'
@@ -23,12 +23,12 @@ theme:
     name: material
     custom_dir: '../../overrides/'
     logo: assets/images/status-logo-320x320.png
-    favicon: assets/images/status-logo-32x32.png
+    favicon: assets/images/status-logo-32x32.png             # Status favicon
     language: en
     palette:
       - media: "(prefers-color-scheme: light)"
         scheme: default
-        primary: white
+        primary: deep purple
         accent: light blue
         toggle:
           icon: material/weather-night 
@@ -96,7 +96,7 @@ markdown_extensions:
   - pymdownx.snippets
   - attr_list
   - toc:
-      toc_depth: 2
+      toc_depth: 3
 
 # Theme customization
 extra_css:
@@ -136,3 +136,8 @@ plugins:
       fallback_to_build_date: true
 
 # Page tree (we don't show a page tree)
+nav:
+  - Welcome: index.md
+  - Style guidelines: style-guidelines.md
+  - Structuring the content: structuring-the-content.md
+  - Style conventions: style-conventions.md
