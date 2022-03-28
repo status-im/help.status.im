@@ -96,7 +96,7 @@ markdown_extensions:
   - pymdownx.snippets
   - attr_list
   - toc:
-      toc_depth: 2
+      toc_depth: 3
 
 # Theme customization
 extra_css:
@@ -133,5 +133,11 @@ plugins:
   - git-revision-date
   - git-revision-date-localized:
       type: date
+      fallback_to_build_date: true
 
 # Page tree (we don't show a page tree)
+nav:
+  - Welcome: index.md
+  - Style guidelines: style-guidelines.md
+  - Structuring the content: structuring-the-content.md
+  - Style conventions: style-conventions.md
