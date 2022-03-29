@@ -15,5 +15,5 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-git-revision-date-plugin
       - run: pip install mkdocs-git-revision-date-localized-plugin
-      - run: mkdocs gh-deploy --force -f config/en/mkdocs.yml
       - run: mkdocs gh-deploy --force -f config/style-guide/mkdocs.yml
+      - run: mkdocs gh-deploy --force -f config/en/mkdocs.yml
