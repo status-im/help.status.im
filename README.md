@@ -16,7 +16,7 @@ This repository uses a simplified version of the Gitflow git branching model fro
 - New content and fixes become part of the `develop` branch via [pull request collaboration](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). When a feature is complete, it gets merged back into `develop`.
 - Once `develop` has acquired enough content for a release, we merge the develop branch into `master`.
 
-The [Status' Docs team](https://github.com/orgs/status-im/teams/docs) works adding new content and fixes into the develop branch, and periodically merging updates with the master branch. You can keep track of the different documentation updates in the [releases](https://github.com/status-im/help.status.im/releases) page.
+The [Status' Docs team](https://github.com/orgs/status-im/teams/docs) works adding new content and fixes into the `develop` branch, and periodically merging updates with the `master` branch. You can keep track of the different documentation updates in the [releases](https://github.com/status-im/help.status.im/releases) page.
 
 ## Contributing
 
