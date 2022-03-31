@@ -3,4 +3,4 @@ hide:
   - navigation
 ---
 
-# Status Communities
+# Using Status
