@@ -2,7 +2,7 @@
 
 ![Status Help illustration](./overrides/assets/images/status-help-image.png)
 
-This repository contains the documentation website code and Markdown source files for [help.status.im](https://help.status.im).
+This repository contains the documentation website code and Markdown files for [help.status.im](https://help.status.im).
 
 We use [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) to build the user documentation site.
 
