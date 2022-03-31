@@ -14,11 +14,11 @@
 
 ### Direct messsages
 
-### Status crypto Wallet
+## Status Communities
+
+## Status Wallet
 
 ## Your Profile
-
-## Status Communities
 
 ## Settings
 
