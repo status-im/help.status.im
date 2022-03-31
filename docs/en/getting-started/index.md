@@ -3,11 +3,7 @@ hide:
   - navigation
 ---
 
-# First steps
-
-## Introduction to Status
-
-- [Using Status](./using-status.md)
+# Getting started
 
 ## Download Status
 
