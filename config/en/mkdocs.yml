@@ -135,4 +135,27 @@ plugins:
       type: date
       fallback_to_build_date: true
 
-# Page tree (we don't show a page tree)
+# Page tree (for mobile view)
+nav:
+  - Start: index.md
+  - Getting started:
+    - getting-started/index.md
+    - Download Status:
+      - Download Status for Mac: getting-started/download-status-for-mac.md
+      - Download Status for Windows: getting-started/download-status-for-windows.md
+      - Download Status for Linux: getting-started/download-status-for-linux.md
+      - Download Status for mobie: getting-started/download-status-for-mobile.md
+  - Using Status:
+    - using-status/index.md
+  - Communities:
+    - status-communities/index.md
+  - Wallet:
+    - status-wallet/index.md
+  - Your profile:
+    - your-profile/index.md
+  - Settings:
+    - settings/index.md
+  - Tutorials:
+    - tutorials/index.md
+
+

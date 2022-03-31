@@ -135,7 +135,7 @@ plugins:
       type: date
       fallback_to_build_date: true
 
-# Page tree (we don't show a page tree)
+# Page tree (for mobile view)
 nav:
   - Welcome: index.md
   - Style guidelines: style-guidelines.md
