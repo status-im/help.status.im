@@ -78,7 +78,7 @@ To understand how a repository fork works, see [About forks](https://docs.github
 
 1. Update your local `develop` branch with the latest changes from `upstream`:
     
-    `git pull upstream develop`
+    `git pull upstream develop --rebase`
 
     `git push origin develop`
     
@@ -163,7 +163,7 @@ With the Mkdocs live preview server, you can preview your changes as you write y
 
 ### 7. What's next?
 
-1. We may ask for changes to be made before a PR can be merged, either using [suggested changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) or pull request comments.
-1. As you update your PR and apply changes, mark each conversation as [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
+- We may ask for changes to be made before a PR can be merged, either using [suggested changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) or pull request comments.
+- As you update your PR and apply changes, mark each conversation as [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
 
 Congratulations on making it this far! The Status team thanks you.
