@@ -1,3 +1,7 @@
+<!--
+The number next to each topic represents the GitHub issue or pull request that uniquely identifies the task. Because pull requests are issues, issue and pull request numbers do not overlap in a repository.
+-->
+
 # User docs
 
 ## Getting Started
