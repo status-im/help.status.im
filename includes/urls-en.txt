@@ -1,1 +1,4 @@
+[download-status-for-linux]: /docs/en/getting-started/download-status-for-linux.md
+[gnu-privacy-guard]: https://gnupg.org/
+[run-status-app-first-time]: /docs/en/getting-started/run-status-app-first-time.md
 [status-web-download]: https://status.im/get
