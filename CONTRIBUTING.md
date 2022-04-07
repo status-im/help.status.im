@@ -32,6 +32,9 @@ Consider this information:
 - We triage your issue or pull request after submission and assign the `triage` label to it.
 - Issues or pull requests that don't fit into a technical documentation criterion will be discarded with the `invalid` label.
 - Issues or pull requests outside of the scope of the Status user documentation project will be discarded with the `wontfix` label.
+- We use the GitHub issue or pull request number to uniquely identify a task.
+
+    > Because pull requests are issues, issue and pull request numbers do not overlap in a repository (see [Issue event types](https://docs.github.com/en/developers/webhooks-and-events/events/issue-event-types) for more information.)
 
 ### Feedback form
 
