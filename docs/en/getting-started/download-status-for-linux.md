@@ -48,11 +48,11 @@ When you verify the GPG signature of the Status app, you confirm that the app ha
 
     `echo '1DD92FFA442D4B5C85C039231A151FD0883555FE:6:' | gpg --import-ownertrust`
 
-1. Validate the Status app GPG signature. For example, if you download the Status desktop app version 1.2, run the following command:
+1. Validate the Status app GPG signature. For example, if you downloaded the Status app version 1.2, run this command:
 
     `gpg --verify 'StatusIm-Desktop-v1.2.AppImage.asc'`
 
-1. The GPG signature verification is sucessful when you can see the Good signature message. Example:
+1. The GPG signature verification is sucessful when you can see the `Good signature` message. Example:
 
     `gpg: Good signature from "Status.im Release Signing (GPG key for signing Status.im release builds.) <admin@status.im>" [ultimate]`
 
