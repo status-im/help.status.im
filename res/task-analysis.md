@@ -6,6 +6,9 @@ The number next to each topic represents the GitHub issue or pull request that u
 
 ## Getting Started
 
+- Getting started for new users
+    - Run the Status app for the first time #41
+
 ### Download Status
 
 - Download Status for Mac
