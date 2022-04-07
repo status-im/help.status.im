@@ -22,7 +22,7 @@ The Status desktop app is the best way to use Status on Linux. Take a look at th
     `tar xvf StatusIm-Desktop-*.tar.gz`
 
     !!! note
-        Replace the * with the version number. For example: `StatusIm-Desktop-v1.2.tar.gz`
+        Replace the * with the Status app version number. For example: `StatusIm-Desktop-v1.2.tar.gz`
 
 1. Optionally, [verify the Status app GPG signature](#verify-the-status-app-gpg-signature).
 1. To launch Status, go to the directory where you have the Status app and double click the AppImage file.
