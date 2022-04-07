@@ -1,7 +1,6 @@
-# Internal URLs
 [download-status-for-linux]: /help.status.im/getting-started/download-status-for-linux
+[download-status-for-mac]: /help.status.im/getting-started/download-status-for-mac
 [run-status-app-first-time]: /help.status.im/getting-started/run-status-app-first-time
 
-# External URLs
 [gnu-privacy-guard]: https://gnupg.org/
 [status-web-download]: https://status.im/get
