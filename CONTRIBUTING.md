@@ -54,7 +54,7 @@ If you find an error using the Status app please, don't open a documentation iss
 
 ## About Status docs translations
 
-We are an international team with contributors and users from all over the world. Therefore, we know that providing documentation in multiple languages is crucial. Unfortunately, as a small team, we're unable to provide a translation workflow or add translations to our docs at this time.
+We are an international team with contributors and users from all over the world. Therefore, we know that providing documentation in multiple languages is crucial. Unfortunately, as a small team, we're unable to provide a translation workflow or add translations to our docs at this time. If you wish to contribute to the translation of other parts of the Status Network, see [translate.status.im](https://translate.status.im/).
 
 ## Contribute using a pull request
 
