@@ -30,6 +30,15 @@ For more complex contributions, you can [open an issue](https://github.com/statu
 
 If you're looking for a way to contribute, you can scan through [our existing issues](https://github.com/status-im/help.status.im/issues) for something to work on. When ready, check our [contributing guide](https://github.com/status-im/help.status.im/blob/master/CONTRIBUTING.md) for detailed instructions.
 
+## Continuous Integration
+
+Two branches are built by [our Jenkins instance](https://ci.status.im/):
+
+* `master` is deployed to https://help.status.im/ by [CI](https://ci.status.im/job/website/job/help.status.im/)
+* `develop` is deployed to https://dev-help.status.im/ by [CI](https://ci.status.im/job/website/job/dev-help.status.im/)
+
+PRs should be made for `develop` branch and `master` should be [rebased](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) on `develop` once changes are verified.
+
 ## License
 
 The Status user documentation is licensed under the MIT license. The Material for MkDocs components of our documentation are licensed under the [Material for MkDocs license](https://github.com/squidfunk/mkdocs-material/blob/master/LICENSE).
