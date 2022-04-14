@@ -1,6 +1,6 @@
-[download-status-for-linux]: /help.status.im/getting-started/download-status-for-linux
-[download-status-for-mac]: /help.status.im/getting-started/download-status-for-mac
-[run-status-app-first-time]: /help.status.im/getting-started/run-status-app-first-time
+[download-status-for-linux]: /en/getting-started/download-status-for-linux
+[download-status-for-mac]: /en/getting-started/download-status-for-mac
+[run-status-app-first-time]: /en/getting-started/run-status-app-first-time
 
 [gnu-privacy-guard]: https://gnupg.org/
 [status-web-download]: https://status.im/get
