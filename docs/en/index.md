@@ -12,3 +12,5 @@ hide:
 - [Your profile](./your-profile/index.md)
 - [Settings](./settings/index.md)
 - [Tutorials](./tutorials/index.md)
+
+--8<-- "includes/urls-en.txt"
