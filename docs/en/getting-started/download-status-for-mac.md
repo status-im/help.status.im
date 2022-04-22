@@ -9,7 +9,11 @@ The Status desktop app is the best way to experience Status on the Mac operating
 
 ## Download the Status app
 
-Status provides the Status app for Mac computers using the Apple silicon processor or the Intel processor. If you're not sure what is the correct version for your Mac, check the [Mac computers with Apple silicon :octicons-tab-external-16:](https://support.apple.com/en-us/HT211814){:target="_blank"} article in the Apple Support website.
+Status provides the Status app for Mac computers using the Apple silicon processor or the Intel processor.
+
+<!-- Text to add when the Status universal app is ready:
+Status provides the Status app for Mac computers using either the Apple silicon processor or the Intel processor. If you're not sure what is the correct version for your Mac, check the [Mac computers with Apple silicon :octicons-tab-external-16:](https://support.apple.com/en-us/HT211814){:target="_blank"} article in the Apple Support website.
+-->
 
 1. Visit [status.im/get :octicons-tab-external-16:][status-web-download]{:target="_blank"}
 1. Under the **Desktop** section, click the **Mac** button.
