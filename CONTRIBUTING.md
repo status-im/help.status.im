@@ -93,7 +93,7 @@ To understand how a repository fork works, see [About forks](https://docs.github
     
 1. Using the editor of your choice, write the required changes.
     
-    > If you have doubts about how to write something, check the [Status style guide]().
+    > If you have doubts about how to write something, check the [Status style guide](https://help.status.im/style-guide/).
 
 ### 4. Test your changes
 
