@@ -4,13 +4,13 @@ Thank you for investing your time in contributing to our project! Any contributi
 
 This guide provides an overview of the different types of contributions and the contribution workflow. Read the [Status Code of Conduct](https://people-ops.status.im/code-of-conduct/) to keep this place approachable and respectable.
 
+Independently of how you contribute, your contribution is considered a documentation issue and included in the [Status documentation project](https://github.com/orgs/status-im/projects/71).
+
 > TL;DR: if you know what to do, skip to the [Contribute using a pull request](#contribute-using-a-pull-request) section.
 
-## Types of contributions
+## How to contribute
 
-We accept different contributions, including some that don't require you to use a GitHub account. Independently of how you contribute, your contribution is considered a documentation issue and included in the [Status documentation project](https://github.com/orgs/status-im/projects/71).
-
-There are several ways to contribute to the project:
+You can contribute using GitHub issues or pull requests:
 
 ### GitHub issues
 
@@ -36,6 +36,7 @@ Consider this information:
 
     > Because pull requests are issues, issue and pull request numbers do not overlap in a repository (see [Issue event types](https://docs.github.com/en/developers/webhooks-and-events/events/issue-event-types) for more information.)
 
+<!-- Need to check if this should be part of general user feedback on the Status app.
 ### Feedback form
 
 > The feedback form for the Status documentation will be available soon.
@@ -43,6 +44,7 @@ Consider this information:
 Use the Status documentation feedback form if you don't have a GitHub account. While GitHub provides a more straightforward way to solve documentation issues or suggest new content, we recognize that not every reader of our docs owns a GitHub account or knows how to use the GitHub workflow.
 
 When using our feedback form, you must use your Status username or email address. Once your suggestion is submitted, we create a new [GitHub issue](https://github.com/status-im/help.status.im/issues). Before submitting a suggestion using the feedback form, search if [an issue already exists](https://github.com/status-im/help.status.im/issues).
+-->
 
 ## Support
 
