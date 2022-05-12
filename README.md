@@ -16,13 +16,11 @@ This repository uses a simplified version of the Gitflow git branching model fro
 - New content and fixes become part of the `develop` branch via [pull request collaboration](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). When a feature is complete, it gets merged back into `develop`.
 - Once `develop` has acquired enough content for a release, we merge the develop branch into `master`.
 
-The [Status' Docs team](https://github.com/orgs/status-im/teams/docs) works adding new content and fixes into the `develop` branch, and periodically merging updates with the `master` branch. You can keep track of the different documentation updates in the [releases](https://github.com/status-im/help.status.im/releases) page.
-
 ## Contributing
 
-See the [contributing guide](https://github.com/status-im/help.status.im/blob/master/CONTRIBUTING.md) for detailed instructions on how to collaborate with our project.
+See the [contributing guide](https://github.com/status-im/help.status.im/blob/master/CONTRIBUTING.md) for detailed instructions on collaborating with our project.
 
-We accept different types of contributions, including some that don't require you to deal with git or GitHub.
+<!-- We accept different types of contributions, including some that don't require you to deal with git or GitHub. -->
 
 On every article in the Status user documentation, you can click the edit ![Edit button](./overrides/assets/icons/edit_black_24dp.svg) button to open a pull request for quick fixes like typos, updates, or link fixes.
 
@@ -30,14 +28,14 @@ For more complex contributions, you can [open an issue](https://github.com/statu
 
 If you're looking for a way to contribute, you can scan through [our existing issues](https://github.com/status-im/help.status.im/issues) for something to work on. When ready, check our [contributing guide](https://github.com/status-im/help.status.im/blob/master/CONTRIBUTING.md) for detailed instructions.
 
-## Continuous Integration
+## Continuous integration
 
-Two branches are built by [our Jenkins instance](https://ci.status.im/):
+We build two branches using [our Jenkins instance](https://ci.status.im/):
 
 * `master` is deployed to https://help.status.im/ by [CI](https://ci.status.im/job/website/job/help.status.im/)
 * `develop` is deployed to https://dev-help.status.im/ by [CI](https://ci.status.im/job/website/job/dev-help.status.im/)
 
-PRs should be made for `develop` branch and `master` should be [rebased](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) on `develop` once changes are verified.
+The [Status' Docs team](https://github.com/orgs/status-im/teams/docs) adds new content and fixes to the `develop` branch and periodically merges updates into the `master` branch. When merging changes, we [rebase](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) on the `develop` branch. You can keep track of the documentation updates on the [releases](https://github.com/status-im/help.status.im/releases) page.
 
 ## License
 
