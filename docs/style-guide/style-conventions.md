@@ -225,7 +225,7 @@ Tables provide a simple way to summarize information. Use a table instead of [bu
     | Incorrect   | 1pm     |
     | Incorrect   | 1 PM    |
 
-- For cryptocurrencies, NFTs, or DeFi tokens, use the symbol described on their website or use the symbol from [CoinMarketCap :octicons-tab-external-16:][coinmarketcap]{:target="_blank"} or [CoinGecko :octicons-tab-external-16:][coingecko]{:target="_blank"} websites.
+- For cryptocurrencies, NFTs, or DeFi tokens, use the symbol described on their website or use the symbol from [CoinMarketCap :octicons-tab-external-16:][coinmarketcap]{:target="_blank"} or [CoinGecko:octicons-tab-external-16:][coingecko]{:target="_blank"} websites.
 - To write a crypto amount, place the symbol after the number.
 - To write fiat, use the [ISO4217 :octicons-tab-external-16:][ISO4217] currency symbol after the amount. If you're using fiat to illustrate a concept, use [commonly-known currencies :octicons-tab-external-16:][wikipedia-common-currencies] like the USA dollar (USD), Euro (EUR), or Japanese yen (JPY).
 - For units of measure, use the [metric system :octicons-tab-external-16:][wikipedia-metric-system].
