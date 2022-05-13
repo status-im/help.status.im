@@ -189,7 +189,7 @@ Tables provide a simple way to summarize information. Use a table instead of [bu
     | Incorrect   | 0,13    |
     | Incorrect   | 0'13    |
 
-- Don't use a thousand separator. While a thousand separator improves readability (especially for very long numbers), their symbol and placement vary greatly among countries.
+- Don't use thousand separators. While a thousand separator improves readability (especially for very long numbers), their symbol and placement vary among countries.
 
     | Usage       | Example |
     |:------------|:--------|
@@ -212,7 +212,7 @@ Tables provide a simple way to summarize information. Use a table instead of [bu
     | Usage       | Example                                                  |
     |:------------|:---------------------------------------------------------|
     | **Correct** | The latest version was released on May 6, 2023.          |
-    | Incorrect   | The latest version was released on 05/06/23.               |
+    | Incorrect   | The latest version was released on 05/06/23.             |
     | Incorrect   | The latest version was released on the 6th. of May, 2023 |
 
 - For writing decades, use two-digit numbers with an apostrophe (') before and the  *s* letter after them (for example, *'90s*).
