@@ -1,5 +1,6 @@
 ---
-id: 12-3
+id: 12
+revision: 4
 hide:
   - navigation
 ---
@@ -44,6 +45,8 @@ Status documentation aims to guide users in completing tasks and motivate them t
 A list of frequently asked questions (FAQs) falls under the concept category.
 
 ### Concept structure
+
+![Layout of the concept type topic](./structuring-the-content/media/12-4-2.png)
 
 | Element | # | Style | Required | Notes |
 |:--|:--|:--|:--|:--|
@@ -93,6 +96,8 @@ A procedure describes how to complete an action using a series of steps. Procedu
 - For tasks that may cause an error (like, for example, changing a password, choosing a user name, or sending crypto) consider adding a *Common questions* section at the end of the article, with answers to the most common issues. If the list of possible errors for a specific task is too long, use a [FAQ](#concept-help-me-to-understand) (concept) article instead.
 
 ### Procedure structure
+
+![Layout of the procedure type topic](./structuring-the-content/media/12-4-4.png)
 
 ### **Procedure title**
 
@@ -175,6 +180,8 @@ Reference articles provide data that supports users as they perform a task. A re
 ### Reference structure
 
 Because of its nature, reference topics are mostly based on lists and tables.
+
+![Layout of the reference type topic](./structuring-the-content/media/12-4-3.png)
 
 | Element | # | Style | Required | Notes |
 |:--|:--|:--|:--|:--|
