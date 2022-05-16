@@ -99,6 +99,30 @@ A procedure describes how to complete an action using a series of steps. Procedu
 
 ![Layout of the procedure type topic](./structuring-the-content/media/12-4-4.png)
 
+| Element | # | Style | Required | Notes |
+| --- | --- | --- | --- | --- |
+| Title | 1 | H1 | Yes |  |
+| Screenshot | 2 | PNG / GIF | No | The screenshot shows the area in the app where the discussion or action takes place.</br>Reference-only topics (tables) don't require this screenshot. |
+| Admonition | 3 | Admonition | No | This admonition is exclusively to alert readers about the feature availability.</br>For example, a feature is only available to specific application roles or available after completing another task. |
+| Introduction | 4 | Paragraph | **Yes** | A brief discussion of the functionality and its relationship with other functionalities.</br>The introduction answers the "what is this" |
+| Example | 5 | Paragraph | No | An example explaining the functionality in context.</br>The example answers "why it matters." |
+| "What to expect" title | 6 | H3 | No | H3 title reads "What to expect." |
+| "What to expect" list | 7 | Unordered list | No | A paragraph explaining what will happen after completing the task. |
+| Admonition | 8 | Admonition | No | General notes, tips, or warnings about the task. |
+| Tasks title | 9 | H2 | **Yes** |  |
+| Task introduction | 10 | Paragraph | No | A short sentence describing prerequisites or things to consider before the task. |
+| Task steps | 11 | Ordered list | **Yes** | Procedural description.</br>Tasks and subtasks answer "how to use it." |
+| Task screenshot | 12 | PNG / GIF | No | The screenshot goes after the last step in the procedure. |
+| Task admonition | 13 | Admonition | No | Notes, tips, or warnings about the task. |
+| Subtask title | 14 | H3 | No |  |
+| ~~Subtask introduction~~ |  |  |  | Subtasks don't include an introduction sentence. |
+| Subtask steps | 15 | Ordered list | No | Procedural description.</br>Tasks and subtasks answer "how to use it." |
+| Subtask screenshot | 16 | PNG / GIF | No |  |
+| Subtask admonition | 17 | Admonition | No | Notes, tips, or warnings about the task. |
+| Common questions title | 18 | H2 | No | H2 title reads "Common questions". |
+| Common question subtitle | 19 | H3 | No | Common question subtitle. |
+| Common question paragraph | 20 | Paragraph | No | Answer to the common question. |
+
 ### **Procedure title**
 
 - Focus on the result, not on the task.
