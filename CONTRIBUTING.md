@@ -91,7 +91,7 @@ To understand how a repository fork works, see [About forks](https://docs.github
     
     `git checkout -b your-topic-branch-name develop`
     
-    > Use a descriptive name for your feature branch, separating words with dashes. If you know the issue number, include this in the branch name. Examples: `fix-typo-on-creating-status-communities`, `#133-wrong-table-values`.
+    > Use a descriptive name for your feature branch, separating words with dashes. If you know the issue number, include this in the branch name. Examples: `fix-typo-on-creating-status-communities`, `133-wrong-table-values`.
     
 1. Using the editor of your choice, write the required changes.
     
