@@ -83,7 +83,7 @@ To understand how a repository fork works, see [About forks](https://docs.github
 
 1. Update your local `develop` branch with the latest changes from `upstream`:
     
-    `git pull upstream develop --rebase`
+    `git pull upstream develop --rebase --verbose`
 
     `git push origin develop`
     
@@ -119,7 +119,7 @@ With the Mkdocs live preview server, you can preview your changes as you write y
 
 1. Stage your changes:
     
-    `git add .`
+    `git add --all`
     
 1. Commit your changes with a description of what's included:
     
@@ -153,7 +153,7 @@ With the Mkdocs live preview server, you can preview your changes as you write y
     
     > You can also skip this step and add the pull request description using the GitHub webpage.
     
-1. In the **What's next** question, select `Submit` to submit your pull request, or `Continue in browser` to finish your pull request in the GitHub webiste:
+1. In the **What's next** question, select `Submit` to submit your pull request, or `Continue in browser` to finish your pull request in the GitHub website:
     
     ```bash
     ? What's next?  [Use arrows to move, type to filter]
