@@ -37,7 +37,7 @@ When creating technical content for Status, consider these guidelines:
 - Don't use cultural or local expressions, made-up words, figurative language, obscure acronyms, metaphors, or (needless to say) discriminatory language. Write for a general audience without considering factors such as race, ethnicity, religion, nationality, or gender.
 - Don't assume the reader has prior knowledge of a new concept when introducing it. Instead, explain the idea in simple terms and provide readers with resources or related topics to find out more.
 - We don't obsess over grammar rules. Language isn't an exact science, and different style guides use different conventions. This guide follows the rule commonly accepted, disregarding exceptions.
-- For the English language, the Status documentation follows the English USA writing rules.
+- Status documentation adheres to the most widely used English dialect.
 
 <br>[:octicons-git-branch-24: Contribute to our docs][contributors-guide]{ .md-button }</br>
 
