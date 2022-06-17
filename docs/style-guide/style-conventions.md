@@ -357,7 +357,7 @@ Modal verbs are auxiliary verbs that modify the meaning of the main verb in a se
     | Modal verb | Usage |
     | :-- | :-- |
     | can | Use it to express the possibility of the user to do something, like when you're introducing a new concept or functionality. Example: You can create multiple wallets for different purposes. |
-    | should | Use it selectively to indicate an action that is recommended but optional. |
+    | should | Don't use. Use the imperative form of the verb instead. |
     | must | Use it very selectively and only when it's strictly necessary for the user to do something to avoid data or funds loss, data corruption, or unintended information disclosure. |
     | could, should, would, might | Don't use. |
 
