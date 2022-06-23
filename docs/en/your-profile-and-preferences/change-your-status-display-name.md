@@ -7,3 +7,7 @@ hide:
 ---
 
 # Change your Status display name
+
+## Settings
+
+Open the settings
