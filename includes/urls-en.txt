@@ -1,3 +1,4 @@
+[change-your-status-display-name]: /en/your-profile-and-preferences/change-your-status-display-name
 [download-status-for-linux]: /en/getting-started/download-status-for-linux
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
 [run-status-app-first-time]: /en/getting-started/run-status-app-first-time

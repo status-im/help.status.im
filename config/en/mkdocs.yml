@@ -131,7 +131,7 @@ plugins:
       type: date
       fallback_to_build_date: true
 
-# Page tree (for mobile view)
+# Page tree (for the hamburger menu navigation)
 nav:
   - Start: index.md
   - Getting started:
@@ -150,7 +150,8 @@ nav:
   - Wallet:
     - status-wallet/index.md
   - Your profile:
-    - your-profile/index.md
+    - your-profile-and-preferences/index.md
+    - Change your Status display name: your-profile-and-preferences/change-your-status-display-name.md
   - Settings:
     - settings/index.md
   - Tutorials:

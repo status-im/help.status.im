@@ -9,7 +9,7 @@ hide:
 - [Using Status](./using-status/index.md)
 - [Status Communities](./status-communities/index.md)
 - [Status Wallet](./status-wallet/index.md)
-- [Your profile](./your-profile/index.md)
+- [Your profile and preferences](./your-profile-and-preferences/index.md)
 - [Settings](./settings/index.md)
 - [Tutorials](./tutorials/index.md)
 
