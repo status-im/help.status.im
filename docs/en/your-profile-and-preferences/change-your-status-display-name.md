@@ -10,4 +10,4 @@ hide:
 
 ## Settings
 
-Open the settings
+Open the settings and
