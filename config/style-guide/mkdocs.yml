@@ -48,18 +48,15 @@ theme:
 
       # Custom admonitions (callouts) require "Insiders" subscription
       admonition:
-        # note: fontawesome/solid/sticky-note
-        # abstract: fontawesome/solid/book
-        info: fontawesome/solid/info-circle
+        # note: fontawesome/solid/note-sticky
+        info: fontawesome/solid/circle-info
         tip: fontawesome/solid/bullhorn
-        # success: fontawesome/solid/check
+        # success: fontawesome/solid/circle-check
         # question: fontawesome/solid/question-circle
-        warning: fontawesome/solid/exclamation-triangle
+        warning: fontawesome/solid/triangle-exclamation
         # failure: fontawesome/solid/bomb
         # danger: fontawesome/solid/skull
         # bug: fontawesome/solid/robot
-        # example: fontawesome/solid/flask
-        # quote: fontawesome/solid/quote-left
 
     # Material for MkDocs features
     features:
