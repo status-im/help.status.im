@@ -1,0 +1,3 @@
+# Common Material for MkDocs Insiders configuration file
+plugins:
+  - git-authors

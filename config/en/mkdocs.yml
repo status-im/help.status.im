@@ -123,6 +123,7 @@ extra:
       link: https://join.status.im/chat/public/status
 
 # Plugins
+INHERIT: '../../overrides/mkdocs.insiders.yml'
 plugins:
   - search:                                         
       lang: en
