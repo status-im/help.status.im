@@ -13,7 +13,7 @@ hide:
 
     [:octicons-arrow-right-24: Getting started](#)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __Using Status__
+-   :status-mobile:{ .lg .middle } __Using Status__
 
     ---
 
