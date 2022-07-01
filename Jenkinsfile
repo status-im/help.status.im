@@ -24,16 +24,24 @@ pipeline {
   stages {
     stage('Deps') {
       steps {
-        sh "pip install --user -r requirements.txt"
+        /* Necessary for mkdocs-material-insider package. */
+        withCredentials([
+          string(
+            credentialsId: 'mkdocs-material-insider-gh-token',
+            variable: 'GH_TOKEN'
+          )
+        ]) {
+          sh 'pip install --user -r requirements.txt'
+        }
       }
     }
 
     stage('Build') {
       steps {
         sh "python -m mkdocs build -f config/en/mkdocs.yml"
-        sh "python -m mkdocs build -f config/style-guide/mkdocs.yml"
+        sh 'python -m mkdocs build -f config/style-guide/mkdocs.yml'
         /* Temporary solution for lack of start page. */
-        sh "cp overrides/static/* generated/"
+        sh 'cp overrides/static/* generated/'
         echo "${GIT_BRANCH}"
       }
     }
@@ -42,7 +50,7 @@ pipeline {
       when { expression { env.GIT_BRANCH ==~ /.*master/ } }
       steps {
         sshagent(credentials: ['status-im-auto-ssh']) {
-          sh "ghp-import -p generated"
+          sh 'ghp-import -p generated'
         }
       }
     }
