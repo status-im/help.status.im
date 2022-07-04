@@ -31,8 +31,8 @@ Status user documentation topics fall into one of these categories:
     !!! note
         A guide consists of two or more procedures in a single document.
 
-![Categories of topics in the Status documentation](./structuring-the-content/media/12-3-1-light.png#only-light)
-![Categories of topics in the Status documentation](./structuring-the-content/media/12-3-1-dark.png#only-dark)
+![Categories of topics in the Status documentation](./structuring-the-content/12-3-1-light.png#only-light)
+![Categories of topics in the Status documentation](./structuring-the-content/12-3-1-dark.png#only-dark)
 
 ## Concept: help me to understand
 
@@ -46,7 +46,7 @@ A list of frequently asked questions (FAQs) falls under the concept category.
 
 ### Concept structure
 
-![Layout of the concept type topic](./structuring-the-content/media/12-4-2.png)
+![Layout of the concept type topic](./structuring-the-content/12-4-2.png)
 
 | Element | # | Style | Required | Notes |
 |:--|:--|:--|:--|:--|
@@ -97,7 +97,7 @@ A procedure describes how to complete an action using a series of steps. Procedu
 
 ### Procedure structure
 
-![Layout of the procedure type topic](./structuring-the-content/media/12-4-4.png)
+![Layout of the procedure type topic](./structuring-the-content/12-4-4.png)
 
 | Element | # | Style | Required | Notes |
 | --- | --- | --- | --- | --- |
@@ -205,7 +205,7 @@ Reference articles provide data that supports users as they perform a task. A re
 
 Because of its nature, reference topics are mostly based on lists and tables.
 
-![Layout of the reference type topic](./structuring-the-content/media/12-4-3.png)
+![Layout of the reference type topic](./structuring-the-content/12-4-3.png)
 
 | Element | # | Style | Required | Notes |
 |:--|:--|:--|:--|:--|
