@@ -14,6 +14,7 @@
 
 [about-status-display-names]: /en/your-profile-and-preferences/about-status-display-names
 [change-your-status-display-name]: /en/your-profile-and-preferences/change-your-status-display-name
+[your-chatkey-emojihash-and-identicon-ring]: /en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring
 
 [gnu-privacy-guard]: https://gnupg.org/
 [status-web-download]: https://status.im/get
