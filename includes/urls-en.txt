@@ -1,4 +1,3 @@
-# Landing page
 [getting-started]: /en/getting-started/index
 [using-status]: /en/using-status/index
 [status-communities]: /en/status-communities/index
@@ -6,25 +5,15 @@
 [your-profile-and-prefences]: /en/your-profile-and-preferences/index
 [network-nodes-and-statistics]: /en/network-nodes-and-statistics/index
 
-# Getting Started
+
 [download-status-for-linux]: /en/getting-started/download-status-for-linux
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
 [run-status-app-first-time]: /en/getting-started/run-status-app-first-time
 
-
-# Using Status
-
-# Status Communities
 [join-a-status-community]: /en/status-communities/join-a-status-community
 
-# Status Wallet
-
-# Your profile and preferences
 [about-status-display-names]: /en/your-profile-and-preferences/about-status-display-names
 [change-your-status-display-name]: /en/your-profile-and-preferences/change-your-status-display-name
 
-# Network nodes and statistics
-
-# External links
 [gnu-privacy-guard]: https://gnupg.org/
 [status-web-download]: https://status.im/get
