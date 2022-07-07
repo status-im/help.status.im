@@ -157,9 +157,8 @@ nav:
   - Your profile:
     - your-profile-and-preferences/index.md
     - Change your Status display name: your-profile-and-preferences/change-your-status-display-name.md
-  - Settings:
-    - settings/index.md
-  - Tutorials:
-    - tutorials/index.md
+  - Network nodes:
+    - network-nodes-and-statistics/index.md
+
 
 
