@@ -8,10 +8,10 @@ hide:
 
 # About Status display names
 
-:octicons-rocket-16: (1)
+:octicons-tools-16: In progress (1)
 { .annotate }
 
-1. This content is in development
+1. We're working on this page
 
 You have three types of names in your Status app.
 When running the Status app for the first time, you can choose any name.
