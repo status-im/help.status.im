@@ -56,3 +56,5 @@ hide:
 </div>
 
 ## :status-public-chat: Featured articles
+
+--8<-- "includes/urls-en.txt"
