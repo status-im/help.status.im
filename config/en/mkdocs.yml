@@ -150,6 +150,8 @@ nav:
     - using-status/direct-messages.md
   - Communities:
     - status-communities/index.md
+    - Status Communities:
+      - Join a Status Community: status-communities/join-a-status-community.md
   - Wallet:
     - status-wallet/index.md
   - Your profile:

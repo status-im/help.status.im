@@ -3,5 +3,8 @@
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
 [run-status-app-first-time]: /en/getting-started/run-status-app-first-time
 
+# Status Communities
+[join-a-status-community]: /en/status-communities/join-a-status-community
+
 [gnu-privacy-guard]: https://gnupg.org/
 [status-web-download]: https://status.im/get
