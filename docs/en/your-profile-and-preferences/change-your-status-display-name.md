@@ -9,12 +9,11 @@ hide:
 # Change your Status display name
 
 Changing your display name is very easy using the account settings.
-You can change any kind of name despite its type — regular, Status ENS name, 
-ENS name.
+You can change any kind of name despite its type — regular, Status ENS name, ENS name.
 
 === "Mobile"
 
-    1. Tap your avatar at the screen bottom.
+    1. Tap your :status-avatar_big: avatar at the screen bottom.
     1. Tap :status-profile: **Edit profile**.
     1. Tap on your name line.
     1. Edit your name and **Save** it.
