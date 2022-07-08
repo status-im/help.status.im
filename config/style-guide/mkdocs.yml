@@ -67,6 +67,7 @@ theme:
       - navigation.tabs.sticky
       - navigation.indexes
       - navigation.top
+      - navigation.tracking
 
 # Extensions
 markdown_extensions:
