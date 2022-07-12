@@ -96,6 +96,7 @@ markdown_extensions:
   - md_in_html
   - toc:
       toc_depth: 3
+      permalink: true
 
 # Theme customization
 extra_css:
