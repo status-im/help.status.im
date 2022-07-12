@@ -1,9 +1,9 @@
-[getting-started]: /en/getting-started/index
-[using-status]: /en/using-status/index
-[status-communities]: /en/status-communities/index
-[status-wallet]: /en/status-wallet/index
-[your-profile-and-prefences]: /en/your-profile-and-preferences/index
-[network-nodes-and-statistics]: /en/network-nodes-and-statistics/index
+[getting-started]: /en/getting-started/
+[using-status]: /en/using-status/
+[status-communities]: /en/status-communities/
+[status-wallet]: /en/status-wallet/
+[your-profile-and-prefences]: /en/your-profile-and-preferences/
+[network-nodes-and-statistics]: /en/network-nodes-and-statistics/
 
 
 [download-status-for-linux]: /en/getting-started/download-status-for-linux
