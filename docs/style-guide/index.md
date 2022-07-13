@@ -22,9 +22,9 @@ Refer to our [documentation contributor's guide][contributors-guide] to contribu
 
 <div class="grid cards" markdown>
 
--   :triangular_ruler:{ .lg .middle } [Style guidelines][style-guidelines]
--   :construction_site:{ .lg .middle } [Structuring the content][structuring-the-content]
--   :paintbrush:{ .lg .middle } [Style convention][style-conventions]
+-   [:triangular_ruler: Style guidelines][style-guidelines]
+-   [:construction_site: Structuring the content][structuring-the-content]
+-   [:paintbrush: Style convention][style-conventions]
 
 <br>
 
