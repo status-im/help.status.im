@@ -1,4 +1,4 @@
-# Welcome to the Status documentation contributing guide
+# Welcome to the Status Help contributing guide
 
 Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [help.status.im](https://help.status.im).
 
