@@ -10,7 +10,7 @@ Independently of how you contribute, your contribution is considered a documenta
 
 ## How to contribute
 
-You can contribute using GitHub issues or pull requests:
+You can contribute using GitHub issues or pull requests.
 
 ### GitHub issues
 
@@ -36,16 +36,6 @@ Consider this information:
 
     > Because pull requests are issues, issue and pull request numbers do not overlap in a repository (see [Issue event types](https://docs.github.com/en/developers/webhooks-and-events/events/issue-event-types) for more information.)
 
-<!-- Need to check if this should be part of general user feedback on the Status app.
-### Feedback form
-
-> The feedback form for the Status documentation will be available soon.
-
-Use the Status documentation feedback form if you don't have a GitHub account. While GitHub provides a more straightforward way to solve documentation issues or suggest new content, we recognize that not every reader of our docs owns a GitHub account or knows how to use the GitHub workflow.
-
-When using our feedback form, you must use your Status username or email address. Once your suggestion is submitted, we create a new [GitHub issue](https://github.com/status-im/help.status.im/issues). Before submitting a suggestion using the feedback form, search if [an issue already exists](https://github.com/status-im/help.status.im/issues).
--->
-
 ## Support
 
 If you find an error using the Status app please, don't open a documentation issue. Instead, open an issue with the corresponding team at Status:
@@ -54,9 +44,41 @@ If you find an error using the Status app please, don't open a documentation iss
 - [Status desktop](https://github.com/status-im/status-desktop)
 - [Status web](https://github.com/status-im/status-web)
 
-## About Status docs translations
+## About Status Help translations
 
 We are an international team with contributors and users from all over the world. Therefore, we know that providing documentation in multiple languages is crucial. Unfortunately, as a small team, we're unable to provide a translation workflow or add translations to our docs at this time. If you wish to contribute to the translation of other parts of the Status Network, see [translate.status.im](https://translate.status.im/).
+
+## Install Material for MkDocs and preview your changes
+
+We use [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) to build the user documentation site. If you want to preview your contributions as they will look in Status Help, you need to install Material for MkDocs and its dependencies.
+
+> You don't need to install Material for MkDocs to edit Markdown files in the Status Help repo. However, it's a good idea to install Material for MkDocs and make sure your content previews correctly.
+
+1. Install Material for Mkdocs using `pip`:
+
+    `pip install mkdocs-material`
+
+2. Install additional Material for MkDocs `pip` dependencies:
+
+    ```
+    pip install mkdocs-git-revision-date-plugin==0.3.2
+    pip install mkdocs-git-revision-date-localized-plugin==1.0.1
+    ```
+
+3. To preview your changes, go to the root folder in your [Status Help clone](#1-fork-and-clone-this-repository) (by default, this is the `help.status.im` folder in your computer) and run the MkDocs live preview:
+
+    `mkdocs serve -f config/[language]/mkdocs.yml`
+
+    Where `[language]` corresponds to the language folder name in the Status Help repository.
+
+    > To preview your content correctly, remember to run `mkdocs serve` from the root folder in your [Status Help clone](#1-fork-and-clone-this-repository).
+
+### About Material for MkDocs Insiders
+
+For the Status Help repository, we use Materials for MkDocs [Insiders](https://squidfunk.github.io/mkdocs-material/insiders/), a sponsored-only version with additional functionality. Using these functionalities requires access to a private Material for MkDocs build, which is unavailable for contributors. However, we use only a few components from the Insider's version that shouldn't affect your contributions:
+
+- [Card grids](https://squidfunk.github.io/mkdocs-material/reference/grids/?h=card#using-card-grids)
+- [Annotations](https://squidfunk.github.io/mkdocs-material/reference/annotations/?h=annot#using-annotations)
 
 ## Contribute using a pull request
 
