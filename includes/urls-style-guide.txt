@@ -1,3 +1,7 @@
+[style-guidelines]: /style-guide/style-guidelines/
+[structuring-the-content]: /style-guide/structuring-the-content/
+[style-conventions]: /style-guide/style-conventions/
+
 [coingecko]: https://www.coingecko.com/
 [coinmarketcap]: https://coinmarketcap.com/
 [contributors-guide]: https://github.com/status-im/help.status.im/blob/master/CONTRIBUTING.md
