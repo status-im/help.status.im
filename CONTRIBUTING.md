@@ -40,7 +40,7 @@ Consider this information:
 
 If you find an error using the Status app please, don't open a documentation issue. Instead, open an issue with the corresponding team at Status:
 
-- [Status mobile](https://github.com/status-im/status-react)
+- [Status mobile](https://github.com/status-im/status-mobile)
 - [Status desktop](https://github.com/status-im/status-desktop)
 - [Status web](https://github.com/status-im/status-web)
 
