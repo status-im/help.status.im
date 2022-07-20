@@ -54,24 +54,19 @@ We use [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) to bu
 
 > You don't need to install Material for MkDocs to edit Markdown files in the Status Help repo. However, it's a good idea to install Material for MkDocs and make sure your content previews correctly.
 
-1. Install Material for Mkdocs using `pip`:
+Install Python dependencies:
 
-    `pip install mkdocs-material`
+```sh
+pip install -r requirements.txt
+```
 
-2. Install additional Material for MkDocs `pip` dependencies:
+To preview your changes, go to the root folder in your [Status Help clone](#1-fork-and-clone-this-repository) (by default, this is the `help.status.im` folder in your computer) and run the MkDocs live preview:
 
-    ```
-    pip install mkdocs-git-revision-date-plugin==0.3.2
-    pip install mkdocs-git-revision-date-localized-plugin==1.0.1
-    ```
+```sh
+mkdocs serve -f config/[language]/mkdocs.yml`
+```
 
-3. To preview your changes, go to the root folder in your [Status Help clone](#1-fork-and-clone-this-repository) (by default, this is the `help.status.im` folder in your computer) and run the MkDocs live preview:
-
-    `mkdocs serve -f config/[language]/mkdocs.yml`
-
-    Where `[language]` corresponds to the language folder name in the Status Help repository.
-
-    > To preview your content correctly, remember to run `mkdocs serve` from the root folder in your [Status Help clone](#1-fork-and-clone-this-repository).
+Where `[language]` corresponds to the language folder name in the Status Help repository.
 
 ### About Material for MkDocs Insiders
 
@@ -98,25 +93,33 @@ To understand how a repository fork works, see [About forks](https://docs.github
 
 1. Using the terminal, go to the directory where you want to clone the Status documentation repository.
 1. Fork and clone the repository:
-    
-    `gh repo fork 'status-im/help.status.im' --remote --clone=true`
-    
+
+    ```sh
+    gh repo fork 'status-im/help.status.im' --remote --clone=true
+    ```
+
 ### 2. Create a topic branch and commit changes to your own branch
 
 1. Update your local `develop` branch with the latest changes from `upstream`:
-    
-    `git pull upstream develop --rebase --verbose`
 
-    `git push origin develop`
-    
+    ```sh
+    git pull upstream develop --rebase --verbose
+    ```
+
+    ```sh
+    git push origin develop
+    ```
+
 1. Using the `develop` branch, create a topic branch to include your changes
-    
-    `git checkout -b your-topic-branch-name develop`
-    
+
+    ```sh
+    git checkout -b your-topic-branch-name develop
+    ```
+
     > Use a descriptive name for your feature branch, separating words with dashes. If you know the issue number, include this in the branch name. Examples: `fix-typo-on-creating-status-communities`, `133-wrong-table-values`.
-    
+
 1. Using the editor of your choice, write the required changes.
-    
+
     > If you have doubts about how to write something, check the [Status style guide](https://help.status.im/style-guide/).
 
 ### 4. Test your changes
@@ -126,13 +129,17 @@ You can test your proposed changes using MkDocs live preview.
 1. [Install Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/) on your computer.
 1. Using the terminal, change to the site configuration directory for your language. For example, if you're changing content under the `doc/en` directory, go to the `config/en` in the `help.status.im` repository.
 1. Run the live preview server:
-    
-    `mkdocs serve`
-    
+
+    ```sh
+    mkdocs serve
+    ```
+
 1. The output of this command shows a URL with the IP address and port where the live preview server is running. Example:
-    
-    `INFO - [13:48:18] Serving on [http://127.0.0.1:8000/help/en/](http://127.0.0.1:8000/help/en/)`
-    
+
+    ```
+    INFO - [13:48:18] Serving on [http://127.0.0.1:8000/help/en/](http://127.0.0.1:8000/help/en/)
+    ```
+
 1. Open your browser and enter the URL.
 
 With the Mkdocs live preview server, you can preview your changes as you write your documentation. The server will automatically rebuild the site upon saving.
@@ -140,29 +147,39 @@ With the Mkdocs live preview server, you can preview your changes as you write y
 ### 5. Commit and push your work to your own fork
 
 1. Stage your changes:
-    
-    `git add --all`
-    
+
+    ```sh
+    git add --all
+    ```
+
 1. Commit your changes with a description of what's included:
-    
-    `git commit -m "description of your changes"`
-    
+
+    ```sh
+    git commit -m "description of your changes"
+    ```
+
 1. Set the `upstream` to push your changes:
-    
-    `git push --set-upstream origin your-topic-branch-name`
-    
+
+    ```sh
+    git push --set-upstream origin your-topic-branch-name
+    ```
+
 1. If you need to add more changes, you don't need to set the `upstream` branch again:
-    
-    `git push`
-    
+
+    ```sh
+    git push
+    ```
+
 ### 6. Submit your pull request
 
 1. Create a pull request with your proposed changes:
-    
-    `gh pr create --base develop --title "your pull request title"`
-    
+
+    ```sh
+    gh pr create --base develop --title "your pull request title"
+    ```
+
 1. If prompted for the base repository, select `status-im/help.status.im`:
-    
+
     ```bash
     ? Which should be the base repository (used for e.g. querying issues) for this directory?  [Use arrows to move, type to filter]
     > **status-im/help.status.im**
@@ -170,13 +187,13 @@ With the Mkdocs live preview server, you can preview your changes as you write y
     ```
 
 1. When asked for the **Body**, type `e` to launch the default terminal editor. Include a description of the proposed changes:
-    
+
     `? Body [(e) to launch nano, enter to skip]`
-    
+
     > You can also skip this step and add the pull request description using the GitHub webpage.
-    
+
 1. In the **What's next** question, select `Submit` to submit your pull request, or `Continue in browser` to finish your pull request in the GitHub website:
-    
+
     ```bash
     ? What's next?  [Use arrows to move, type to filter]
     > **Submit**
@@ -184,7 +201,7 @@ With the Mkdocs live preview server, you can preview your changes as you write y
       Add metadata
       Cancel
     ```
-    
+
 1. On the GitHub website, enable the checkbox to [allow maintainer edits](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork) for the pull request so the branch can be updated for a merge.
 1. If your pull request is related to an existing issue, [link the pull request to the issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#manually-linking-a-pull-request-to-an-issue) on the GitHub website.
 
