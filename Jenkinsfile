@@ -1,15 +1,19 @@
 pipeline {
   agent {
-    label 'linux'
+    /* Uses Dockerfile at repo root. */
+    dockerfile { label "linux" }
   }
 
   options {
-    disableConcurrentBuilds()
+    timestamps()
+    /* Prevent Jenkins jobs from running forever */
+    timeout(time: 10, unit: 'MINUTES')
     /* manage how many builds we keep */
     buildDiscarder(logRotator(
       numToKeepStr: '20',
       daysToKeepStr: '30',
     ))
+    disableConcurrentBuilds()
   }
 
   environment {
@@ -38,11 +42,10 @@ pipeline {
 
     stage('Build') {
       steps {
-        sh "python -m mkdocs build -f config/en/mkdocs.yml"
-        sh 'python -m mkdocs build -f config/style-guide/mkdocs.yml'
+        sh 'python3 -m mkdocs build -f config/en/mkdocs.yml'
+        sh 'python3 -m mkdocs build -f config/style-guide/mkdocs.yml'
         /* Temporary solution for lack of start page. */
         sh 'cp overrides/static/* generated/'
-        echo "${GIT_BRANCH}"
       }
     }
 
