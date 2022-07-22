@@ -9,6 +9,6 @@ RUN addgroup -g 1001 jenkins \
 
 # System dependencies for MkDocs.
 RUN apk add --no-cache \
-    git rsync openssh-client-default python3 py3-pip \
+    git rsync openssh-client-default python3 py3-pip py3-ghp-import \
     # Deps for Pillow library used by social cards.
     cairo freetype libffi-dev libjpeg libpng-dev zlib-dev
