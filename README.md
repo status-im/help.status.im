@@ -1,4 +1,4 @@
-# Status user documentation
+# Status apps user documentation
 
 ![Status Help illustration](./overrides/assets/images/status-help-image.png)
 

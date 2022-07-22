@@ -26,7 +26,7 @@ Status user documentation topics fall into one of these categories:
 - [Concept](#concept-help-me-to-understand): help me to understand
 - [Procedure](#procedure-help-me-do): help me to do
 - [Reference](#reference-help-me-remember): help me to remember
-- [Guide](#guide-help-me-to-do-multiple-related-tasks): help me to do multiple related tasks.
+- Guide: help me to do multiple related tasks.
 
     !!! note
         A guide consists of two or more procedures in a single document.
@@ -240,10 +240,6 @@ Examples:
 | Incorrect   | A description of the Status Wallet settings |
 | **Correct** | Community settings reference                |
 | Incorrect   | List of Community settings                  |
-
-## Guide: help me to do multiple related tasks
-
-[ToDo]
 
 <br>[:octicons-git-branch-24: Contribute to our docs][contributors-guide]{ .md-button }</br>
 

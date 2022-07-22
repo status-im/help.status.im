@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+  - toc
 ---
 
 <div class="grid cards" markdown>

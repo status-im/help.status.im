@@ -24,7 +24,7 @@ Refer to our [documentation contributor's guide][contributors-guide] to contribu
 
 -   [:triangular_ruler: Style guidelines][style-guidelines]
 -   [:construction_site: Structuring the content][structuring-the-content]
--   [:paintbrush: Style convention][style-conventions]
+-   [:paintbrush: Style conventions][style-conventions]
 
 <br>
 

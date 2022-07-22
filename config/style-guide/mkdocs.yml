@@ -28,15 +28,15 @@ theme:
     palette:
       - media: "(prefers-color-scheme: light)"
         scheme: default
-        primary: deep purple
-        accent: light blue
+        primary: grey
+        accent: deep orange
         toggle:
           icon: material/weather-night 
           name: Switch to dark mode
       - media: "(prefers-color-scheme: dark)"
         scheme: slate
-        primary: deep orange
-        accent: blue
+        primary: black
+        accent: deep orange
         toggle:
           icon: material/weather-sunny
           name: Switch to light mode

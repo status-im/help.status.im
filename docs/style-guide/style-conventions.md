@@ -8,7 +8,7 @@ hide:
 
 This article is a reference to the most common style elements and conventions in the Status technical documentation. The goal is to simplify the writer's workflow using unambiguous guidelines that are easy to remember and follow.
 
-You can find a *correct* and *incorrect* use examples for most of these style conventions. In many cases, the *incorrect* examples are valid and commonly used sentences in English. They're incorrect only in the context of this style guide and the Status technical documentation.
+You can find *correct* and *incorrect* use examples for most of these style conventions. In many cases, the *incorrect* examples are valid and commonly used sentences in English. They're incorrect only in the context of this style guide and the Status technical documentation.
 
 We prioritize simplicity over comprehensiveness. If you can't find a particular style convention, use the [Microsoft Style Guide :octicons-tab-external-16:][microsoft-style-guide]{:target="_blank"}. If you think a style convention is missing, [contribute :octicons-tab-external-16:][contributors-guide] to this topic.
 
