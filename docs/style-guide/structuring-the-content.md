@@ -57,7 +57,7 @@ Status documentation aims to guide users in completing tasks and exploring the d
 | "The basics" title | 6 | H3 | **Yes** | H3 title reads "The basics." |
 | "The basics" list | 7 | Unordered list | **Yes** | A list summarizing the article's main takeaways. |
 | Admonition | 8 | Admonition | No | General info, tips, or warnings about the topic. |
-| Explanation title | 9 | H2 | **Yes** |
+| Explanation title | 9 | H2 | **Yes** |  |
 | Explanation | 10 | Paragraph | **Yes** | One or more paragraphs describing the concept in detail. |
 | Explanation screenshot | 11 | PNG / GIF | No | One or more screenshots providing context for the reader. |
 | Explanation admonition | 12 | Admonition | No | Notes, tips, or warnings about the content. |
@@ -101,7 +101,7 @@ A procedure describes how to complete an action using a series of steps. Procedu
 
 | Element | # | Style | Required | Notes |
 | --- | --- | --- | --- | --- |
-| Title | 1 | H1 | **Yes** |
+| Title | 1 | H1 | **Yes** |  |
 | Screenshot | 2 | PNG / GIF | No | The screenshot shows the area in the app where the discussion or action takes place.</br>Reference-only topics (tables) don't require this screenshot. |
 | Admonition | 3 | Admonition | No | This admonition is exclusively to alert readers about the feature availability.</br>For example, a feature is only available to specific application roles or available after completing another task. |
 | Introduction | 4 | Paragraph | **Yes** | A brief discussion of the functionality and its relationship with other functionalities.</br>The introduction answers the "what is this" |
@@ -114,9 +114,9 @@ A procedure describes how to complete an action using a series of steps. Procedu
 | Task steps | 11 | Ordered list | **Yes** | Procedural description.</br>Tasks and subtasks answer "how to use it." |
 | Task screenshot | 12 | PNG / GIF | No | The screenshot goes after the last step in the procedure. |
 | Task admonition | 13 | Admonition | No | Info, tips, or warnings about the task. |
-| Subtask title | 14 | H3 | No |
+| Subtask title | 14 | H3 | No |  |
 | Subtask steps (*) | 15 | Ordered list | No | Procedural description.</br>Tasks and subtasks answer "how to use it." |
-| Subtask screenshot | 16 | PNG / GIF | No |
+| Subtask screenshot | 16 | PNG / GIF | No |  |
 | Subtask admonition | 17 | Admonition | No | Info, tips, or warnings about the task. |
 | Common questions title | 18 | H2 | No | H2 title reads "Common questions". |
 | Common question subtitle | 19 | H3 | No | Common question subtitle. |
@@ -175,7 +175,7 @@ A procedure describes how to complete an action using a series of steps. Procedu
 - Use one step for each user action. It's OK to combine simple actions into a single step.
 - Limit the procedure to a maximum of six steps. If you need more steps to explain the task, create a subtask (see [Procedure structure](#procedure-structure)).
 - Don't use sublists inside lists; instead, use a new list on a subtask.
-- Use periods at the end of each step (check the [Punctuation](./style-conventions.md#punctuation) section for more information).
+- Use a period at the end of each step (check the [Punctuation](./style-conventions.md#punctuation) section for more information).
 - When the action occurs in a specific menu or area in the user interface, write the location before the action.
 
     | Usage       | Example                                                |
