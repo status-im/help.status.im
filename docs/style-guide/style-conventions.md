@@ -115,6 +115,7 @@ We prioritize simplicity over comprehensiveness. If you can't find a particular 
     | **Correct** | You can access your messages only after 30 days. |
     | Incorrect   | You can only access your messages after 30 days. |
 
+- In the first paragraph after a heading, avoid repeating the title information. For example, if the heading title is "Search for a contact using the Status display name," don't start the first paragraph with "To search for a contact using the Status display name [...]"
 - Lookup for instances of the *which* word on your text; it's possible you can replace them with *that*. For more information about the differences between *which* and *that*, check this [Grammarly :octicons-tab-external-16:][grammarly-which-vs-that]{:target="_blank"} article.
 
 ## Punctuation
@@ -156,11 +157,19 @@ We prioritize simplicity over comprehensiveness. If you can't find a particular 
     | Incorrect | You can find trusted, verified, pending verification, and blocked contacts on your contact list. |
 
 - Use a colon (:) before the bullet list items.
+- For [punctuation](#punctuation), use periods at the end of each sentence in a bullet list.
 - Punctuation on a bullet list can be tricky. Use the following guidelines:
     - When the list items are complete sentences, use a period at the end of each sentence.
     - Don't use a period when the list items are not complete sentences or sentences with three words or less.
     - In a list with elements of more and less than three words mixed, don't use a period.
-- When you describe each element on a list, consider [using a table](#tables) instead.
+- When you need to describe each element on a list, consider [using a table](#tables) instead.
+- Don't use a bullet list for actions that users should complete orderly, use a [numbered list](#numbered-lists) in a [procedure](./structuring-the-content.md#procedure-help-me-to-do).
+
+## Numbered lists
+
+When reading instructions, users understand numbered lists as actions to complete orderly. Because of this, limit the numbered lists to procedural instructions in [procedure-type](./structuring-the-content.md#procedure-help-me-to-do) topics.
+
+If you must use a numbered list outside of a procedure, use the same rules described for [bullet lists](#bullet-lists).
 
 ## Tables
 
@@ -185,6 +194,17 @@ Tables provide a simple way to summarize information. Use a table instead of [bu
     | Item 2 | Item 2 description |
     | Item 3 | Item 3 description |
     | Item 4 | Item 4 description |
+
+You can also use tables to compare the available options across different elements. For example, you may want to compare the available features in the Status apps (desktop, mobile, and web) using a table like this one:
+
+| Features  | Desktop             | Mobile              | Web                 |
+|:----------|:--------------------|:--------------------|:--------------------|
+| Feature A | :octicons-check-16: | :octicons-check-16: |                     |
+| Feature B | :octicons-check-16: |                     |                     |
+| Feature C |                     | :octicons-check-16: | :octicons-check-16: |
+| Feature D |                     |                     | :octicons-check-16: |
+
+Remember that users may access the information using a smartphone. Therefore, if your table contains a lot of information or more than three or four columns, consider organizing it differently or using more than one table.
 
 ## Numbers, date and time, currencies, and units of measure
 
@@ -251,6 +271,13 @@ Use links to other articles in the Status documentation, but don't abuse links. 
 - [Don't use links in procedural steps](./structuring-the-content.md#writing-tasks), except when you link to a subtask in the same article.
 - In the user documentation, don't use anchor links and don't link to anchor links either (this writing style guide uses anchor links intentionally.)
 - In general, write the link without using the URL. If you must use the URL, omit the `https://` and the `www` parts of the URL (if the website allows this).
+- Don't hide the linked content using the words _here_ or _this_. Instead, write out the content you link.
+
+    | Usage         | Example                                                                 |
+    |:--------------|:------------------------------------------------------------------------|
+    | **Correct**   | To learn more about tokens, check the *Understad Status tokens* article |
+    | **Incorrect** | To learn more about tokens, check *this* article                        |
+
 - For links outside of the Status documentation site, use the `:octicons-tab-external-16:` icon (part of the [Material for MkDocs icons bundle :octicons-tab-external-16:][material-mkdocs-icons]) at the end of the link description.
 
     | Usage | Example |
@@ -276,10 +303,10 @@ Use links to other articles in the Status documentation, but don't abuse links. 
 - Write the UI element as seen on the screen, even if it contradicts the style conventions in this guide.
 - Use a bold typeface to write UI elements in procedural steps (1, 2, 3, and so on.) Don't use the bold typeface outside of the procedural steps.
 
-| Usage | Example |
-|:---|:---|
-| **Correct** | You can use the Share action to send pictures or documents:</br>1. Tap **Messages**.</br>2. Tap the picture and tap **Share**. |
-| Incorrect | You can use the **Share** action to send pictures or documents:</br>1. Tap on the **Messages** button.</br>2. Choose the picture and tap **Share**. |
+    | Usage | Example |
+    |:---|:---|
+    | **Correct** | You can use the Share action to send pictures or documents:</br>1. Tap **Messages**.</br>2. Tap the picture and tap **Share**. |
+    | Incorrect | You can use the **Share** action to send pictures or documents:</br>1. Tap on the **Messages** button.</br>2. Choose the picture and tap **Share**. |
 
 - Don't write the UI control's type (button, drop-down menu, radio button, etc.), except when it isn't clear you're referring to the UI control. The exceptions to this rule are *pop-up menu* and *check the [...] box.*
 
