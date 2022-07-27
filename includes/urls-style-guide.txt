@@ -7,11 +7,12 @@
 [contributors-guide]: https://github.com/status-im/help.status.im/blob/master/CONTRIBUTING.md
 [DITA]: https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture
 [status-github-user-doc-repo]: https://github.com/status-im/help.status.im
-[grammarly-compound-possesive]: https://www.grammarly.com/blog/possessive-case/
+[grammarly-compound-possessive]: https://www.grammarly.com/blog/possessive-case/
 [grammarly-which-vs-that]: https://www.grammarly.com/blog/which-vs-that/
 [ISO4217]: https://en.wikipedia.org/wiki/ISO_4217
 [material-mkdocs-icons]: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
 [microsoft-style-guide]: https://docs.microsoft.com/en-us/style-guide/welcome/
+[status-help]: https://help.status.im/
 [wikipedia-common-currencies]: https://en.wikipedia.org/wiki/Template:Most_traded_currencies
 [wikipedia-metric-system]: https://en.wikipedia.org/wiki/Metric_system
 [wikipedia-noun-phrases]: https://en.wikipedia.org/wiki/Noun_phrase

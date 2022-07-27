@@ -50,7 +50,7 @@ theme:
       admonition:
         # note: fontawesome/solid/note-sticky
         info: fontawesome/solid/circle-info
-        tip: fontawesome/solid/bullhorn
+        tip: fontawesome/solid/wand-magic-sparkles
         # success: fontawesome/solid/circle-check
         # question: fontawesome/solid/question-circle
         warning: fontawesome/solid/triangle-exclamation
