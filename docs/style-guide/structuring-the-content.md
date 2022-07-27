@@ -49,7 +49,7 @@ Status documentation aims to guide users in completing tasks and exploring the d
 
 | Element | # | Style | Required | Notes |
 |:--|:--|:--|:--|:--|
-| Title | 1 | H1 | **Yes** |  |
+| Title | 1 | H1 | **Yes** |
 | Screenshot | 2 | PNG / GIF | No | The screenshot shows the area in the app related to the concept. |
 | Admonition | 3 | Admonition | No | This admonition is exclusively to alert readers about the feature availability.</br>For example, a feature is only available to specific application role or available after completing another task. |
 | Introduction | 4 | Paragraph | **Yes** | A brief discussion of the concept. |
@@ -57,7 +57,7 @@ Status documentation aims to guide users in completing tasks and exploring the d
 | "The basics" title | 6 | H3 | **Yes** | H3 title reads "The basics." |
 | "The basics" list | 7 | Unordered list | **Yes** | A list summarizing the article's main takeaways. |
 | Admonition | 8 | Admonition | No | General info, tips, or warnings about the topic. |
-| Explanation title | 9 | H2 | **Yes** |  |
+| Explanation title | 9 | H2 | **Yes** |
 | Explanation | 10 | Paragraph | **Yes** | One or more paragraphs describing the concept in detail. |
 | Explanation screenshot | 11 | PNG / GIF | No | One or more screenshots providing context for the reader. |
 | Explanation admonition | 12 | Admonition | No | Notes, tips, or warnings about the content. |
@@ -101,7 +101,7 @@ A procedure describes how to complete an action using a series of steps. Procedu
 
 | Element | # | Style | Required | Notes |
 | --- | --- | --- | --- | --- |
-| Title | 1 | H1 | **Yes** |  |
+| Title | 1 | H1 | **Yes** |
 | Screenshot | 2 | PNG / GIF | No | The screenshot shows the area in the app where the discussion or action takes place.</br>Reference-only topics (tables) don't require this screenshot. |
 | Admonition | 3 | Admonition | No | This admonition is exclusively to alert readers about the feature availability.</br>For example, a feature is only available to specific application roles or available after completing another task. |
 | Introduction | 4 | Paragraph | **Yes** | A brief discussion of the functionality and its relationship with other functionalities.</br>The introduction answers the "what is this" |
@@ -109,14 +109,14 @@ A procedure describes how to complete an action using a series of steps. Procedu
 | "What to expect" title | 6 | H3 | No | H3 title reads "What to expect." |
 | "What to expect" list | 7 | Unordered list | No | List the expected results after completing the task. |
 | Admonition | 8 | Admonition | No | General notes, tips, or warnings about the task. |
-| Tasks title | 9 | H2 | **Yes** |  |
+| Tasks title | 9 | H2 | **Yes** |
 | Task introduction | 10 | Paragraph | No | A short sentence describing prerequisites or things to consider before the task. |
 | Task steps | 11 | Ordered list | **Yes** | Procedural description.</br>Tasks and subtasks answer "how to use it." |
 | Task screenshot | 12 | PNG / GIF | No | The screenshot goes after the last step in the procedure. |
 | Task admonition | 13 | Admonition | No | Info, tips, or warnings about the task. |
-| Subtask title | 14 | H3 | No |  |
+| Subtask title | 14 | H3 | No |
 | Subtask steps (*) | 15 | Ordered list | No | Procedural description.</br>Tasks and subtasks answer "how to use it." |
-| Subtask screenshot | 16 | PNG / GIF | No |  |
+| Subtask screenshot | 16 | PNG / GIF | No |
 | Subtask admonition | 17 | Admonition | No | Info, tips, or warnings about the task. |
 | Common questions title | 18 | H2 | No | H2 title reads "Common questions". |
 | Common question subtitle | 19 | H3 | No | Common question subtitle. |
@@ -129,12 +129,12 @@ A procedure describes how to complete an action using a series of steps. Procedu
 - Focus on the result, not on the task.
 - Start the title with an action verb in the imperative form. Don't use the *-ing* form of the verb.
 
-|  | Usage       | Example                              |
-|--|:------------|:-------------------------------------|
-|  | **Correct** | Delete a group chat conversation     |
-|  | Incorrect   | Deleting a group chat conversation   |
-|  | **Correct** | Add new members to your Community    |
-|  | Incorrect   | Adding new members to your Community |
+    | Usage       | Example                              |
+    |:------------|:-------------------------------------|
+    | **Correct** | Delete a group chat conversation     |
+    | Incorrect   | Deleting a group chat conversation   |
+    | **Correct** | Add new members to your Community    |
+    | Incorrect   | Adding new members to your Community |
 
 - A title should contain the name of the action and *how* or *where* the action occurs. Avoid using titles with one or two words.
 
@@ -157,6 +157,7 @@ A procedure describes how to complete an action using a series of steps. Procedu
 
 ### **Writing tasks**
 
+- If you introduce the task with a sentence (this is optional; see [Procedure structure](#procedure-structure)), don't repeat the title information. For example, if the task title is "Search for a contact using the Status display name," don't introduce the task with "To search for a contact using the Status display name [...]"
 - On the first step, tell the user where to start.
 - Follow the [UI elements guidelines](./style-conventions.md#ui-elements) to describe the user interactions.
 
@@ -174,6 +175,7 @@ A procedure describes how to complete an action using a series of steps. Procedu
 - Use one step for each user action. It's OK to combine simple actions into a single step.
 - Limit the procedure to a maximum of six steps. If you need more steps to explain the task, create a subtask (see [Procedure structure](#procedure-structure)).
 - Don't use sublists inside lists; instead, use a new list on a subtask.
+- Use periods at the end of each step (check the [Punctuation](./style-conventions.md#punctuation) section for more information).
 - When the action occurs in a specific menu or area in the user interface, write the location before the action.
 
     | Usage       | Example                                                |
@@ -211,11 +213,11 @@ Because of its nature, reference topics are mostly based on lists and tables.
 
 | Element | # | Style | Required | Notes |
 |:--|:--|:--|:--|:--|
-| Title | 1 | H1 | **Yes** |  |
+| Title | 1 | H1 | **Yes** |
 | Admonition | 2 | Admonition | No | This admonition is exclusively to alert readers about the feature availability.</br>For example, a setting is only available to specific application roles or available after completing a task. |
 | Introduction | 3 | Paragraph | **Yes** | A brief discussion of the topic. |
 | Admonition | 4 | Admonition | No | General notes, tips, or warnings about the topic. |
-| Reference title | 5 | H2 | **Yes** |  |
+| Reference title | 5 | H2 | **Yes** |
 | Explanation | 6 | Paragraph | **Yes** | One or more paragraphs describing the reference. |
 | Reference table or list | 7 | Table / list | **Yes** | A table or bullet list with the relevant information.</br>This can also be included after the reference subtitle. |
 | Reference admonition | 8 | Admonition | No | Notes, tips, or warnings about the reference. |
