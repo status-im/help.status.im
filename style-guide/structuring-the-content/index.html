@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Status style guide">
+        <meta name="description" content="Status writing style guide">
       
       
         <meta name="author" content="Status Research & Development GmbH">
@@ -22,7 +22,7 @@
     
     
       
-        <title>Structuring the content - Status Writing Style Guide</title>
+        <title>Structuring the content - Status writing style guide</title>
       
     
     
@@ -45,7 +45,7 @@
     
   
   
-  <style>:root{--md-admonition-icon--info:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256 256-114.6 256-256S397.4 0 256 0zm0 128c17.67 0 32 14.33 32 32s-14.33 32-32 32-32-14.3-32-32 14.3-32 32-32zm40 256h-80c-13.2 0-24-10.7-24-24s10.75-24 24-24h16v-64h-8c-13.25 0-24-10.75-24-24s10.8-24 24-24h32c13.25 0 24 10.75 24 24v88h16c13.25 0 24 10.75 24 24s-10.7 24-24 24z"/></svg>');--md-admonition-icon--tip:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M480 179.6c18.6 8.8 32 32.5 32 60.4s-13.4 51.6-32 60.4V448c0 12.9-7.8 24.6-19.8 29.6-11.9 4.9-25.7 2.2-34.8-7l-43.7-44.5c-48-48-113.1-74.1-181-74.1H192v128c0 17.7-14.3 32-32 32H96c-17.67 0-32-14.3-32-32V352c-35.35 0-64-28.7-64-64v-96c0-35.3 28.65-64 64-64h136.7c67.9 0 133-27 181-74.98l43.7-43.647c9.1-9.151 22.9-11.889 34.8-6.936C472.2 7.39 480 19.06 480 32v147.6zM200.7 192H192v96h8.7c79.8 0 156.5 29.8 215.3 83.3V108.7C357.2 162.2 280.5 192 200.7 192z"/></svg>');--md-admonition-icon--warning:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M506.3 417 293 53c-16.33-28-57.54-28-73.98 0L5.82 417c-16.41 27.9 4.029 63 36.92 63h426.6c32.76 0 53.26-35 36.96-63zM232 168c0-13.25 10.75-24 24-24s24 10.8 24 24v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zm24 248c-17.36 0-31.44-14.08-31.44-31.44s14.07-31.44 31.44-31.44 31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>');}</style>
+  <style>:root{--md-admonition-icon--info:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256 256-114.6 256-256S397.4 0 256 0zm0 128c17.67 0 32 14.33 32 32s-14.33 32-32 32-32-14.3-32-32 14.3-32 32-32zm40 256h-80c-13.2 0-24-10.7-24-24s10.75-24 24-24h16v-64h-8c-13.25 0-24-10.75-24-24s10.8-24 24-24h32c13.25 0 24 10.75 24 24v88h16c13.25 0 24 10.75 24 24s-10.7 24-24 24z"/></svg>');--md-admonition-icon--tip:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M248.8 4.994C249.9 1.99 252.8 0 256 0s6.1 1.99 7.2 4.994l14.1 37.676L315 56.79c3 1.13 5 4 5 7.21s-2 6.08-5 7.21l-37.7 14.12L263.2 123c-1.1 3-4 5-7.2 5s-6.1-2-7.2-5l-14.1-37.67-38.6-14.12c-3-1.13-4.1-4-4.1-7.21s1.1-6.08 4.1-7.21l38.6-14.12 14.1-37.676zm178.6 9.066c18.8-18.746 49.2-18.746 67.9 0l34.6 34.58c18.7 18.74 18.7 49.14 0 67.86L148.5 497.9c-18.7 18.7-49.12 18.7-67.86 0l-34.58-34.6c-18.75-18.7-18.75-49.1 0-67.9L427.4 14.06zm34 45.25L356.3 164.3l23.3 23.3 105-105.02-23.2-23.27zM7.491 117.2 64 96l21.19-56.51C86.88 34.98 91.19 32 96 32c4.8 0 9.1 2.98 10.8 7.49L128 96l56.5 21.2c4.5 1.7 7.5 6 7.5 10.8 0 4.8-3 9.1-7.5 10.8L128 160l-21.2 56.5c-1.7 4.5-6 7.5-10.8 7.5-4.81 0-9.12-3-10.81-7.5L64 160 7.491 138.8C2.985 137.1 0 132.8 0 128c0-4.8 2.985-9.1 7.491-10.8zm352.009 256L416 352l21.2-56.5c1.7-5.4 6-7.5 10.8-7.5 4.8 0 9.1 2.1 10.8 7.5L480 352l56.5 21.2c4.5 1.7 7.5 6 7.5 10.8 0 4.8-3 9.1-7.5 10.8L480 416l-21.2 56.5c-1.7 4.5-6 7.5-10.8 7.5-4.8 0-9.1-3-10.8-7.5L416 416l-56.5-21.2c-5.4-1.7-7.5-6-7.5-10.8 0-4.8 2.1-9.1 7.5-10.8z"/></svg>');--md-admonition-icon--warning:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M506.3 417 293 53c-16.33-28-57.54-28-73.98 0L5.82 417c-16.41 27.9 4.029 63 36.92 63h426.6c32.76 0 53.26-35 36.96-63zM232 168c0-13.25 10.75-24 24-24s24 10.8 24 24v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zm24 248c-17.36 0-31.44-14.08-31.44-31.44s14.07-31.44 31.44-31.44 31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>');}</style>
 
 
     
@@ -114,7 +114,7 @@
 
 <header class="md-header md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href=".." title="Status Writing Style Guide" class="md-header__button md-logo" aria-label="Status Writing Style Guide" data-md-component="logo">
+    <a href=".." title="Status writing style guide" class="md-header__button md-logo" aria-label="Status writing style guide" data-md-component="logo">
       
   <img src="../assets/images/status-logo-320x320.png" alt="logo">
 
@@ -126,7 +126,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            Status Writing Style Guide
+            Status writing style guide
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -152,7 +152,7 @@
         
           
           
-          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="deep-orange"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="grey" data-md-color-accent="deep-orange"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
           
             <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22Z"/></svg>
@@ -320,12 +320,12 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href=".." title="Status Writing Style Guide" class="md-nav__button md-logo" aria-label="Status Writing Style Guide" data-md-component="logo">
+    <a href=".." title="Status writing style guide" class="md-nav__button md-logo" aria-label="Status writing style guide" data-md-component="logo">
       
   <img src="../assets/images/status-logo-320x320.png" alt="logo">
 
     </a>
-    Status Writing Style Guide
+    Status writing style guide
   </label>
   
     <div class="md-nav__source">
@@ -500,13 +500,13 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#procedure-help-me-do" class="md-nav__link">
+  <a href="#procedure-help-me-to-do" class="md-nav__link">
     <span class="md-ellipsis">
-      Procedure: help me do
+      Procedure: help me to do
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Procedure: help me do">
+    <nav class="md-nav" aria-label="Procedure: help me to do">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -542,13 +542,13 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#reference-help-me-remember" class="md-nav__link">
+  <a href="#reference-help-me-to-remember" class="md-nav__link">
     <span class="md-ellipsis">
-      Reference: help me remember
+      Reference: help me to remember
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Reference: help me remember">
+    <nav class="md-nav" aria-label="Reference: help me to remember">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -693,13 +693,13 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#procedure-help-me-do" class="md-nav__link">
+  <a href="#procedure-help-me-to-do" class="md-nav__link">
     <span class="md-ellipsis">
-      Procedure: help me do
+      Procedure: help me to do
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Procedure: help me do">
+    <nav class="md-nav" aria-label="Procedure: help me to do">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -735,13 +735,13 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#reference-help-me-remember" class="md-nav__link">
+  <a href="#reference-help-me-to-remember" class="md-nav__link">
     <span class="md-ellipsis">
-      Reference: help me remember
+      Reference: help me to remember
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Reference: help me remember">
+    <nav class="md-nav" aria-label="Reference: help me to remember">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -787,27 +787,23 @@
 
 <h1 id="structuring-the-content">Structuring the content<a class="headerlink" href="#structuring-the-content" title="Permanent link">&para;</a></h1>
 <p>This document provides guidelines to create easy-to-read and follow topics for the Status user documentation.</p>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>This document is a work in progress!</p>
-</div>
 <h2 id="guidelines">Guidelines<a class="headerlink" href="#guidelines" title="Permanent link">&para;</a></h2>
 <ul>
-<li>Keep it short. Articles between 300-400 words are easy to read and support the user's workflow. Shorter articles are OK, but articles beyond 500 words are not. If necessary, split the information into different articles.</li>
-<li>Each paragraph has a single purpose and describes a single concept. Avoid mixing concepts in the same paragraph or repeating the same information in different sections.</li>
+<li>Keep it short. Articles between 300-400 words are easy to read and support the user's workflow. Shorter articles are OK, but articles beyond 500 words are not. If necessary, organize the information into different articles.</li>
+<li>Each paragraph has a single purpose and describes a single concept. Avoid mixing concepts in the same paragraph or repeating the same information in different paragraphs.</li>
 <li>When there is more than one way to do something or describe something, use the most straightforward way only. Don't discuss all the possible ways.</li>
-<li>Use admonitions selectively and strategically. Documents with multiple admonitions are harder to read. Add the information as a regular sentence if you use more than three admonitions in your document.</li>
+<li>Use <a href="../style-conventions/#admonitions-callouts">admonitions</a> selectively and strategically. Documents with multiple admonitions are harder to read. Add the information as a regular sentence or paragraph if you use more than three admonitions in a single document.</li>
 </ul>
 <h2 id="types-of-documents">Types of documents<a class="headerlink" href="#types-of-documents" title="Permanent link">&para;</a></h2>
 <p>Status user documentation topics fall into one of these categories:</p>
 <ul>
-<li><a href="#concept-help-me-to-understand">Concept</a>: help me to understand</li>
-<li><a href="#procedure-help-me-do">Procedure</a>: help me to do</li>
-<li><a href="#reference-help-me-remember">Reference</a>: help me to remember</li>
+<li><a href="#concept-help-me-to-understand">Concept</a>: help me to understand.</li>
+<li><a href="#procedure-help-me-to-do">Procedure</a>: help me to do.</li>
+<li><a href="#reference-help-me-to-remember">Reference</a>: help me to remember.</li>
 <li>
 <p>Guide: help me to do multiple related tasks.</p>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
 <p>A guide consists of two or more procedures in a single document.</p>
 </div>
 </li>
@@ -815,12 +811,16 @@
 <p><img alt="Categories of topics in the Status documentation" src="12-3-1-light.png#only-light" />
 <img alt="Categories of topics in the Status documentation" src="12-3-1-dark.png#only-dark" /></p>
 <h2 id="concept-help-me-to-understand">Concept: help me to understand<a class="headerlink" href="#concept-help-me-to-understand" title="Permanent link">&para;</a></h2>
-<p>Concept articles describe a product's functionality. They complete procedures and provide non-procedural information.</p>
-<p>A user minting an NFT, for example, may not be interested in understanding the interactions with the Ethereum blockchain. For this user, explaining how to mint an NFT is sufficient. Others, however, may wish to understand this process in more detail, so a concept article on minting NFTs satisfies their curiosity.</p>
-<p>Status documentation aims to guide users in completing tasks and motivate them to explore the different features and functionalities. Therefore, concepts topics are not as common as procedural topics.</p>
+<p>Concept articles describe a product's functionality. They complement procedures and provide non-procedural information.</p>
+<p>For example, a user minting an NFT may not be interested in understanding the interactions with the Ethereum blockchain. For this user, a procedure explaining how to mint an NFT is sufficient. Others, however, may wish to understand this process in more detail, so a concept article on minting NFTs satisfies their curiosity.</p>
+<p>Status documentation aims to guide users in completing tasks and exploring the different app features and functionalities. Therefore, concept topics are not as common as procedural topics.</p>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
 <p>A list of frequently asked questions (FAQs) falls under the concept category.</p>
+</div>
 <h3 id="concept-structure">Concept structure<a class="headerlink" href="#concept-structure" title="Permanent link">&para;</a></h3>
-<p><img alt="Layout of the concept type topic" src="12-4-2.png" /></p>
+<p><img alt="Layout of the concept type topic" src="12-4-2-light.png#only-light" />
+<img alt="Layout of the concept type topic" src="12-4-2-dark.png#only-dark" /></p>
 <table>
 <thead>
 <tr>
@@ -878,7 +878,7 @@
 <td style="text-align: left;">"The basics" list</td>
 <td style="text-align: left;">7</td>
 <td style="text-align: left;">Unordered list</td>
-<td style="text-align: left;">Yes</td>
+<td style="text-align: left;"><strong>Yes</strong></td>
 <td style="text-align: left;">A list summarizing the article's main takeaways.</td>
 </tr>
 <tr>
@@ -886,7 +886,7 @@
 <td style="text-align: left;">8</td>
 <td style="text-align: left;">Admonition</td>
 <td style="text-align: left;">No</td>
-<td style="text-align: left;">General notes, tips, or warnings about the topic.</td>
+<td style="text-align: left;">General info, tips, or warnings about the topic.</td>
 </tr>
 <tr>
 <td style="text-align: left;">Explanation title</td>
@@ -900,7 +900,7 @@
 <td style="text-align: left;">10</td>
 <td style="text-align: left;">Paragraph</td>
 <td style="text-align: left;"><strong>Yes</strong></td>
-<td style="text-align: left;">One or more paragraphs describing the concept in detail</td>
+<td style="text-align: left;">One or more paragraphs describing the concept in detail.</td>
 </tr>
 <tr>
 <td style="text-align: left;">Explanation screenshot</td>
@@ -914,21 +914,21 @@
 <td style="text-align: left;">12</td>
 <td style="text-align: left;">Admonition</td>
 <td style="text-align: left;">No</td>
-<td style="text-align: left;">Notes, tips, or warnings about the topic.</td>
+<td style="text-align: left;">Notes, tips, or warnings about the content.</td>
 </tr>
 <tr>
 <td style="text-align: left;">Explanation subtitle</td>
 <td style="text-align: left;">13</td>
 <td style="text-align: left;">H3</td>
 <td style="text-align: left;">No</td>
-<td style="text-align: left;">When the main explanation requires a longer description, split the information into different subtitles</td>
+<td style="text-align: left;">When the main explanation requires a longer description, group the information into different subtitles.</td>
 </tr>
 <tr>
-<td style="text-align: left;">Subtitle screenshot</td>
+<td style="text-align: left;">Subtitle paragraph</td>
 <td style="text-align: left;">14</td>
-<td style="text-align: left;">PNG / GIF</td>
+<td style="text-align: left;">Paragraph</td>
 <td style="text-align: left;">No</td>
-<td style="text-align: left;">One or more screenshots providing context for the reader.</td>
+<td style="text-align: left;">One or more paragraphs describing the concept.</td>
 </tr>
 <tr>
 <td style="text-align: left;">Subtitle admonition</td>
@@ -954,19 +954,19 @@
 <tbody>
 <tr>
 <td style="text-align: left;"><strong>Correct</strong></td>
-<td style="text-align: left;">Guide to communities administration</td>
+<td style="text-align: left;">Guide to Communities administration</td>
 </tr>
 <tr>
 <td style="text-align: left;">Incorrect</td>
-<td style="text-align: left;">Manage your Status community</td>
+<td style="text-align: left;">Manage your Status Community</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Correct</strong></td>
-<td style="text-align: left;">Understand your Status community statistics</td>
+<td style="text-align: left;">Understand your Status Community metrics</td>
 </tr>
 <tr>
 <td style="text-align: left;">Incorrect</td>
-<td style="text-align: left;">Understanding your Status community statistics</td>
+<td style="text-align: left;">Understanding your Status Community metrics</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Correct</strong></td>
@@ -987,17 +987,18 @@
 </tbody>
 </table>
 <h3 id="writing-concepts">Writing concepts<a class="headerlink" href="#writing-concepts" title="Permanent link">&para;</a></h3>
-<p>Use the <a href="../style-conventions/">Style conventions</a> in this style guide to writing your concepts. Check out some of the concepts in the Status Help website to get a better sense of how to create content.</p>
-<h2 id="procedure-help-me-do">Procedure: help me do<a class="headerlink" href="#procedure-help-me-do" title="Permanent link">&para;</a></h2>
-<p>A procedure describes how to complete an action using a series of steps. Procedures help users to use and discover the Status app and are the core of our documentation. These are the main characteristics of procedures in Status documentation:</p>
+<p>Use the <a href="#concept-structure">Concept structure</a> and the <a href="../style-conventions/">Style conventions</a> in this style guide to write your concepts. Check out some of the topics on the <a href="https://help.status.im/" target="_blank">Status Help website <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M3.25 4a.25.25 0 0 0-.25.25v9a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h.75V4.25c0-.966.784-1.75 1.75-1.75h9.5c.966 0 1.75.784 1.75 1.75v8.25h.75a.75.75 0 0 1 0 1.5h-1.5a.75.75 0 0 1-.75-.75v-9a.25.25 0 0 0-.25-.25h-9.5z"/><path d="m7.97 7.97-2.75 2.75a.75.75 0 1 0 1.06 1.06l2.75-2.75 1.543 1.543a.25.25 0 0 0 .427-.177V6.25a.25.25 0 0 0-.25-.25H6.604a.25.25 0 0 0-.177.427L7.97 7.97z"/></svg></span></a> to better understand how to create content.</p>
+<h2 id="procedure-help-me-to-do">Procedure: help me to do<a class="headerlink" href="#procedure-help-me-to-do" title="Permanent link">&para;</a></h2>
+<p>A procedure describes how to complete an action using a series of steps. Procedures help users use and discover the Status app and are the core of our user documentation. These are the main characteristics of procedures in Status user documentation:</p>
 <ul>
-<li>Procedures are split into two different parts. The first part (on top) includes reference (non-procedural) information, while the second part includes procedural information.</li>
+<li>Two parts make up the procedure. The first part includes reference (non-procedural) information, while the second part includes procedural information.</li>
 <li>Non-procedural descriptions must be short and to the point. If the functionality requires further discussion, use an additional <a href="#concept-help-me-to-understand">concept article</a>.</li>
-<li>A procedure explains a single task and, if necessary, additional subtasks. If the task is complex, consider splitting it into different procedures and, optionally group them into a <a href="#guide-help-me-to-do-multiple-related-tasks">guide</a>.</li>
-<li>For tasks that may cause an error (like, for example, changing a password, choosing a user name, or sending crypto) consider adding a <em>Common questions</em> section at the end of the article, with answers to the most common issues. If the list of possible errors for a specific task is too long, use a <a href="#concept-help-me-to-understand">FAQ</a> (concept) article instead.</li>
+<li>A procedure explains a single task and, if necessary, additional subtasks. If the task is complex, consider splitting it into different procedures or group them into a <a href="#guide-help-me-to-do-multiple-related-tasks">guide</a>.</li>
+<li>For tasks that may cause an error (for example, changing a password, choosing a user name, or sending crypto), consider adding a <em>Common questions</em> section at the end of the article, with answers to the most common issues. If the list of possible errors for a specific task is too long, use a <a href="#concept-help-me-to-understand">FAQ</a> (concept) article instead.</li>
 </ul>
 <h3 id="procedure-structure">Procedure structure<a class="headerlink" href="#procedure-structure" title="Permanent link">&para;</a></h3>
-<p><img alt="Layout of the procedure type topic" src="12-4-4.png" /></p>
+<p><img alt="Layout of the procedure type topic" src="12-4-4-light.png#only-light" />
+<img alt="Layout of the procedure type topic" src="12-4-4-dark.png#only-dark" /></p>
 <table>
 <thead>
 <tr>
@@ -1013,7 +1014,7 @@
 <td>Title</td>
 <td>1</td>
 <td>H1</td>
-<td>Yes</td>
+<td><strong>Yes</strong></td>
 <td></td>
 </tr>
 <tr>
@@ -1056,7 +1057,7 @@
 <td>7</td>
 <td>Unordered list</td>
 <td>No</td>
-<td>A paragraph explaining what will happen after completing the task.</td>
+<td>List the expected results after completing the task.</td>
 </tr>
 <tr>
 <td>Admonition</td>
@@ -1098,7 +1099,7 @@
 <td>13</td>
 <td>Admonition</td>
 <td>No</td>
-<td>Notes, tips, or warnings about the task.</td>
+<td>Info, tips, or warnings about the task.</td>
 </tr>
 <tr>
 <td>Subtask title</td>
@@ -1108,14 +1109,7 @@
 <td></td>
 </tr>
 <tr>
-<td>~~Subtask introduction~~</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Subtasks don't include an introduction sentence.</td>
-</tr>
-<tr>
-<td>Subtask steps</td>
+<td>Subtask steps (*)</td>
 <td>15</td>
 <td>Ordered list</td>
 <td>No</td>
@@ -1133,7 +1127,7 @@
 <td>17</td>
 <td>Admonition</td>
 <td>No</td>
-<td>Notes, tips, or warnings about the task.</td>
+<td>Info, tips, or warnings about the task.</td>
 </tr>
 <tr>
 <td>Common questions title</td>
@@ -1158,6 +1152,7 @@
 </tr>
 </tbody>
 </table>
+<p>(*) Subtasks don't include an introduction sentence.</p>
 <h3 id="procedure-title"><strong>Procedure title</strong><a class="headerlink" href="#procedure-title" title="Permanent link">&para;</a></h3>
 <ul>
 <li>Focus on the result, not on the task.</li>
@@ -1173,11 +1168,11 @@
 <tbody>
 <tr>
 <td style="text-align: left;"><strong>Correct</strong></td>
-<td style="text-align: left;">Delete a group conversation</td>
+<td style="text-align: left;">Delete a group chat conversation</td>
 </tr>
 <tr>
 <td style="text-align: left;">Incorrect</td>
-<td style="text-align: left;">Deleting a group conversation</td>
+<td style="text-align: left;">Deleting a group chat conversation</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Correct</strong></td>
@@ -1255,11 +1250,12 @@
 </ul>
 <h3 id="writing-tasks"><strong>Writing tasks</strong><a class="headerlink" href="#writing-tasks" title="Permanent link">&para;</a></h3>
 <ul>
+<li>If you introduce the task with a sentence (this is optional; see <a href="#procedure-structure">Procedure structure</a>), don't repeat the title information. For example, if the task title is "Search for a contact using the Status display name," don't introduce the task with "To search for a contact using the Status display name [...]"</li>
 <li>On the first step, tell the user where to start.</li>
 <li>
 <p>Follow the <a href="../style-conventions/#ui-elements">UI elements guidelines</a> to describe the user interactions.</p>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
 <p>For clarity purposes, the UI elements on these examples use a regular typeface.</p>
 </div>
 </li>
@@ -1278,11 +1274,11 @@
 <tbody>
 <tr>
 <td style="text-align: left;"><strong>Correct</strong></td>
-<td style="text-align: left;">1. Click Change.</br>2. On the Options dialog, uncheck the Automatic box.</td>
+<td style="text-align: left;">1. Select Change.</br>2. On the Options dialog, uncheck the Automatic box.</td>
 </tr>
 <tr>
 <td style="text-align: left;">Incorrect</td>
-<td style="text-align: left;">1. Click Change. A new Options dialog opens.</br>2. On this dialog, uncheck the Automatic box.</td>
+<td style="text-align: left;">1. Select Change. A new Options dialog opens.</br>2. On this dialog, uncheck the Automatic box.</td>
 </tr>
 </tbody>
 </table>
@@ -1290,10 +1286,11 @@
 <li>
 <p>Use one step for each user action. It's OK to combine simple actions into a single step.</p>
 </li>
-<li>Limit the procedure to a maximum of six steps. If you need more steps to explain the task, split the steps into a subtask.</li>
+<li>Limit the procedure to a maximum of six steps. If you need more steps to explain the task, create a subtask (see <a href="#procedure-structure">Procedure structure</a>).</li>
 <li>Don't use sublists inside lists; instead, use a new list on a subtask.</li>
+<li>Use periods at the end of each step (check the <a href="../style-conventions/#punctuation">Punctuation</a> section for more information).</li>
 <li>
-<p>When certain action occurs in a specific menu or area in the user interface, write the location before the action.</p>
+<p>When the action occurs in a specific menu or area in the user interface, write the location before the action.</p>
 <table>
 <thead>
 <tr>
@@ -1322,7 +1319,7 @@
 </table>
 </li>
 <li>
-<p>Write the result of the action first and then, the condition for the result.</p>
+<p>Write the result of the action first and then the condition for the result.</p>
 <table>
 <thead>
 <tr>
@@ -1354,8 +1351,8 @@
 <p>Don't use links within a task, except when you need to reference a related subtask in the same article.</p>
 </li>
 </ul>
-<h2 id="reference-help-me-remember">Reference: help me remember<a class="headerlink" href="#reference-help-me-remember" title="Permanent link">&para;</a></h2>
-<p>Reference articles provide data that supports users as they perform a task. A reference article can be related to a procedure or work independently. Examples of reference topics are:</p>
+<h2 id="reference-help-me-to-remember">Reference: help me to remember<a class="headerlink" href="#reference-help-me-to-remember" title="Permanent link">&para;</a></h2>
+<p>Reference articles support users as they perform a task. A reference article can be related to a procedure or work independently. Examples of reference topics are:</p>
 <ul>
 <li>A list of parameters</li>
 <li>A list of shortcuts</li>
@@ -1363,7 +1360,8 @@
 </ul>
 <h3 id="reference-structure">Reference structure<a class="headerlink" href="#reference-structure" title="Permanent link">&para;</a></h3>
 <p>Because of its nature, reference topics are mostly based on lists and tables.</p>
-<p><img alt="Layout of the reference type topic" src="12-4-3.png" /></p>
+<p><img alt="Layout of the reference type topic" src="12-4-3-light.png#only-light" />
+<img alt="Layout of the reference type topic" src="12-4-3-dark.png#only-dark" /></p>
 <table>
 <thead>
 <tr>
@@ -1436,13 +1434,13 @@
 <td style="text-align: left;">9</td>
 <td style="text-align: left;">H3</td>
 <td style="text-align: left;">No</td>
-<td style="text-align: left;">When the main explanation requires a longer description, split the information into different subtitles</td>
+<td style="text-align: left;">When the main explanation requires a longer description, split the information into different subtitles.</td>
 </tr>
 <tr>
 <td style="text-align: left;">Subtitle table or list</td>
 <td style="text-align: left;">10</td>
-<td style="text-align: left;">PNG / GIF</td>
-<td style="text-align: left;"><strong>Yes</strong></td>
+<td style="text-align: left;">Table / list</td>
+<td style="text-align: left;">No</td>
 <td style="text-align: left;">A table or bullet list with the relevant information.</td>
 </tr>
 <tr>
@@ -1455,10 +1453,9 @@
 </tbody>
 </table>
 <h3 id="reference-title">Reference title<a class="headerlink" href="#reference-title" title="Permanent link">&para;</a></h3>
-<p>Use these rules as a guideline for naming reference topics:</p>
+<p>Use these guidelines for naming reference topics:</p>
 <ul>
 <li>Omit the verb in the sentence.</li>
-<li>Name the Status component the reference is about and then, the information it includes.</li>
 <li>Avoid meta-descriptions, like <em>list of [...]</em>, <em>table of [...]</em>, <em>a description of [...]</em>, and others.</li>
 <li>Use the <em>reference</em> word, if necessary.</li>
 </ul>
@@ -1485,7 +1482,7 @@
 </tr>
 <tr>
 <td style="text-align: left;">Incorrect</td>
-<td style="text-align: left;">A description of the Status Wallet settings</td>
+<td style="text-align: left;">About the Status Wallet settings</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Correct</strong></td>
@@ -1511,7 +1508,7 @@
         <span class="md-icon" title="Date of last update">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
         </span>
-        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 22, 2022</span>
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 27, 2022</span>
       </span>
     
     

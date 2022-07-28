@@ -17,7 +17,7 @@
 
 .md-typeset h3 {
     font-weight: 600;
-    color: var(--md-default-fg-color--light); 
+    color: var(--md-default-fg-color); 
 }
 
 .md-typeset ol {
@@ -47,39 +47,3 @@
     text-align: center;
     border-radius: 15px;
   }
-
-/* 
-
-
-
-
-
-.md-typeset ol {
-    list-style: none;
-    counter-reset: any-name;
-}
-
-.md-typeset li {
-    counter-increment: any-name;
-    margin-bottom: 50px;
-    margin-left: 1.3rem;
-}
-
-.md-typeset li:before {
-    content: counter(any-name);
-    position: absolute;
-    margin-left: 0.0rem;
-    background: #4360DF;
-    border-radius: 50%;
-    color: white;
-    font-weight: 600;
-    width: 1.3rem;
-    height: 1.2rem;
-    padding-top: 0rem;
-    text-align: center;
-    display: inline-block;
-    box-sizing: border-box;
-}
-
-
- */
