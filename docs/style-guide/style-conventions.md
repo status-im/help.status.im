@@ -96,7 +96,7 @@ We prioritize simplicity over comprehensiveness. If you can't find a particular 
 
 ## Sentences and paragraphs
 
-- Write sentences of a maximum of 25 words and paragraphs of 5 lines. Rewrite the content and break sentences and paragraphs as necessary.
+- Write sentences of a maximum of 25 words and paragraphs of 5 lines or less. Rewrite the content and break sentences and paragraphs as necessary.
 - Include *the* and *that* to clarify your sentence.
 
     | Usage       | Example                                             |
@@ -134,7 +134,7 @@ We prioritize simplicity over comprehensiveness. If you can't find a particular 
 - Use these guidelines for periods:
     - Use a period at the end of a sentence, including sentences ending on a [URL](#links).
     - Observe the punctuation rules for items on a [bullet list](#bullet-lists).
-- Don't use semicolons (;). Instead, use a period (.) and write the text after the semicolon in a new sentence.
+- Don't use semicolons. Instead, use a period and write the text after the semicolon in a new sentence.
 - Don't use dashes (_em_ or _en_ dashes.) Instead, use parenthesis if you need to clarify information.
 - Use parenthesis sparingly, and don't write essential information inside parenthesis.
 - Don't use bold or italics with punctuation symbols.
@@ -317,8 +317,8 @@ Use links to other articles in the Status documentation, but don't abuse links. 
 
     | Usage       | Example                                                          |
     |:------------|:-----------------------------------------------------------------|
-    | **Correct** | To publish your token, click **Publish**.                       |
-    | Incorrect   | To publish your token, click the **Publish** button.            |
+    | **Correct** | To publish your token, click **Publish**.                        |
+    | Incorrect   | To publish your token, click the **Publish** button.             |
     | **Correct** | On the **Permission** pop-up menu, tap the **Write** permission. |
     | Incorrect   | On the **Permissions** pop-up, tap the **Write** permission.     |
     | Incorrect   | On **Permissions**, tap the **Write** permission.                |
@@ -332,8 +332,8 @@ Use links to other articles in the Status documentation, but don't abuse links. 
 
 - Use *area* to describe a particular group of elements on the current screen.
 
-    | Usage       | Example                                                                  |
-    |:------------|:-------------------------------------------------------------------------|
+    | Usage       | Example                                                                 |
+    |:------------|:------------------------------------------------------------------------|
     | **Correct** | On the **Contacts** screen, click **All** under the **Filter** area.    |
     | Incorrect   | On the **Contacts** screen, click **All** under the **Filter** section. |
 
@@ -362,7 +362,7 @@ Use links to other articles in the Status documentation, but don't abuse links. 
 
     | Admonition | Description |
     |:---|:---|
-    | Tip | Information that is not necessary for the task, but it's helpful and nice to have. For example, information about a keyboard shortcut. |
+    | Tip | Information that is not necessary for the task, but it's helpful or nice to have. For example, information about a keyboard shortcut. |
     | Info | Information that is relevant to complete the task, but has no impact on the user's actions. |
     | Caution | Information that has an impact on the user's actions. Based on this information, the user may decide to complete or don't complete the task. |
 
@@ -486,21 +486,21 @@ Modal verbs are auxiliary verbs that modify the meaning of the main verb in a se
 
 - Keep phrasal verbs together.
 
-    | Usage     | Example                                                      |
-    |:----------|:-------------------------------------------------------------|
-    | **Correct**   | Execute the command `shutdown -h now` to shut down the server. |
-    | Incorrect | Execute the command `shutdown -h now` to shut the server down. |
+    | Usage       | Example                                                        |
+    |:------------|:---------------------------------------------------------------|
+    | **Correct** | Execute the command `shutdown -h now` to shut down the server. |
+    | Incorrect   | Execute the command `shutdown -h now` to shut the server down. |
 
 - Avoid referring to the document itself using *On this procedure*, *In this document*, *In the following list*, *In this section*, or similar expressions. Use *here* instead.
 
-    | Usage     | Example                                                                |
-    |:----------|:-----------------------------------------------------------------------|
-    | **Correct**   | Here you can find the list of keyboard shortcuts.                      |
-    | Incorrect | In the following section, you can find the list of keyboard shortcuts. |
+    | Usage       | Example                                                                |
+    |:------------|:-----------------------------------------------------------------------|
+    | **Correct** | Here you can find the list of keyboard shortcuts.                      |
+    | Incorrect   | In the following section, you can find the list of keyboard shortcuts. |
 
 ## Common words usage
 
-- For spelling differences between different English dialects, adhere to the most widely used dialect.
+- For spelling differences among English dialects, adhere to the most widely used dialect.
 - Don't use Latin abbreviations like *e.g.*, *etc.* or *i.e.* Use an English equivalent, like *for example*, *and so on*, or *that is*.
 - This list summarizes some common words and terms:
 
