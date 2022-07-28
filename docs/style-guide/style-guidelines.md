@@ -1,5 +1,6 @@
 ---
-id: 12-2
+id: 12
+revision: 3
 hide:
   - navigation
 ---
@@ -12,15 +13,15 @@ User experience is at the heart of what we write. We write documentation to help
 
 When deciding what to write, we're user-oriented. And when designing documents, we're task-oriented, explaining the main tasks a user can complete on a particular screen or product feature.
 
-We describe the tasks a user can perform on the interface; we don't explain the user interface. We work with the Design and UX team to provide users with a modern and consistent experience in our app and documentation.
+We describe the user's tasks on the interface; we don't explain the user interface. We work with the Design and UX team to provide users with a modern and consistent experience in our app and documentation.
 
 We use the *topic* and *article* words indistinctly on this guide. Even though the definition of a topic in technical communication varies based on the methodology or author, this distinction is irrelevant here.
 
 ## Content structure
 
-The way we structure and present the information is just as critical as writing it. Users don't read documentation; they *scan* it. Our approach to [content structure](structuring-the-content.md) supports them on this workflow rather than getting in the way.
+How we structure and present the information is just as critical as writing it. Users don't read documentation; they *scan* it. Our approach to [content structure](structuring-the-content.md) supports them in this workflow rather than getting in the way.
 
-Many style guides spend considerable time explaining language style and grammar rules. Still, they rarely provide guidelines on applying rules to create easy-to-read and follow documents consistently. Because of this, this style guide offers detailed [instructions for structuring](./structuring-the-content.md) your content.
+Many style guides spend considerable time explaining language style and grammar rules. Still, they rarely provide guidelines to create easy-to-read and follow documents consistently. Because of this, this style guide offers detailed [instructions for structuring](./structuring-the-content.md) your content.
 
 We employ a progressive-disclosure approach, providing only the necessary information at the first level (usually, a task or a concept description) while allowing users to explore additional details at subsequent levels (subtasks, cross-links, table of contents, and so forth).
 

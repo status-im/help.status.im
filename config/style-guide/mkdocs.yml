@@ -1,10 +1,10 @@
 # Material for MkDocs STYLE GUIDE configuration file
 
 # Project information
-site_name: 'Status apps writing style guide'
+site_name: 'Status writing style guide'
 site_url: https://help.status.im/style-guide/
 site_author: 'Status Research & Development GmbH'
-site_description: 'Status apps writing style guide'
+site_description: 'Status writing style guide'
 
 # Project directories
 docs_dir: '../../docs/style-guide/'
@@ -35,7 +35,7 @@ theme:
           name: Switch to dark mode
       - media: "(prefers-color-scheme: dark)"
         scheme: slate
-        primary: black
+        primary: grey
         accent: deep orange
         toggle:
           icon: material/weather-sunny
