@@ -57,7 +57,7 @@ We prioritize simplicity over comprehensiveness. If you can't find a particular 
 
 ## Titles
 
-- Use the rules described in the [Structuring the content](structuring-the-content.md) section for each [type of document](./structuring-the-content.md#types-of-documents) (concept, procedure, reference, or guide).
+- Use the rules described in the [Structuring the content](structuring-the-content.md) section for each [document type](./structuring-the-content.md#types-of-documents) (concept, procedure, reference, or guide).
 - Use meaningful titles that provide a precise idea of the article's content.
 
     | Usage       | Example                                 |
@@ -70,7 +70,11 @@ We prioritize simplicity over comprehensiveness. If you can't find a particular 
     | Incorrect   | Browsing people and Communities         |
 
 - Adhere to the [capitalization](#capitalization) convention described in this article.
-- Use the title of the article in lowercase letters for the Markdown file name. Use a dash symbol ("-") to replace spaces. Don't exclude articles, prepositions, or any other word in the Markdown file name.
+- Your article's title determines the Markdown file name:
+    - Use the article's title in all-lowercase letters for the Markdown file name.
+    - Use a dash symbol ("-") to replace spaces.
+    - Don't exclude articles, prepositions, or any other word in the Markdown file name.
+    - If the name includes apostrophes, remove them from the Markdown file name.
 
     | Usage       | Article name                            | Markdown file name                           |
     |:------------|:----------------------------------------|:---------------------------------------------|
@@ -78,8 +82,9 @@ We prioritize simplicity over comprehensiveness. If you can't find a particular 
     | Incorrect   | Browse people and Communities in Status | `Browse-people-and-Communities-in-Status.md` |
     | Incorrect   | Browse people and Communities in Status | `browse-people-communities-status.md`        |
     | **Correct** | FAQ: Import data from Discord           | `faq-import-data-from-discord.md`            |
+    | **Correct** | Do's and don'ts of Profile security     | `dos-and-donts-of-profile-security.md`       |
 
-- At the index page level, use a bold typeface to stress the action and the feature, or concept in the document.
+- At the index page level, use a bold typeface to stress the action and the feature or concept in the document.
 
     | Usage       | Example                                   |
     |:------------|:------------------------------------------|
@@ -91,8 +96,8 @@ We prioritize simplicity over comprehensiveness. If you can't find a particular 
 
 ## Sentences and paragraphs
 
-- Write sentences of a maximum of 25 words and paragraphs with a maximum of 5 lines. Rewrite the content and break sentences and paragraphs if necessary.
-- Include *the* and *that* to clarify your sentence:
+- Write sentences of a maximum of 25 words and paragraphs of 5 lines. Rewrite the content and break sentences and paragraphs as necessary.
+- Include *the* and *that* to clarify your sentence.
 
     | Usage       | Example                                             |
     |:------------|:----------------------------------------------------|
@@ -151,19 +156,19 @@ We prioritize simplicity over comprehensiveness. If you can't find a particular 
 - Use a bullet list to improve the readability of sentences or paragraphs where you list or describe three or more items.
 
     | Usage | Example |
-    |:--|:--|
+    |:---|:---|
     | **Correct** | You can find four different types of contacts in your contact list:</br>- Trusted</br>- Verified</br>- Pending verification</br>- Blocked |
     | Incorrect | You can find four different types of contacts in your contact lists: trusted, verified, pending verification, and blocked. |
     | Incorrect | You can find trusted, verified, pending verification, and blocked contacts on your contact list. |
 
 - Use a colon (:) before the bullet list items.
-- For [punctuation](#punctuation), use periods at the end of each sentence in a bullet list.
+- Use periods at the end of each sentence in a bullet list for [punctuation](#punctuation).
 - Punctuation on a bullet list can be tricky. Use the following guidelines:
     - When the list items are complete sentences, use a period at the end of each sentence.
     - Don't use a period when the list items are not complete sentences or sentences with three words or less.
     - In a list with elements of more and less than three words mixed, don't use a period.
 - When you need to describe each element on a list, consider [using a table](#tables) instead.
-- Don't use a bullet list for actions that users should complete orderly, use a [numbered list](#numbered-lists) in a [procedure](./structuring-the-content.md#procedure-help-me-to-do).
+- Don't use a bullet list for actions that users should complete in an orderly manner; use a [numbered list](#numbered-lists) in a [procedure](./structuring-the-content.md#procedure-help-me-to-do).
 
 ## Numbered lists
 
@@ -218,7 +223,7 @@ Remember that users may access the information using a smartphone. Therefore, if
     | Incorrect   | 0,13    |
     | Incorrect   | 0'13    |
 
-- Don't use thousand separators. While a thousand separator improves readability (especially for very long numbers), their symbol and placement vary among countries.
+- Don't use the thousand separator. While the separator improves readability (especially for very long numbers), their symbol and placement vary among countries.
 
     | Usage       | Example |
     |:------------|:--------|
@@ -254,7 +259,7 @@ Remember that users may access the information using a smartphone. Therefore, if
     | Incorrect   | 1pm                  |
     | Incorrect   | 1 PM                 |
     | **Correct** | 8:30 p.m.            |
-    | Incorrect   | half past eight p.m. |
+    | Incorrect   | half past eight      |
 
 - Use the [UTC time standard :octicons-tab-external-16:](https://en.wikipedia.org/wiki/Coordinated_Universal_Time){:target="_blank"} when writing for a global audience.
 
@@ -287,7 +292,7 @@ Use links to other articles in the Status documentation, but don't abuse links. 
     | Incorrect | Check the "Safely open apps on your Mac" article at [https://support.apple.com/en-us/HT202491](https://support.apple.com/en-us/HT202491). |
     | Incorrect | Check [https://support.apple.com/en-us/HT202491](https://support.apple.com/en-us/HT202491) on the Apple Support website. |
 
-- For external links, add the `{:target="_blank"}` at the end of the URL to open the link in a new broser tab. Example:
+- For external links, add the `{:target="_blank"}` at the end of the URL to open the link in a new browser tab. Example:
 
     For the Mac version, use the `[Status website :octicons-tab-external-16:](https://status.im/get){:target="_blank"}`
 
@@ -299,7 +304,7 @@ Use links to other articles in the Status documentation, but don't abuse links. 
 !!! info
     For readability reasons, the examples in other sections don't use these UI elements conventions.
 
-- UI elements are screen components the user can interact with. A checkbox, a menu, or a button are all UI elements. An explanatory text with no user interaction is not considered a UI element for the purpose of this guide.
+- UI elements are screen components the user can interact with. A checkbox, a menu, or a button are all UI elements. An explanatory text with no user interaction is not considered a UI element in the context of this guide.
 - Write the UI element as seen on the screen, even if it contradicts the style conventions in this guide.
 - Use a bold typeface to write UI elements in procedural steps (1, 2, 3, and so on.) Don't use the bold typeface outside of the procedural steps.
 
@@ -351,15 +356,15 @@ Use links to other articles in the Status documentation, but don't abuse links. 
     | **Correct** | Go to **Settings** > **Messages** > **Privacy**.                   |
     | Incorrect   | Go to **Settings**, then go to **Messages**, then tap **Privacy**. |
 
-## Admonitions (callouts)
+## Admonitions
 
-- Status documentation uses three different types of admonitions or callouts:
+- Status user documentation uses three different types of admonitions (also known as *callouts*):
 
     | Admonition | Description |
-    | --- | --- |
-    | Tip | Information that is not necessary for the task, but it's nice to have. For example, information about a keyboard shortcut. |
-    | Info | Information that is useful to complete the task. This information has no impact on the user's task. |
-    | Caution | Information that has an impact on the user's task. Based on this information, the user may decide to complete or don't complete the task. |
+    |:---|:---|
+    | Tip | Information that is not necessary for the task, but it's helpful and nice to have. For example, information about a keyboard shortcut. |
+    | Info | Information that is relevant to complete the task, but has no impact on the user's actions. |
+    | Caution | Information that has an impact on the user's actions. Based on this information, the user may decide to complete or don't complete the task. |
 
 - Don't use *warning*, *error*, *danger*, *bug*, *important*, or *notes*.
 - Don't use admonitions within procedural steps.
@@ -446,6 +451,7 @@ Modal verbs are auxiliary verbs that modify the meaning of the main verb in a se
 - Observe the [style rules for numbers, date and time, and units of measure](#numbers-date-and-time-currencies-and-units-of-measure).
 - Avoid using *they* to refer to the neutral gender. While this is a perfectly valid rule in English, it may be challenging to interpret by non-native English speakers.
 - Use left and right carefully. Localized products in left-to-right (LTR) languages may have labels on the opposite side. Refer the reader to the specific UI element on the screen instead.
+- Don't use pronouns like *Who*, *Whose*, or *Its*; replace the pronoun with the noun.
 - Avoid using *(s)* for plural forms.
 
     | Usage       | Example                                                       |
