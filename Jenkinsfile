@@ -19,6 +19,7 @@ pipeline {
   environment {
     GIT_COMMITTER_NAME = 'status-im-auto'
     GIT_COMMITTER_EMAIL = 'auto@status.im'
+    GIT_SSH_COMMAND = 'ssh -o StrictHostKeyChecking=no'
     /* dev page settings */
     DEV_SITE = 'dev-help.status.im'
     DEV_HOST = 'jenkins@node-01.do-ams3.sites.misc.statusim.net'
@@ -53,7 +54,7 @@ pipeline {
       when { expression { env.GIT_BRANCH ==~ /.*master/ } }
       steps {
         sshagent(credentials: ['status-im-auto-ssh']) {
-          sh 'ghp-import -p generated'
+          sh '$HOME/.local/bin/ghp-import -p generated'
         }
       }
     }
