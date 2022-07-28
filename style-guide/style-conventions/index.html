@@ -12,18 +12,21 @@
         <meta name="author" content="Status Research & Development GmbH">
       
       
-        <link rel="canonical" href="https://status.im/help/style-guide/style-conventions/">
+        <link rel="canonical" href="https://help.status.im/style-guide/style-conventions/">
+      
+      
+        
       
       <link rel="icon" href="../assets/images/status-logo-32x32.png">
-      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.3.8">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.3.9+insiders-4.21.0">
     
     
       
-        <title>Style conventions - Status Style Guide</title>
+        <title>Style conventions - Status Writing Style Guide</title>
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.1d29e8d0.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.846d444e.min.css">
       
         
         <link rel="stylesheet" href="../assets/stylesheets/palette.cbb835fc.min.css">
@@ -44,6 +47,7 @@
   
   <style>:root{--md-admonition-icon--info:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256 256-114.6 256-256S397.4 0 256 0zm0 128c17.67 0 32 14.33 32 32s-14.33 32-32 32-32-14.3-32-32 14.3-32 32-32zm40 256h-80c-13.2 0-24-10.7-24-24s10.75-24 24-24h16v-64h-8c-13.25 0-24-10.75-24-24s10.8-24 24-24h32c13.25 0 24 10.75 24 24v88h16c13.25 0 24 10.75 24 24s-10.7 24-24 24z"/></svg>');--md-admonition-icon--tip:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M480 179.6c18.6 8.8 32 32.5 32 60.4s-13.4 51.6-32 60.4V448c0 12.9-7.8 24.6-19.8 29.6-11.9 4.9-25.7 2.2-34.8-7l-43.7-44.5c-48-48-113.1-74.1-181-74.1H192v128c0 17.7-14.3 32-32 32H96c-17.67 0-32-14.3-32-32V352c-35.35 0-64-28.7-64-64v-96c0-35.3 28.65-64 64-64h136.7c67.9 0 133-27 181-74.98l43.7-43.647c9.1-9.151 22.9-11.889 34.8-6.936C472.2 7.39 480 19.06 480 32v147.6zM200.7 192H192v96h8.7c79.8 0 156.5 29.8 215.3 83.3V108.7C357.2 162.2 280.5 192 200.7 192z"/></svg>');--md-admonition-icon--warning:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M506.3 417 293 53c-16.33-28-57.54-28-73.98 0L5.82 417c-16.41 27.9 4.029 63 36.92 63h426.6c32.76 0 53.26-35 36.96-63zM232 168c0-13.25 10.75-24 24-24s24 10.8 24 24v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zm24 248c-17.36 0-31.44-14.08-31.44-31.44s14.07-31.44 31.44-31.44 31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>');}</style>
 
+
     
     
     
@@ -58,10 +62,11 @@
     
       <link rel="stylesheet" href="../assets/stylesheets/extra.css">
     
-    <script>__md_scope=new URL("..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
+    
     
     
   </head>
@@ -74,11 +79,18 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="light-blue">
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="grey" data-md-color-accent="deep-orange">
   
     
     
-      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+      
+    
+      
+    
+      
+    
+      
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -102,7 +114,7 @@
 
 <header class="md-header md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href=".." title="Status Style Guide" class="md-header__button md-logo" aria-label="Status Style Guide" data-md-component="logo">
+    <a href=".." title="Status Writing Style Guide" class="md-header__button md-logo" aria-label="Status Writing Style Guide" data-md-component="logo">
       
   <img src="../assets/images/status-logo-320x320.png" alt="logo">
 
@@ -114,7 +126,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            Status Style Guide
+            Status Writing Style Guide
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -131,23 +143,26 @@
         
           
           
-          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="light-blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="grey" data-md-color-accent="deep-orange"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
           
-            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31Z"/></svg>
             </label>
           
         
           
           
-          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="deep-orange" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="deep-orange"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
           
-            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22Z"/></svg>
             </label>
           
         
       </form>
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
     
     
     
@@ -165,7 +180,7 @@
       </label>
       <nav class="md-search__options" aria-label="Search">
         
-        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
         </button>
       </nav>
@@ -202,59 +217,78 @@
   </nav>
   
     
-      
-<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+      <nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
   <div class="md-tabs__inner md-grid">
     <ul class="md-tabs__list">
       
         
-  
-  
 
 
-  <li class="md-tabs__item">
-    <a href=".." class="md-tabs__link">
-      Welcome
-    </a>
-  </li>
+
+
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+  Welcome
+
+      </a>
+    </li>
+  
 
       
         
-  
-  
 
 
-  <li class="md-tabs__item">
-    <a href="../style-guidelines/" class="md-tabs__link">
-      Style guidelines
-    </a>
-  </li>
+
+
+  
+    <li class="md-tabs__item">
+      <a href="../style-guidelines/" class="md-tabs__link">
+        
+  
+  Style guidelines
+
+      </a>
+    </li>
+  
 
       
         
-  
-  
 
 
-  <li class="md-tabs__item">
-    <a href="../structuring-the-content/" class="md-tabs__link">
-      Structuring the content
-    </a>
-  </li>
+
+
+  
+    <li class="md-tabs__item">
+      <a href="../structuring-the-content/" class="md-tabs__link">
+        
+  
+  Structuring the content
+
+      </a>
+    </li>
+  
 
       
         
-  
-  
-    
+
   
 
 
-  <li class="md-tabs__item">
-    <a href="./" class="md-tabs__link md-tabs__link--active">
-      Style conventions
-    </a>
-  </li>
+
+
+  
+    <li class="md-tabs__item">
+      <a href="./" class="md-tabs__link md-tabs__link--active">
+        
+  
+  Style conventions
+
+      </a>
+    </li>
+  
 
       
     </ul>
@@ -286,12 +320,12 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href=".." title="Status Style Guide" class="md-nav__button md-logo" aria-label="Status Style Guide" data-md-component="logo">
+    <a href=".." title="Status Writing Style Guide" class="md-nav__button md-logo" aria-label="Status Writing Style Guide" data-md-component="logo">
       
   <img src="../assets/images/status-logo-320x320.png" alt="logo">
 
     </a>
-    Status Style Guide
+    Status Writing Style Guide
   </label>
   
     <div class="md-nav__source">
@@ -312,12 +346,19 @@
       
       
 
+
+
   
   
   
     <li class="md-nav__item">
       <a href=".." class="md-nav__link">
-        Welcome
+        
+  
+  <span class="md-ellipsis">
+    Welcome
+  </span>
+
       </a>
     </li>
   
@@ -326,13 +367,20 @@
       
       
       
+
+
 
   
   
   
     <li class="md-nav__item">
       <a href="../style-guidelines/" class="md-nav__link">
-        Style guidelines
+        
+  
+  <span class="md-ellipsis">
+    Style guidelines
+  </span>
+
       </a>
     </li>
   
@@ -341,13 +389,20 @@
       
       
       
+
+
 
   
   
   
     <li class="md-nav__item">
       <a href="../structuring-the-content/" class="md-nav__link">
-        Structuring the content
+        
+  
+  <span class="md-ellipsis">
+    Structuring the content
+  </span>
+
       </a>
     </li>
   
@@ -356,6 +411,8 @@
       
       
       
+
+
 
   
   
@@ -371,12 +428,22 @@
       
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
-          Style conventions
+          
+  
+  <span class="md-ellipsis">
+    Style conventions
+  </span>
+
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
-        Style conventions
+        
+  
+  <span class="md-ellipsis">
+    Style conventions
+  </span>
+
       </a>
       
         
@@ -396,133 +463,171 @@
       
         <li class="md-nav__item">
   <a href="#writing-style" class="md-nav__link">
-    Writing style
+    <span class="md-ellipsis">
+      Writing style
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#capitalization" class="md-nav__link">
-    Capitalization
+    <span class="md-ellipsis">
+      Capitalization
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#titles" class="md-nav__link">
-    Titles
+    <span class="md-ellipsis">
+      Titles
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#sentences-and-paragraphs" class="md-nav__link">
-    Sentences and paragraphs
+    <span class="md-ellipsis">
+      Sentences and paragraphs
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#punctuation" class="md-nav__link">
-    Punctuation
+    <span class="md-ellipsis">
+      Punctuation
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#bullet-lists" class="md-nav__link">
-    Bullet lists
+    <span class="md-ellipsis">
+      Bullet lists
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#tables" class="md-nav__link">
-    Tables
+    <span class="md-ellipsis">
+      Tables
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#numbers-date-and-time-currencies-and-units-of-measure" class="md-nav__link">
-    Numbers, date and time, currencies, and units of measure
+    <span class="md-ellipsis">
+      Numbers, date and time, currencies, and units of measure
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#links" class="md-nav__link">
-    Links
+    <span class="md-ellipsis">
+      Links
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#ui-elements" class="md-nav__link">
-    UI elements
+    <span class="md-ellipsis">
+      UI elements
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#admonitions-callouts" class="md-nav__link">
-    Admonitions (callouts)
+    <span class="md-ellipsis">
+      Admonitions (callouts)
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#iconography" class="md-nav__link">
-    Iconography
+    <span class="md-ellipsis">
+      Iconography
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#modal-verbs" class="md-nav__link">
-    Modal verbs
+    <span class="md-ellipsis">
+      Modal verbs
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#possessive-form" class="md-nav__link">
-    Possessive form
+    <span class="md-ellipsis">
+      Possessive form
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#contractions" class="md-nav__link">
-    Contractions
+    <span class="md-ellipsis">
+      Contractions
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#global-writing" class="md-nav__link">
-    Global writing
+    <span class="md-ellipsis">
+      Global writing
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#other-style-conventions" class="md-nav__link">
-    Other style conventions
+    <span class="md-ellipsis">
+      Other style conventions
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#common-words-usage" class="md-nav__link">
-    Common words usage
+    <span class="md-ellipsis">
+      Common words usage
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#brand-guidelines" class="md-nav__link">
-    Brand guidelines
+    <span class="md-ellipsis">
+      Brand guidelines
+    </span>
   </a>
   
 </li>
@@ -565,133 +670,171 @@
       
         <li class="md-nav__item">
   <a href="#writing-style" class="md-nav__link">
-    Writing style
+    <span class="md-ellipsis">
+      Writing style
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#capitalization" class="md-nav__link">
-    Capitalization
+    <span class="md-ellipsis">
+      Capitalization
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#titles" class="md-nav__link">
-    Titles
+    <span class="md-ellipsis">
+      Titles
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#sentences-and-paragraphs" class="md-nav__link">
-    Sentences and paragraphs
+    <span class="md-ellipsis">
+      Sentences and paragraphs
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#punctuation" class="md-nav__link">
-    Punctuation
+    <span class="md-ellipsis">
+      Punctuation
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#bullet-lists" class="md-nav__link">
-    Bullet lists
+    <span class="md-ellipsis">
+      Bullet lists
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#tables" class="md-nav__link">
-    Tables
+    <span class="md-ellipsis">
+      Tables
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#numbers-date-and-time-currencies-and-units-of-measure" class="md-nav__link">
-    Numbers, date and time, currencies, and units of measure
+    <span class="md-ellipsis">
+      Numbers, date and time, currencies, and units of measure
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#links" class="md-nav__link">
-    Links
+    <span class="md-ellipsis">
+      Links
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#ui-elements" class="md-nav__link">
-    UI elements
+    <span class="md-ellipsis">
+      UI elements
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#admonitions-callouts" class="md-nav__link">
-    Admonitions (callouts)
+    <span class="md-ellipsis">
+      Admonitions (callouts)
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#iconography" class="md-nav__link">
-    Iconography
+    <span class="md-ellipsis">
+      Iconography
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#modal-verbs" class="md-nav__link">
-    Modal verbs
+    <span class="md-ellipsis">
+      Modal verbs
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#possessive-form" class="md-nav__link">
-    Possessive form
+    <span class="md-ellipsis">
+      Possessive form
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#contractions" class="md-nav__link">
-    Contractions
+    <span class="md-ellipsis">
+      Contractions
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#global-writing" class="md-nav__link">
-    Global writing
+    <span class="md-ellipsis">
+      Global writing
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#other-style-conventions" class="md-nav__link">
-    Other style conventions
+    <span class="md-ellipsis">
+      Other style conventions
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#common-words-usage" class="md-nav__link">
-    Common words usage
+    <span class="md-ellipsis">
+      Common words usage
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#brand-guidelines" class="md-nav__link">
-    Brand guidelines
+    <span class="md-ellipsis">
+      Brand guidelines
+    </span>
   </a>
   
 </li>
@@ -714,11 +857,11 @@
 
 
 
-<h1 id="style-conventions">Style conventions</h1>
+<h1 id="style-conventions">Style conventions<a class="headerlink" href="#style-conventions" title="Permanent link">&para;</a></h1>
 <p>This article is a reference to the most common style elements and conventions in the Status technical documentation. The goal is to simplify the writer's workflow using unambiguous guidelines that are easy to remember and follow.</p>
-<p>You can find a <em>correct</em> and <em>incorrect</em> use examples for most of these style conventions. In many cases, the <em>incorrect</em> examples are valid and commonly used sentences in English. They're incorrect only in the context of this style guide and the Status technical documentation.</p>
+<p>You can find <em>correct</em> and <em>incorrect</em> use examples for most of these style conventions. In many cases, the <em>incorrect</em> examples are valid and commonly used sentences in English. They're incorrect only in the context of this style guide and the Status technical documentation.</p>
 <p>We prioritize simplicity over comprehensiveness. If you can't find a particular style convention, use the <a href="https://docs.microsoft.com/en-us/style-guide/welcome/" target="_blank">Microsoft Style Guide <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M3.25 4a.25.25 0 0 0-.25.25v9a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h.75V4.25c0-.966.784-1.75 1.75-1.75h9.5c.966 0 1.75.784 1.75 1.75v8.25h.75a.75.75 0 0 1 0 1.5h-1.5a.75.75 0 0 1-.75-.75v-9a.25.25 0 0 0-.25-.25h-9.5z"/><path d="m7.97 7.97-2.75 2.75a.75.75 0 1 0 1.06 1.06l2.75-2.75 1.543 1.543a.25.25 0 0 0 .427-.177V6.25a.25.25 0 0 0-.25-.25H6.604a.25.25 0 0 0-.177.427L7.97 7.97z"/></svg></span></a>. If you think a style convention is missing, <a href="https://github.com/status-im/help.status.im/blob/master/CONTRIBUTING.md">contribute <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M3.25 4a.25.25 0 0 0-.25.25v9a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h.75V4.25c0-.966.784-1.75 1.75-1.75h9.5c.966 0 1.75.784 1.75 1.75v8.25h.75a.75.75 0 0 1 0 1.5h-1.5a.75.75 0 0 1-.75-.75v-9a.25.25 0 0 0-.25-.25h-9.5z"/><path d="m7.97 7.97-2.75 2.75a.75.75 0 1 0 1.06 1.06l2.75-2.75 1.543 1.543a.25.25 0 0 0 .427-.177V6.25a.25.25 0 0 0-.25-.25H6.604a.25.25 0 0 0-.177.427L7.97 7.97z"/></svg></span></a> to this topic.</p>
-<h2 id="writing-style">Writing style</h2>
+<h2 id="writing-style">Writing style<a class="headerlink" href="#writing-style" title="Permanent link">&para;</a></h2>
 <div class="admonition tip">
 <p class="admonition-title">Tip</p>
 <p>For general writing style guidelines, check out the <a href="../style-guidelines/#writing-style">Writing style</a> section.</p>
@@ -730,18 +873,18 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Select Block User to block messages from the user.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Select Block User to block messages from the user.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">The Block User option must be selected to block messages from the user.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">The Block User option must be selected to block messages from the user.</td>
 </tr>
 </tbody>
 </table>
@@ -751,50 +894,50 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">If you tap Untrust, you need to complete a mutual verification again.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">If you tap Untrust, you need to complete a mutual verification again.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">If you tap Untrust, you will need to complete a mutual verification again.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">If you tap Untrust, you will need to complete a mutual verification again.</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">You can see the new badge after you complete the mutual verification.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">You can see the new badge after you complete the mutual verification.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">You will see the new badge once you have completed the mutual verification.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">You will see the new badge once you have completed the mutual verification.</td>
 </tr>
 </tbody>
 </table>
 </li>
 </ul>
-<h2 id="capitalization">Capitalization</h2>
+<h2 id="capitalization">Capitalization<a class="headerlink" href="#capitalization" title="Permanent link">&para;</a></h2>
 <ul>
 <li>
 <p>Use sentence-style capitalization, including <a href="#titles">titles</a>. That means everything is lowercase except the first word, proper nouns, or the <a href="#brand-guidelines">Status product names</a>.</p>
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Configure your Status Community permissions.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Configure your Status Community permissions.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Configure Your Status Community Permissions.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Configure Your Status Community Permissions.</td>
 </tr>
 </tbody>
 </table>
@@ -804,36 +947,36 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Members should complete two steps: agree to the community terms and verify their identity.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Members should complete two steps: agree to the community terms and verify their identity.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Members should complete two steps: Agree to the community terms and verify their identity.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Members should complete two steps: Agree to the community terms and verify their identity.</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Members should complete two steps:</br>- Agree to the community terms.</br>- Verify their identity.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Members should complete two steps:</br>- Agree to the community terms.</br>- Verify their identity.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Members should complete two steps:</br>- agree to the community terms.</br>- verify their identity.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Members should complete two steps:</br>- agree to the community terms.</br>- verify their identity.</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Many digital currencies use the ERC-20 standard: Status (STN), Basic Attention Token (BAT), MakerDAO (DAI), and others.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Many digital currencies use the ERC-20 standard: Status (STN), Basic Attention Token (BAT), MakerDAO (DAI), and others.</td>
 </tr>
 </tbody>
 </table>
 </li>
 </ul>
-<h2 id="titles">Titles</h2>
+<h2 id="titles">Titles<a class="headerlink" href="#titles" title="Permanent link">&para;</a></h2>
 <ul>
 <li>For each type of article (concept, procedure, reference, or guide), use the rules described in the <a href="../structuring-the-content/">Structuring the content</a> section.</li>
 <li>
@@ -841,34 +984,34 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Remove someone from a Community channel</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Remove someone from a Community channel</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Remove someone</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Remove someone</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Removing someone from a Community</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Removing someone from a Community</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Browse people and Communities in Status</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Browse people and Communities in Status</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Browsing people</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Browsing people</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Browsing people and Communities</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Browsing people and Communities</td>
 </tr>
 </tbody>
 </table>
@@ -888,36 +1031,36 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left"><strong>Add</strong> new members to your <strong>Community</strong></td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;"><strong>Add</strong> new members to your <strong>Community</strong></td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Add <strong>new members</strong> to your Community</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Add <strong>new members</strong> to your Community</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Add new <strong>members</strong> to your Community</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Add new <strong>members</strong> to your Community</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">About your crypto wallet <strong>seed phrase</strong></td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">About your crypto wallet <strong>seed phrase</strong></td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">About your <strong>crypto wallet</strong> seed phrase</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">About your <strong>crypto wallet</strong> seed phrase</td>
 </tr>
 </tbody>
 </table>
 </li>
 </ul>
-<h2 id="sentences-and-paragraphs">Sentences and paragraphs</h2>
+<h2 id="sentences-and-paragraphs">Sentences and paragraphs<a class="headerlink" href="#sentences-and-paragraphs" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Write sentences of a maximum of 25 words and paragraphs with a maximum of 5 lines. Rewrite the content and split sentences and paragraphs if necessary.</li>
 <li>
@@ -925,26 +1068,26 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Identify the chart settings that affect the layout.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Identify the chart settings that affect the layout.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Identify chart settings affecting the layout.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Identify chart settings affecting the layout.</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">The database that is online syncs every 30 seconds.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">The database that is online syncs every 30 seconds.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">The online database syncs every 30 seconds.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">The online database syncs every 30 seconds.</td>
 </tr>
 </tbody>
 </table>
@@ -954,18 +1097,18 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">The default lifetime of a token value is one year.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">The default lifetime of a token value is one year.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">The default token value lifetime is one year.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">The default token value lifetime is one year.</td>
 </tr>
 </tbody>
 </table>
@@ -975,18 +1118,18 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">You can access your messages only after 30 days.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">You can access your messages only after 30 days.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">You can only access your messages after 30 days.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">You can only access your messages after 30 days.</td>
 </tr>
 </tbody>
 </table>
@@ -995,7 +1138,7 @@
 <p>Lookup for instances of the <em>which</em> word on your text; it's possible you can replace them with <em>that</em>. For more information about the differences between <em>which</em> and <em>that</em>, check this <a href="https://www.grammarly.com/blog/which-vs-that/" target="_blank">Grammarly <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M3.25 4a.25.25 0 0 0-.25.25v9a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h.75V4.25c0-.966.784-1.75 1.75-1.75h9.5c.966 0 1.75.784 1.75 1.75v8.25h.75a.75.75 0 0 1 0 1.5h-1.5a.75.75 0 0 1-.75-.75v-9a.25.25 0 0 0-.25-.25h-9.5z"/><path d="m7.97 7.97-2.75 2.75a.75.75 0 1 0 1.06 1.06l2.75-2.75 1.543 1.543a.25.25 0 0 0 .427-.177V6.25a.25.25 0 0 0-.25-.25H6.604a.25.25 0 0 0-.177.427L7.97 7.97z"/></svg></span></a> article.</p>
 </li>
 </ul>
-<h2 id="punctuation">Punctuation</h2>
+<h2 id="punctuation">Punctuation<a class="headerlink" href="#punctuation" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Avoid. Unnecessary. Punctuation.</li>
 <li>Use these guidelines for commas:<ul>
@@ -1022,54 +1165,54 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">- <strong>Blue badge</strong></br>The user is a verified contact and you completed mutual authentication successfully.</br>- <strong>Red badge</strong></br>The user is not a verified contact.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">- <strong>Blue badge</strong></br>The user is a verified contact and you completed mutual authentication successfully.</br>- <strong>Red badge</strong></br>The user is not a verified contact.</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">- <strong>Blue badge</strong>:</br>The user is a verified contact and you completed mutual authentication successfully.</br>- <strong>Red badge</strong>:</br>The user is not a verified contact.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">- <strong>Blue badge</strong>:</br>The user is a verified contact and you completed mutual authentication successfully.</br>- <strong>Red badge</strong>:</br>The user is not a verified contact.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">- <strong>Blue badge</strong>: The user is a verified contact and you completed mutual authentication successfully.</br>- <strong>Red badge</strong>: The user is not a verified contact.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">- <strong>Blue badge</strong>: The user is a verified contact and you completed mutual authentication successfully.</br>- <strong>Red badge</strong>: The user is not a verified contact.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">- <strong>Blue badge</strong> - The user is a verified contact and you completed mutual authentication successfully.</br>- <strong>Red badge</strong> - The user is not a verified contact.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">- <strong>Blue badge</strong> - The user is a verified contact and you completed mutual authentication successfully.</br>- <strong>Red badge</strong> - The user is not a verified contact.</td>
 </tr>
 </tbody>
 </table>
 </li>
 </ul>
-<h2 id="bullet-lists">Bullet lists</h2>
+<h2 id="bullet-lists">Bullet lists<a class="headerlink" href="#bullet-lists" title="Permanent link">&para;</a></h2>
 <ul>
 <li>
 <p>Use a bullet list to improve the readability of sentences or paragraphs where you list or describe three or more items.</p>
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">You can find four different types of contacts in your contact list:</br>- Trusted</br>- Verified</br>- Pending verification</br>- Blocked</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">You can find four different types of contacts in your contact list:</br>- Trusted</br>- Verified</br>- Pending verification</br>- Blocked</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">You can find four different types of contacts in your contact lists: trusted, verified, pending verification, and blocked.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">You can find four different types of contacts in your contact lists: trusted, verified, pending verification, and blocked.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">You can find trusted, verified, pending verification, and blocked contacts on your contact list.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">You can find trusted, verified, pending verification, and blocked contacts on your contact list.</td>
 </tr>
 </tbody>
 </table>
@@ -1085,7 +1228,7 @@
 </li>
 <li>When you need to describe each element on a list, consider <a href="#tables">using a table</a> instead.</li>
 </ul>
-<h2 id="tables">Tables</h2>
+<h2 id="tables">Tables<a class="headerlink" href="#tables" title="Permanent link">&para;</a></h2>
 <p>Tables provide a simple way to summarize information. Use a table instead of <a href="#bullet-lists">bullet lists</a> with more than three items.</p>
 <ul>
 <li>
@@ -1129,7 +1272,7 @@
 </table>
 </li>
 </ul>
-<h2 id="numbers-date-and-time-currencies-and-units-of-measure">Numbers, date and time, currencies, and units of measure</h2>
+<h2 id="numbers-date-and-time-currencies-and-units-of-measure">Numbers, date and time, currencies, and units of measure<a class="headerlink" href="#numbers-date-and-time-currencies-and-units-of-measure" title="Permanent link">&para;</a></h2>
 <ul>
 <li>In body text, spell out whole numbers from zero through nine and use numerals for 10 or greater.</li>
 <li>
@@ -1137,26 +1280,26 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">20.23</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">20.23</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">0.13</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">0.13</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">0,13</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">0,13</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">0'13</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">0'13</td>
 </tr>
 </tbody>
 </table>
@@ -1166,34 +1309,34 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">2500</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">2500</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">2,500</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">2,500</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">12500</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">12500</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">12.500</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">12.500</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">118000</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">118000</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">118'000</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">118'000</td>
 </tr>
 </tbody>
 </table>
@@ -1203,18 +1346,18 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Select the options in rows 3 and 5.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Select the options in rows 3 and 5.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Select the 3<sup>rd</sup>. and 5<sup>th</sup>. options.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Select the 3<sup>rd</sup>. and 5<sup>th</sup>. options.</td>
 </tr>
 </tbody>
 </table>
@@ -1224,22 +1367,22 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">The latest version was released on May 6, 2023.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">The latest version was released on May 6, 2023.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">The latest version was released on 05/06/23.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">The latest version was released on 05/06/23.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">The latest version was released on the 6<sup>th</sup>. of May, 2023</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">The latest version was released on the 6<sup>th</sup>. of May, 2023</td>
 </tr>
 </tbody>
 </table>
@@ -1252,26 +1395,26 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">1 p.m.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">1 p.m.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">13 h.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">13 h.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">1pm</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">1pm</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">1 PM</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">1 PM</td>
 </tr>
 </tbody>
 </table>
@@ -1283,7 +1426,7 @@
 <li>To write fiat, use the <a href="https://en.wikipedia.org/wiki/ISO_4217">ISO4217 <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M3.25 4a.25.25 0 0 0-.25.25v9a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h.75V4.25c0-.966.784-1.75 1.75-1.75h9.5c.966 0 1.75.784 1.75 1.75v8.25h.75a.75.75 0 0 1 0 1.5h-1.5a.75.75 0 0 1-.75-.75v-9a.25.25 0 0 0-.25-.25h-9.5z"/><path d="m7.97 7.97-2.75 2.75a.75.75 0 1 0 1.06 1.06l2.75-2.75 1.543 1.543a.25.25 0 0 0 .427-.177V6.25a.25.25 0 0 0-.25-.25H6.604a.25.25 0 0 0-.177.427L7.97 7.97z"/></svg></span></a> currency symbol after the amount. If you're using fiat to illustrate a concept, use <a href="https://en.wikipedia.org/wiki/Template:Most_traded_currencies">commonly-known currencies <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M3.25 4a.25.25 0 0 0-.25.25v9a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h.75V4.25c0-.966.784-1.75 1.75-1.75h9.5c.966 0 1.75.784 1.75 1.75v8.25h.75a.75.75 0 0 1 0 1.5h-1.5a.75.75 0 0 1-.75-.75v-9a.25.25 0 0 0-.25-.25h-9.5z"/><path d="m7.97 7.97-2.75 2.75a.75.75 0 1 0 1.06 1.06l2.75-2.75 1.543 1.543a.25.25 0 0 0 .427-.177V6.25a.25.25 0 0 0-.25-.25H6.604a.25.25 0 0 0-.177.427L7.97 7.97z"/></svg></span></a> like the USA dollar (USD), Euro (EUR), or Japanese yen (JPY).</li>
 <li>For units of measure, use the <a href="https://en.wikipedia.org/wiki/Metric_system">metric system <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M3.25 4a.25.25 0 0 0-.25.25v9a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h.75V4.25c0-.966.784-1.75 1.75-1.75h9.5c.966 0 1.75.784 1.75 1.75v8.25h.75a.75.75 0 0 1 0 1.5h-1.5a.75.75 0 0 1-.75-.75v-9a.25.25 0 0 0-.25-.25h-9.5z"/><path d="m7.97 7.97-2.75 2.75a.75.75 0 1 0 1.06 1.06l2.75-2.75 1.543 1.543a.25.25 0 0 0 .427-.177V6.25a.25.25 0 0 0-.25-.25H6.604a.25.25 0 0 0-.177.427L7.97 7.97z"/></svg></span></a>.</li>
 </ul>
-<h2 id="links">Links</h2>
+<h2 id="links">Links<a class="headerlink" href="#links" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Use links to refer to other articles in the Status documentation, but don't abuse them. Don't make the text look like a Wikipedia article with a link on every sentence.</li>
 <li>Limit the links for sources outside the Status documentation.</li>
@@ -1294,26 +1437,26 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Visit <a href="https://status.im/get">status.im/get <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M3.25 4a.25.25 0 0 0-.25.25v9a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h.75V4.25c0-.966.784-1.75 1.75-1.75h9.5c.966 0 1.75.784 1.75 1.75v8.25h.75a.75.75 0 0 1 0 1.5h-1.5a.75.75 0 0 1-.75-.75v-9a.25.25 0 0 0-.25-.25h-9.5z"/><path d="m7.97 7.97-2.75 2.75a.75.75 0 1 0 1.06 1.06l2.75-2.75 1.543 1.543a.25.25 0 0 0 .427-.177V6.25a.25.25 0 0 0-.25-.25H6.604a.25.25 0 0 0-.177.427L7.97 7.97z"/></svg></span></a>.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Visit <a href="https://status.im/get">status.im/get <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M3.25 4a.25.25 0 0 0-.25.25v9a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h.75V4.25c0-.966.784-1.75 1.75-1.75h9.5c.966 0 1.75.784 1.75 1.75v8.25h.75a.75.75 0 0 1 0 1.5h-1.5a.75.75 0 0 1-.75-.75v-9a.25.25 0 0 0-.25-.25h-9.5z"/><path d="m7.97 7.97-2.75 2.75a.75.75 0 1 0 1.06 1.06l2.75-2.75 1.543 1.543a.25.25 0 0 0 .427-.177V6.25a.25.25 0 0 0-.25-.25H6.604a.25.25 0 0 0-.177.427L7.97 7.97z"/></svg></span></a>.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Visit <a href="https://status.im/get">https://status.im/get <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M3.25 4a.25.25 0 0 0-.25.25v9a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h.75V4.25c0-.966.784-1.75 1.75-1.75h9.5c.966 0 1.75.784 1.75 1.75v8.25h.75a.75.75 0 0 1 0 1.5h-1.5a.75.75 0 0 1-.75-.75v-9a.25.25 0 0 0-.25-.25h-9.5z"/><path d="m7.97 7.97-2.75 2.75a.75.75 0 1 0 1.06 1.06l2.75-2.75 1.543 1.543a.25.25 0 0 0 .427-.177V6.25a.25.25 0 0 0-.25-.25H6.604a.25.25 0 0 0-.177.427L7.97 7.97z"/></svg></span></a>.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Visit <a href="https://status.im/get">https://status.im/get <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M3.25 4a.25.25 0 0 0-.25.25v9a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h.75V4.25c0-.966.784-1.75 1.75-1.75h9.5c.966 0 1.75.784 1.75 1.75v8.25h.75a.75.75 0 0 1 0 1.5h-1.5a.75.75 0 0 1-.75-.75v-9a.25.25 0 0 0-.25-.25h-9.5z"/><path d="m7.97 7.97-2.75 2.75a.75.75 0 1 0 1.06 1.06l2.75-2.75 1.543 1.543a.25.25 0 0 0 .427-.177V6.25a.25.25 0 0 0-.25-.25H6.604a.25.25 0 0 0-.177.427L7.97 7.97z"/></svg></span></a>.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Check the "Safely open apps on your Mac" article at <a href="https://support.apple.com/en-us/HT202491">https://support.apple.com/en-us/HT202491</a></td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Check the "Safely open apps on your Mac" article at <a href="https://support.apple.com/en-us/HT202491">https://support.apple.com/en-us/HT202491</a></td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Check <a href="https://support.apple.com/en-us/HT202491">https://support.apple.com/en-us/HT202491</a> on the Apple Support website.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Check <a href="https://support.apple.com/en-us/HT202491">https://support.apple.com/en-us/HT202491</a> on the Apple Support website.</td>
 </tr>
 </tbody>
 </table>
@@ -1327,7 +1470,7 @@
 <p class="admonition-title">Note</p>
 <p>To manage URL in the Status documentation, we use a single file per language with all the internal and external links. Refer to the <a href="https://github.com/status-im/help.status.im/blob/master/CONTRIBUTING.md" target="_blank">Contributing <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M3.25 4a.25.25 0 0 0-.25.25v9a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h.75V4.25c0-.966.784-1.75 1.75-1.75h9.5c.966 0 1.75.784 1.75 1.75v8.25h.75a.75.75 0 0 1 0 1.5h-1.5a.75.75 0 0 1-.75-.75v-9a.25.25 0 0 0-.25-.25h-9.5z"/><path d="m7.97 7.97-2.75 2.75a.75.75 0 1 0 1.06 1.06l2.75-2.75 1.543 1.543a.25.25 0 0 0 .427-.177V6.25a.25.25 0 0 0-.25-.25H6.604a.25.25 0 0 0-.177.427L7.97 7.97z"/></svg></span></a> guide for information about using links in your document.</p>
 </div>
-<h2 id="ui-elements">UI elements</h2>
+<h2 id="ui-elements">UI elements<a class="headerlink" href="#ui-elements" title="Permanent link">&para;</a></h2>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 <p>For readability, the examples in other sections don't use these UI elements conventions.</p>
@@ -1340,18 +1483,18 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">You can use the Share button to send pictures or documents:</br>1. Tap <strong>Messages</strong>.</br>2. Choose the picture and tap <strong>Share</strong>.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">You can use the Share button to send pictures or documents:</br>1. Tap <strong>Messages</strong>.</br>2. Choose the picture and tap <strong>Share</strong>.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">You can use the <strong>Share</strong> button to send pictures or documents:</br>1. Tap on the <strong>Messages</strong> button.</br>2. Choose the picture and tap <strong>Share</strong>.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">You can use the <strong>Share</strong> button to send pictures or documents:</br>1. Tap on the <strong>Messages</strong> button.</br>2. Choose the picture and tap <strong>Share</strong>.</td>
 </tr>
 </tbody>
 </table>
@@ -1364,30 +1507,30 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">To publish your token, select <strong>Publish</strong>.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">To publish your token, select <strong>Publish</strong>.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">To publish your token, select the <strong>Publish</strong> button.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">To publish your token, select the <strong>Publish</strong> button.</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">On the <strong>Permission</strong> pop-up menu, tap the <strong>Write</strong> permission.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">On the <strong>Permission</strong> pop-up menu, tap the <strong>Write</strong> permission.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">On the <strong>Permissions</strong> pop-up, tap the <strong>Write</strong> permission.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">On the <strong>Permissions</strong> pop-up, tap the <strong>Write</strong> permission.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">On <strong>Permissions</strong>, tap the <strong>Write</strong> permission.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">On <strong>Permissions</strong>, tap the <strong>Write</strong> permission.</td>
 </tr>
 </tbody>
 </table>
@@ -1397,18 +1540,18 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">On the <strong>Wallet</strong> screen, tap <strong>New</strong> to create a new wallet.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">On the <strong>Wallet</strong> screen, tap <strong>New</strong> to create a new wallet.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">On the <strong>Wallet</strong> window, tap <strong>New</strong> to create a new wallet.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">On the <strong>Wallet</strong> window, tap <strong>New</strong> to create a new wallet.</td>
 </tr>
 </tbody>
 </table>
@@ -1418,18 +1561,18 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">On the <strong>Contacts</strong> screen, select <strong>All</strong> under the <strong>Filter</strong> area.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">On the <strong>Contacts</strong> screen, select <strong>All</strong> under the <strong>Filter</strong> area.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">On the <strong>Contacts</strong> screen, select <strong>All</strong> under the <strong>Filter</strong> section.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">On the <strong>Contacts</strong> screen, select <strong>All</strong> under the <strong>Filter</strong> section.</td>
 </tr>
 </tbody>
 </table>
@@ -1480,24 +1623,24 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Go to <strong>Settings</strong> &gt; <strong>Messages</strong> &gt; <strong>Privacy</strong>.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Go to <strong>Settings</strong> &gt; <strong>Messages</strong> &gt; <strong>Privacy</strong>.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Go to <strong>Settings</strong>, then go to <strong>Messages</strong>, then tap <strong>Privacy</strong>.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Go to <strong>Settings</strong>, then go to <strong>Messages</strong>, then tap <strong>Privacy</strong>.</td>
 </tr>
 </tbody>
 </table>
 </li>
 </ul>
-<h2 id="admonitions-callouts">Admonitions (callouts)</h2>
+<h2 id="admonitions-callouts">Admonitions (callouts)<a class="headerlink" href="#admonitions-callouts" title="Permanent link">&para;</a></h2>
 <ul>
 <li>
 <p>Status documentation uses three different types of callouts or admonitions:</p>
@@ -1534,7 +1677,7 @@
 </ul>
 </li>
 </ul>
-<h2 id="iconography">Iconography</h2>
+<h2 id="iconography">Iconography<a class="headerlink" href="#iconography" title="Permanent link">&para;</a></h2>
 <p>The Status documentation uses the application icons to guide readers' actions on the app.</p>
 <ul>
 <li>A document with many icons is harder to follow and scan. Therefore, use icons selectively, and only when it's unclear where to select or tap.</li>
@@ -1546,7 +1689,7 @@
 </code></pre></div>
 </li>
 </ul>
-<h2 id="modal-verbs">Modal verbs</h2>
+<h2 id="modal-verbs">Modal verbs<a class="headerlink" href="#modal-verbs" title="Permanent link">&para;</a></h2>
 <p>Modal verbs are auxiliary verbs that modify the meaning of the main verb in a sentence. Modal verbs can be problematic in technical communication:</p>
 <ul>
 <li>Some modal verbs create a sense of uncertainty in readers.</li>
@@ -1555,18 +1698,18 @@
 <table>
 <thead>
 <tr>
-<th align="left">Tone</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Tone</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left">Bossy</td>
-<td align="left">You should save your seed phrase in a secure location.</td>
+<td style="text-align: left;">Bossy</td>
+<td style="text-align: left;">You should save your seed phrase in a secure location.</td>
 </tr>
 <tr>
-<td align="left"><strong>Assertive</strong></td>
-<td align="left">Save your seed phrase in a secure location.</td>
+<td style="text-align: left;"><strong>Assertive</strong></td>
+<td style="text-align: left;">Save your seed phrase in a secure location.</td>
 </tr>
 </tbody>
 </table>
@@ -1576,62 +1719,62 @@
 <table>
 <thead>
 <tr>
-<th align="left">Modal verb</th>
-<th align="left">Usage</th>
+<th style="text-align: left;">Modal verb</th>
+<th style="text-align: left;">Usage</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left">can</td>
-<td align="left">Use it to express the possibility of the user to do something, like when you're introducing a new concept or functionality. Example: You can create multiple wallets for different purposes.</td>
+<td style="text-align: left;">can</td>
+<td style="text-align: left;">Use it to express the possibility of the user to do something, like when you're introducing a new concept or functionality. Example: You can create multiple wallets for different purposes.</td>
 </tr>
 <tr>
-<td align="left">should</td>
-<td align="left">Don't use. Use the imperative form of the verb instead.</td>
+<td style="text-align: left;">should</td>
+<td style="text-align: left;">Don't use. Use the imperative form of the verb instead.</td>
 </tr>
 <tr>
-<td align="left">must</td>
-<td align="left">Use it very selectively and only when it's strictly necessary for the user to do something to avoid data or funds loss, data corruption, or unintended information disclosure.</td>
+<td style="text-align: left;">must</td>
+<td style="text-align: left;">Use it very selectively and only when it's strictly necessary for the user to do something to avoid data or funds loss, data corruption, or unintended information disclosure.</td>
 </tr>
 <tr>
-<td align="left">could, should, would, might</td>
-<td align="left">Don't use.</td>
+<td style="text-align: left;">could, should, would, might</td>
+<td style="text-align: left;">Don't use.</td>
 </tr>
 </tbody>
 </table>
 </li>
 </ul>
-<h2 id="possessive-form">Possessive form</h2>
+<h2 id="possessive-form">Possessive form<a class="headerlink" href="#possessive-form" title="Permanent link">&para;</a></h2>
 <ul>
 <li>
 <p>Use the possessive form with caution and avoid complex possessive forms like the <a href="https://www.grammarly.com/blog/possessive-case/" target="_blank">compound possessive <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M3.25 4a.25.25 0 0 0-.25.25v9a.75.75 0 0 1-.75.75H.75a.75.75 0 0 1 0-1.5h.75V4.25c0-.966.784-1.75 1.75-1.75h9.5c.966 0 1.75.784 1.75 1.75v8.25h.75a.75.75 0 0 1 0 1.5h-1.5a.75.75 0 0 1-.75-.75v-9a.25.25 0 0 0-.25-.25h-9.5z"/><path d="m7.97 7.97-2.75 2.75a.75.75 0 1 0 1.06 1.06l2.75-2.75 1.543 1.543a.25.25 0 0 0 .427-.177V6.25a.25.25 0 0 0-.25-.25H6.604a.25.25 0 0 0-.177.427L7.97 7.97z"/></svg></span></a>. Some non-native English readers may have problems understanding sentences with possessive forms.</p>
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">[...] your contact's status.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">[...] your contact's status.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">[...] your contact's verified status.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">[...] your contact's verified status.</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">[...] the verified status of the contact.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">[...] the verified status of the contact.</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">[...] the picture shared by you and your trusted contact.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">[...] the picture shared by you and your trusted contact.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">[...] you and your trusted contact's shared picture.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">[...] you and your trusted contact's shared picture.</td>
 </tr>
 </tbody>
 </table>
@@ -1641,18 +1784,18 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Check your contacts' list.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Check your contacts' list.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Check your contacts's list.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Check your contacts's list.</td>
 </tr>
 </tbody>
 </table>
@@ -1662,42 +1805,42 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Verify the contact's ENS name on the Status details screen.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Verify the contact's ENS name on the Status details screen.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Verify the contact's ENS name on the Status' details screen.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Verify the contact's ENS name on the Status' details screen.</td>
 </tr>
 </tbody>
 </table>
 </li>
 </ul>
-<h2 id="contractions">Contractions</h2>
+<h2 id="contractions">Contractions<a class="headerlink" href="#contractions" title="Permanent link">&para;</a></h2>
 <ul>
 <li>
 <p>Use contractions to make your text more casual.</p>
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Use</strong></td>
-<td align="left">you're / isn't / can't / it's / shouldn't</td>
+<td style="text-align: left;"><strong>Use</strong></td>
+<td style="text-align: left;">you're / isn't / can't / it's / shouldn't</td>
 </tr>
 <tr>
-<td align="left">Avoid</td>
-<td align="left">you are / is not / cannot / it is / should not</td>
+<td style="text-align: left;">Avoid</td>
+<td style="text-align: left;">you are / is not / cannot / it is / should not</td>
 </tr>
 </tbody>
 </table>
@@ -1706,7 +1849,7 @@
 <p>Avoid the <em>'d</em> (had or would) and <em>'ve</em> (have) contractions, as these may be difficult to understand for non-native speakers.</p>
 </li>
 </ul>
-<h2 id="global-writing">Global writing</h2>
+<h2 id="global-writing">Global writing<a class="headerlink" href="#global-writing" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Don't use idioms, colloquial expressions, and culture-specific references. When writing examples to make a feature or concept clear, don't use historical references, brand names, social or political events, or any other topic that might be controversial or meaningless for a global audience.</li>
 <li>Observe the <a href="#numbers-date-and-time-currencies-and-units-of-measure">style rules for numbers, date and time, and units of measure</a>.</li>
@@ -1717,32 +1860,32 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Every file upload requires special permissions.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Every file upload requires special permissions.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">The file(s) upload requires special permissions.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">The file(s) upload requires special permissions.</td>
 </tr>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">This option returns each token on your list alphabetically.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">This option returns each token on your list alphabetically.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">This option returns the token(s) on your list alphabetically.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">This option returns the token(s) on your list alphabetically.</td>
 </tr>
 </tbody>
 </table>
 </li>
 </ul>
-<h2 id="other-style-conventions">Other style conventions</h2>
+<h2 id="other-style-conventions">Other style conventions<a class="headerlink" href="#other-style-conventions" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Use everyday language. Don't use jargon, technicalities, flowery or made-up words, or wordy constructions.</li>
 <li>It's OK to repeat important information through the text. Readers scan the content; they don't read the content. So there are chances they miss this important information.</li>
@@ -1755,14 +1898,14 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Want to personalize and customize your profile for how it appears to other Community members? If so, follow these instructions below!</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Want to personalize and customize your profile for how it appears to other Community members? If so, follow these instructions below!</td>
 </tr>
 </tbody>
 </table>
@@ -1776,18 +1919,18 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">You can easily set up your community.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">You can easily set up your community.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Using our app, you can mint your NFTs in no time.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Using our app, you can mint your NFTs in no time.</td>
 </tr>
 </tbody>
 </table>
@@ -1797,18 +1940,18 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Execute the command <code>shutdown -h now</code> to shut down the server.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Execute the command <code>shutdown -h now</code> to shut down the server.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">Execute the command <code>shutdown -h now</code> to shut the server down.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">Execute the command <code>shutdown -h now</code> to shut the server down.</td>
 </tr>
 </tbody>
 </table>
@@ -1818,24 +1961,24 @@
 <table>
 <thead>
 <tr>
-<th align="left">Usage</th>
-<th align="left">Example</th>
+<th style="text-align: left;">Usage</th>
+<th style="text-align: left;">Example</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>Correct</strong></td>
-<td align="left">Here you can find the list of keyboard shortcuts.</td>
+<td style="text-align: left;"><strong>Correct</strong></td>
+<td style="text-align: left;">Here you can find the list of keyboard shortcuts.</td>
 </tr>
 <tr>
-<td align="left">Incorrect</td>
-<td align="left">In the following section, you can find the list of keyboard shortcuts.</td>
+<td style="text-align: left;">Incorrect</td>
+<td style="text-align: left;">In the following section, you can find the list of keyboard shortcuts.</td>
 </tr>
 </tbody>
 </table>
 </li>
 </ul>
-<h2 id="common-words-usage">Common words usage</h2>
+<h2 id="common-words-usage">Common words usage<a class="headerlink" href="#common-words-usage" title="Permanent link">&para;</a></h2>
 <ul>
 <li>For spelling differences between British and American English, use the American English variant.</li>
 <li>Don't use Latin abbreviations like <em>e.g.</em>, <em>etc.</em> or <em>i.e.</em> Use an English equivalent, like <em>for example</em>, <em>and so on</em>, or <em>that is</em>.</li>
@@ -1844,109 +1987,124 @@
 <table>
 <thead>
 <tr>
-<th align="left">Don't use</th>
-<th align="left">Use</th>
+<th style="text-align: left;">Don't use</th>
+<th style="text-align: left;">Use</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left">cannot</td>
-<td align="left">can't</td>
+<td style="text-align: left;">cannot</td>
+<td style="text-align: left;">can't</td>
 </tr>
 <tr>
-<td align="left">make sure</td>
-<td align="left">ensure</td>
+<td style="text-align: left;">make sure</td>
+<td style="text-align: left;">ensure</td>
 </tr>
 <tr>
-<td align="left">have to</td>
-<td align="left">must (see <a href="#modal-verbs">Modal verbs</a>)</td>
+<td style="text-align: left;">have to</td>
+<td style="text-align: left;">must (see <a href="#modal-verbs">Modal verbs</a>)</td>
 </tr>
 <tr>
-<td align="left">in order to</td>
-<td align="left">to</td>
+<td style="text-align: left;">in order to</td>
+<td style="text-align: left;">to</td>
 </tr>
 <tr>
-<td align="left">Who, Whose</td>
-<td align="left">Replace the pronoun with the noun.</td>
+<td style="text-align: left;">Who, Whose</td>
+<td style="text-align: left;">Replace the pronoun with the noun.</td>
 </tr>
 <tr>
-<td align="left">&amp;</td>
-<td align="left">and</td>
+<td style="text-align: left;">&amp;</td>
+<td style="text-align: left;">and</td>
 </tr>
 <tr>
-<td align="left">time stamp</td>
-<td align="left">timestamp</td>
+<td style="text-align: left;">time stamp</td>
+<td style="text-align: left;">timestamp</td>
 </tr>
 <tr>
-<td align="left">web site</td>
-<td align="left">website</td>
+<td style="text-align: left;">web site</td>
+<td style="text-align: left;">website</td>
 </tr>
 <tr>
-<td align="left">application</td>
-<td align="left">app</td>
+<td style="text-align: left;">application</td>
+<td style="text-align: left;">app</td>
 </tr>
 <tr>
-<td align="left">check box</td>
-<td align="left">checkbox</td>
+<td style="text-align: left;">check box</td>
+<td style="text-align: left;">checkbox</td>
 </tr>
 <tr>
-<td align="left">run (an app)</td>
-<td align="left">launch (an app)</td>
+<td style="text-align: left;">run (an app)</td>
+<td style="text-align: left;">launch (an app)</td>
 </tr>
 <tr>
-<td align="left">cryptocurrency</td>
-<td align="left">crypto</td>
+<td style="text-align: left;">cryptocurrency</td>
+<td style="text-align: left;">crypto</td>
 </tr>
 <tr>
-<td align="left">Defi</td>
-<td align="left">DeFi</td>
+<td style="text-align: left;">Defi</td>
+<td style="text-align: left;">DeFi</td>
 </tr>
 <tr>
-<td align="left">Dapp, dApp</td>
-<td align="left">DApp</td>
+<td style="text-align: left;">Dapp, dApp</td>
+<td style="text-align: left;">DApp</td>
 </tr>
 <tr>
-<td align="left">MacOS</td>
-<td align="left">macOS</td>
+<td style="text-align: left;">MacOS</td>
+<td style="text-align: left;">macOS</td>
 </tr>
 <tr>
-<td align="left">Macintosh</td>
-<td align="left">Mac</td>
+<td style="text-align: left;">Macintosh</td>
+<td style="text-align: left;">Mac</td>
 </tr>
 <tr>
-<td align="left">GNU Linux</td>
-<td align="left">Linux</td>
+<td style="text-align: left;">GNU Linux</td>
+<td style="text-align: left;">Linux</td>
 </tr>
 <tr>
-<td align="left">Apple Silicon</td>
-<td align="left">Apple silicon</td>
+<td style="text-align: left;">Apple Silicon</td>
+<td style="text-align: left;">Apple silicon</td>
 </tr>
 <tr>
-<td align="left">Intel (processor)</td>
-<td align="left">Intel processor</td>
+<td style="text-align: left;">Intel (processor)</td>
+<td style="text-align: left;">Intel processor</td>
 </tr>
 </tbody>
 </table>
 </li>
 </ul>
-<h2 id="brand-guidelines">Brand guidelines</h2>
+<h2 id="brand-guidelines">Brand guidelines<a class="headerlink" href="#brand-guidelines" title="Permanent link">&para;</a></h2>
 <p>(to do)</p>
 <p><br><a class="md-button" href="https://github.com/status-im/help.status.im/blob/master/CONTRIBUTING.md"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M5.75 21a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5zM2.5 19.25a3.25 3.25 0 1 0 6.5 0 3.25 3.25 0 0 0-6.5 0zM5.75 6.5a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5zM2.5 4.75a3.25 3.25 0 1 0 6.5 0 3.25 3.25 0 0 0-6.5 0zM18.25 6.5a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5zM15 4.75a3.25 3.25 0 1 0 6.5 0 3.25 3.25 0 0 0-6.5 0z"/><path fill-rule="evenodd" d="M5.75 16.75A.75.75 0 0 0 6.5 16V8A.75.75 0 0 0 5 8v8c0 .414.336.75.75.75z"/><path fill-rule="evenodd" d="M17.5 8.75v-1H19v1a3.75 3.75 0 0 1-3.75 3.75h-7a1.75 1.75 0 0 0-1.75 1.75H5A3.25 3.25 0 0 1 8.25 11h7a2.25 2.25 0 0 0 2.25-2.25z"/></svg></span> Contribute to our docs</a></br></p>
 
-  <hr>
-<div class="md-source-file">
-  <small>
+  
     
-      Last update:
-      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 17, 2022</span>
-      
+  
+  
+
+
+  <aside class="md-source-file">
     
-  </small>
-</div>
+      <span class="md-source-file__fact">
+        <span class="md-icon" title="Date of last update">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
+        </span>
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 22, 2022</span>
+      </span>
+    
+    
+    
+    
+  </aside>
+
+
+
+  
+
 
               
             </article>
             
+<script>var input,hash=location.hash.slice(1);hash.startsWith("__tabbed_")&&((input=document.getElementById(hash)).checked=!0)</script>
           </div>
         </div>
         
@@ -1993,7 +2151,7 @@
   
     Made with
     <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
-      Material for MkDocs
+      Material for MkDocs Insiders
     </a>
   
 </div>
@@ -2031,10 +2189,11 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "..", "features": ["search.suggest", "search.highlight", "navigation.instant", "navigation.tabs", "navigation.tabs.sticky", "navigation.indexes", "navigation.top"], "search": "../assets/javascripts/workers/search.b97dbffb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["search.suggest", "search.highlight", "navigation.instant", "navigation.tabs", "navigation.tabs.sticky", "navigation.indexes", "navigation.top", "navigation.tracking"], "search": "../assets/javascripts/workers/search.720157f5.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
     
     
-      <script src="../assets/javascripts/bundle.0238f547.min.js"></script>
+      <script src="../assets/javascripts/bundle.15234abc.min.js"></script>
       
     
   </body>
