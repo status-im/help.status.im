@@ -377,12 +377,12 @@ The Status documentation uses the application icons to guide readers' actions on
 
 - Use icons in procedural steps to guide the user's actions.
 - Don't overuse icons. A document with many icons is harder to follow and scan.
-- If the UI element has a label, write the UI element's label and don't use the icon.
+- Write the icon first, and then the icon's label. If the icon doesn't show a label in the UI, use the icon's name (or any other name that represents the icon's function) and add this to the [Products and user interface](#product-and-user-interface-names) list.
 - Use the Status icons on the `/override/.icons/status` folder in the GitHub [user documentation repository :octicons-tab-external-16:][status-github-user-doc-repo]{:target="_blank"}.
-- To reference these icons anywhere on the Markdown file, use the `:icon-name:` notation right after the icon's name. For example, the Status wallet icon under the `.icons` directory is `status-wallet.svg`; to show this icon in a sentence, use:
+- To reference these icons anywhere on the Markdown file, use the `:icon-name:` notation right before the icon's name. For example, the Status wallet icon under the `.icons` directory is `status-wallet.svg`; to show this icon in a sentence, use:
 
     ```text
-    Tap Wallet :status-wallet: and save your settings.
+    Tap :status-wallet: Wallet and save your settings.
     ```
 
 ## Modal verbs
