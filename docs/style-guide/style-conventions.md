@@ -1,6 +1,6 @@
 ---
 id: 12
-revision: 5
+revision: 6
 hide:
   - navigation
 ---
@@ -540,6 +540,22 @@ Product and user interface names include:
 |:---|:---|
 | Status Communities | Include *Status* the first time you write about Communities in the body text. |
 | Activity Center | UI are where users can review and respond to activity notifications (:status-notification:) |
+
+### Status Desktop and Status Web main UI areas
+
+This picture describes the main user interface areas for Status Web and Status Desktop apps. Use this terminology to [describe user interface](#ui-elements) areas.
+
+![Description of the main user interface areas in the desktop and mobile apps](./style-conventions/12-6-1-light.png#only-light)
+![Description of the main user interface areas in the desktop and mobile apps](./style-conventions/12-6-1-dark.png#only-dark)
+
+| Area | Name convention |
+|:---|:---|
+| A | navigation bar |
+| B | [content] sidebar, where [content] depends on the element the user selects in the navigation bar.</br>For example, when the user clicks the *Settings* option in the navigation bar, this area is the *Settings sidebar*. When the user clicks the *Community* option, this is the *Community sidebar*. And so on. |
+| C | content area |
+| D | right sidebar |
+| E | channel information at the top of the content area |
+| F | pinned messages area |
 
 <br>[:octicons-git-branch-24: Contribute to our docs][contributors-guide]{ .md-button }</br>
 
