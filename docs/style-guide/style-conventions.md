@@ -304,14 +304,9 @@ Use links to other articles in the Status documentation, but don't abuse links. 
 !!! info
     For readability reasons, the examples in other sections don't use these UI elements conventions.
 
-- UI elements are screen components the user can interact with. A checkbox, a menu, or a button are all UI elements. An explanatory text with no user interaction is not considered a UI element in the context of this guide.
-- Write the UI element as seen on the screen, even if it contradicts the style conventions in this guide.
-- Use a bold typeface to write UI elements in procedural steps (1, 2, 3, and so on.) Don't use the bold typeface outside of the procedural steps.
+UI elements are screen components the user can interact with. A checkbox, a menu, or a button are all UI elements. An explanatory text with no user interaction is not considered a UI element in the context of this guide.
 
-    | Usage | Example |
-    |:---|:---|
-    | **Correct** | You can use the Share action to send pictures or documents:</br>1. Tap **Messages**.</br>2. Tap the picture and tap **Share**. |
-    | Incorrect | You can use the **Share** action to send pictures or documents:</br>1. Tap on the **Messages** button.</br>2. Choose the picture and tap **Share**. |
+### General guidelines
 
 - Don't write the UI control's type (button, drop-down menu, radio button, etc.), except when it isn't clear you're referring to the UI control. The exceptions to this rule are *pop-up menu* and *check the [...] box.*
 
@@ -323,38 +318,67 @@ Use links to other articles in the Status documentation, but don't abuse links. 
     | Incorrect   | On the **Permissions** pop-up, tap the **Write** permission.     |
     | Incorrect   | On **Permissions**, tap the **Write** permission.                |
 
-- Use *screen* to refer to the current screen in the Status app. Don't use *window*, *option*, or *dialog*.
+- Use a non-bolded greater-than sign (">") to guide users through different screens or options in the app. In particular, this is useful when users are moving between screens.
+
+    | Usage       | Example                                                            |
+    |:------------|:-------------------------------------------------------------------|
+    | **Correct** | Go to **Settings** > **Messages** > **Privacy**.                   |
+    | Incorrect   | Go to **Settings**, then go to **Messages**, then tap **Privacy**. |
+
+### Format guidelines
+
+- Format the UI element as seen on the screen, even if it contradicts the style conventions in this guide.
+- Use a bold typeface to write UI controls in procedural steps (1, 2, 3, and so on). Don't use the bold typeface outside of the procedural steps.
+
+    | Usage | Example |
+    |:---|:---|
+    | **Correct** | You can use the Share action to send pictures or documents:</br>1. Tap **Messages**.</br>2. Tap the picture and tap **Share**. |
+    | Incorrect | You can use the **Share** action to send pictures or documents:</br>1. Tap on the **Messages** button.</br>2. Choose the picture and tap **Share**. |
+
+- When you write UI areas or sidebars, use a bold typeface only for the visible part in the UI (check [Product names and user interface areas](#product-names-and-user-interface-areas) for a description of these areas.) Don't use the bold typeface outside of the procedural steps.
+
+    | **Usage**   | **Example**                                                      |
+    |:------------|:-----------------------------------------------------------------|
+    | **Correct** | From the navigation sidebar, click your profile picture.         |
+    | Incorrect   | From the **navigation sidebar**, click your **profile picture**. |
+    | **Correct** | From the **Settings** sidebar, click **Network Settings**.       |
+    | Incorrect   | From the Settings sidebar, click **Network Settings**.           |
+    | Incorrect   | From the **Settings sidebar**, click **Network Settings**.       |
+
+### Name conventions
+
+- Use *screen* (unbolded) to refer to the current screen in the Status app. Don't use *window*, *option*, or *dialog*.
 
     | Usage       | Example                                                       |
     |:------------|:--------------------------------------------------------------|
     | **Correct** | On the **Wallet** screen, tap **New** to create a new wallet. |
     | Incorrect   | On the **Wallet** window, tap **New** to create a new wallet. |
 
-- Use *area* to describe a particular group of elements on the current screen.
+- Use *area* or *sidebar* (unbolded) to describe a particular group of elements on the current screen. Don't use *section*, *panel*, or *pane*. Check the [Products and user interface names](#product-and-user-interface-names) section for a description of individual UI areas.
 
-    | Usage       | Example                                                                 |
-    |:------------|:------------------------------------------------------------------------|
-    | **Correct** | On the **Contacts** screen, click **All** under the **Filter** area.    |
-    | Incorrect   | On the **Contacts** screen, click **All** under the **Filter** section. |
+    | Usage       | Example                                                                  |
+    |:------------|:-------------------------------------------------------------------------|
+    | **Correct** | In the content area, right-click your message and and click **Edit**.    |
+    | Incorrect   | In the content panel, right-click your message and and click **Edit**. |
+    | **Correct** | From the navigation sidebar, click your profile picture.                 |
+    | Incorrect   | From the navigation section, click your profile picture.                 |
+    | Incorrect   | From the **navigation** sidebar, click your profile picture.                 |
 
-- When you describe a UI interaction, use these action verbs:
+### User actions
 
-    | Element | Style convention (desktop, web, and mobile) |
-    | --- | --- |
-    | Menu or screen | Use **go to**. |
-    | URL | For URLs, the verb depends on the user's intent:</br>- To complete another action (for example, to download something), use **visit**.</br>- To review the information on a different article or website, use **check**. |
-    | Single UI element | **click** (desktop and web) or **tap** (mobile). |
-    | Multiple UI elements | **choose** for desktop, web, and mobile. |
-    | Checkbox | **check** the [UI label] box (to enable) and **uncheck** the [UI label] box (to disable). |
-    | Screen navigation | To move to the previous screen, use **return**. |
-    | Element to discard | Use **swipe** [left or right] for desktop, web, and mobile. |
+When you describe a UI interaction, use these action verbs:
 
-- Use a non-bolded greater-than sign (">") to guide users through different screens or options in the app.
-
-    | Usage       | Example                                                            |
-    |:------------|:-------------------------------------------------------------------|
-    | **Correct** | Go to **Settings** > **Messages** > **Privacy**.                   |
-    | Incorrect   | Go to **Settings**, then go to **Messages**, then tap **Privacy**. |
+| Action | Style convention (desktop, web, and mobile) |
+|:---|:---|
+| Go to a menu or screen | Use *go to*. |
+| Click a URL | For URLs, the verb depends on the user's intent:</br>- To complete another action (for example, to download something), use *visit*.</br>- To review the information on a different article or website, use *check*. |
+| Click a single UI element | *click* (desktop and web) or *tap* (mobile). |
+| Click multiple UI elements | *choose* for desktop, web, and mobile. |
+| Acion on checkboxes | *check* the [UI label] box (to enable) / *uncheck* the [UI label] box (to disable). |
+| Go to previous screen | Use *return*. |
+| Swipe element | Use *swipe* [left or right] for desktop, web, and mobile. |
+| Long press | Use *long press* for mobile interactions when required. |
+| Right click | Use *right click* for desktop and web interactions when required. |
 
 ## Admonitions
 
@@ -528,7 +552,7 @@ Modal verbs are auxiliary verbs that modify the meaning of the main verb in a se
     | Apple Silicon     | Apple silicon                         |
     | Intel (processor) | Intel processor                       |
 
-## Product and user interface names
+## Product names and user interface areas
 
 Product and user interface names include:
 
@@ -536,21 +560,28 @@ Product and user interface names include:
 - Products and services that are part of the [Status Network :octicons-tab-external-16:](https://statusnetwork.com/){:target="_blank"} (for example, Keycard).
 - Areas in the Status apps user interface (like the Activity Center).
 
+!!! info
+    Observe the capitalization convention. For example, use *Activity Center* and not *activity center*.
+
 | Product/UI name | Notes |
 |:---|:---|
 | Status Communities | Include *Status* the first time you write about Communities in the body text. |
-| Activity Center | UI are where users can review and respond to activity notifications (:status-notification:) |
+| Activity Center | UI area where users can review and respond to activity notifications (:status-notification:) |
+| profile picture | Clickable UI element with the user's picture |
 
 ### Status Desktop and Status Web main UI areas
 
 This picture describes the main user interface areas for Status Web and Status Desktop apps. Use this terminology to [describe user interface](#ui-elements) areas.
+
+!!! info
+    To write UI areas or sidebars, use a bold typeface only for the visible part in the UI. Check the [format guidelines](#format-guidelines) in UI elements for more information.
 
 ![Description of the main user interface areas in the desktop and mobile apps](./style-conventions/12-6-1-light.png#only-light)
 ![Description of the main user interface areas in the desktop and mobile apps](./style-conventions/12-6-1-dark.png#only-dark)
 
 | Area | Name convention |
 |:---|:---|
-| A | navigation bar |
+| A | navigation sidebar |
 | B | [content] sidebar, where [content] depends on the element the user selects in the navigation bar.</br>For example, when the user clicks the *Settings* option in the navigation bar, this area is the *Settings sidebar*. When the user clicks the *Community* option, this is the *Community sidebar*. And so on. |
 | C | content area |
 | D | right sidebar |
