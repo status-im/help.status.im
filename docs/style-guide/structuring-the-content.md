@@ -158,11 +158,11 @@ A procedure describes how to complete an action using a series of steps. Procedu
 ### **Writing tasks**
 
 - If you introduce the task with a sentence (this is optional; see [Procedure structure](#procedure-structure)), don't repeat the title information. For example, if the task title is "Search for a contact using the Status display name," don't introduce the task with "To search for a contact using the Status display name [...]"
-- On the first step, tell the user where to start.
+- In the first step, tell the user where to start.
 - Follow the [UI elements guidelines](./style-conventions.md#ui-elements) to describe the user interactions.
 
     !!! info
-        For clarity purposes, the UI elements on these examples use a regular typeface.
+        For clarity purposes, the user interface elements in these examples don't follow the [UI guidelines](./style-conventions.md#ui-elements).
 
 - Use words consistently when describing user actions. For example, if you use *remove* in one step, don't use *clear*, *empty* or another synonym in a different step.
 - Don't describe to users what's happening on the screen, unless the result is unexpected.
