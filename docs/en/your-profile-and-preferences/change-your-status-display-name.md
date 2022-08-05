@@ -16,29 +16,29 @@ hide:
 Your Status display name is how you want people to know you. There are a few 
 ways to create a suitable name for your identity. You can change your display 
 name as many times as you want. Read more about Status names on the [About 
-Status **display names**]
-[about-status-display-names] page.
+your Status **display name**]
+[about-your-status-display-name] page.
 
 ### What to expect
 
 - Your name changes immediately.
-- You won't lose mutual verification with your contacts.
-- Your chatkey, emojihash, and identicon ring won't change.
+- You don't lose mutual verification with your contacts.
+- Your chatkey, emojihash, and identicon ring don't change.
 
 ## Change your Status display name
 
 === "Mobile"
 
-    1. At the main navigation bar, tap your avatar.
+    1. At the navigation bar, tap your avatar.
     1. Tap :status-profile: **Edit profile**.
     1. Tap on your name line.
     1. Edit your name and tap **Save**.
 
 === "Desktop"
 
-    1. Click your avatar.
+    1. At the navigation bar, click your avatar.
     1. Select **View My Profile**.
-    1. Click :status-edit-2: **Edit** near your current display name.
+    1. Next to your current display name click :status-edit-2: **Edit**.
     1. Write your new display name and click **Apply Changes**.
 
 <!---
@@ -50,18 +50,18 @@ Status **display names**]
     1. Edit your name and **Save** it.
 --->
 
+!!! note
+
+    Only the Status Desktop or Mobile app allows you to change the display name.
 
 ## Common questions
 
-### Can I use my ENS name for the Status display name?
+### Can I use my ENS name as a display name?
 
-Yes, you can.
+Yes, the Status Desktop or Mobile app allows using an ENS name instead of a 
+text name.
 
-### How long should my name be?
-
-A display name can't be more than 24 characters long.
-
-### Can I change the display name for some of my contacts?
+### Can I change display names for some of my contacts?
 
 Yes, you can change the display name for any of your contacts.
 
@@ -71,6 +71,7 @@ Yes, there are a few restrictions:
 
 - You can use only letters, numbers, underscores, and hyphens.
 - Usernames ending with `_eth` and `-eth` aren't allowed.
+- A display name has from 5 symbols minimum to 24 maximum.
 
 --8<-- "includes/urls-en.txt"
 
