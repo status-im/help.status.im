@@ -1,10 +1,9 @@
-language: en
 ---
 id: 169
 revision: 0
+language: en
 hide:
 - navigation
----
 
 # Your chatkey, emojihash, and identicon ring
 
