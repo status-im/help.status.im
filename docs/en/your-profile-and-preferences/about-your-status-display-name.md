@@ -13,14 +13,14 @@ hide:
 
 1. We're working on this page
 
-Your Status display name is how you want people to know you. It's the part 
+Your Status display name is how you want people to know you. It's the part
 of your identity along with the [chatkey, emojihash, and identicon ring]
-[your-chatkey-emojihash-and-identicon-ring]. You have several ways to make 
+[your-chatkey-emojihash-and-identicon-ring]. You have several ways to make
 the display name suitable for you.
 
-During the onboarding process, type your display name in the text format. Later 
-you can change it any time. See the page 
-[**Change** your Status **display name**][change-your-status-display-name] 
+During the onboarding process, type your display name in the text format. Later
+you can change it any time. See the page
+[**Change** your Status **display name**][change-your-status-display-name]
 to learn how you can do it.
 
 ### The basics
@@ -34,21 +34,27 @@ to learn how you can do it.
 - The Status ENS name is the ENS name with the Status prefix. The Status app
   offers to use the `.stateofus.eth` domain for your Status ENS name.
 
-- You can add your ENS name or make the Status ENS name using the Status 
+- You can add your ENS name or make the Status ENS name using the Status
   Desktop or Mobile app.
 
 ## ENS names vs. text name
 
-- An ENS name or the Status ENS name can replace your text display name in 
+- An ENS name or the Status ENS name can replace your text display name in
   chats.
 
 - The text name is free of charge.
 
-- An ENS name costs from 5$ annually and has the limits of ownership.
+- An ENS name costs from 5$ annually and has limits of ownership.
 
-- The Status ENS name costs 10SNT for a year. After the first year of 
-  ownership, you can return your funds. Thus, the Status ENS name is free 
-  for you and stays with you forever.
+- The Status ENS name costs 10SNT for a year. After the first year of
+  ownership, you can return your funds. Thus, the Status ENS name is free
+  of charge for a year and stays with you forever.
+
+- By using an ENS or Status ENS name, you can make your display name unique. 
+  In any Community, users can use identical text names as a display name.
+
+Read more about Status ENS names on the [Make your Status ENS name]
+[make-your-status-ens-name] page.
 
 ### Limitations of the text display name
 
@@ -61,3 +67,4 @@ There are a few simple rules for the Display name:
 
 
 --8<-- "includes/urls-en.txt"
+
