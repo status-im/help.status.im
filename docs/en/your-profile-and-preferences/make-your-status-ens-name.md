@@ -1,12 +1,12 @@
 language: en
 ---
-id: 169
+id: 208
 revision: 0
 hide:
 - navigation
 ---
 
-# Your chatkey, emojihash, and identicon ring
+# Make your Status ENS name
 
 :octicons-rocket-16: Coming soon! (1)
 { .annotate }
