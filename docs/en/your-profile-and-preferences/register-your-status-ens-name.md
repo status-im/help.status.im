@@ -6,7 +6,7 @@ hide:
 - navigation
 ---
 
-# Make your Status ENS name
+# Register your Status ENS name
 
 :octicons-rocket-16: Coming soon! (1)
 { .annotate }

@@ -59,9 +59,9 @@ your Status display name]
 ### Can I use my ENS name as a display name?
 
 Yes, the Status Desktop or Mobile app allows using an ENS name instead of a 
-text name. Read more about Status ENS names on the [Make
+text name. Read more about Status ENS names on the [Register
 your Status ENS name]
-[make-your-status-ens-name] page.
+[register-your-status-ens-name] page.
 
 ### Can I change display names for some of my contacts?
 

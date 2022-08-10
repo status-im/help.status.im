@@ -20,7 +20,7 @@ the display name suitable for you.
 
 During the onboarding process, type your display name in the text format. Later
 you can change it any time. See the page
-[**Change** your Status **display name**][change-your-status-display-name]
+[Change your Status display name][change-your-status-display-name]
 to learn how you can do it.
 
 ### The basics
@@ -53,9 +53,10 @@ to learn how you can do it.
 - By using an ENS or Status ENS name, you can make your display name unique. 
   In any Community, users can use identical text names as a display name.
 
-Read more about Status ENS names on the [Make your Status ENS name]
-[make-your-status-ens-name] page.
+Read more about Status ENS names on the [Register your Status ENS name]
+[register-your-status-ens-name] page.
 
+<!---
 ### Limitations of the text display name
 
 There are a few simple rules for the Display name:
@@ -63,7 +64,7 @@ There are a few simple rules for the Display name:
 - You can use only letters, numbers, underscores, and hyphens.
 - Usernames ending with `_eth` and `-eth` aren't allowed.
 - A display name can't be more than 24 characters long.
-
+--->
 
 
 --8<-- "includes/urls-en.txt"
