@@ -148,6 +148,10 @@ nav:
   - Using Status:
     - using-status/index.md
     - using-status/direct-messages.md
+    - Message features and tools:
+      - Edit and delete your messages: using-status/edit-delete-messages
+    - Format and style messages:
+      - Format your messages: using-status/format-your-messages
   - Communities:
     - status-communities/index.md
     - Status Communities:

@@ -7,9 +7,13 @@ hide:
 
 ## Direct messages
 
-## Groups
+## Chat groups
 
 ## Message features and tools
+
+## Format and style messages
+
+- [**Format** your messages][format-your-messages]
 
 ## Share files and conversations
 
