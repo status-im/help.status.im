@@ -75,6 +75,7 @@ markdown_extensions:
   - tables
   - pymdownx.details
   - pymdownx.keys
+  - pymdownx.tilde
   - pymdownx.smartsymbols
   - pymdownx.superfences
   - pymdownx.tabbed:
