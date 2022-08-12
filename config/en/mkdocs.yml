@@ -150,13 +150,15 @@ nav:
     - using-status/index.md
     - using-status/direct-messages.md
     - Message features and tools:
-      - Edit and delete your messages: using-status/edit-delete-messages
+      - Edit and delete your messages: using-status/edit-and-delete-your-messages.md
     - Format and style messages:
-      - Format your messages: using-status/format-your-messages
+      - Format your messages: using-status/format-your-messages.md
   - Communities:
     - status-communities/index.md
     - Status Communities:
       - Join a Status Community: status-communities/join-a-status-community.md
+    - Status Web:
+      - Understand throwaway profiles in Status Web: status-communities/understand-throwaway-profiles-in-status-web.md
   - Wallet:
     - status-wallet/index.md
   - Your profile:
