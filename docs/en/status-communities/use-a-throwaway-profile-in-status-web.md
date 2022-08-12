@@ -7,43 +7,57 @@ hide:
 
 # Use a throwaway profile in Status Web
 
+:octicons-beaker-24: Experimental (1)
+{ .annotate }
+
+1. This is an experimental feature. This information may be incomplete or not work as expected.
+
 !!! note ""
     Throwaway profiles are only available in Status Web.
 
-A throwaway profile is a disposable Status profile that you can use to join Communities in Status Web. Using a throwaway profile can be helpful when you want to participate in a Status Web Community without revealing your identity. Because the throwaway profile is not linked to any identifiable information or other Status profile you may have, your identity remains anonymous.
+Use a [throwaway profile][understand-throwaway-profiles] when you want to participate in a Status Web Community without revealing your identity. A throwaway profile is not linked to any identifiable information or other Status profile you may have.
 
-You may want to use a throwaway profile for different reasons. For example:
-
-- You want to discuss sensitive or personal information anonymously.
-- To participate in a Status Web Community without revealing your identity.
-- You want to write about an embarrassing or stigmatizing topic.
-
-## About throwaway profiles in Status Web
-
-When you use a throwaway profile, Status Web assigns a randomly generated profile using three words: adjective, adjective, and animal name. This mechanism uses significant randomization and preservers user anonymity.
-
-A throwaway profile protects your identity from others. However, people may find your real identity based on the information you share.
-
-## Use a throwaway profile in Status Web
+## Use a throwaway profile
 
 === "Web"
 
     1. Using your browser, open the Status Web Community you want to join.
     1. From the Community sidebar, click **Use throwaway profile**.
-    1. In the top-right corner, click :status-group-chat: **Members**.
-    
-    Your throwaway profile name appears on the right sidebar and on top of messages you write.
+    1. If you see the **Throwaway profile found** pop-up, click **Load throwaway profile** to use the existing profile or click **Skip** to create a new one.
+    1. In the top-right corner, click :status-group-chat: **Members**. Your throwaway profile name appears on the right sidebar.
+
+## Disconnect your throwaway profile
+
+The throwaway profile information remains in your browser cache and persists across browser sessions and computer restarts. To delete this information, disconnect your profile.
+
+=== "Web"
+
+    1. From the right sidebar, click :status-log-out: **logout** next to your profile name.
+    1. On the **Disconnect** pop-up, click **Disconnect**.
+
+!!! tip
+    You can also delete the throwaway profile information by clearing your browser cache.
 
 ## Common questions
 
-### Is a throwaway account really private?
+### What are the three words in my profile?
 
-Status doesn't collect information about you, but your internet service provider and browser can collect identifiable information (like your IP address). So don't use a throwaway account for anything illegal, dangerous, or hateful.
+These words represent your throwaway profile and identity in Status Web. These are randomly generated words.
 
-### How can I delete my throwaway account information?
+### Is my throwaway profile really anonymous?
 
-The throwaway profile information remains in your browser and persists across browser sessions and operating system reboots. Therefore, to completely delete any trace of your throwaway account, you should clear your browser's cache.
+A throwaway profile protects your real identity while using Status Web. However, your internet service provider and browser can still collect identifiable information (like your IP address). Status doesn't collect information about you or your activity.
 
-### Is there any limit to the number of throwaway account I can use?
+### Where is the throwaway profile information stored?
+
+Your browser cache stores your throwaway profile. You can delete this information by disconnecting your profile, clearing the cache, or using your browser incognito or private mode.
+
+### I accidentally deleted my throwaway profile. Can I recover it?
+
+No. Deleting a throwaway profile is an irreversible process.
+
+### Can I use more than one throwaway profile?
+
+There is only one throwaway profile per browser. If you want to use a new throwaway profile, delete the existing one or use a different browser.
 
 --8<-- "includes/urls-en.txt"
