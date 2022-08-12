@@ -1,6 +1,6 @@
 ---
 id: 12
-revision: 7
+revision: 8
 hide:
   - navigation
 ---
@@ -380,6 +380,8 @@ When you describe a UI interaction, use these action verbs:
 | Swipe element | Use *swipe* [left or right] for desktop, web, and mobile. |
 | Long press | Use *long press* for mobile interactions when required. |
 | Right click | Use *right click* for desktop and web interactions when required. |
+| Start session | Use *log in* (verb) or *login* (noun) for desktop, web, and mobile. |
+| End session | Use *log out* (verb) or *logout* (noun) for desktop, web, and mobile. |
 
 ## Admonitions
 
@@ -467,6 +469,8 @@ Modal verbs are auxiliary verbs that modify the meaning of the main verb in a se
     |:------------|:-------------------------------------------------------------|
     | **Correct** | Verify the contact's ENS name on the Status details screen.  |
     | Incorrect   | Verify the contact's ENS name on the Status' details screen. |
+    | **Correct** | Your profile information stays in your browser cache.        |
+    | Incorrect   | Your profile information stays in your browser's cache.      |
 
 ## Contractions
 
