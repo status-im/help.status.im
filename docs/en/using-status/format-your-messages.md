@@ -32,7 +32,7 @@ You can use markup options to format your text in the Status desktop and mobile 
 |:---|:---|:---|:---|
 | bold | Surround your text with double asterisks. | \*\*your message\*\* | **your message** |
 | italic | Surround your text with single asterisks or underscores. | \*your message\*</br>\_your message\_ | *your message* |
-| strikethrough | Surround your text with tildes. | \~~your message\~~ | ~~your message~~ |
+| strikethrough | Surround your text with double tildes. | \~~your message\~~ | ~~your message~~ |
 | quoted text | Add a greater-than sign in front of your text. | > your quoted message | <blockquote>your quoted message</blockquote> |
 | code | Surround your text with backticks. | \`your code\` | `your code` |
 | code block | Add three backticks before and after the code block. | \```your code</br>block\``` | ```your code```</br>```block``` |
