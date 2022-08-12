@@ -16,27 +16,23 @@ hide:
 !!! note ""
     Throwaway profiles are only available in Status Web.
 
-A throwaway profile is a disposable Status profile that you can use to join Communities in Status Web. Using a throwaway profile can be helpful when you want to participate in a Status Web Community without revealing your identity. Because the throwaway profile is not linked to any identifiable information or other Status profile you may have, your identity remains anonymous.
+A throwaway profile is a disposable Status profile that you can use to join Communities in Status Web. You can [use a throwaway profile][use-throwaway-web-profile] to join a Status Web Community without revealing your identity. Because the throwaway profile is not linked to any identifiable information or other Status profile you may have, your identity remains anonymous.
 
 You may want to use a throwaway profile for different reasons. For example:
 
 - Discussing sensitive or personal information anonymously.
-- Joining in a Status Web Community without revealing your identity.
+- Joining a Status Web Community without revealing your identity.
 - Writing about embarrassing or stigmatizing topics.
 
-## The basics
+## How throwaway profiles work
 
-- When you select the throwaway profile option, Status Web assigns you a randomly generated profile.
-- The throwaway profile information stays in your browser's cache for as long as you don't delete this cached data.
-- Be cautious when using a throwaway profile. Your internet service provider and browser can still collect identifiable information about you.
+When you [use a throwaway profile][use-throwaway-web-profile], Status Web assigns you an identity using three randomly generated words: adjective, adjective, and animal name. This mechanism uses significant randomization and ensures your anonymity.
 
-## Throwaway profiles in Status Web
-
-When you use the throwaway profile option, Status Web assigns you a randomly generated profile using three words: adjective, adjective, and animal name. This mechanism uses significant randomization and preserves your anonymity. A throwaway profile protects your identity from others. However, people may find your real identity based on the information you share.
-
-The throwaway profile information remains in your browser's cache and persists across browser sessions and computer restarts. To delete your throwaway account, clear your browser's cache or delete your throwaway profile manually.
+Your browser cache retains the throwaway profile information across browser sessions, different browser tabs, and computer restarts. To delete your throwaway profile, [delete the profile][use-throwaway-web-profile] or clear your browser cache.
 
 !!! tip
-    If you use your browser's incognito or private mode, your throwaway profile is deleted after closing your browser window.
+    In the browser incognito or private mode, your throwaway profile is deleted after closing the browser window.
+
+Be cautious with the information you share. A throwaway profile protects your identity from others. However, people may find your real identity based on the information you share. Additionally, your internet service provider and browser can still collect identifiable information about you.
 
 --8<-- "includes/urls-en.txt"
