@@ -1,6 +1,6 @@
 ---
 id: 12
-revision: 6
+revision: 7
 hide:
   - navigation
 ---
@@ -37,7 +37,7 @@ We prioritize simplicity over comprehensiveness. If you can't find a particular 
 
 ## Capitalization
 
-- Use sentence-style capitalization, including [titles](#titles). That means everything is lowercase except the first word, proper nouns, like the [Status product names](#product-and-user-interface-names).
+- Use sentence-style capitalization, including [titles](#titles). That means everything is lowercase except the first word, proper nouns, like the [Status product names](#product-names-and-user-interface-areas).
 
     | Usage       | Example                                     |
     |:------------|:--------------------------------------------|
@@ -372,8 +372,9 @@ When you describe a UI interaction, use these action verbs:
 |:---|:---|
 | Go to a menu or screen | Use *go to*. |
 | Click a URL | For URLs, the verb depends on the user's intent:</br>- To complete another action (for example, to download something), use *visit*.</br>- To review the information on a different article or website, use *check*. |
-| Click a single UI element | *click* (desktop and web) or *tap* (mobile). |
-| Click multiple UI elements | *choose* for desktop, web, and mobile. |
+| Select a single UI element | *click* (desktop and web) or *tap* (mobile). |
+| Select multiple UI elements | *choose* for desktop, web, and mobile. |
+| Select text | *select* |
 | Acion on checkboxes | *check* the [UI label] box (to enable) / *uncheck* the [UI label] box (to disable). |
 | Go to previous screen | Use *return*. |
 | Swipe element | Use *swipe* [left or right] for desktop, web, and mobile. |
@@ -401,13 +402,22 @@ The Status documentation uses the application icons to guide readers' actions on
 
 - Use icons in procedural steps to guide the user's actions.
 - Don't overuse icons. A document with many icons is harder to follow and scan.
-- Write the icon first, and then the icon's label. If the icon doesn't show a label in the UI, use the icon's name (or any other name that represents the icon's function) and add this to the [Products and user interface names](#product-and-user-interface-names) list.
+- Write the icon first, and then the icon's name. If the icon doesn't show a label in the UI, use the icon's name in the the [Icons names](#icon-names) reference table.
 - Use the Status icons on the `/override/.icons/status` folder in the GitHub [user documentation repository :octicons-tab-external-16:][status-github-user-doc-repo]{:target="_blank"}.
 - To reference these icons anywhere on the Markdown file, use the `:icon-name:` notation right before the icon's name. For example, the Status wallet icon under the `.icons` directory is `status-wallet.svg`; to show this icon in a sentence, use:
 
     ```text
     Tap :status-wallet: Wallet and save your settings.
     ```
+
+## Symbols and punctuation marks
+
+To spell out symbols and punctuations marks, use the [List of typographical symbols and punctuation marks :octicons-tab-external-16:][wikipedia-symbols-and-marks]{:target="_blank"} article from Wikipedia.
+
+| Usage       | Example                                                                 |
+|:------------|:------------------------------------------------------------------------|
+| **Correct** | To quote text inline, use the greater-than sign (`>`) before your text. |
+| Incorrect   | To quote text inline, use the bigger-than sign (`>`) before your text.  |
 
 ## Modal verbs
 
@@ -552,9 +562,9 @@ Modal verbs are auxiliary verbs that modify the meaning of the main verb in a se
     | Apple Silicon     | Apple silicon                         |
     | Intel (processor) | Intel processor                       |
 
-## Product names and user interface areas
+## Naming products, user interface areas, and icons
 
-Product and user interface names include:
+Products and user interface areas names include:
 
 - Status apps features (for example, Status Communities).
 - Products and services that are part of the [Status Network :octicons-tab-external-16:](https://statusnetwork.com/){:target="_blank"} (for example, Keycard).
@@ -563,11 +573,14 @@ Product and user interface names include:
 !!! info
     Observe the capitalization convention. For example, use *Activity Center* and not *activity center*.
 
+### Products and user interface areas reference
+
 | Product/UI name | Notes |
 |:---|:---|
 | Status Communities | Include *Status* the first time you write about Communities in the body text. |
 | Activity Center | UI area where users can review and respond to activity notifications (:status-notification:) |
 | profile picture | Clickable UI element with the user's picture |
+| formatting toolbar | Toolbar showing the text formatting options |
 
 ### Status Desktop and Status Web main UI areas
 
@@ -587,6 +600,12 @@ This picture describes the main user interface areas for Status Web and Status D
 | D | right sidebar |
 | E | channel information at the top of the content area |
 | F | pinned messages area |
+
+### Icon names
+
+| Name    | Icon                |
+|:--------|:--------------------|
+| members | :status-group-chat: |
 
 <br>[:octicons-git-branch-24: Contribute to our docs][contributors-guide]{ .md-button }</br>
 
