@@ -29,7 +29,7 @@ A throwaway profile protects your identity from others. However, people may find
 === "Web"
 
     1. Using your browser, open the Status Web Community you want to join.
-    1. From the channels sidebar, click **Use throwaway profile**.
+    1. From the Community sidebar, click **Use throwaway profile**.
     1. In the top-right corner, click :status-group-chat: **Members**.
     
     Your throwaway profile name appears on the right sidebar and on top of messages you write.
@@ -38,11 +38,11 @@ A throwaway profile protects your identity from others. However, people may find
 
 ### Is a throwaway account really private?
 
-Status doesn't collect information about you, but your internet provider and browser can collect identifiable information (like your IP address). So don't use a throwaway account for anything illegal, dangerous, or hateful.
+Status doesn't collect information about you, but your internet service provider and browser can collect identifiable information (like your IP address). So don't use a throwaway account for anything illegal, dangerous, or hateful.
 
 ### How can I delete my throwaway account information?
 
-The throwaway profile information remains in your browser, and persists across browser sessions and operating system reboots. To completely delete any trace of your throwaway account, you should clear your browser's cache.
+The throwaway profile information remains in your browser and persists across browser sessions and operating system reboots. Therefore, to completely delete any trace of your throwaway account, you should clear your browser's cache.
 
 ### Is there any limit to the number of throwaway account I can use?
 
