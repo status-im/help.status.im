@@ -152,6 +152,8 @@ nav:
     - status-communities/index.md
     - Status Communities:
       - Join a Status Community: status-communities/join-a-status-community.md
+    - Channels:
+        - What's a Community channel?: status-communities/what-is-a-community-channel.md
   - Wallet:
     - status-wallet/index.md
   - Your profile:
