@@ -384,10 +384,11 @@ When you describe a UI interaction, use these action verbs:
 | Acion on checkboxes | *check* the [UI label] box (to enable) / *uncheck* the [UI label] box (to disable). |
 | Go to previous screen | Use *return*. |
 | Swipe element | Use *swipe* [left or right] for desktop, web, and mobile. |
-| Long press | Use *long press* for mobile interactions when required. |
-| Right click | Use *right click* for desktop and web interactions when required. |
-| Start session | Use *log in* (verb) or *login* (noun) for desktop, web, and mobile. |
-| End session | Use *log out* (verb) or *logout* (noun) for desktop, web, and mobile. |
+| Long press | *long press* for mobile interactions, when required. |
+| Right click | *right click* for desktop and web interactions, when required. |
+| Start session | *log in* (verb) or *login* (noun) for desktop, web, and mobile. |
+| End session | *log out* (verb) or *logout* (noun) for desktop, web, and mobile. |
+| First-time access | Use *create profile*. |
 
 ## Admonitions
 
