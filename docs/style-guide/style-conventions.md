@@ -146,6 +146,24 @@ We prioritize simplicity over comprehensiveness. If you can't find a particular 
 - Use parenthesis sparingly, and don't write essential information inside parenthesis.
 - Don't use bold or italics with punctuation symbols.
 - When you must use quotes, use double straight quotes. Don't use quotes with user interface elements.
+- Observe the [bullet lists](#bullet-lists) punctuation rules.
+
+## Bullet lists
+
+- Don't use a bullet list for actions that users should complete in an orderly manner; use a [numbered list](#numbered-lists) in a [procedure](./structuring-the-content.md#procedure-help-me-to-do).
+- Use a bullet list to improve the readability of sentences or paragraphs where you list or describe three or more items.
+
+    | Usage | Example |
+    |:---|:---|
+    | **Correct** | You can find four different types of contacts in your contact list:</br>- Trusted</br>- Verified</br>- Pending verification</br>- Blocked |
+    | Incorrect | You can find four different types of contacts in your contact lists: trusted, verified, pending verification, and blocked. |
+    | Incorrect | You can find trusted, verified, pending verification, and blocked contacts on your contact list. |
+
+- Use a colon (:) before the bullet list items.
+- Use periods at the end of each sentence in a bullet list for [punctuation](#punctuation). Using periods on a bullet list can be tricky. Use the following guidelines:
+    - When the list items are complete sentences, use a period at the end of each sentence.
+    - Don't use a period when the list items are not complete sentences or sentences with three words or less.
+    - In a list with elements of more and less than three words mixed, don't use a period.
 - Don't use colons after each item on [a list](#bullet-lists); type the item definition on a new line. Here are some examples of using punctuation on a list:
 
     | Usage | Example |
@@ -156,26 +174,7 @@ We prioritize simplicity over comprehensiveness. If you can't find a particular 
     | Incorrect | - **Blue badge** - The user is a verified contact and you completed mutual authentication successfully.</br>- **Red badge** - The user is not a verified contact. |
 
     !!! tip
-        On a list with more than three items, use a [table](#tables).
-
-## Bullet lists
-
-- Use a bullet list to improve the readability of sentences or paragraphs where you list or describe three or more items.
-
-    | Usage | Example |
-    |:---|:---|
-    | **Correct** | You can find four different types of contacts in your contact list:</br>- Trusted</br>- Verified</br>- Pending verification</br>- Blocked |
-    | Incorrect | You can find four different types of contacts in your contact lists: trusted, verified, pending verification, and blocked. |
-    | Incorrect | You can find trusted, verified, pending verification, and blocked contacts on your contact list. |
-
-- Use a colon (:) before the bullet list items.
-- Use periods at the end of each sentence in a bullet list for [punctuation](#punctuation).
-- Punctuation on a bullet list can be tricky. Use the following guidelines:
-    - When the list items are complete sentences, use a period at the end of each sentence.
-    - Don't use a period when the list items are not complete sentences or sentences with three words or less.
-    - In a list with elements of more and less than three words mixed, don't use a period.
-- When you need to describe each element on a list, consider [using a table](#tables) instead.
-- Don't use a bullet list for actions that users should complete in an orderly manner; use a [numbered list](#numbered-lists) in a [procedure](./structuring-the-content.md#procedure-help-me-to-do).
+        When you need to describe each element on a list and you have more than three elements, consider [using a table](#tables) instead.
 
 ## Numbered lists
 
