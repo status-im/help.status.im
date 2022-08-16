@@ -106,6 +106,13 @@ We prioritize simplicity over comprehensiveness. If you can't find a particular 
     | **Correct** | The database that is online syncs every 30 seconds. |
     | Incorrect   | The online database syncs every 30 seconds.         |
 
+- Don't use sentence connectors: *So*, *Thus*, *Therefore*, *Consequently*, *As a consequence*, *For this reason*, *Hence*, and so on.
+
+    | Usage       | Example                                             |
+    |:------------|:----------------------------------------------------|
+    | **Correct** | Your seed phrase provides access to your crypto assets. Keep your seed phrase safe. |
+    | Incorrect   | Your seed phrase provides access to your crypto assets. Therefore, keep your seed phrase safe. |
+
 - Avoid long [noun phrases :octicons-tab-external-16:][wikipedia-noun-phrases]{:target="_blank"}. Don't use more than one modifier if you use a noun phrase. Use the *of* preposition to simplify noun phrases.
 
     | Usage       | Example                                            |
