@@ -14,6 +14,7 @@
 [format-your-messages]: /en/using-status/format-your-messages
 
 [join-a-status-community]: /en/status-communities/join-a-status-community
+[what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
 
 [about-your-status-display-name]: /en/your-profile-and-preferences/about-your-status-display-name
 [change-your-status-display-name]: /en/your-profile-and-preferences/change-your-status-display-name
