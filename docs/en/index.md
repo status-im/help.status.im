@@ -6,7 +6,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :status-travel-and-places:{ .lg .middle } **Getting started**
+-   :desktop-travel-and-places:{ .lg .middle } **Getting started**
 
     ---
 
@@ -14,7 +14,7 @@ hide:
 
     [:octicons-arrow-right-24: Getting started][getting-started]
 
--   :status-mobile:{ .lg .middle } **Using Status**
+-   :desktop-mobile:{ .lg .middle } **Using Status**
 
     ---
 
@@ -22,7 +22,7 @@ hide:
 
     [:octicons-arrow-right-24: Using Status][using-status]
 
--   :status-communities:{ .lg .middle } **Status Communities**
+-   :desktop-communities:{ .lg .middle } **Status Communities**
 
     ---
 
@@ -30,7 +30,7 @@ hide:
 
     [:octicons-arrow-right-24: Status Communities][status-communities]
 
--   :status-wallet:{ .lg .middle } **Status Wallet**
+-   :desktop-wallet:{ .lg .middle } **Status Wallet**
 
     ---
 
@@ -38,7 +38,7 @@ hide:
 
     [:octicons-arrow-right-24: Status Wallet][status-wallet]
 
--   :status-settings-advanced:{ .lg .middle } **Your profile and preferences**
+-   :desktop-settings-advanced:{ .lg .middle } **Your profile and preferences**
 
     ---
 
@@ -46,7 +46,7 @@ hide:
 
     [:octicons-arrow-right-24: Your profile and preferences][your-profile-and-prefences]
 
--   :status-network:{ .lg .middle } **Network nodes and statistics**
+-   :desktop-network:{ .lg .middle } **Network nodes and statistics**
 
     ---
 
@@ -56,6 +56,6 @@ hide:
 
 </div>
 
-## :status-public-chat: Featured articles
+## :desktop-public-chat: Featured articles
 
 --8<-- "includes/urls-en.txt"

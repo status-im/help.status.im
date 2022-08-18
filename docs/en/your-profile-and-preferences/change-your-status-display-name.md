@@ -30,7 +30,7 @@ your Status display name]
 === "Mobile"
 
     1. At the navigation bar, tap your avatar.
-    1. Tap :status-profile: **Edit profile**.
+    1. Tap :mobile-profile: **Edit profile**.
     1. Tap on your name line.
     1. Edit your name and tap **Save**.
 
@@ -38,7 +38,7 @@ your Status display name]
 
     1. At the navigation bar, click your avatar.
     1. Select **View My Profile**.
-    1. Next to your current display name click :status-edit-2: **Edit**.
+    1. Next to your current display name click :desktop-edit-2: **Edit**.
     1. Write your new display name and click **Apply Changes**.
 
 <!---
