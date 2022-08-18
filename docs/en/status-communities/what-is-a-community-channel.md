@@ -53,7 +53,26 @@ This channel is typically used for announcements and general discussions.
 
 - Use the **#general** channel to view the FAQ as well as pinned 
   messages describing the rules of a Community.
-- Make sure that all channels you create or maintain contain a topic and clear 
-  description so that people understand what they’re used for.
+- Make sure all channels you create and run have a topic and clear 
+   description, so people know what they're for.
 - Delete channels when they're no longer used.
 
+## Categories
+
+A category is like a folder where you can place channels according to their
+topic.
+You can arrange channels into categories for your convenience.
+The **Drug&Drop** option helps you to build an effective architecture for Community
+channels.
+This option works for channels as well as for categories.
+
+### Tips
+
+- **The #general channel**
+  
+    This channel works as a Community announcer. Users can always see this 
+  channel if it's not a part of any category.
+
+- **Alphabetical order**
+  
+    Using alphabetical order, users can find needed channels faster.
