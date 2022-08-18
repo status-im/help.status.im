@@ -411,12 +411,12 @@ The Status documentation uses the application icons to guide readers' actions on
 
 - Use icons in procedural steps to guide the user's actions.
 - Don't overuse icons. A document with many icons is harder to follow and scan.
-- Write the icon first, and then the icon's name. If the icon doesn't show a label in the UI, use the icon's name in the the [Icons names](#icon-names) reference table.
-- Use the Status icons on the `/override/.icons/status` folder in the GitHub [user documentation repository :octicons-tab-external-16:][status-github-user-doc-repo]{:target="_blank"}.
-- To reference these icons anywhere on the Markdown file, use the `:icon-name:` notation right before the icon's name. For example, the Status wallet icon under the `.icons` directory is `status-wallet.svg`; to show this icon in a sentence, use:
+- Write the icon first, and then the icon's name. If the icon doesn't show a label in the UI, use the icon's name in the [Icons names](#icon-names) reference table.
+- Use the Status icons on the `/override/.icons` folders in the GitHub [user documentation repository :octicons-tab-external-16:][status-github-user-doc-repo]{:target="_blank"}.
+- To reference these icons anywhere on the Markdown file, use the `:icon-name:` notation right before the icon's name. For example, the Status wallet desktop icon under the `.icons\desktop` directory is `desktop-wallet.svg`; to show this icon in a sentence, use:
 
     ```text
-    Tap :status-wallet: Wallet and save your settings.
+    Tap :desktop-wallet: Wallet and save your settings.
     ```
 
 ## Symbols and punctuation marks
@@ -589,7 +589,7 @@ Products and user interface areas names include:
 | Product/UI name | Notes |
 |:---|:---|
 | Status Communities | Include *Status* the first time you write about Communities in the body text. |
-| Activity Center | UI area where users can review and respond to activity notifications (:status-notification:) |
+| Activity Center | UI area where users can review and respond to activity notifications (:desktop-notification:) |
 | profile picture | Clickable UI element with the user's picture |
 | formatting toolbar | Toolbar showing the text formatting options |
 
@@ -614,9 +614,13 @@ This picture describes the main user interface areas for Status Web and Status D
 
 ### Icon names
 
-| Name    | Icon                |
-|:--------|:--------------------|
-| members | :status-group-chat: |
+| Platform | Name       | Icon                 |
+|:---------|:-----------|:---------------------|
+| desktop  | edit       | :desktop-edit-2:     |
+| desktop  | group chat | :desktop-group-chat: |
+| desktop  | wallet     | :desktop-wallet:     |
+| mobile   | edit       | :mobile-edit:        |
+| web      | members    | :web-members:        |
 
 <br>[:octicons-git-branch-24: Contribute to our docs][contributors-guide]{ .md-button }</br>
 
