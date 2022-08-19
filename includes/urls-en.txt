@@ -10,6 +10,7 @@
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
 [run-status-app-first-time]: /en/getting-started/run-status-app-first-time
 
+[about-status-messages]: /en/using-status/about-status-messages
 [edit-delete-messages]: /en/using-status/edit-and-delete-your-messages
 [format-your-messages]: /en/using-status/format-your-messages
 

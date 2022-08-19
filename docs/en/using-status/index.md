@@ -11,6 +11,8 @@ hide:
 
 ## Message features and tools
 
+- [About Status **messages**][about-status-messages]
+
 ## Format and style messages
 
 - [**Format** your messages][format-your-messages]
