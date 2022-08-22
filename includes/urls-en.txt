@@ -11,6 +11,7 @@
 [run-status-app-first-time]: /en/getting-started/run-status-app-first-time
 
 [about-status-messages]: /en/using-status/about-status-messages
+[messages-faqs]: /en/using-status/messages-faqs
 [edit-delete-messages]: /en/using-status/edit-and-delete-your-messages
 [format-your-messages]: /en/using-status/format-your-messages
 
@@ -23,4 +24,6 @@
 [register-your-status-ens-name]: /en/your-profile-and-preferences/register-your-status-ens-name
 
 [gnu-privacy-guard]: https://gnupg.org/
+[perfect-foward-secrecy]: https://en.wikipedia.org/wiki/Forward_secrecy
 [status-web-download]: https://status.im/get
+[waku]: https://waku.org/
