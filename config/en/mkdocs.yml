@@ -29,14 +29,14 @@ theme:
       - media: "(prefers-color-scheme: light)"
         scheme: default
         primary: white
-        accent: light blue
+        accent: teal
         toggle:
           icon: material/weather-night 
           name: Switch to dark mode
       - media: "(prefers-color-scheme: dark)"
         scheme: slate
-        primary: deep orange
-        accent: blue
+        primary: black
+        accent: teal
         toggle:
           icon: material/weather-sunny
           name: Switch to light mode
