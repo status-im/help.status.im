@@ -15,6 +15,7 @@
 [run-the-status-app-for-the-first-time]: /en/getting-started/run-the-status-app-for-the-first-time
 [what-is-status]: /en/getting-started/what-is-status
 
+<<<<<<< HEAD
 [about-status-messages]: /en/using-status/about-status-messages
 [add-members-to-a-group-chat]: /en/using-status/add-members-to-a-group-chat
 [add-remove-or-share-sticker-sets]: /en/using-status/add-remove-or-share-sticker-sets
@@ -28,6 +29,10 @@
 [delete-your-messages]: /en/using-status/edit-and-delete-your-messages/#delete-your-messages
 [edit-and-delete-your-messages]: /en/using-status/edit-and-delete-your-messages
 [enable-rich-link-previews-in-messages]: /en/using-status/enable-rich-link-previews-in-messages
+=======
+[messages-faqs]: /en/using-status/messages-faqs
+[edit-delete-messages]: /en/using-status/edit-and-delete-your-messages
+>>>>>>> 256f830 (232 0 First draft)
 [format-your-messages]: /en/using-status/format-your-messages
 [join-a-group-chat]: /en/using-status/join-a-group-chat
 [leave-a-group-chat]: /en/using-status/leave-a-group-chat
