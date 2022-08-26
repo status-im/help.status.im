@@ -48,7 +48,7 @@ The Status app secures your messages the entire time they are in transit using e
 
 When you communicate with someone on the Status app, your messages, attachments, sender metadata, group chats, and group metadata are all end-to-end encrypted.
 
-Status incorporates the [Perfect Forward Secrecy :octicons-tab-external-16:][perfect-foward-secrecy]{:target="_blank"} (PFS) encryption mechanism, ensuring that encryption keys change on every message. If your keys are compromised, only the associated message is compromised. All previous and future messages remain private.
+Status incorporates the [Perfect Forward Secrecy :octicons-tab-external-16:][perfect-foward-secrecy]{:target="_blank"} (PFS) encryption mechanism, ensuring that encryption keys change on every message. If your keys are compromised, only the associated message is compromised. All previous remain private.
 
 !!! info
     Status messaging protects your privacy in one-to-one communications, chat groups, public chats, and Communities.
