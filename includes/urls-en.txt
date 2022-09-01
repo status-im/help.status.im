@@ -5,7 +5,6 @@
 [your-profile-and-prefences]: /en/your-profile-and-preferences/
 [network-nodes-and-statistics]: /en/network-nodes-and-statistics/
 
-
 [download-status-for-linux]: /en/getting-started/download-status-for-linux
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
 [run-status-app-first-time]: /en/getting-started/run-status-app-first-time
@@ -14,6 +13,7 @@
 [messages-faqs]: /en/using-status/messages-faqs
 [edit-delete-messages]: /en/using-status/edit-and-delete-your-messages
 [format-your-messages]: /en/using-status/format-your-messages
+[use-gifs-and-stikers]: /en/using-status/use-gifs-and-stickers
 
 [join-a-status-community]: /en/status-communities/join-a-status-community
 [what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel

@@ -19,6 +19,8 @@ hide:
 
 ## Share files and conversations
 
+- [Use **GIFs and Stickers**][use-gifs-and-stikers]
+
 ## Status Web3 browser
 
 --8<-- "includes/urls-en.txt"
