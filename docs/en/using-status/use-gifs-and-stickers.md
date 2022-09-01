@@ -7,3 +7,7 @@ hide:
 ---
 
 # Use GIFs and stickers
+
+## Use GIFs
+
+## Use stickers
