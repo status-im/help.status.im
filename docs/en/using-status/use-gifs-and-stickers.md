@@ -11,3 +11,5 @@ hide:
 ## Use GIFs
 
 ## Use stickers
+
+### share special stickers
