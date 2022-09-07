@@ -22,18 +22,8 @@
 [messages-faqs]: /en/using-status/messages-faqs
 [edit-delete-messages]: /en/using-status/edit-and-delete-your-messages
 [format-your-messages]: /en/using-status/format-your-messages
-<<<<<<< Updated upstream
 [use-gifs-and-stikers]: /en/using-status/use-gifs-and-stickers
-=======
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
-[use-gifs-and-stikers]: /en/using-status/use-gifs-and-stickers
-=======
 [share-files-and-pictures]: /en/using-status/share-files-and-pictures-in-status
->>>>>>> Stashed changes
->>>>>>> Stashed changes
->>>>>>> Stashed changes
 
 [create-a-status-community]: /en/status-communities/create-a-status-community
 [join-a-status-community]: /en/status-communities/join-a-status-community
