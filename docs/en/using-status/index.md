@@ -23,20 +23,9 @@ hide:
 
 ## Share files and conversations
 
-<<<<<<< Updated upstream
-- [Use **GIFs and Stickers**][use-gifs-and-stikers]
+- [Use **GIFs and Stickers**][use-gifs-and-stickers]
+- [**Share** pictures in Status][share-pictures]
 
-=======
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
-- [Use **GIFs and Stickers**][use-gifs-and-stikers]
-=======
-- [**Share** files and pictures in Status][share-files-and-pictures]
->>>>>>> Stashed changes
-
->>>>>>> Stashed changes
->>>>>>> Stashed changes
 ## Status Web3 browser
 
 --8<-- "includes/urls-en.txt"
