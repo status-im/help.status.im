@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Share files and pictures in Status
+# Share pictures in Status
 
 In Status, conversations happen across public chats and DMs (direct messages). To help you to interact with your contats in Status, you can share files and pictures. Learn how to share files and pictures on DMs to improve your conversations.
 
