@@ -2,102 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://help.status.im/en/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/getting-started/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/getting-started/download-status-for-linux/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/getting-started/download-status-for-mac/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/getting-started/download-status-for-mobile/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/getting-started/download-status-for-windows/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/getting-started/run-status-app-first-time/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/network-nodes-and-statistics/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/status-communities/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/status-communities/join-a-status-community/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/status-wallet/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/using-status/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/using-status/about-status-messages/</loc>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/using-status/direct-messages/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/using-status/edit-and-delete-your-messages/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/using-status/format-your-messages/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/using-status/messages-faqs/</loc>
+         <lastmod>2022-09-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/using-status/use-gifs-and-stickers/</loc>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/your-profile-and-preferences/</loc>
-         <lastmod>2022-09-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://help.status.im/en/your-profile-and-preferences/about-your-status-display-name/</loc>
-         <lastmod>2022-09-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://help.status.im/en/your-profile-and-preferences/change-your-status-display-name/</loc>
-         <lastmod>2022-09-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://help.status.im/en/your-profile-and-preferences/register-your-status-ens-name/</loc>
-         <lastmod>2022-09-02</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://help.status.im/en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring/</loc>
-         <lastmod>2022-09-02</lastmod>
+         <lastmod>2022-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
