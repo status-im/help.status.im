@@ -24,6 +24,6 @@
 [register-your-status-ens-name]: /en/your-profile-and-preferences/register-your-status-ens-name
 
 [gnu-privacy-guard]: https://gnupg.org/
-[perfect-foward-secrecy]: https://en.wikipedia.org/wiki/Forward_secrecy
+[perfect-forward-secrecy]: https://en.wikipedia.org/wiki/Forward_secrecy
 [status-web-download]: https://status.im/get
 [waku]: https://waku.org/
