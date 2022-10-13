@@ -620,6 +620,7 @@ This picture describes the main user interface areas for Status Web and Status D
 | desktop  | group chat | :desktop-group-chat: |
 | desktop  | wallet     | :desktop-wallet:     |
 | mobile   | edit       | :mobile-edit:        |
+| mobile   | delete     | :mobile-delete:      |
 | web      | members    | :web-members:        |
 
 <br>[:octicons-git-branch-24: Contribute to our docs][contributors-guide]{ .md-button }</br>
