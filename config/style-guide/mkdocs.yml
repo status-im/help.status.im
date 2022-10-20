@@ -128,10 +128,13 @@ extra:
       link: https://join.status.im/chat/public/status
 
 # Plugins
-INHERIT: '../../overrides/mkdocs.insiders.yml'
 plugins:
   - search:                                         
       lang: en
+  - git-committers:
+      docs_path: docs/style-guide/
+      repository: status-im/help.status.im
+      branch: master
   - git-revision-date
   - git-revision-date-localized:
       type: date
