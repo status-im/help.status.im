@@ -59,6 +59,7 @@ Install Python dependencies:
 ```sh
 pip install -r requirements.txt
 ```
+:warning: __WARNING:__ You'll need access to the private [mkdocs-material-insiders](https://github.com/status-im/mkdocs-material-insiders) fork.
 
 To preview your changes, go to the root folder in your [Status Help clone](#1-fork-and-clone-this-repository) (by default, this is the `help.status.im` folder in your computer) and run the MkDocs live preview:
 

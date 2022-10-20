@@ -29,13 +29,8 @@ pipeline {
   stages {
     stage('Deps') {
       steps {
-        /* Necessary for mkdocs-material-insider package. */
-        withCredentials([
-          string(
-            credentialsId: 'status-im-auto-token',
-            variable: 'GH_TOKEN'
-          )
-        ]) {
+        /* Necessary for private mkdocs-material-insider fork. */
+        sshagent(credentials: ['status-im-auto-ssh']) {
           sh 'pip install --user -r requirements.txt'
         }
       }
