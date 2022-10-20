@@ -32,7 +32,7 @@ pipeline {
         /* Necessary for mkdocs-material-insider package. */
         withCredentials([
           string(
-            credentialsId: 'mkdocs-material-insider-gh-token',
+            credentialsId: 'status-im-auto-token',
             variable: 'GH_TOKEN'
           )
         ]) {
