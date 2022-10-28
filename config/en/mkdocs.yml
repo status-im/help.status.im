@@ -72,6 +72,7 @@ theme:
 markdown_extensions:
   - meta
   - admonition
+  - attr_list 
   - tables
   - pymdownx.details
   - pymdownx.keys
