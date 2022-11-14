@@ -12,7 +12,7 @@ hide:
 ## Message features and tools
 
 - [About Status **messages**][about-status-messages]
-- [**Edit** and **delete** your messages][edit-and-delete-your-messages]
+- [**Edit** and **delete** your messages][edit-delete-messages]
 
 ## Format and style messages
 
