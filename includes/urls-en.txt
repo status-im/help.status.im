@@ -22,8 +22,8 @@
 [messages-faqs]: /en/using-status/messages-faqs
 [edit-delete-messages]: /en/using-status/edit-and-delete-your-messages
 [format-your-messages]: /en/using-status/format-your-messages
+[share-images]: /en/using-status/share-images-in-status
 [use-gifs-and-stikers]: /en/using-status/use-gifs-and-stickers
-[share-pictures]: /en/using-status/share-pictures-in-status
 
 [create-a-status-community]: /en/status-communities/create-a-status-community
 [join-a-status-community]: /en/status-communities/join-a-status-community
