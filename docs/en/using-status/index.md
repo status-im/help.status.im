@@ -20,7 +20,7 @@ hide:
 ## Share files and conversations
 
 - [Use **GIFs and Stickers**][use-gifs-and-stickers]
-- [**Share** pictures in Status][share-pictures]
+- [**Share** images in Status][share-images]
 
 ## Status Web3 browser
 
