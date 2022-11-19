@@ -7,7 +7,8 @@ hide:
 
 ## Direct messages
 
-## Chat groups
+## Group chats
+- [**Create** a group chat][create-a-group-chat]
 
 ## Message features and tools
 
