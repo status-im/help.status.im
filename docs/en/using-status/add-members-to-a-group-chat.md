@@ -8,7 +8,7 @@ hide:
 
 # Add members to a group chat
 
-:octicons-tools-24:
- 
- !!! note ""
+ :octicons-tools-24:
+
+!!! note ""
      We're working on this content.

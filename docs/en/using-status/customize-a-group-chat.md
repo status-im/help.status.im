@@ -1,12 +1,12 @@
 ---
-id: 29
+id: 275
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# Create a Status community
+# Customize a group chat
 
  :octicons-tools-24:
 

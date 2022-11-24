@@ -9,6 +9,6 @@ hide:
 # Understand group chats
 
  :octicons-tools-24:
- 
- !!! note ""
+
+!!! note ""
      We're working on this content.
