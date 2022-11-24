@@ -9,12 +9,20 @@
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
 [run-status-app-first-time]: /en/getting-started/run-status-app-first-time
 
+[understand-group-chats]: /en/using-status/understand-group-chats
+[create-a-group-chat]: /en/using-status/create-a-group-chat
+[customize-a-group-chat]: /en/using-status/customize-a-group-chat
+[add-members-to-a-group-chat]: /en/using-status/add-members-to-a-group-chat
+[remove-members-from-a-group-chat]: /en/using-status/remove-members-from-a-group-chat
+
 [about-status-messages]: /en/using-status/about-status-messages
+[built-in-privacy-and-security]: /en/using-status/about-status-messages/#built-in-privacy-and-security
 [messages-faqs]: /en/using-status/messages-faqs
 [edit-delete-messages]: /en/using-status/edit-and-delete-your-messages
 [format-your-messages]: /en/using-status/format-your-messages
 [use-gifs-and-stikers]: /en/using-status/use-gifs-and-stickers
 
+[create-a-status-community]: /en/status-communities/create-a-status-community
 [join-a-status-community]: /en/status-communities/join-a-status-community
 [what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
 
