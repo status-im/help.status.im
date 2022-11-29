@@ -10,12 +10,12 @@ hide:
 
 Group chats are conversations of more than two people. To invite someone to a group chat, you need to have them on your Status contact list.
 
-Group chats are different to communities, as they're meant to unite smaller groups of people or be centred around specific topics. For more information about group chats, see [Understand group chats][understand-group-chats]{:target="_blank"}.
+Group chats are different to communities, as they're meant to unite smaller groups of people or be centred around specific topics. For more information about group chats, see [Understand group chats][understand-group-chats].
 
 ## What to expect
 
-- You can invite up to 20 members to your group chat. If you need more, consider [creating a community][create-a-status-community]{:target="_blank"}.
-- Once you create your group chat, you can [customize it][customize-a-group-chat]{:target="_blank"} and [add members][add-members-to-a-group-chat]{:target="_blank"}, as well as [remove them][remove-members-from-a-group-chat]{:target="_blank"}. 
+- You can invite up to 20 members to your group chat. If you need more, consider [creating a community][create-a-status-community].
+- Once you create your group chat, you can [customize it][customize-a-group-chat] and [add members][add-members-to-a-group-chat], as well as [remove them][remove-members-from-a-group-chat].
 - Group chats are always end-to-end [encrypted][built-in-privacy-and-security] with secure cryptographic keys. Only the group chat members will have access to the messages in it. Status doesn't have the keys and can't access any messages by design.
 
 ## Create a group chat
