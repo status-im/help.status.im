@@ -1,12 +1,12 @@
 ---
-id: 103
+id: 110
 revision: 0
-language: EN
+language: en
 hide:
   - navigation
 ---
 
-# Join a Status Community
+# How to use Communities: your quick start guide
 
  :octicons-tools-24:
 
