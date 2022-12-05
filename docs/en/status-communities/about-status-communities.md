@@ -1,12 +1,12 @@
 ---
-id: 103
+id: 302
 revision: 0
-language: EN
+language: en
 hide:
   - navigation
 ---
 
-# Join a Status Community
+# About Status Communities
 
  :octicons-tools-24:
 

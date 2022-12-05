@@ -9,20 +9,23 @@
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
 [run-status-app-first-time]: /en/getting-started/run-status-app-first-time
 
-[understand-group-chats]: /en/using-status/understand-group-chats
+[about-status-messages]: /en/using-status/about-status-messages
+[add-members-to-a-group-chat]: /en/using-status/add-members-to-a-group-chat
+[built-in-privacy-and-security]: /en/using-status/about-status-messages/#built-in-privacy-and-security
 [create-a-group-chat]: /en/using-status/create-a-group-chat
 [customize-a-group-chat]: /en/using-status/customize-a-group-chat
-[add-members-to-a-group-chat]: /en/using-status/add-members-to-a-group-chat
-[remove-members-from-a-group-chat]: /en/using-status/remove-members-from-a-group-chat
-
-[about-status-messages]: /en/using-status/about-status-messages
-[built-in-privacy-and-security]: /en/using-status/about-status-messages/#built-in-privacy-and-security
-[messages-faqs]: /en/using-status/messages-faqs
 [edit-delete-messages]: /en/using-status/edit-and-delete-your-messages
 [format-your-messages]: /en/using-status/format-your-messages
+[messages-faqs]: /en/using-status/messages-faqs
+[remove-members-from-a-group-chat]: /en/using-status/remove-members-from-a-group-chat
+[understand-group-chats]: /en/using-status/understand-group-chats
 [use-gifs-and-stikers]: /en/using-status/use-gifs-and-stickers
+[view-notifications-and-updates]: /en/using-status/view-notifications-and-updates
 
+[about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
+[about-status-communities]: /en/status-communities/about-status-communities
 [create-a-status-community]: /en/status-communities/create-a-status-community
+[how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [join-a-status-community]: /en/status-communities/join-a-status-community
 [what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
 
