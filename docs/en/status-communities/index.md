@@ -7,6 +7,8 @@ hide:
 
 ## Status Communities
 
+[About **losing access** to a community][about-losing-access-to-a-community]
+
 ## Channels
 
 - [**Join** a channel][join-a-channel]

@@ -25,6 +25,8 @@
 [about-status-messages]: /en/using-status/about-status-messages
 [built-in-privacy-and-security]: /en/using-status/about-status-messages/#built-in-privacy-and-security
 [messages-faqs]: /en/using-status/messages-faqs
+[about-status-messages]: /en/using-status/about-status-messages
+[built-in-privacy-and-security]: /en/using-status/about-status-messages/#built-in-privacy-and-security
 [edit-delete-messages]: /en/using-status/edit-and-delete-your-messages
 [enable-rich-link-previews-in-messages]: /en/using-status/enable-rich-link-previews-in-messages
 [format-your-messages]: /en/using-status/format-your-messages
@@ -38,6 +40,15 @@
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [create-a-status-community]: /en/status-communities/create-a-status-community
 [join-a-channel]: /en/status-communities/join-a-channel
+[messages-faqs]: /en/using-status/messages-faqs
+[remove-members-from-a-group-chat]: /en/using-status/remove-members-from-a-group-chat
+[understand-group-chats]: /en/using-status/understand-group-chats
+[use-gifs-and-stikers]: /en/using-status/use-gifs-and-stickers
+[view-notifications-and-updates]: /en/using-status/view-notifications-and-updates
+[about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
+[about-status-communities]: /en/status-communities/about-status-communities
+[create-a-status-community]: /en/status-communities/create-a-status-community
+[how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [join-a-status-community]: /en/status-communities/join-a-status-community
 [understand-token-requirements-in-channels]: /en/status-communities/understand-token-requirements-in-channels
 [understand-throwaway-profiles-in-status-web]: /en/status-communities/understand-throwaway-profiles-in-status-web
