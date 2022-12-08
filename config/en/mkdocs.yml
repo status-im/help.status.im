@@ -67,6 +67,7 @@ theme:
       - navigation.tabs.sticky
       - navigation.indexes
       - navigation.top
+      - navigation.tracking
 
 # Extensions
 markdown_extensions:
@@ -95,6 +96,7 @@ markdown_extensions:
   - tables
   - toc:
       toc_depth: 2
+      permalink: true
 
 # Theme customization
 extra_css:
@@ -131,7 +133,7 @@ plugins:
   - git-committers:
       docs_path: docs/en/
       repository: status-im/help.status.im
-      branch: master
+      branch: develop
   - git-revision-date
   - git-revision-date-localized:
       type: date
