@@ -162,6 +162,9 @@ nav:
       - Join a group chat: using-status/join-a-group-chat.md
     - Direct messages:
       - Remove a contact from Status: using-status/remove-a-contact-from-status.md
+    - Direct messages:
+      - Remove a contact from Status: using-status/remove-a-contact-in-status.md
+      - Block someone in Status: using-status/block-someone-in-status.md
     - Message features and tools:
       - About Status messages: using-status/about-status-messages.md
       - Messages FAQs: using-status/messages-faqs.md
@@ -178,6 +181,8 @@ nav:
     - Channels:
       - Join a channel: status-communities/join-a-channel.md
       - About losing access to a channel: status-communities/about-losing-access-to-a-channel.md
+    - Create and administer communities:
+        - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
     - Status Web Communities:
       - Use a throwaway profile in Status Web: status-communities/use-a-throwaway-profile-in-status-web.md
       - Understand throwaway profiles in Status Web: status-communities/understand-throwaway-profiles-in-status-web.md

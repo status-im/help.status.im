@@ -17,4 +17,8 @@ hide:
 - [**Use a throwaway profile** in Status Web][use-a-throwaway-profile-in-status-web]
 - [Understand **throwaway profiles** in Status Web][understand-throwaway-profiles-in-status-web]
 
+## Create and administer communities
+
+- [**Kick or ban** someone from your community][kick-or-ban-someone-from-your-community]
+
 --8<-- "includes/urls-en.txt"
