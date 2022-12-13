@@ -154,6 +154,9 @@ nav:
   - Using Status:
     - using-status/index.md
     - using-status/direct-messages.md
+    - Direct messages:
+      - Remove a contact from Status: using-status/remove-a-contact-in-status.md
+      - Block someone in Status: using-status/block-someone-in-status.md
     - Message features and tools:
       - About Status messages: using-status/about-status-messages.md
       - Messages FAQs: using-status/messages-faqs.md
@@ -166,6 +169,7 @@ nav:
     - status-communities/index.md
     - Status Communities:
       - Join a Status Community: status-communities/join-a-status-community.md
+      - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
   - Wallet:
     - status-wallet/index.md
   - Your profile:
