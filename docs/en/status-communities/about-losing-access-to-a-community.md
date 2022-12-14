@@ -21,7 +21,7 @@ The community owner can permanently ban your account if you break the community 
 
 !!! info
 
-    Community owners control who has access to their communities. Status can't kick you out or ban you from a community. Likewise, status can't grant you access to a community or override the community owner's actions.
+    Community owners control who has access to their communities. Status can't kick you out or ban you from a community. Likewise, Status can't grant you access to a community or override the community owner's actions.
 
 ## Reasons you can lose access to a community
 
