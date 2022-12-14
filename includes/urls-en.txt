@@ -47,6 +47,7 @@
 [view-notifications-and-updates]: /en/using-status/view-notifications-and-updates
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
 [about-status-communities]: /en/status-communities/about-status-communities
+[backup-your-community-key]: /en/status-communities/backup-your-community-key
 [create-a-status-community]: /en/status-communities/create-a-status-community
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [join-a-status-community]: /en/status-communities/join-a-status-community
