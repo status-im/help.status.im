@@ -7,7 +7,10 @@ hide:
 
 ## Direct messages
 
+- [**Remove a contact** from Status][remove-a-contact-from-status]
+
 ## Group chats
+
 - [**Create** a group chat][create-a-group-chat]
 
 ## Message features and tools
