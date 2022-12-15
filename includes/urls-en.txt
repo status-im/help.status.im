@@ -10,11 +10,13 @@
 [run-status-app-first-time]: /en/getting-started/run-status-app-first-time
 
 [understand-group-chats]: /en/using-status/understand-group-chats
+[block-someone-in-status]: /en/using-status/block-someone-in-status
 [create-a-group-chat]: /en/using-status/create-a-group-chat
 [customize-a-group-chat]: /en/using-status/customize-a-group-chat
+[delete-a-chat-with-someone]: /en/using-status/delete-a-chat-with-someone
 [add-members-to-a-group-chat]: /en/using-status/add-members-to-a-group-chat
+[remove-a-contact-from-status]: /en/using-status/remove-a-contact-from-status
 [remove-members-from-a-group-chat]: /en/using-status/remove-members-from-a-group-chat
-
 [about-status-messages]: /en/using-status/about-status-messages
 [built-in-privacy-and-security]: /en/using-status/about-status-messages/#built-in-privacy-and-security
 [messages-faqs]: /en/using-status/messages-faqs
