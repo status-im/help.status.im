@@ -13,6 +13,7 @@
 [create-a-group-chat]: /en/using-status/create-a-group-chat
 [customize-a-group-chat]: /en/using-status/customize-a-group-chat
 [delete-a-group-chat]: /en/using-status/delete-a-group-chat
+[leave-a-group-chat]: /en/using-status/leave-a-group-chat
 [add-members-to-a-group-chat]: /en/using-status/add-members-to-a-group-chat
 [remove-members-from-a-group-chat]: /en/using-status/remove-members-from-a-group-chat
 
