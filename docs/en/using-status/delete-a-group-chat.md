@@ -8,7 +8,7 @@ hide:
 
 # Delete a group chat
 
-If you don’t need a group chat anymore, it can be deleted. Both the chat history and member list, as well as all the other data, will be gone forever if the chat is deleted. Only the group chat owner can delete it.
+If you don’t need a group chat anymore, it can be deleted. Both the chat history and member list, as well as all the other data, will be gone forever if the chat is deleted. Only the group chat owner can delete it. If you're a regular member, consider [leaving the chat][leave-a-group-chat] instead.
 
 ## Delete a group chat
 
