@@ -1,5 +1,5 @@
 ---
-id: X
+id: 288
 revision: Y
 hide:
   - navigation
@@ -9,11 +9,12 @@ hide:
 
 Status allows you to organize your conversations with your contacts into designated spaces called ["channels"](channels-your-quick-start-guide.md). Channels bring the right people and information together for a common purpose , like a specific project or topic.
 
-All members of a [community](about-status-communities.md) can browse and join open channels. For a token-gated channels, you must [meet the requirements](understand-token-requirements-in-channels.md)  to  be a member of that channel.
+All members of a [community](about-status-communities.md) can browse and join open channels. For a token-gated channels, you must [meet the requirements](understand-token-requirements-in-channels.md) to  be a member of that channel.
 
 ## Join an open channel
 
-Open channels are the ones that do not have a lock (fazer uma intro sobre isso)
+The open channels are those which do not have a lock icon next to them. When you join a community, you automatically have access to these channels.
+
 === "Mobile"
 
 1. From the tab bar, tap :mobile-community: Communities.
@@ -27,9 +28,7 @@ Open channels are the ones that do not have a lock (fazer uma intro sobre isso)
 
 ## Join a token-gated channel
 
-Token-gated channels shows a small **image icon** lock icon next to them. (fazer uma intro) 
-
-**not you first time and you still meet the requirements (add this information to understand token requirements)**
+Channels that are token-gated show a :mobile-lock: lock icon. To access these channels you need to meet their requirements, and to keep accessing them you need to hold the necessary tokens.
 
 === "Mobile"
 
