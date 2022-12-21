@@ -17,14 +17,14 @@ The open channels are those which do not have a lock icon next to them. When you
 
 === "Mobile"
 
-1. From the tab bar, tap :mobile-community: Communities.
-1. Tap the communiy with the channel you want to join.
-1. Tap on the open channel to join. 
-
+    1. From the tab bar, tap :mobile-community: Communities.
+    1. Tap the communiy with the channel you want to join.
+    1. Tap on the open channel to join. 
+    
 === "Desktop"
-
-1. From the navigation sidebar, click the communiy with the channel you want to join.
-1. Click on the open channel to join.
+    
+    1. From the navigation sidebar, click the communiy with the channel you want to join.
+    1. Click on the open channel to join.
 
 ## Join a token-gated channel
 
@@ -32,16 +32,16 @@ Channels that are token-gated show a :mobile-lock: lock icon. To access these ch
 
 === "Mobile"
 
-1. From the tab bar, tap :mobile-community: Communities.
-1. Tap the communiy with the channel you want to join.
-1. Verify if you meet the channel requirements. If you dont meet the channel requirements, the **Enter channel** buttom is grayed-out.
-3. Tap **Enter channel**.
+    1. From the tab bar, tap :mobile-community: Communities.
+    1. Tap the communiy with the channel you want to join.
+    1. Verify if you meet the channel requirements. If you dont meet the channel requirements, the **Enter channel** buttom is grayed-out.
+    1. Tap **Enter channel**.
 
 === "Desktop"
 	
-1. Open a community.
-1. Select any channel with a lock from the list of channels.
-1. Verify if you meet the channel requirements. If you dont meet the channel requirements, the **Enter channel** buttom is grayed-out.
-1. Click **Enter channel**.
+    1. Open a community.
+    1. Select any channel with a lock from the list of channels.
+    1. Verify if you meet the channel requirements. If you dont meet the channel requirements, the **Enter channel** buttom is grayed-out.
+    1. Click **Enter channel**.
 
 --8<-- "includes/urls-en.txt"
