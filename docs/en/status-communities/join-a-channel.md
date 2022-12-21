@@ -7,9 +7,9 @@ hide:
 
 # Join a channel
 
-Status allows you to organize your conversations with your contacts into designated spaces called "channels" (cross link to quick start guide ). Channels bring the right people and information together for a common purpose , like a specific project or topic.
+Status allows you to organize your conversations with your contacts into designated spaces called ["channels"](channels-your-quick-start-guide.md). Channels bring the right people and information together for a common purpose , like a specific project or topic.
 
-All members of a community (cross link to "about status communities") can browse and join open channels. For a token-gated channels, you must meet the requirements (cross link to Understand token requirements in channels)  to  be a member of that channel.
+All members of a [community](about-status-communities.md) can browse and join open channels. For a token-gated channels, you must [meet the requirements](understand-token-requirements-in-channels.md)  to  be a member of that channel.
 
 ## Join an open channel
 
