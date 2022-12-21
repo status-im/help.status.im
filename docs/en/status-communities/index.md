@@ -9,4 +9,6 @@ hide:
 
 ## Channels
 
+- [**Join** a channel][join-a-channel]
+
 --8<-- "includes/urls-en.txt"
