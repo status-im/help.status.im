@@ -9,6 +9,7 @@ hide:
 
 ## Group chats
 - [**Create** a group chat][create-a-group-chat]
+- [**Clear** group chat history][clear-group-chat-history]
 
 ## Message features and tools
 
