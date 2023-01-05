@@ -26,9 +26,11 @@
 [built-in-privacy-and-security]: /en/using-status/about-status-messages/#built-in-privacy-and-security
 [messages-faqs]: /en/using-status/messages-faqs
 [edit-delete-messages]: /en/using-status/edit-and-delete-your-messages
+[enable-rich-link-previews-in-messages]: /en/using-status/enable-rich-link-previews-in-messages
 [format-your-messages]: /en/using-status/format-your-messages
 [share-images]: /en/using-status/share-images-in-status
-[use-gifs-and-stikers]: /en/using-status/use-gifs-and-stickers
+[send-gifs-and-stikers]: /en/using-status/send-gifs-and-stickers
+[add-remove-or-share-sticker-sets]: /en/using-status/add-remove-or-share-sticker-sets
 
 [about-losing-access-to-a-channel]: /en/status-communities/about-losing-access-to-a-channel
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
@@ -51,4 +53,5 @@
 [gnu-privacy-guard]: https://gnupg.org/
 [perfect-forward-secrecy]: https://en.wikipedia.org/wiki/Forward_secrecy
 [status-web-download]: https://status.im/get
+[Tenor]: https://tenor.com/
 [waku]: https://waku.org/
