@@ -27,8 +27,8 @@ hide:
 
 ## Share files and conversations
 
-- [Use **GIFs and Stickers**][use-gifs-and-stickers]
 - [**Share** images in Status][share-images]
+- [Send **GIFs and Stickers**][send-gifs-and-stikers]
 
 ## Status Web3 browser
 
