@@ -46,7 +46,7 @@ All members of a [community](./about-status-communities.md) can browse and join 
 
 ## Channel information
 
-Channels  bring the right people and information together in one place, and make it possible to organize work around a common purpose.
+Channels bring the right people and information together in one place, and make it possible to organize work around a common purpose.
 
 <!--
 ![image](image)
