@@ -29,7 +29,7 @@ You can add more stickers to default sticker sets in Status, or share a sticker 
 === "Desktop"
 
     1. Open the channel or chat where you want to share the GIF.
-    1. In the message area, click :desktop-GIFs: **GIF**. The first time you send a GIF, you need to **Enable** the service..
+    1. In the message area, click :desktop-GIFs: **GIF**. The first time you send a GIF, you need to **Enable** the service.
     1. Search or choose the GIF you want to share. The GIF is sent immediately.
     1. Optionally, hover over the GIF in the preview window and click the :desktop-favourite: **Star** icon to save it as a favourite.
 
