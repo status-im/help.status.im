@@ -64,6 +64,12 @@ Channels bring the right people and information together in one place and make i
 
 ## The #general channel
 
-The #general channel is created by default when you create a community. All members can post messages in the #general channel by default. The #general channel works best when it’s used to share announcements with members of a community.
+The #general channel is not created by default when you create a community. It works like any other channel. The #general channel works best when it’s used to share announcements with members of a community. Below are some tips to set up the #general channel for announcements.
+
+* To organize the community and to communicate with the members, it is a good practice to name a channel #general. 
+
+* Making it read-only for those who don't have posting permission helps large announcement channels stay on topic and free from distraction.
+
+* The #general channel is where you can find the FAQ and pinned messages describing community rules.
 
 --8<-- "includes/urls-en.txt"
