@@ -166,6 +166,8 @@ nav:
     - status-communities/index.md
     - Status Communities:
       - Join a Status Community: status-communities/join-a-status-community.md
+    - Channels:
+      - Leave a channel: status-communities/leave-a-channel.md
   - Wallet:
     - status-wallet/index.md
   - Your profile:
