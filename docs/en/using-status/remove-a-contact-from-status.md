@@ -8,12 +8,12 @@ hide:
 
 # Remove a contact from Status
 
-You can remove any contact from your Status contact list. In Status, you must add people as contacts to start a conversation. After you remove a Status contact, you can't start a conversation, and your contact can't send you new messages.
+You can remove any contact from your Status contact list. In Status, you need to add people as contacts to start a conversation. After you remove a Status contact, neither you nor your contact can send new messages to each other.
 
 ## What to expect
 
-- Removing a contact from Status removes the identity verification associated with that contact but not its reputation (trusted or untrusted).
-- After removing a contact, your direct messages with the contact remain. To remove these messages, [delete the chat][delete-a-chat-with-someone].
+- Removing a contact from Status removes the identity verification associated with that contact but not their reputation (trusted or untrusted).
+- After you remove a contact, your direct messages with them remain. To delete these messages, [delete the chat][delete-a-chat-with-someone].
 - A user not on your contact list can still see your profile and send you a contact request. To prevent this, you can [block the user][block-someone-in-status].
 
 !!! info
