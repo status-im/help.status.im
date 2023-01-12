@@ -39,9 +39,9 @@
 [join-a-status-community]: /en/status-communities/join-a-status-community
 [join-a-channel]: /en/status-communities/join-a-channel
 [understand-token-requirements-in-channels]: /en/status-communities/understand-token-requirements-in-channels
-[what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
 [understand-throwaway-profiles-in-status-web]: /en/status-communities/understand-throwaway-profiles-in-status-web
-[use-a-throwaway-profile-in-status-web]: /en/status-communities/use-a-throwaway-profile-in-status-web
+[use-a-throwaway-profile-in-status-web]: /en/status-communities/use-a-throwaway-web-profile-in-status-web
+[what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
 
 [about-your-status-display-name]: /en/your-profile-and-preferences/about-your-status-display-name
 [change-your-status-display-name]: /en/your-profile-and-preferences/change-your-status-display-name
