@@ -10,25 +10,17 @@ hide:
 
 Any member of an existing group chat can add their Status contacts to it.
 
-If you want to create a new chat, see [Create a group chat][create-a-group-chat]{:target="_blank"} instead.
+If you want to create a new chat, see [Create a group chat][create-a-group-chat] instead.
 
 ## Add members
 
 === "Mobile"
 
-If you're the group owner:
-
-    1. Open the group chat you want to add new members to.
-    2. From the navigation bar, tap :mobile-more: **More options**.
-    3. Tap :mobile-add-members: **Add / remove members**.
-    4. Check the boxes next to the contacts you want to invite. Once you're done, tap **Confirm changes**.
-
-If you're not the owner:
-
-    1. Open the group chat you want to add new members to.
-    2. From the navigation bar, tap :mobile-more: **More options**.
-    3. Tap :mobile-add-members: **Add members**.
-    4. Check the boxes next to the contacts you want to invite. Once you're done, tap **Confirm changes**.
+    1. From the tab bar, tap :mobile-messages: Messages.
+    2. Open the group chat you want to add new members to.
+    3. From the navigation bar, tap :mobile-more: **More options**.
+    4. Tap :mobile-add-members: **Add members**. If you're the group chat owner, this will say **Add / remove members** for you.
+    5. Check the boxes next to the contacts you want to invite. Once you're done, tap **Confirm changes**.
 
 === "Desktop"
 

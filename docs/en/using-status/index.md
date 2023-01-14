@@ -7,8 +7,15 @@ hide:
 
 ## Direct messages
 
+- [**Remove a contact** from Status][remove-a-contact-from-status]
+
 ## Group chats
+
 - [**Create** a group chat][create-a-group-chat]
+- [**Add members** to a group chat][add-members-to-a-group-chat]
+- [**Clear** group chat **history**][clear-group-chat-history]
+- [**Delete** a group chat][delete-a-group-chat]
+- [**Join** a group chat][join-a-group-chat]
 
 ## Message features and tools
 
@@ -20,7 +27,8 @@ hide:
 
 ## Share files and conversations
 
-- [Use **GIFs and Stickers**][use-gifs-and-stikers]
+- [Use **GIFs and Stickers**][use-gifs-and-stickers]
+- [**Share** images in Status][share-images]
 
 ## Status Web3 browser
 
