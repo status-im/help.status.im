@@ -17,7 +17,7 @@ If you don’t need a [group chat][understand-group-chats] anymore, you can dele
 
 === "Mobile"
 
-    1. From the tab bar, tap [mobile-messages] Messages.
+    1. From the tab bar, tap :mobile-messages: Messages.
     2. Open the group chat you want to delete.
     3. Tap :mobile-more: **More options**.
     4. Select :mobile-leave: **Leave and delete group**.
@@ -25,7 +25,7 @@ If you don’t need a [group chat][understand-group-chats] anymore, you can dele
 
 === "Desktop"
 
-    1. From the navigation bar, click [desktop-chat] Chat.
+    1. From the navigation bar, click :desktop-chat: Chat.
     2. Open the group chat you want to delete.
     3. Click :desktop-more: **More options**.
     4. Select :desktop-leave: **Leave and delete group**.
