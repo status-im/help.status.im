@@ -10,20 +10,28 @@
 [run-status-app-first-time]: /en/getting-started/run-status-app-first-time
 
 [understand-group-chats]: /en/using-status/understand-group-chats
+[block-someone-in-status]: /en/using-status/block-someone-in-status
+[clear-group-chat-history]: /en/using-status/clear-group-chat-history
 [create-a-group-chat]: /en/using-status/create-a-group-chat
 [customize-a-group-chat]: /en/using-status/customize-a-group-chat
+[delete-a-chat-with-someone]: /en/using-status/delete-a-chat-with-someone
+[delete-a-group-chat]: /en/using-status/delete-a-group-chat
+[join-a-group-chat]: /en/using-status/join-a-group-chat
+[leave-a-group-chat]: /en/using-status/leave-a-group-chat
 [add-members-to-a-group-chat]: /en/using-status/add-members-to-a-group-chat
+[remove-a-contact-from-status]: /en/using-status/remove-a-contact-from-status
 [remove-members-from-a-group-chat]: /en/using-status/remove-members-from-a-group-chat
-
 [about-status-messages]: /en/using-status/about-status-messages
 [built-in-privacy-and-security]: /en/using-status/about-status-messages/#built-in-privacy-and-security
 [messages-faqs]: /en/using-status/messages-faqs
 [edit-delete-messages]: /en/using-status/edit-and-delete-your-messages
 [format-your-messages]: /en/using-status/format-your-messages
+[share-images]: /en/using-status/share-images-in-status
 [use-gifs-and-stikers]: /en/using-status/use-gifs-and-stickers
 
 [create-a-status-community]: /en/status-communities/create-a-status-community
 [join-a-status-community]: /en/status-communities/join-a-status-community
+[join-a-channel]: /en/status-communities/join-a-channel
 [what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
 
 [about-your-status-display-name]: /en/your-profile-and-preferences/about-your-status-display-name

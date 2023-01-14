@@ -39,7 +39,7 @@ pipeline {
     stage('Build') {
       steps {
         sh 'python3 -m mkdocs build -f config/en/mkdocs.yml'
-        sh 'python3 -m mkdocs build -f config/style-guide/mkdocs.yml'
+        /* sh 'python3 -m mkdocs build -f config/style-guide/mkdocs.yml' */
         /* Temporary solution for lack of start page. */
         sh 'cp overrides/static/* generated/'
       }
