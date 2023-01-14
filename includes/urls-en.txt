@@ -11,7 +11,7 @@
 
 [understand-group-chats]: /en/using-status/understand-group-chats
 [block-someone-in-status]: /en/using-status/block-someone-in-status
-[clear-group-chat-history]: /en/clear-group-chat-history
+[clear-group-chat-history]: /en/using-status/clear-group-chat-history
 [create-a-group-chat]: /en/using-status/create-a-group-chat
 [customize-a-group-chat]: /en/using-status/customize-a-group-chat
 [delete-a-chat-with-someone]: /en/using-status/delete-a-chat-with-someone
