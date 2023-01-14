@@ -8,22 +8,27 @@ hide:
 
 # Delete a group chat
 
-If you don’t need a group chat anymore, it can be deleted. Both the chat history and member list, as well as all the other data, will be gone forever if the chat is deleted. Only the group chat owner can delete it. If you're a regular member, consider [leaving the chat][leave-a-group-chat] instead.
+If you don’t need a [group chat][understand-group-chats] anymore, you can delete the chat. Once you do that, the chat history and member list are gone forever, with no way to recover this or any other data.
+
+!!! note
+	Only the group chat owner can delete the group. If you're a regular member, consider [leaving the chat][leave-a-group-chat] instead.
 
 ## Delete a group chat
 
 === "Mobile"
 
-    1. Open the group chat you want to delete.
-    2. Tap :mobile-more: **More options**.
-    3. Select **Leave and delete group**.
-    4. Tap **Leave and delete**.
+    1. From the tab bar, tap [mobile-messages] Messages.
+    2. Open the group chat you want to delete.
+    3. Tap :mobile-more: **More options**.
+    4. Select :mobile-leave: **Leave and delete group**.
+    5. Tap **Leave and delete**.
 
 === "Desktop"
 
-    1. Open the group chat you want to delete.
-    2. Click :mobile-more: **More options**.
-    3. Select **Leave and delete group**.
-    4. Click **Leave and delete**.
+    1. From the navigation bar, click [desktop-chat] Chat.
+    2. Open the group chat you want to delete.
+    3. Click :desktop-more: **More options**.
+    4. Select :desktop-leave: **Leave and delete group**.
+    5. Click **Leave and delete**.
 
 --8<-- "includes/urls-en.txt"

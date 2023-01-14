@@ -155,9 +155,10 @@ nav:
     - using-status/index.md
     - using-status/direct-messages.md
     - Group chats:
-      - Create a group chat: using-status/create-a-group-chat.md
       - Add members to a group chat: using-status/add-members-to-a-group-chat.md
+      - Create a group chat: using-status/create-a-group-chat.md
       - Delete a group chat: using-status/delete-a-group-chat.md
+      - Join a group chat: using-status/join-a-group-chat.md
     - Direct messages:
       - Remove a contact from Status: using-status/remove-a-contact-from-status.md
     - Message features and tools:
