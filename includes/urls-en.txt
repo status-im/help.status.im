@@ -96,6 +96,7 @@
 [your-status-notifications-guide]: /en/your-profile-and-preferences/your-status-notifications-guide
 
 [ethereum-name-service]: https://ens.domains/
+[bittorrent-peer-to-peer-network]: https://en.wikipedia.org/wiki/BitTorrent
 [gnu-privacy-guard]: https://gnupg.org/
 [perfect-forward-secrecy]: https://en.wikipedia.org/wiki/Forward_secrecy
 [status-web-download]: https://status.im/get

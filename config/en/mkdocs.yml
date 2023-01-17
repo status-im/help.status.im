@@ -204,7 +204,9 @@ nav:
       - Configure channel permission : status-communities/configure-channel-permissions.md
       - Delete a channel: status-communities/delete-a-channel.md
     - Create and administer communities:
-        - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
+      - Create a Status Community: status-communities/create-a-status-community.md
+      - Customize your community: status-communities/customize-your-community.md
+      - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
     - Status Web Communities:
       - Use a throwaway profile in Status Web: status-communities/use-a-throwaway-profile-in-status-web.md
       - Understand throwaway profiles in Status Web: status-communities/understand-throwaway-profiles-in-status-web.md

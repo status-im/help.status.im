@@ -26,6 +26,7 @@ hide:
 ## Create and administer communities
 
 - [**Kick or ban** someone from your community][kick-or-ban-someone-from-your-community]
+- [**Create** a Status community][create-a-status-community]
 
 ## Status Web Communities
 
