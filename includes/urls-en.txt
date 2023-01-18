@@ -30,11 +30,16 @@
 [share-images]: /en/using-status/share-images-in-status
 [use-gifs-and-stikers]: /en/using-status/use-gifs-and-stickers
 
+[about-losing-access-to-a-channel]: /en/status-communities/about-losing-access-to-a-channel
+[about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
+[about-status-communities]: /en/status-communities/about-status-communities
+[channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [create-a-status-community]: /en/status-communities/create-a-status-community
+[join-a-channel]: /en/status-communities/join-a-channel
 [join-a-status-community]: /en/status-communities/join-a-status-community
 [join-a-channel]: /en/status-communities/join-a-channel
+[understand-token-requirements-in-channels]: /en/status-communities/understand-token-requirements-in-channels
 [what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
-[leave-a-channel]: /en/status-communities/leave-a-channel
 
 [about-your-status-display-name]: /en/your-profile-and-preferences/about-your-status-display-name
 [change-your-status-display-name]: /en/your-profile-and-preferences/change-your-status-display-name

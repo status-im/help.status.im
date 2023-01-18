@@ -10,6 +10,6 @@ hide:
 ## Channels
 
 - [**Join** a channel][join-a-channel]
-- [Leave a channel][leave-a-channel]
+- [About **losing access** to a channel][about-losing-access-to-a-channel]
 
 --8<-- "includes/urls-en.txt"
