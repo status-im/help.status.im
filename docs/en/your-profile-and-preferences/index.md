@@ -10,6 +10,6 @@ hide:
 
 ## Adjust your notifications
 
-- [**Costumise** your notifications][costumise-your-notifications]
+- [Your Status **notification guide**][your-status-notification-guide]
 
 --8<-- "includes/urls-en.txt"
