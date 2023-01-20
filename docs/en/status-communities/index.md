@@ -15,9 +15,6 @@ hide:
 ## Status Web Communities
 
 - [**Use a throwaway profile** in Status Web][use-a-throwaway-profile-in-status-web]
-
-## Status Web Communities
-
 - [Understand **throwaway profiles** in Status Web][understand-throwaway-profiles-in-status-web]
 
 --8<-- "includes/urls-en.txt"
