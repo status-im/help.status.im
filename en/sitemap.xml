@@ -61,6 +61,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/status-communities/backup-your-community-key/</loc>
+         <lastmod>2023-01-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/status-communities/change-the-channel-access-type/</loc>
          <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
@@ -227,6 +232,11 @@
     </url>
     <url>
          <loc>https://help.status.im/en/using-status/understand-group-chats/</loc>
+         <lastmod>2023-01-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/using-status/view-notifications-and-updates/</loc>
          <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
