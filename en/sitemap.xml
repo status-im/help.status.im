@@ -46,6 +46,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/status-communities/about-losing-access-to-a-channel/</loc>
+         <lastmod>2023-01-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-communities/about-losing-access-to-a-community/</loc>
+         <lastmod>2023-01-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/status-communities/about-status-communities/</loc>
          <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
@@ -67,6 +77,11 @@
     </url>
     <url>
          <loc>https://help.status.im/en/status-communities/create-a-token-gated-channel/</loc>
+         <lastmod>2023-01-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-communities/how-to-use-communities-your-quick-start-guide/</loc>
          <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
