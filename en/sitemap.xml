@@ -131,6 +131,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/using-status/add-remove-or-share-sticker-sets/</loc>
+         <lastmod>2023-01-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/using-status/block-someone-in-status/</loc>
          <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
@@ -171,6 +176,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/using-status/enable-rich-link-previews-in-messages/</loc>
+         <lastmod>2023-01-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/using-status/format-your-messages/</loc>
          <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
@@ -201,17 +211,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/using-status/send-gifs-and-stickers/</loc>
+         <lastmod>2023-01-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/using-status/share-images-in-status/</loc>
          <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/using-status/understand-group-chats/</loc>
-         <lastmod>2023-01-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://help.status.im/en/using-status/use-gifs-and-stickers/</loc>
          <lastmod>2023-01-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
