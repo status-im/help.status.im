@@ -65,11 +65,12 @@ theme:
       - navigation.instant
       - navigation.tabs
       - navigation.tabs.sticky
-      - navigation.indexes
+    #  - navigation.indexes
       - navigation.top
       - navigation.tracking
       - content.action.edit
       - content.action.view
+      - content.tabs.link
 
 # Extensions
 markdown_extensions:
@@ -155,7 +156,6 @@ nav:
       - Download Status for mobile: getting-started/download-status-for-mobile.md
   - Using Status:
     - using-status/index.md
-    - using-status/direct-messages.md
     - Group chats:
       - Add members to a group chat: using-status/add-members-to-a-group-chat.md
       - Clear group chat history: using-status/clear-group-chat-history.md
@@ -164,8 +164,6 @@ nav:
       - Join a group chat: using-status/join-a-group-chat.md
     - Direct messages:
       - Remove a contact from Status: using-status/remove-a-contact-from-status.md
-    - Direct messages:
-      - Remove a contact from Status: using-status/remove-a-contact-in-status.md
       - Block someone in Status: using-status/block-someone-in-status.md
     - Message features and tools:
       - About Status messages: using-status/about-status-messages.md
