@@ -47,7 +47,7 @@
 [understand-group-chats]: /en/using-status/understand-group-chats
 [understand-throwaway-profiles-in-status-web]: /en/status-communities/understand-throwaway-profiles-in-status-web
 [understand-token-requirements-in-channels]: /en/status-communities/understand-token-requirements-in-channels
-[use-a-throwaway-profile-in-status-web]: /en/status-communities/use-a-throwaway-web-profile-in-status-web
+[use-a-throwaway-profile-in-status-web]: /en/status-communities/use-a-throwaway-profile-in-status-web
 [view-notifications-and-updates]: /en/using-status/view-notifications-and-updates
 [what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
 

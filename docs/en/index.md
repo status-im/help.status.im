@@ -26,7 +26,7 @@ hide:
 
     ---
 
-    Create your Community, set up token-based access and channels, or join Communities and channels.
+    Create your community, set up token-based access and channels, or join communities and channels.
 
     [:octicons-arrow-right-24: Status Communities][status-communities]
 
