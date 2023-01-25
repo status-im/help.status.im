@@ -18,7 +18,7 @@ Channels that do not show a :mobile-locked-lock: lock icon are open for anyone t
 
 === "Mobile"
 
-    1. From the tab bar, tap :mobile-community: **Communities**.
+    1. From the tab bar, tap :mobile-communities: **Communities**.
     1. Tap the community with the channel you want to join.
     1. Tap on the open channel.
 
@@ -33,7 +33,7 @@ Channels that are token-gated show a :mobile-locked-lock: lock icon. To access t
 
 === "Mobile"
 
-    1. From the tab bar, tap :mobile-community: **Communities**.
+    1. From the tab bar, tap :mobile-communities: **Communities**.
     1. Tap the community with the channel you want to join.
     1. Verify if you meet the channel requirements. If you don't meet the channel requirements, the **Enter channel** button is greyed out.
     1. Tap **Enter channel**.
