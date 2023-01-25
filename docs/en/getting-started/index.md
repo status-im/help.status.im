@@ -7,7 +7,7 @@ hide:
 
 ## Getting started for new users
 
-- [**Run** the Status app for the **first time**][run-status-app-first-time]
+- [**Run** the Status app for the **first time**][run-the-status-app-for-the-first-time]
 
 ## Download Status
 

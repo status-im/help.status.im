@@ -29,7 +29,7 @@ The Status desktop app is the best way to use Status on Linux. Take a look at th
 
 ## Step 2: Run the Status app for the first time
 
-If this is the first time you run Status on your computer, check [Run the Status app for the first time][run-status-app-first-time].
+If this is the first time you run Status on your computer, check [Run the Status app for the first time][run-the-status-app-for-the-first-time].
 
 <!--
 ## Update Status
