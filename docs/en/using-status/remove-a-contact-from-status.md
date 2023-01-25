@@ -8,7 +8,6 @@ hide:
 
 # Remove a contact from Status
 
-<<<<<<< HEAD
 You can remove any contact from your Status contact list. In Status, you need to add people as contacts to start a conversation. After you remove a Status contact, neither you nor your contact can send new messages to each other.
 
 ## What to expect
@@ -39,9 +38,3 @@ You can remove any contact from your Status contact list. In Status, you need to
     1. Click **Confirm**.
 
 --8<-- "includes/urls-en.txt"
-=======
- :octicons-tools-24: In progress
-
-!!! note ""
-     We're working on this content.
->>>>>>> ad4b0f3 (305 first draft)
