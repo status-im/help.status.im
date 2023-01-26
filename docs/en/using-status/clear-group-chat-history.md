@@ -22,13 +22,13 @@ If you’re not the owner, you’ll clear the chat history just for yourself. Ev
     1. From the tab bar, tap :mobile-messages: Messages.
     2. Open the group chat whose history you want to clear.
     3. Tap :mobile-more-options: **More options**.
-    4. Select :mobile-trash: **Clear history**.
+    4. Select :mobile-placeholder: **Clear history**.
 
 === "Desktop"
 
     1. From the navigation bar, click :desktop-chat: Chat.
     2. Open the group chat whose history you want to clear.
     3. Click :desktop-more-options: **More options**.
-    4. Select :desktop-trash: **Clear history**.
+    4. Select :mobile-placeholder: **Clear history**.
 
 --8<-- "includes/urls-en.txt"
