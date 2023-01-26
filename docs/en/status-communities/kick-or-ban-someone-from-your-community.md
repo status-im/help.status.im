@@ -29,14 +29,14 @@ In the case of minor offences or annoyances, consider kicking the offender. For 
     1. Tap your community.
     1. From the navigation bar, tap :mobile-more-options: **More options**.
     1. Tap **View members** and then, tap :mobile-more-options: **More options** next to the member you want to kick or ban.
-    1. Select :mobile-kick: **Kick** or :mobile-ban: **Ban**, depending on the action you wish to perform.
+    1. Select :mobile-placeholder: **Kick** or :mobile-placeholder: **Ban**, depending on the action you wish to perform.
     1. Tap **Kick** or **Ban** again to confirm your action.
 
 === "Desktop"
 
     1. From the navigation sidebar, click your community.
     1. At the top of the channels sidebar, click your community logo.
-    1. Click :desktop-members: **Members** to show all the community users.
+    1. Click :mobile-placeholder: **Members** to show all the community users.
     1. Hover over the user and select **Kick** or **Ban**, depending on the action you wish to perform.
     1. Click **Kick** or **Ban** again to confirm your action.
 

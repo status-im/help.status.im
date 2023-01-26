@@ -22,7 +22,7 @@ You can add more stickers to default sticker sets in Status, or share a sticker 
 === "Mobile"
 
     1. Open the channel or chat where you want to share the GIF.
-    1. In the message area, tap :mobile-reaction: **React**.
+    1. In the message area, tap :mobile-placeholder: **React**.
     1. Tap :mobile-GIFs: **GIF**. The first time you send a GIF, you need to **Enable** the service.
     1. Search or choose the GIF you want to share. The GIF is sent immediately.
 
@@ -41,7 +41,7 @@ You can add more stickers to default sticker sets in Status, or share a sticker 
 === "Mobile"
 
     1. Open the channel or chat where you want to share the sticker.
-    1. In the message area, tap :mobile-reaction: **React**.
+    1. In the message area, tap :mobile-placeholder: **React**.
     1. Tap :mobile-sticker: **Sticker**.
     1. From your list of stickers, tap the sticker you want to send. The sticker is sent immediately.
 

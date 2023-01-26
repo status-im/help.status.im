@@ -20,7 +20,7 @@ Use a [throwaway profile][understand-throwaway-profiles-in-status-web] when you 
     1. Using your browser, open the Status Web Community you want to join.
     1. From the Community sidebar, click **Use throwaway profile**.
     1. If you see the **Throwaway profile found** pop-up, click **Load throwaway profile** to use the existing profile or click **Skip** to create a new one.
-    1. In the top-right corner, click :status-group-chat: **Members**. Your throwaway profile name appears on the members sidebar.
+    1. In the top-right corner, click :web-members: **Members**. Your throwaway profile name appears on the members sidebar.
 
 ## Disconnect your throwaway profile
 

@@ -19,7 +19,7 @@ If you want to create a new chat, see [Create a group chat][create-a-group-chat]
     1. From the tab bar, tap :mobile-messages: Messages.
     2. Open the group chat you want to add new members to.
     3. From the navigation bar, tap :mobile-more-options: **More options**.
-    4. Tap :mobile-add-members: **Add members**. If you're the group chat owner, this will say :mobile-add-members: **Add / remove members** for you.
+    4. Tap :mobile-placeholder: **Add members**. If you're the group chat owner, this will say :mobile-placeholder: **Add / remove members** for you.
     5. Check the boxes next to the contacts you want to invite. Once you're done, tap **Confirm changes**.
 
 === "Desktop"
