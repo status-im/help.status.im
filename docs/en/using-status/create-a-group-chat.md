@@ -23,7 +23,7 @@ Group chats are different to communities, as they're meant to unite smaller grou
 === "Mobile"
 
     1. From the tab bar, tap :mobile-messages: **Messages**.
-    2. Tap :mobile-plus: **Plus**.
+    2. Tap :mobile-add: **Plus**.
     3. Select **New chat**.
     4. Check the boxes next to the contacts you want to invite to your chat. Tap **Setup group chat**.
     5. Choose a name and highlight colour for your group chat. All members will be able to see both the name and the colour. Once you're finished, tap **Create group chat**.
