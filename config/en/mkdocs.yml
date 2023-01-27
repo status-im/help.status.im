@@ -191,5 +191,7 @@ nav:
     - status-wallet/index.md
   - Your profile:
     - your-profile-and-preferences/index.md
+    - Security:
+      - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
   - Network nodes:
     - network-nodes-and-statistics/index.md

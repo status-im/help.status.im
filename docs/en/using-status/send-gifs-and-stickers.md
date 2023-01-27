@@ -10,7 +10,7 @@ hide:
 
 Animated GIFs and stickers are a popular way of expressing emotions, reactions and humour in messaging apps. GIFs are short, looping animated videos of a few seconds in length, while stickers are static or animated images.
 
-The Status app uses the [Tenor GIF :octicons-tab-external-16:][Tenor]{:target="_blank"} search engine and database for GIFs. You can also share GIFs from other sources by sending a message with the GIF URL.
+The Status app uses the [Tenor GIF :octicons-tab-external-16:][tenor]{:target="_blank"} search engine and database for GIFs. You can also share GIFs from other sources by sending a message with the GIF URL.
 
 You can add more stickers to default sticker sets in Status, or share a sticker set with someone. See [Add, remove or share sticker sets][add-remove-or-share-sticker-sets].
 
