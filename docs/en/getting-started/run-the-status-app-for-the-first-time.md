@@ -8,12 +8,9 @@ hide:
 
 # Run the Status app for the first time
 
-When you run Status for the first time, you create a new profile represented by a pair of [cryptographic keys][understand-your-status-keys-and-recovery-phrase]. Contrary to centralized apps, Status doesn't rely on your username or email address to identify your profile but on your private and public keys.
+When you run Status for the first time, the app creates a pair of [cryptographic keys] [understand-your-status-keys-and-recovery-phrase] representing your Status identity. Unlike centralized apps, Status doesn't rely on your username or email address to identify your profile but on your private and public keys.
 
 These keys are securely stored on your device and protected by your Status password. To understand how these keys work and how they protect your data and privacy, check out [Understand your Status keys and recovery phrase][understand-your-status-keys-and-recovery-phrase].
-
-!!! tip
-    To get started, [download and install the Status app][download-status].
 
 ## Create a new Status profile
 
@@ -36,7 +33,7 @@ If you want to create your profile from an existing recovery phrase, read [Creat
     1. Open the Status app. Your operating system may ask you to set your notification preferences for Status. In the **Allow notifications** screen, click **OK, got it**.
     1. Check the box to accept the Status **Terms of Use and Privacy Policy** and click **Get Started**. You can find and read this information on the [Status website :octicons-tab-external-16:][status-website]{:target="_blank"}.
     1. On the welcome screen, click **I am new to Status**.
-    1. On the next screen, click **Generate new keys**.
+    1. Click **Generate new keys**.
 
     ### Step 2: Create your password and customize other settings
 
@@ -46,8 +43,10 @@ If you want to create your profile from an existing recovery phrase, read [Creat
     1. Confirm your password and click **Finalise Status Password Creation**.
     1. Configure your device's biometrics (fingerprint, face, or other) to fill in your password. Alternatively, click **I prefer to use my password**.
 
+To protect your Status data and funds, [backup and secure your recovery phrase][backup-and-secure-your-recovery-phrase] immediately after creating your profile.
+
 !!! warning "caution"
-    In a decentralized app like Status, you're in control of your keys, which are securely stored on your device. To protect your keys, check out [Backup and secure your recovery phrase][backup-and-secure-your-recovery-phrase].
+    Status doesn't know your password and cannot reset it for you. If you forget your password, you may lose access to your Status profile and wallet funds. Remember your Status password, keep it in a safe place, and don't share it with anyone.
 
 ## Customize your profile
 
