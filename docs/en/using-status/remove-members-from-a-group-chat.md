@@ -8,7 +8,7 @@ hide:
 
 # Remove members from a group chat
 
-A [group chat][understand-group-chats] owner can add their [Status contacts][send-a-contact-request] to the chat. Regular members can't add their contacts.
+A [group chat][understand-group-chats] owner can remove members from a group chat. As a group chat owner, you're free to set your own rules and remove members who misbehave. Regular members can't remove other members.
 
 If you remove someone by mistake or change your mind about them later, you can always [re-add them to the chat][add-members-to-a-group-chat].
 
