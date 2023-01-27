@@ -6,13 +6,13 @@ hide:
   - navigation
 ---
 
-# Pin a chat message
+# Pin a message
 
 Any chat member can pin messages, both their own and those of others. Message pinning is available in direct messages, group chats and community channels.
 
 Once you pin a message, it's highlighted and gets a label saying who pinned it.
 
-## Pin a chat message
+## Pin a message
 
 === "Mobile"
 
