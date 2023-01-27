@@ -8,7 +8,27 @@ hide:
 
 # Leave a group chat
 
- :octicons-tools-24:
+If you don’t want to be a member of a [group chat][understand-group-chats] anymore, you can leave the chat. You'll be able to [re-join the chat][join-a-group-chat] later if you change your mind.
 
-!!! note ""
-     We're working on this content.
+!!! note
+	The group chat owner can't leave without deleting the chat for everyone. For more information, check out [Delete a group chat][delete-a-group-chat].
+
+## Leave a group chat
+
+=== "Mobile"
+
+    1. From the tab bar, tap :mobile-messages: Messages.
+    2. Open the group chat you want to leave.
+    3. Tap :mobile-more-options: **More options**.
+    4. Select :mobile-placeholder: **Leave group**.
+    5. Tap **Leave**.
+
+=== "Desktop"
+
+    1. From the navigation bar, click :desktop-chat: Chat.
+    2. Open the group chat you want to leave.
+    3. Click :desktop-more-options: **More options**.
+    4. Select :desktop-leave-group-chat: **Leave group**.
+    5. Click **Leave**.
+
+--8<-- "includes/urls-en.txt"
