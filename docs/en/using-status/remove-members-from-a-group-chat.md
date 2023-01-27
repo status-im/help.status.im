@@ -23,7 +23,7 @@ If you remove someone by mistake or change your mind about them later, you can a
     5. Select :mobile-remove-member: **Remove from the group**.
     6. Select **Remove** to confirm your decision.
 
-    If you want to remove multiple members in a batch, go to **Messages** > **Manage members** and uncheck the boxes next to the members you want to remove. Tap **Confirm changes** to confirm your decision.
+    If you want to remove multiple members in a batch, go to **Messages** > your group chat > **Manage members** and uncheck the boxes next to the members you want to remove. Tap **Confirm changes** to confirm your decision.
 
 === "Desktop"
 
