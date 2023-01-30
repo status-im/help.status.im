@@ -42,12 +42,12 @@ Because your recovery phrase can be used to regenerate your private key, you mus
 
 ## Status chat key and wallet address
 
-The Status apps generates the first key pair (public and private keys) when you [create a new Status profile][run-the-status-app-for-the-first-time]. From this master key pair, the app creates additional key pairs, such as the chat key and wallet address, which look similar but have different purposes.
+The Status apps generates the first key pair (public and private keys) when you [create a new Status profile][run-the-status-app-for-the-first-time]. From this master key pair, the app makes additional key pairs, such as the chat key and wallet address, which look similar but have different purposes.
 
 Your chat key is a long hexadecimal hash part of your public Status profile. You [share your chat key][share-your-chat-key] with other users to start a conversation. You can also connect your chat key with an [ENS username][ethereum-name-service], like `alice.eth` or `alice.stateofus.eth`.
 
 <!-- Screenshot showing where to find the chat key in Status -->
 
-Your wallet address is a shortened form of your public key. This address is public and can be used to receive crypto. Some content creators and organisations show this address publicly on their websites to receive funds.
+Your [wallet address][about-your-wallet-accounts-and-addresses] is a shortened form of your public key. This address is public and can be used to receive crypto. Some content creators and organisations show this address publicly on their websites to receive funds.
 
 --8<-- "includes/urls-en.txt"
