@@ -45,7 +45,7 @@ If you want to create your profile from an existing recovery phrase, read [Creat
 
 To protect your Status data and funds, [backup and secure your recovery phrase][backup-and-secure-your-recovery-phrase] immediately after creating your profile.
 
-!!! warning "caution"
+!!! Caution
     Status doesn't know your password and cannot reset it for you. If you forget your password, you may lose access to your Status profile and wallet funds. Remember your Status password, keep it in a safe place, and don't share it with anyone.
 
 ## Customize your profile
