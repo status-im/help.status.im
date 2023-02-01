@@ -196,5 +196,7 @@ nav:
     - status-wallet/index.md
   - Your profile:
     - your-profile-and-preferences/index.md
+    - Adjust your notifications:
+      - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
   - Network nodes:
     - network-nodes-and-statistics/index.md
