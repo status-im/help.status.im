@@ -60,6 +60,7 @@
 [change-your-status-display-name]: /en/your-profile-and-preferences/change-your-status-display-name
 [create-or-restore-your-status-profile-using-keycard]: /en/your-profile-and-preferences/create-or-restore-your-status-profile-using-keycard
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
+[mute-your-notifications]: /en/your-profile-and-preferences/mute-your-notifications
 [register-your-status-ens-name]: /en/your-profile-and-preferences/register-your-status-ens-name
 [understand-your-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase
 [your-chatkey-emojihash-and-identicon-ring]: /en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring
