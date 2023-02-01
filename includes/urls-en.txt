@@ -62,8 +62,10 @@
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
 [mute-your-notifications]: /en/your-profile-and-preferences/mute-your-notifications
 [register-your-status-ens-name]: /en/your-profile-and-preferences/register-your-status-ens-name
+[set-your-notification-exceptions]: /en/your-profile-and-preferences/set-your-notification-exceptions
 [understand-your-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase
 [your-chatkey-emojihash-and-identicon-ring]: /en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring
+[your-status-notification-guide]: /en/your-profile-and-preferences/your-status-notification-guide
 
 [gnu-privacy-guard]: https://gnupg.org/
 [perfect-forward-secrecy]: https://en.wikipedia.org/wiki/Forward_secrecy
