@@ -8,21 +8,21 @@ hide:
 
 # Run the Status app for the first time
 
-When you run Status for the first time, the app creates a pair of [cryptographic keys] [understand-your-status-keys-and-recovery-phrase] representing your Status identity. Unlike centralized apps, Status doesn't rely on your username or email address to identify your profile but on your private and public keys.
+When you run Status for the first time, the app creates a pair of [cryptographic keys] [understand-your-status-keys-and-recovery-phrase] representing your Status identity. Unlike centralized apps, Status doesn't rely on your username or email address to identify your profile. Instead, it uses your private and public keys.
 
 These keys are securely stored on your device and protected by your Status password. To understand how these keys work and how they protect your data and privacy, check out [Understand your Status keys and recovery phrase][understand-your-status-keys-and-recovery-phrase].
 
 ## Create a new Status profile
 
-If you want to create your profile from an existing recovery phrase, read [Create or restore your Status profile using a recovery phrase][create-or-restore-your-status-profile-using-a-recovery-phrase]. If you're going to use a Keycard to create your profile, read [Create or restore your Status profile using Keycard][create-or-restore-your-status-profile-using-keycard].
+If you want to create your profile from an existing recovery phrase, check out [Create or restore your Status profile using a recovery phrase][create-or-restore-your-status-profile-using-a-recovery-phrase]. If you're going to use a Keycard to create your profile, check out [Create or restore your Status profile using Keycard][create-or-restore-your-status-profile-using-keycard].
 
 === "Mobile"
 
     1. Open the Status app and tap **I'm new to Status**.
-    1. On the following screen, choose **Generate keys**.
-    1. [Customize your Status profile](#customize-your-profile) with your preferred name, profile picture, and colour, and press **Continue**.
+    1. On the following screen, select **Generate keys**.
+    1. [Customize your Status profile](#customize-your-profile) with your preferred name, profile picture and colour, and tap **Continue**.
     1. Enter and confirm your password and tap **Confirm password**.
-    1. Configure your device's biometrics (fingerprint, face, or other) to fill in your password. If you want to enable biometrics later, tap **Maybe later**.
+    1. Configure your device's biometrics (fingerprint, face or other) to fill in your password. If you want to enable biometrics later, tap **Maybe later**.
     1. On the **profile identifiers** screen, you can learn more about your Status profile or tap **Skip** to finish the profile setup.
     1. Tap **Start using Status**.
 
@@ -37,16 +37,16 @@ If you want to create your profile from an existing recovery phrase, read [Creat
 
     ### Step 2: Create your password and customize other settings
 
-    1. On the **Your profile** screen, [customize your Status profile](#customize-your-profile) with your preferred name, profile picture, and colour, and press **Continue**.
+    1. On the **Your profile** screen, [customize your Status profile](#customize-your-profile) with your preferred name, profile picture, and colour, and click **Continue**.
     1. On the **Your emojihash and identicon ring** screen, you can learn more about your Status profile. Click **Next**.
     1. Enter and confirm your password and click **Create password**.
-    1. Confirm your password and click **Finalise Status Password Creation**.
-    1. Configure your device's biometrics (fingerprint, face, or other) to fill in your password. Alternatively, click **I prefer to use my password**.
+    1. Confirm your password again and click **Finalize Status Password Creation**.
+    1. Enable your device's biometrics (fingerprint, face or other) to fill in your password. Alternatively, click **I prefer to use my password**.
 
-To protect your Status data and funds, [backup and secure your recovery phrase][backup-and-secure-your-recovery-phrase] immediately after creating your profile.
+To protect your Status data and funds, [back up and secure your recovery phrase][back-up-and-secure-your-recovery-phrase] immediately after creating your profile.
 
 !!! Caution
-    Status doesn't know your password and cannot reset it for you. If you forget your password, you may lose access to your Status profile and wallet funds. Remember your Status password, keep it in a safe place, and don't share it with anyone.
+    Status doesn't know your password and can't reset it for you. If you forget your password, you may lose access to your Status profile and wallet funds. Remember your Status password, keep it in a safe place and don't share it with anyone.
 
 ## Customize your profile
 
@@ -54,15 +54,15 @@ You can customize your Status profile at any time in the [Status settings][custo
 
 === "Mobile"
 
-    1. On the **Create profile** screen, enter your desired profile name. Don't use special characters or emojis.
-    1. Tap the :mobile-camera: **Camera** in your avatar and select your profile picture. To add your profile picture, you must authorize the Status app to access your camera or photo gallery.
+    1. On the **Create profile** screen, set your profile name. Don't use special characters or emojis.
+    1. Tap the :mobile-camera: **Camera** in your avatar and set a profile picture. To add your profile picture, you must authorize the Status app to access your camera or photo gallery.
     1. Choose a profile colour.
-    1. Tap **Continue** to complete your profile customisation. 
+    1. Tap **Continue** to complete your profile customization. 
 
 === "Desktop"
 
-    1. On the **Your profile** screen, enter your desired profile name. Don't use special characters or emojis.
-    1. Click :desktop-plus: **Plus** in your avatar and select your desired profile picture. Adjust your picture size and click **Make this my profile picture**.
-    1. Click **Next** to complete your profile customisation.
+    1. On the **Your profile** screen, set your profile name. Don't use special characters or emojis.
+    1. Click :desktop-plus: **Plus** in your avatar and set a profile picture. Adjust your picture size and click **Make this my profile picture**.
+    1. Click **Next** to complete your profile customization.
 
 --8<-- "includes/urls-en.txt"

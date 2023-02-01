@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Backup and secure your recovery phrase
+# Back up and secure your recovery phrase
 
  :octicons-tools-24: In progress
 

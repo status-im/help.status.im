@@ -5,7 +5,7 @@
 [using-status]: /en/using-status/
 [your-profile-and-prefences]: /en/your-profile-and-preferences/
 
-[create-or-restore-your-status-profile-using-a-recovery-phrase]: /en/getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase.md
+[create-or-restore-your-status-profile-using-a-recovery-phrase]: /en/getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase
 [download-status]: /en/getting-started/#download-status
 [download-status-for-linux]: /en/getting-started/download-status-for-linux
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
@@ -55,7 +55,7 @@
 
 [about-keycard]: /en/your-profile-and-preferences/about-keycard
 [about-your-status-display-name]: /en/your-profile-and-preferences/about-your-status-display-name
-[backup-and-secure-your-recovery-phrase]: /en/your-profile-and-preferences/backup-and-secure-your-recovery-phrase
+[back-up-and-secure-your-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase
 [change-your-status-display-name]: /en/your-profile-and-preferences/change-your-status-display-name
 [create-or-restore-your-status-profile-using-keycard]: /en/your-profile-and-preferences/create-or-restore-your-status-profile-using-keycard
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
