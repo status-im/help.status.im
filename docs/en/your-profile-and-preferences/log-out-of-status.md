@@ -16,9 +16,9 @@ When you decide not to use Status on the current device, you can log out to keep
 === "Mobile"
 
     1. Tap your avatar.
-    1. Scroll down to the bottom of the Settings list and tap :mobile-placeholder: **Log out**.
+    1. Scroll down to the bottom of the Settings list and tap :mobile-log-out: **Log out**.
     1. In the pop-up, check the two checkboxes.
-    1. Tap :mobile-placeholder: **Log out**.
+    1. Tap :mobile-log-out: **Log out**.
 
 === "Desktop"
 
