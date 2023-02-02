@@ -10,7 +10,7 @@ hide:
 
 If you don’t want to be a member of a [group chat][understand-group-chats] anymore, you can leave the chat. You can always [re-join the chat][join-a-group-chat] later if you change your mind.
 
-Once you leave, a note appears in the group chat's message history letting other members know that you left the chat. You can still see the previous message history for a group chat you left.
+Once you leave, a note appears in the group chat's message history letting other members know that you left the chat. You will still be able to access the group chat messages that were sent before you left.
 
 If someone is adding you to group chats you don't want to be in, consider [changing who can invite you to group chats][change-who-can-invite-you-to-group-chats] or [blocking that person][block-someone-in-status].
 
@@ -24,7 +24,7 @@ If someone is adding you to group chats you don't want to be in, consider [chang
     1. From the tab bar, tap :mobile-messages: **Messages**.
     2. Open the group chat you want to leave.
     3. Tap :mobile-more-options: **More options**.
-    4. Select :mobile-placeholder: **Leave group**.
+    4. Select :mobile-log-out: **Leave group**.
     5. Tap **Leave**.
 
 === "Desktop"
