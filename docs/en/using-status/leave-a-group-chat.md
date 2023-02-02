@@ -21,7 +21,7 @@ If someone is adding you to group chats you don't want to be in, consider [chang
 
 === "Mobile"
 
-    1. From the tab bar, tap :mobile-messages: Messages.
+    1. From the tab bar, tap :mobile-messages: **Messages**.
     2. Open the group chat you want to leave.
     3. Tap :mobile-more-options: **More options**.
     4. Select :mobile-placeholder: **Leave group**.
@@ -29,7 +29,7 @@ If someone is adding you to group chats you don't want to be in, consider [chang
 
 === "Desktop"
 
-    1. From the navigation bar, click :desktop-chat: Chat.
+    1. From the navigation sidebar, click :desktop-chat: **Chat**.
     2. Open the group chat you want to leave.
     3. Click :desktop-more-options: **More options**.
     4. Select :desktop-leave-group-chat: **Leave group**.
