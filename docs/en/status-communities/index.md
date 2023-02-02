@@ -14,6 +14,7 @@ hide:
 
 - [**Join** a channel][join-a-channel]
 - [About **losing access** to a channel][about-losing-access-to-a-channel]
+- [**Configure** channel notifications][configure-channel-notifications]
 
 ## Create and administer communities
 

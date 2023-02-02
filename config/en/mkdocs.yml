@@ -183,6 +183,7 @@ nav:
     - Channels:
       - Join a channel: status-communities/join-a-channel.md
       - About losing access to a channel: status-communities/about-losing-access-to-a-channel.md
+      - Configure channel notifications: status-communities/configure-channel-notifications
     - Create and administer communities:
         - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
     - Status Web Communities:
