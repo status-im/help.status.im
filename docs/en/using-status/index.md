@@ -17,6 +17,7 @@ hide:
 - [**Clear** group chat **history**][clear-group-chat-history]
 - [**Delete** a group chat][delete-a-group-chat]
 - [**Join** a group chat][join-a-group-chat]
+- [**Leave** a group chat][leave-a-group-chat]
 
 ## Message features and tools
 

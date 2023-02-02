@@ -16,6 +16,7 @@
 [add-remove-or-share-sticker-sets]: /en/using-status/add-remove-or-share-sticker-sets
 [block-someone-in-status]: /en/using-status/block-someone-in-status
 [built-in-privacy-and-security]: /en/using-status/about-status-messages/#built-in-privacy-and-security
+[change-who-can-invite-you-to-group-chats]: /en/using-status/change-who-can-invite-you-to-group-chats
 [clear-group-chat-history]: /en/using-status/clear-group-chat-history
 [create-a-group-chat]: /en/using-status/create-a-group-chat
 [customize-a-group-chat]: /en/using-status/customize-a-group-chat
