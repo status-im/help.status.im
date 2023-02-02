@@ -26,6 +26,6 @@ You can configure your notification settings for each channel in the Status app.
     1. From the settings sidebar click :desktop-notification: Notifications & Sounds.
 
 !!! info
-    You can customise your channel notifications. For more information, check out [your Status notification guide][] and [configure your notifications settings][]
+    You can customise your channel notifications. For more information, check out [your Status notification guide][your-status-notification-guide] and [configure your notifications settings][configure-your-notification-settings]
 
 --8<-- "includes/urls-en.txt"
