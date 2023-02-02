@@ -18,6 +18,7 @@ Create your community, set up private channels or join others' communities and c
 - [**Channels**: your quick start guide][channels-your-quick-start-guide]
 - [**Join** a channel][join-a-channel]
 - [About **losing access** to a channel][about-losing-access-to-a-channel]
+- [**Configure** channel notifications][configure-channel-notifications]
 
 ## Manage channels
 
