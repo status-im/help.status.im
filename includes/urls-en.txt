@@ -6,6 +6,7 @@
 [your-profile-and-prefences]: /en/your-profile-and-preferences/
 
 [add-a-contact-in-status]: /en/getting-started/add-a-contact-in-status
+[add-a-new-device-to-your-status-profile]: /en/getting-started/add-a-new-device-to-your-status-profile
 [create-or-restore-your-status-profile-using-a-recovery-phrase]: /en/getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase
 [download-status]: /en/getting-started/#download-status
 [download-status-for-linux]: /en/getting-started/download-status-for-linux
@@ -42,6 +43,7 @@
 [share-images-in-status]: /en/using-status/share-images-in-status
 [share-your-status-profile]: /en/using-status/share-your-status-profile
 [understand-group-chats]: /en/using-status/understand-group-chats
+[understand-peer-to-peer-messaging]: /en/using-status/about-status-messages/#understand-peer-to-peer-messaging
 
 [about-losing-access-to-a-channel]: /en/status-communities/about-losing-access-to-a-channel
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
