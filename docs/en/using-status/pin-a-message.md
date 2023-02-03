@@ -8,7 +8,9 @@ hide:
 
 # Pin a message
 
-Any chat member can pin messages, both their own and those of others. Message pinning is available in direct messages, group chats and community channels.
+You can pin important information in group chats so that it doesn't get lost in the message history. For example, you can pin your chat rules, event announcements and FAQs.
+
+Chat members can pin both their own and other members' messages. Message pinning is available in direct messages (DMs), group chats and community channels.
 
 Once you pin a message, it's highlighted and gets a label saying who pinned it.
 
@@ -32,6 +34,6 @@ Once you pin a message, it's highlighted and gets a label saying who pinned it.
     4. Click :desktop-pin: **Pin**.
     To unpin a message, hover over it and click :desktop-unpin: **Unpin**.
     
-    To view all pinned messages in a group or direct messages chat, click :desktop-pin: **N pinned messages** underneath the chat's name. In communities, this will say :desktop-pin: **N**, where N is the number of currently pinned messages.
+    To view all pinned messages in a group or DM chat, click :desktop-pin: **N pinned messages** underneath the chat's name. In communities, this will say :desktop-pin: **N**, where N is the number of currently pinned messages.
 
 --8<-- "includes/urls-en.txt"
