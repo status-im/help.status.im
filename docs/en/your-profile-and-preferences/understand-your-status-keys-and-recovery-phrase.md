@@ -1,0 +1,16 @@
+---
+id: 29
+revision: 0
+language: en
+hide:
+  - navigation
+---
+
+# Understand your Status keys and recovery phrase
+
+ :octicons-tools-24: In progress
+
+!!! note ""
+     We're working on this content.
+
+--8<-- "includes/urls-en.txt"
