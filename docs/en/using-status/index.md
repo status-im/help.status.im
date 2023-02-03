@@ -14,6 +14,7 @@ hide:
 
 - [**Create** a group chat][create-a-group-chat]
 - [**Add members** to a group chat][add-members-to-a-group-chat]
+- [**Remove members** from a group chat][remove-members-from-a-group-chat]
 - [**Clear** group chat **history**][clear-group-chat-history]
 - [**Delete** a group chat][delete-a-group-chat]
 - [**Join** a group chat][join-a-group-chat]
