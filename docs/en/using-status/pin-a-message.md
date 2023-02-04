@@ -22,7 +22,7 @@ Once you pin a message, it's highlighted and gets a label saying who pinned it.
     2. Open the chat you want to pin a message in.
     3. Tap the message you want to pin.
     4. Tap :mobile-pin: **Pin to the chat**.
-    To unpin a message, tap it and select :mobile-unpin: **Unpin**.
+    To unpin a message, tap it and select :mobile-pin: **Unpin**.
     
     To view all pinned messages in a group or direct messages chat, open this chat and tap :mobile-pin: **Pinned messages**. If the chat's full, tap the ribbon with the :mobile-pin: **Pin** icon underneath the chat's name.
 
