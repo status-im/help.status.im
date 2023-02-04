@@ -15,6 +15,10 @@ hide:
 - [**Join** a channel][join-a-channel]
 - [About **losing access** to a channel][about-losing-access-to-a-channel]
 
+## Manage channels
+
+- [**Create** a private channel][create-a-private-channel]
+
 ## Create and administer communities
 
 - [**Kick or ban** someone from your community][kick-or-ban-someone-from-your-community]
