@@ -221,6 +221,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/using-status/pin-a-message/</loc>
+         <lastmod>2023-02-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/using-status/remove-a-contact-from-status/</loc>
          <lastmod>2023-02-04</lastmod>
          <changefreq>daily</changefreq>
