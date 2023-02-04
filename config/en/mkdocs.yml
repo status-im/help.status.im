@@ -189,6 +189,7 @@ nav:
       - Join a channel: status-communities/join-a-channel.md
       - About losing access to a channel: status-communities/about-losing-access-to-a-channel.md
     - Manage channels:
+      - Create a public channel: status-communities/create-a-public-channel.md
       - Delete a channel: status-communities/delete-a-channel.md
     - Create and administer communities:
         - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
