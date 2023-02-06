@@ -31,31 +31,31 @@ A channel owner must specify token requirements to create a private channel.
 
     ### Step 2: Add information to a new channel
 
-    1. From the **New channel** pop-up window, under **Channel name**, enter a name for your new channel.
+    1. From the **New channel** pop-up, under **Channel name**, enter a name for your new channel.
     1. Optionally, click :desktop-emojis: to choose an emoji for your new channel. 
-    1. Optionally, on the **New channel** pop-up window, under **Channel colour**, choose a colour for your channel.
-    1. From the **New channel** pop-up window, under **Description**, add a description for your channel. 
+    1. Optionally, on the **New channel** pop-up, under **Channel colour**, choose a colour for your channel.
+    1. From the **New channel** pop-up, under **Description**, add a description for your channel. 
     1. Click **Create Channel**.
 
     ### Step 3: Add permission (Who holds)
 
-     1. From the **New channel** pop-up window, under **Permission**, click **Add Permission**.
-     1. On the **New permission** pop-up window, under **Who holds**, click :desktop-plus: **Plus**.
+     1. From the **New channel** pop-up, under **Permission**, click **Add Permission**.
+     1. On the **New permission** pop-up, under **Who holds**, click :desktop-plus: **Plus**.
      1. Choose the **Asset**, **Collectible** or **ENS**.
      1. Click **Add**.
 
     ### Step 4: Add permission (Is allowed to)
 
-     1. On the **New permission** pop-up window, under **Is allowed to**, click :desktop-plus: **Plus**.
+     1. On the **New permission** pop-up, under **Is allowed to**, click :desktop-plus: **Plus**.
      1. Choose one of the options in the list.
      1. Click **Add**.  
 
     ### Step 5: Add permission (In)
 
-     1. On the **New permission** pop-up window under **In**, click :desktop-plus: **Plus**.
+     1. On the **New permission** pop-up, under **In**, click :desktop-plus: **Plus**.
      1. Choose one of the options in the list.
      1. Click **Add**.
-     1. Optionally, on the **New permission** pop-up window, under **Private**, swipe the button to the right to hide this permission from members that don´t meet the requirements.
+     1. Optionally, on the **New permission** pop-up, under **Private**, swipe the button to the right to hide this permission from members that don´t meet the requirements.
      1. Click **Create Permission**.
 
 !!! info
