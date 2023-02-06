@@ -64,7 +64,7 @@ Channels bring the right people and information together in one place and make i
 
 ## The #general channel
 
-The #general channel is not created by default when you create a community. It works like any other channel. The #general channel works best when it’s used to share announcements with members of a community. Below are some tips to set up the #general channel for announcements.
+The #general channel is not created by default when you create a community. It works like any other channel. The #general channel works best when it's used to share announcements with members of a community. Below are some tips to set up the #general channel for announcements.
 
 * To organize the community and to communicate with the members, it is a good practice to name a channel #general. 
 
