@@ -20,9 +20,6 @@ In Status, you can create a public channel if you are the community's owner or a
 
 You do not need to specify token requirements to create a public channel.
 
-=== "Mobile"
-
-
 === "Desktop"
 
     ### Step 1: Set a new channel
@@ -32,10 +29,10 @@ You do not need to specify token requirements to create a public channel.
   
     ### Step 2: Add information to a new channel
 
-    1. From the **New channel** screen, under **Channel name** enter a name for your new channel.
+    1. From the **New channel** pop-up, under **Channel name** enter a name for your new channel.
     1. Optionally, click :desktop-emojis: to choose an emoji for your new channel. 
-    1. Optionally, on the **New channel** screen, under **Channel colour** choose a colour for your channel.
-    1. From the **New channel** screen, under **Description** add a description for your channel. 
+    1. Optionally, on the **New channel** pop-up, under **Channel colour** choose a colour for your channel.
+    1. From the **New channel** pop-up, under **Description** add a description for your channel. 
     1. Click **Create Channel**
 
 --8<-- "includes/urls-en.txt"
