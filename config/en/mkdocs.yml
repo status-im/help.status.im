@@ -173,6 +173,15 @@ nav:
       - About Status messages: using-status/about-status-messages.md
       - Messages FAQs: using-status/messages-faqs.md
       - Pin messages: using-status/pin-a-message.md
+      - React and reply to messages: using-status/react-and-reply-to-messages.md
+    - Direct messages:
+      - Remove a contact from Status: using-status/remove-a-contact-from-status.md
+      - Block someone in Status: using-status/block-someone-in-status.md
+      - React and reply to messages: using-status/react-and-reply-to-messages.md
+    - Message features and tools:
+      - About Status messages: using-status/about-status-messages.md
+      - Messages FAQs: using-status/messages-faqs.md
+      - React and reply to messages: using-status/react-and-reply-to-messages
       - Edit and delete your messages: using-status/edit-and-delete-your-messages.md
     - Format and style messages:
       - Format your messages: using-status/format-your-messages.md

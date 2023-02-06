@@ -29,6 +29,7 @@
 [leave-a-group-chat]: /en/using-status/leave-a-group-chat
 [messages-faqs]: /en/using-status/messages-faqs
 [pin-a-message]: /en/using-status/pin-a-message
+[react-and-reply-to-messages]: /en/using-status/react-and-reply-to-messages
 [remove-a-contact-from-status]: /en/using-status/remove-a-contact-from-status
 [remove-members-from-a-group-chat]: /en/using-status/remove-members-from-a-group-chat
 [send-a-contact-request]: /en/using-status/send-a-contact-request
