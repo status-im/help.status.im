@@ -13,13 +13,15 @@ hide:
 
 With Status, you can organize your conversations with your contacts into designated spaces called [channels](channels-your-quick-start-guide.md). Channels bring the right people and information together for a common purpose, like a specific project or topic.
 
-The Status app allows you to delete channels within communities. When you delete a channel, all content connected to it is deleted, including messages and files.
+The Status app allows community owners and admins to delete channels within communities. When you delete a channel, all messages and files associated with that channel are also deleted.
 
 !!! warning "caution"
 
     Is important to be aware that deleting a channel is permanent and cannot be undone.
 
 ## What to expect
+
+* You can only delete a channel if you are the owner or an admin of the community.
 
 * A deleted channel disappears immediately, and all users will lose access to that channel and its content (messages and files).
 
