@@ -32,6 +32,8 @@
 [remove-a-contact-from-status]: /en/using-status/remove-a-contact-from-status
 [remove-members-from-a-group-chat]: /en/using-status/remove-members-from-a-group-chat
 [send-a-contact-request]: /en/using-status/send-a-contact-request
+[send-and-read-messages]: /en/using-status/send-and-read-messages
+[send-an-audio-message]: /en/using-status/send-an-audio-message
 [send-gifs-and-stikers]: /en/using-status/send-gifs-and-stickers
 [share-images-in-status]: /en/using-status/share-images-in-status
 [understand-group-chats]: /en/using-status/understand-group-chats
@@ -41,7 +43,9 @@
 [about-status-communities]: /en/status-communities/about-status-communities
 [backup-your-community-key]: /en/status-communities/backup-your-community-key
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
+[create-a-channel]: /en/status-communities/create-a-channel
 [create-a-status-community]: /en/status-communities/create-a-status-community
+[configure-channel-permissions]: /en/status-communities/configure-channel-permissions
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [join-a-channel]: /en/status-communities/join-a-channel
 [join-a-status-community]: /en/status-communities/join-a-status-community
