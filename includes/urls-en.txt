@@ -70,6 +70,7 @@
 [log-out-of-status]: /en/your-profile-and-preferences/log-out-of-status
 [faq-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/faq-status-keys-and-recovery-phrase
 [register-your-status-ens-name]: /en/your-profile-and-preferences/register-your-status-ens-name
+[share-your-chat-key]: /en/your-profile-and-preferences/share-your-chat-key
 [understand-your-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase
 [your-chatkey-emojihash-and-identicon-ring]: /en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring
 

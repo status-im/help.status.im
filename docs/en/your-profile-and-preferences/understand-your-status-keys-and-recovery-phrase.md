@@ -22,7 +22,7 @@ When you [create a new Status profile][run-the-status-app-for-the-first-time], t
 !!! warning "Caution"
     Status doesn't know your password and cannot reset it for you. If you forget your password, you may lose access to your Status profile and wallet funds. Remember your Status password, keep it in a safe place, and don't share it with anyone.
 
-The Status app uses your private key to sign and encrypt your messages, ensuring that only the intended recipient can read them and that no one can tamper with them. You should never share your private key.
+The Status app uses your private key to sign and encrypt your messages, making sure that only the intended recipient can read them and that no one can tamper with them. You should never share your private key.
 
 !!! note
     You can regenerate your private key on a different device using your [recovery phrase](#about-your-recovery-phrase).
