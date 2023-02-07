@@ -212,6 +212,7 @@ nav:
     - your-profile-and-preferences/index.md
     - Security:
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
+      - Backup and secure your recovery phrase: your-profile-and-preferences/backup-and-secure-your-recovery-phrase
     - Troubleshooting:
       - If you lose your Status password or recovery phrase: your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase.md
     - Adjust your notifications:
@@ -220,5 +221,7 @@ nav:
       - Log out of Status: your-profile-and-preferences/log-out-of-status.md
     - Handle your contact list and user verification:
       - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status
+    - Settings:
+      - Log out of Status: your-profile-and-preferences/log-out-of-status
   - Network nodes:
     - network-nodes-and-statistics/index.md
