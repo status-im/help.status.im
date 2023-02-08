@@ -200,5 +200,7 @@ nav:
     - your-profile-and-preferences/index.md
     - Security:
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
+    - Troubleshooting:
+      - If you lose your Status password or recovery phrase: your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase.md
   - Network nodes:
     - network-nodes-and-statistics/index.md

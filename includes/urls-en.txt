@@ -10,6 +10,7 @@
 [download-status-for-linux]: /en/getting-started/download-status-for-linux
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
 [run-the-status-app-for-the-first-time]: /en/getting-started/run-the-status-app-for-the-first-time
+[what-is-status]: /en/getting-started/what-is-status
 
 [about-status-messages]: /en/using-status/about-status-messages
 [add-members-to-a-group-chat]: /en/using-status/add-members-to-a-group-chat
@@ -60,13 +61,16 @@
 
 [about-your-wallet-accounts-and-addresses]: /en/status-wallet/about-your-wallet-accounts-and-addresses
 [how-to-use-status-wallet-your-quick-start-guide]: /en/status-wallet/how-to-use-status-wallet-your-quick-start-guide
+[send-crypto]: /en/status-wallet/send-crypto
 
 [about-keycard]: /en/your-profile-and-preferences/about-keycard
 [about-your-status-display-name]: /en/your-profile-and-preferences/about-your-status-display-name
 [back-up-and-secure-your-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase
+[back-up-your-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase#backup-your-recovery-phrase
 [change-your-status-display-name]: /en/your-profile-and-preferences/change-your-status-display-name
 [create-or-restore-your-status-profile-using-keycard]: /en/your-profile-and-preferences/create-or-restore-your-status-profile-using-keycard
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
+[if-you-lose-your-status-password-or-recovery-phrase]: /en/your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase
 [log-out-of-status]: /en/your-profile-and-preferences/log-out-of-status
 [faq-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/faq-status-keys-and-recovery-phrase
 [register-your-status-ens-name]: /en/your-profile-and-preferences/register-your-status-ens-name
