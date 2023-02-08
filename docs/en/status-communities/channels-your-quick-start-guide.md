@@ -30,7 +30,7 @@ As a community owner, you can use channels to break down a large community into 
 
 ## Public and private channels
 
-All members in a [Status Community][how-to-use-communities-your-quick-start-guide] can browse and join open channels. For private channels, you must [meet the token requirements][understand-token-requirements-in-channels] to join the channel. To maintain access to private channels, hold the necessary tokens at all times.
+All members in a [Status Community][how-to-use-communities-your-quick-start-guide] can browse and join public channels. For private channels, you must [meet the token requirements][understand-token-requirements-in-channels] to join the channel. To maintain access to private channels, hold the necessary tokens at all times.
 
 !!! note
     Messages in a [private community][how-to-use-communities-your-quick-start-guide] or private channel are always end-to-end encrypted.
@@ -39,8 +39,8 @@ All members in a [Status Community][how-to-use-communities-your-quick-start-guid
 ![image](image)
 -->
 
-=== ":one: Open channel"
-     Open channels are available for anyone to join. When you join a community, you automatically have access to these channels.
+=== ":one: Public channel"
+     Public channels are available for anyone to join. When you join a community, you automatically have access to these channels.
 
 === ":two: Private channel"
     Private channels show a :mobile-locked-lock: lock icon next to the channel name. To access these channels, you must [meet and maintain the token requirements][understand-token-requirements-in-channels]. 
