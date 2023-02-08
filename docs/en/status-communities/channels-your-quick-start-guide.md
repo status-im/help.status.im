@@ -10,7 +10,10 @@ hide:
 
 In [Status Communities][how-to-use-communities-your-quick-start-guide], you have access to dedicated spaces called channels. Channels bring the right people and information together for any project or topic. A channel conversation focuses on specific topics, and you can [join](./join-a-channel.md) and [leave](./leave-a-channel.md) the conversation anytime.
 
-As a community administrator, you can use channels to break down a large community into smaller, more focused sub-groups. To add channels to your community, check out [Create a channel][create-a-channel].
+As a community owner, you can use channels to break down a large community into smaller, more focused sub-groups. With Status, you can [configure channel permissions][configure-channel-permissions] based on token ownership. For example, you can make a public channel private or read-only by only allowing holders of specific tokens to join or post.
+
+!!! tip
+    To add channels to your community, check out [Create a channel][create-a-channel].
 
 <!--
 [image](image)
@@ -52,7 +55,7 @@ All members in a [Status Community][how-to-use-communities-your-quick-start-guid
     This area shows the channel name and permissions. Private channels show a :mobile-locked-lock: lock icon. From this area, you can select **more options** :mobile-more-options: to access additional channel information, like channel members, permissions or notifications.
 
 === ":two: Pinned message area"
-    Channel members can [pin messages][pin-a-message] to this area, like announcements, FAQ or channel rules.
+    Channel members can [pin messages][pin-a-message] to this area, like announcements, FAQs or channel rules.
 
 === ":three: Channel feed"
     This area shows the channel activity, including messages, photos, reactions or links.
@@ -67,7 +70,7 @@ The #general channel exists by default when you [create a community][create-a-st
 This channel works like any other channel. As a community administrator, you can use the following tips to make this channel more helpful:
 
 - Don't rename the channel. The #general channel is widely recognized and understood in communities. Renaming the channel may confuse members.
-- [Set the permissions][configure-channel-permissions] to restrict who can post. This removes noise from the channel and keeps it on topic.
-- Use this channel to [pin messages][pin-a-message] describing FAQs, community rules or other information relevant to your community.
+- [Set permissions][configure-channel-permissions] to restrict who can post in #general. This removes noise from the channel and keeps it on topic.
+- Use the #general channel to [pin messages][pin-a-message] describing FAQs, community rules or other information relevant to your community.
 
 --8<-- "includes/urls-en.txt"
