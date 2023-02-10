@@ -16,7 +16,7 @@ With Status, you can organize your conversations with your contacts into designa
 In Status, you can create a public channel if you are the community's owner or admin. You do not need to specify token requirements to create a public channel. All members of a [community][about-status-communities] can browse and [join public channels][join-a-channel].
 
 
-## Create a public channel
+## Create channel
 
 You do not need to specify token requirements to create a public channel.
 
@@ -34,5 +34,24 @@ You do not need to specify token requirements to create a public channel.
     1. Optionally, on the **New channel** pop-up, under **Channel colour** choose a colour for your channel.
     1. From the **New channel** pop-up, under **Description** add a description for your channel. 
     1. Click **Create Channel**
+
+If you need to configure additional permission, click **Add permissions** and checkout [Configure channel permissions](#configure-channel-permissions)
+
+## Configure channel permissions
+
+=== "Desktop"
+
+You configure permission using three different elements: Who holds, Is allowed to and In. For each one of them, follow the same procedure and use the table below as a reference.
+
+1. If you're not in the **New permissions** screen, click Community > Settings > Permissions.
+1. For each permission element, click :desktop-plus: **Plus**.
+1. Choose the desired option.
+1. Click **Add**.
+
+| Permission | Description | Elements |
+|:---|:--|:--|
+| Who holds | Description | [Assets, Collectibles, ENS][about-token-etc.] |
+| Is allowed to | Description | Become admin, Become member, Moderate, |
+| In | Description | Channel |
 
 --8<-- "includes/urls-en.txt"
