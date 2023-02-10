@@ -11,7 +11,7 @@ hide:
 !!! note ""
     Delete a channel is only available in Status desktop.
 
-The Status app allows community owners and admins to delete channels within communities. When you delete a channel, all messages and files associated with that channel are also deleted.
+The Status app allows community owners and admins to delete [channels][channels-your-quick-start-guide] within communities. When you delete a channel, all messages and files associated with that channel are also deleted.
 
 !!! warning "caution"
 
