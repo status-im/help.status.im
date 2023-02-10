@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Set your notification exceptions
+# Set notification exceptions
 
  :octicons-tools-24: In progress
 

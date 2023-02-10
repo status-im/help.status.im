@@ -8,31 +8,32 @@ hide:
 
 # Mute your notifications
 
-You can mute and unmute your [notifications][your-status-notification-guide] for the whole app, communities, channels, group chats and DMs for a period of time. Muted communities, group chats, channels, and DMs will appear greyed out.
+You can turn off and on your notifications for the entire app or specific communities, channels, group chats, and direct messages (DMs) for a designated period. Communities, group chats, channels and direct messages appear grayed out when you mute their notifications.
 
-!!! note
-    If you want to customise your notifications and not completely mute a community, group chat, channel or DM, you can use [notification exceptions][set-your-notification-exceptions] which are extremely flexible and granular.
+!!! tip
+    You have the option to [set notification exceptions][set-notification-exceptions] to fine-tune your notification preferences, allowing certain notifications to come through even if others are muted. For instance, you can mute all notifications for a channel except for messages sent by a specific user.
 
-## Mute Status app
-
- If you find that you are receiving too many notifications from the app, you can easily mute it. Muting the app will silence all ephemeral notifications.
+## Mute all the Status app notifications
 
 === "Mobile"
 
-    1. From the tab bar tap :mobile-profile: profile. 
-    1. From the profile list tap :mobile-notifications: Notifications.
-    1. (optional) The first time you access Notifications, you need to turn on push notifications for Status.
-    1. Swipe to the left the Notifications button.
+    1. From the tab bar, tap :mobile-messages: **Messages**.
+    1. Tap your profile picture.
+    1. Scroll down in the list and tap :mobile-notifications: **Notifications**.
+    1. Turn **Notifications** off.
 
 === "Desktop"
 
-    1. From the navigation sidebar click :desktop-settings: settings. 
-    1. From the settings sidebar click :desktop-notification: Notifications & Sounds.
-    1. Swipe to the left the Allow Notifications button.
+    1. From the navigation sidebar, click :desktop-settings: **Settings**. 
+    1. In the **Settings** sidebar, click :desktop-notification: **Notifications and Sounds**.
+    1. Turn **Notifications** off.
 
-## Mute communities, channels, group chats, and DMs notifications
+!!! info
+    Muting all the Status app notifications mutes ephemeral notifications (the ones appearing on your screen and disappearing shortly after).
 
-If you mute a community, channel, group chat or DM you'll still receive messages, but you will only see a numbered badge next to conversations if you are mentioned.
+## Mute specific notifications
+
+You still see a badge if someone mentions you in a muted channel, community, group chat, or direct message. This badge displays the number of mentions.
 
 === "Mobile"
 
@@ -45,20 +46,20 @@ If you mute a community, channel, group chat or DM you'll still receive messages
 
     ### Mute communities
 
-    1. From the navigation sidebar click :desktop-settings: settings.
-    1. From the settings sidebar click :desktop-communities: communities.
+    1. From the navigation sidebar, click :desktop-settings: **Settings**.
+    1. From the settings sidebar, click :desktop-communities: **Communities**.
     1. Choose the community you want to mute, and click :desktop-notification: mute.
 
     ### Mute channels
 
-    1. From the navigation sidebar, click the community with the channel you want to mute.
-    1. In the channel sidebar, right click the channel you want to mute.
-    1. Click :desktop-notification: mute.
+    1. From the navigation sidebar, click the community with the channel you wish to mute.
+    1. In the channel sidebar, right-click the channel.
+    1. Select :desktop-notification: **Mute**.
 
-    ### Mute group chats and DMs
+    ### Mute group chats or DMs
 
-    1. From the navigation sidebar click :desktop-messages: messages.
-    1. In the messages sidebar, right click the group chat or DM you want to mute.
-    1. Click :desktop-notification: mute.
+    1. From the navigation sidebar, click :desktop-messages: **Messages**.
+    1. In the **Messages** sidebar, right click the group chat or DM you wish to mute.
+    1. Select :desktop-notification: **Mute**.
 
 --8<-- "includes/urls-en.txt"
