@@ -76,6 +76,8 @@
 [how-to-use-wallet-your-quick-start-guide]: /en/status-wallet/how-to-use-wallet-your-quick-start-guide
 [import-your-wallet-funds-into-status-wallet]: /en/status-wallet/import-your-wallet-funds-into-status-wallet
 
+[status-wallet-your-quick-start-guide.md]: /en/status-wallet/status-wallet-your-quick-start-guide
+
 [about-keycard]: /en/your-profile-and-preferences/about-keycard
 [about-your-status-display-name]: /en/your-profile-and-preferences/about-your-status-display-name
 [back-up-and-secure-your-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase
