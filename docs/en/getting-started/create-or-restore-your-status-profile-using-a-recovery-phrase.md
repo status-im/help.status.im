@@ -9,16 +9,30 @@ hide:
 
 # Create or restore your Status profile using a recovery phrase
 
-You can use your existing Ethereum address to create your Status profile. For example, suppose you already use a [non-custodial crypto wallet][how-to-use-wallet-your-quick-start-guide] for the Ethereum ecosystem (like Metamask or Trust Wallet). In that case, you already have an Ethereum address and a [recovery phrase][understand-your-status-keys-and-recovery-phrase].
+You can link your existing Ethereum address to a new Status profile. For instance, if you already have a [non-custodial Ethereum wallet][how-to-use-wallet-your-quick-start-guide] such as Metamask or Trust Wallet, you already have an Ethereum address and a [recovery phrase][understand-your-status-keys-and-recovery-phrase].
 
-For the best user experience, [sync your new device][add-a-new-device-to-your-status-profile] with your Status profile if you have one on another device. You can restore your Status profile with a recovery phrase if you no longer have access to the device but have used Status in the last 30 days.
+## What to expect
 
-!!! note
-    If you don't have access to your previous device and haven't used Status in the last 30 days, your crypto funds are safe, but your profile is unrecoverable. In this case, you need to [create a new Status profile][run-the-status-app-for-the-first-time].
+- Your funds are safe and recoverable as long as you know your recovery phrase and [keep it safe][back-up-and-secure-your-recovery-phrase].
+- You can create a new Status profile using your existing Ethereum address.
+- If you already use Status in one device and want to add your profile and funds to a new device, you don't need your recovery phrase. [Sync your new device][add-a-new-device-to-your-status-profile] for the best experience.
+- If you already use Status but don't have access to your previous device, you can restore your Status profile on a new device if you have used the app within the past 30 days.
+- If you haven't used Status in the past 30 days, your funds are safe, but your profile is unrecoverable.
+
+This table summarizes your options when you have a recovery phrase:
+
+| You have | Next step | Your Status profile | Your funds |
+|:---|:---|:---|:---|
+| :material-check: Recovery phrase</br>:octicons-x-24:Status profile | [New profile with existing recovery phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | New profile | :material-check: |
+| :material-check: Recovery phrase</br>:material-check: Access to your Status profile | [Restore profile with recovery phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | :material-check: | :material-check: |
+| :material-check: Recovery phrase</br>:material-check: Used your Status profile in the past 30 days | [Restore profile with recoverpy phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | :material-check: | :material-check: 
+| :material-check: Recovery phrase</br>:octicons-x-24: Used your Status profile in the past 30 days | [New profile with existing recovery phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | :octicons-x-24: | :material-check: |
+
+(:material-check: available, :octicons-x-24: not available )
 
 ## Create or restore your profile using a recovery phrase
 
-When you restore your Status profile using a recovery phrase, Status tries to pull your information from the [decentralized Waku network][understand-peer-to-peer-messaging]. Status never stores your profile information on centralized servers.
+When you restore your Status profile using a recovery phrase, Status tries to pull your information from the [decentralized Waku network][understand-peer-to-peer-messaging]. Status doesn't use centralized servers and doesn't store your profile information.
 
 === "Mobile"
 
