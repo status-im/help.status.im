@@ -13,7 +13,7 @@ You can link your existing Ethereum address to a new Status profile. For instanc
 
 ## What to expect
 
-- Your funds are safe and recoverable as long as you know your recovery phrase and [keep it safe][back-up-and-secure-your-recovery-phrase].
+- Your wallet funds are safe and recoverable as long as you know your recovery phrase and [keep it safe][back-up-and-secure-your-recovery-phrase].
 - You can create a new Status profile using your existing Ethereum address.
 - If you already use Status in one device and want to add your profile and funds to a new device, you don't need your recovery phrase. [Sync your new device][add-a-new-device-to-your-status-profile] for the best experience.
 - If you already use Status but don't have access to your previous device, you can restore your Status profile on a new device if you have used the app within the past 30 days.
@@ -21,7 +21,7 @@ You can link your existing Ethereum address to a new Status profile. For instanc
 
 This table summarizes your options when you have a recovery phrase:
 
-| You have | Next step | Your Status profile | Your funds |
+| You have | Next step | Your Status profile | Your wallet funds |
 |:---|:---|:---|:---|
 | :material-check: Recovery phrase</br>:octicons-x-24:Status profile | [New profile with existing recovery phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | New profile | :material-check: |
 | :material-check: Recovery phrase</br>:material-check: Access to your Status profile | [Restore profile with recovery phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | :material-check: | :material-check: |
