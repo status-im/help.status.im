@@ -68,6 +68,7 @@
 [back-up-and-secure-your-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase
 [back-up-your-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase#backup-your-recovery-phrase
 [change-your-status-display-name]: /en/your-profile-and-preferences/change-your-status-display-name
+[create-and-use-additional-status-profiles]: /en/your-profile-and-preferences/create-and-use-additional-status-profiles
 [create-or-restore-your-status-profile-using-keycard]: /en/your-profile-and-preferences/create-or-restore-your-status-profile-using-keycard
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
 [if-you-lose-your-status-password-or-recovery-phrase]: /en/your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase

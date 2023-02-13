@@ -8,26 +8,53 @@ hide:
 
 # If you lose your Status password or recovery phrase
 
-If you lose your Status password and recovery phrase, you lose access to your data and funds forever. Status can't recover this information for you due to its [decentralized architecture][what-is-status]. It's your responsibility to keep this information safe.
+When you lose access to your Status password or recovery phrase, you may lose access to your Status data and wallet funds. Status can't recover your data or wallet funds for you due to its [decentralized architecture][what-is-status]. It's your responsibility to keep your password and recovery phrase safe.
 
-Your keys are always securely stored on your device and protected by your Status profile password. You can regenerate your keys and recover your funds on a different device [using your recovery phrase][create-or-restore-your-status-profile-using-a-recovery-phrase] for .
+!!! Note
+    If you have your recovery phrase, your wallet funds are safe. In this case, [restore your Status profile][create-or-restore-your-status-profile-using-a-recovery-phrase] using your recovery phrase.
 
-## If you lose your Status password
+Depending on your circumstances, you may be able to recover your Status data and wallet funds. Select the option that describes your situation:
 
-When you lose your password, you can still access your wallet funds using your recovery phrase. Visit [Create or restore your Status profile using a recovery phrase][create-or-restore-your-status-profile-using-a-recovery-phrase] for instructions.
+- [You can't sign in to Status but have your recovery phrase.](#if-you-cant-sign-in-to-status-but-have-your-recovery-phrase)
+- [You lost your recovery phrase but can sign in to Status.](#if-you-lost-your-recovery-phrase-but-can-sign-in-to-status)
+- [You can't sign in to Status and have lost your recovery phrase.](#if-you-cant-sign-in-to-status-and-have-lost-your-recovery-phrase)
+
+## If you can't sign in to Status but have your recovery phrase
+
+Use your recovery phrase to access your wallet funds if you can't sign in due to a lost password, [Keycard][about-keycard] or biometrics setup. Visit [Create or restore your Status profile using a recovery phrase][create-or-restore-your-status-profile-using-a-recovery-phrase] for instructions.
 
 !!! Warning "Caution"
-    Status doesn't know your password and can't reset it for you. If you forget your password, you may lose access to your Status profile and wallet funds.
+    Status doesn't know your password and can't reset it for you. If you forget your password, you may lose access to your Status profile.
 
-## If you lose your recovery phrase
+## If you lost your recovery phrase but can sign in to Status
 
-If you lose your recovery phrase, you lose access to your data and crypto funds. Status can't recover this information for you. [Keep your recovery phrase safe][back-up-and-secure-your-recovery-phrase], and never share this information with anyone.
+If you lose your recovery phrase, you lose access to your Status data and wallet funds. Status can't recover this information for you. [Keep your recovery phrase safe][back-up-and-secure-your-recovery-phrase], and never share this information with anyone.
 
-If you lose your recovery phrase but are still signed in to your Status profile, you may save the crypto funds by sending them to a different wallet. Follow these steps:
+If you lose your recovery phrase but can still sign in to your Status profile (using your password, [Keycard][about-keycard] or biometrics), you can save the crypto funds by sending them to a different wallet address.
+
+Follow these steps:
+
+1. Sign in to the Status profile where you lost your recovery phrase.
+1. Verify if your recovery phrase is still [available in the Status app][back-up-your-recovery-phrase]. If it's available, [back up your recovery phrase][back-up-your-recovery-phrase]. Your wallet funds are safe and you don't need to do anything else. If your recovery phrase isn't available, continue with the next step.
+1. [Log out of Status][log-out-of-status] and [create an additional Status profile][run-the-status-app-for-the-first-time]. This creates a new key pair and default wallet address.
+1. Copy the new wallet address.
+1. From the Status profile where you lost your recovery phrase, [send all your crypto funds][send-crypto] to the new wallet address.
+
+## If you can't sign in to Status and have lost your recovery phrase
+
+If you can't sign in to Status due to a lost password, [Keycard][about-keycard] or biometrics setup, and don't have your recovery phrase, you lose access to your data and wallet funds forever.
+
+!!! Warning "Caution"
+    Status can't see or access your password or recovery phrase. If you lose them or forget them, Status can't recover or replace them.
+
+In this situation, if you're still signed in to your Status profile, you may be able to save the crypto funds by sending them to a different wallet address.
+
+Follow these steps:
 
 1. Don't log out of Status. Don't restart your device or update the Status app.
-1. Verify if your recovery phrase is still [available in the Status app][back-up-your-recovery-phrase]. If it's not available, continue with the next step.
-1. Using a different device, [create a new Status profile][run-the-status-app-for-the-first-time]. You can install another crypto wallet on the same device if you don't have any other.
-1. From the Status profile where you lost your recovery phrase, [send all your crypto funds][send-crypto] to the new profile or wallet.
+1. Verify if your recovery phrase is still [available in the Status app][back-up-your-recovery-phrase]. If it's available, [back up your recovery phrase][back-up-your-recovery-phrase]. Your wallet funds are safe and you don't need to do anything else. If it's not available, continue with the next step.
+1. Using a different device, [create a new Status profile][run-the-status-app-for-the-first-time]. You can install another crypto wallet on the same device if you don't have any other. This creates a new key pair and default wallet address.
+1. Copy the new wallet address.
+1. From the Status profile where you lost your recovery phrase and password, [send all your crypto funds][send-crypto] to the new profile or wallet.
 
 --8<-- "includes/urls-en.txt"
