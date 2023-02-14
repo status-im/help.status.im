@@ -6,14 +6,12 @@ hide:
   - navigation
 ---
 
-# Create a channel
+# Create a channel and add permissions
 
 !!! note ""
-    Create a channel is only available in Status desktop.
+    Currently, you can only create a channel and add permissions using Status desktop.
 
-The status app has two types of [channels][channels-your-quick-start-guide]: public and private. Public channels are accessible for all [community][about-status-communities] members to browse and join without specific requirements. A private channel is not accessible to all community members. To create a private channel, you need to configure specific permissions. To join a private channel, you must meet specific permissions configured by the channel owner. To maintain access to private channels, hold the necessary tokens at all times.
-
-By default, only community owners and admins can create channels and configure permissions.
+Community owners can create public and private channels in the status app. Public channels are accessible for all community members to browse and join. A private channel is not accessible to all community members. As a community owner, you must configure specific permissions to create a private channel. <!--To join a private channel, you must meet channel requirements. To maintain access to private channels, hold the necessary tokens at all times.-->
 
 ## Create channel
 
@@ -28,8 +26,8 @@ By default, only community owners and admins can create channels and configure p
 
     1. From the **New channel** pop-up window, under **Channel name** enter a name.
     1. Optionally, click :desktop-emojis: to choose an emoji.
-    1. Optionally, on the **New channel** pop-up window, under **Channel colour** choose a colour.
-    1. On **New channel** pop-up window, under **Description** add a description. 
+    1. Optionally, in the **New channel** pop-up window, under **Channel colour** choose a colour.
+    1. In **New channel** pop-up window, under **Description** add a description. 
     1. Click **Create Channel**
 
 If you need to configure additional permission, click **Add permissions** and checkout [Configure channel permissions](#configure-channel-permissions)
