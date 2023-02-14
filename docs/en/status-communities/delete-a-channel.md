@@ -9,29 +9,27 @@ hide:
 # Delete a channel
 
 !!! note ""
-    Delete a channel is only available in Status desktop.
+    Currently, you can only delete a channel using Status desktop.
 
-The Status app allows community owners and admins to delete [channels][channels-your-quick-start-guide] within communities. When you delete a channel, all messages and files associated with that channel are also deleted.
+Community owners can delete [channels][channels-your-quick-start-guide] within their communities. As a community owner, when you delete a channel, all messages and files associated with that channel are also deleted.
 
-!!! warning "caution"
+!!! Note
 
-    Deleting a channel is permanent and cannot be undone, so make sure to proceed with care.
+    Once you delete a channel, it can't be retrieved or restored.
 
 ## What to expect
 
-* You can only delete a channel if you are the community's owner or admin.
+* You can only delete a channel if you are the community's owner.
 
-* A deleted channel disappears immediately, and all users will lose access to that channel and its content (messages and files).
+* When you delete a channel, it disappears immediately, and all users lose access to its content (messages and files).
 
-* Deleted channels are not visible to you as a community member.
-
-* Deleting a channel is permanent and cannot be undone.
+* If you delete a private channel, the permissions you configured for the channel are also lost. If you want to recreate the channel, you need to configure its permissions again.
 
 === "Desktop"
 
     1. From the navigation sidebar, click the community with the channel you want to delete.
     1. In the **Community** sidebar, right-click the channel.
     1. Select :desktop-delete: **Delete Channel**.
-    1. From the **Delete** pop-up, click **Delete**.
+    1. In the **Delete** pop-up window, click **Delete**.
 
 --8<-- "includes/urls-en.txt"
