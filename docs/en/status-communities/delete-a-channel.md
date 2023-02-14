@@ -23,7 +23,7 @@ Community owners can delete [channels][channels-your-quick-start-guide] within t
 
 * When you delete a channel, it disappears immediately, and all users lose access to its content (messages and files).
 
-* If you delete a private channel, the permissions you configured for the channel are also lost. If you want to recreate the channel, you need to configure its permissions again.
+* If you delete a private channel, the [permissions][create-a-channel-and-configure-permissions] you configured for the channel are also lost. If you want to recreate the channel, you need to configure its permissions again.
 
 === "Desktop"
 
