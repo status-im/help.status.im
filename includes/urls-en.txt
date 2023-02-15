@@ -75,12 +75,15 @@
 [create-and-use-additional-status-profiles]: /en/your-profile-and-preferences/create-and-use-additional-status-profiles
 [create-or-restore-your-status-profile-using-keycard]: /en/your-profile-and-preferences/create-or-restore-your-status-profile-using-keycard
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
+[faq-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/faq-status-keys-and-recovery-phrase
 [if-you-lose-your-status-password-or-recovery-phrase]: /en/your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase
 [log-out-of-status]: /en/your-profile-and-preferences/log-out-of-status
-[faq-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/faq-status-keys-and-recovery-phrase
+[mute-your-notifications]: /en/your-profile-and-preferences/mute-your-notifications
 [register-your-status-ens-name]: /en/your-profile-and-preferences/register-your-status-ens-name
+[set-notification-exceptions]: /en/your-profile-and-preferences/set-notification-exceptions
 [understand-your-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase
 [your-chatkey-emojihash-and-identicon-ring]: /en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring
+[your-status-notification-guide]: /en/your-profile-and-preferences/your-status-notification-guide
 
 [ethereum-name-service]: https://ens.domains/
 [gnu-privacy-guard]: https://gnupg.org/

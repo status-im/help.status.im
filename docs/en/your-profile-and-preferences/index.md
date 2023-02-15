@@ -6,7 +6,7 @@ hide:
 
 # Your profile and preferences
 
-## Settings
+## Manage your profile
 
 - [**Log out** of Status][log-out-of-status]
 
@@ -17,5 +17,8 @@ hide:
 ## Troubleshooting
 
 - [If you **lose** your Status **password** or **recovery phrase**][if-you-lose-your-status-password-or-recovery-phrase]
+## Adjust your notifications
+
+- [**Mute** your notifications][mute-your-notifications]
 
 --8<-- "includes/urls-en.txt"
