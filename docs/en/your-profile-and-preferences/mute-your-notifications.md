@@ -8,7 +8,7 @@ hide:
 
 # Mute your notifications
 
-You can turn off and on your notifications for the entire app or specific communities, channels, group chats, and direct messages (DMs) for a designated period. Communities, group chats, channels and direct messages appear grayed out when you mute their notifications.
+You can turn off and on your notifications for the entire app or specific communities, channels, group chats, and direct messages (DMs) for a designated period. Communities, group chats, channels and direct messages appear greyed out when you mute their notifications.
 
 !!! tip
     You have the option to [set notification exceptions][set-notification-exceptions] to fine-tune your notification preferences, allowing certain notifications to come through even if others are muted. For instance, you can mute all notifications for a channel except for messages sent by a specific user.
@@ -59,7 +59,7 @@ You still see a badge if someone mentions you in a muted channel, community, gro
     ### Mute group chats or DMs
 
     1. From the navigation sidebar, click :desktop-messages: **Messages**.
-    1. In the **Messages** sidebar, right click the group chat or DM you wish to mute.
+    1. In the **Messages** sidebar, right-click the group chat or DM you wish to mute.
     1. Select :desktop-notification: **Mute**.
 
 --8<-- "includes/urls-en.txt"
