@@ -41,6 +41,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/getting-started/what-is-status/</loc>
+         <lastmod>2023-02-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/network-nodes-and-statistics/</loc>
          <lastmod>2023-02-15</lastmod>
          <changefreq>daily</changefreq>
@@ -147,6 +152,11 @@
     </url>
     <url>
          <loc>https://help.status.im/en/status-wallet/how-to-use-status-wallet-your-quick-start-guide/</loc>
+         <lastmod>2023-02-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-wallet/send-crypto/</loc>
          <lastmod>2023-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -291,6 +301,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/your-profile-and-preferences/create-and-use-additional-status-profiles/</loc>
+         <lastmod>2023-02-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/your-profile-and-preferences/create-or-restore-your-status-profile-using-keycard/</loc>
          <lastmod>2023-02-15</lastmod>
          <changefreq>daily</changefreq>
@@ -302,6 +317,11 @@
     </url>
     <url>
          <loc>https://help.status.im/en/your-profile-and-preferences/faq-status-keys-and-recovery-phrase/</loc>
+         <lastmod>2023-02-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase/</loc>
          <lastmod>2023-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
