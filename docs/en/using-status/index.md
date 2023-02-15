@@ -8,6 +8,7 @@ hide:
 
 ## Direct messages
 
+- [*Add a contact** in Status][add-a-contact-in-status]
 - [**Remove a contact** from Status][remove-a-contact-from-status]
 
 ## Group chats
