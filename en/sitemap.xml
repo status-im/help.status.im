@@ -96,7 +96,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/status-communities/configure-channel-permissions/</loc>
+         <lastmod>2023-02-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/status-communities/create-a-channel-and-configure-permissions/</loc>
+         <lastmod>2023-02-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-communities/create-a-channel/</loc>
          <lastmod>2023-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
