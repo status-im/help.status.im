@@ -48,8 +48,8 @@
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [create-a-channel]: /en/status-communities/create-a-channel
 [create-a-status-community]: /en/status-communities/create-a-status-community
-[delete-a-channel]: /en/status-communities/delete-a-channel
 [configure-channel-permissions]: /en/status-communities/configure-channel-permissions
+[delete-a-channel]: /en/status-communities/delete-a-channel
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [join-a-channel]: /en/status-communities/join-a-channel
 [join-a-status-community]: /en/status-communities/join-a-status-community
