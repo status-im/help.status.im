@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/getting-started/add-a-contact-in-status/</loc>
+         <lastmod>2023-02-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase/</loc>
          <lastmod>2023-02-15</lastmod>
          <changefreq>daily</changefreq>
@@ -32,6 +37,11 @@
     </url>
     <url>
          <loc>https://help.status.im/en/getting-started/download-status-for-windows/</loc>
+         <lastmod>2023-02-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/getting-started/invite-friends-to-status/</loc>
          <lastmod>2023-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -266,12 +276,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/using-status/send-direct-messages-to-your-contacts/</loc>
+         <lastmod>2023-02-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/using-status/send-gifs-and-stickers/</loc>
          <lastmod>2023-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/using-status/share-images-in-status/</loc>
+         <lastmod>2023-02-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/using-status/share-your-status-profile/</loc>
          <lastmod>2023-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
