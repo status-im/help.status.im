@@ -17,7 +17,7 @@ hide:
 
 ## Manage channels
 
-- [**Create** a public channel][create-a-public-channel]
+- [**Create** a channel][create-a-channel]
 - [**Delete** a channel][delete-a-channel]
 
 ## Create and administer communities

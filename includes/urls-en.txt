@@ -46,10 +46,10 @@
 [about-status-communities]: /en/status-communities/about-status-communities
 [backup-your-community-key]: /en/status-communities/backup-your-community-key
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
-[create-a-public-channel]: /en/status-communities/create-a-public-channel
+[create-a-channel]: /en/status-communities/create-a-channel
 [create-a-status-community]: /en/status-communities/create-a-status-community
-[create-a-channel-and-configure-permissions]: /en/status-communities/create-a-channel-and-configure-permissions
 [delete-a-channel]: /en/status-communities/delete-a-channel
+[configure-channel-permissions]: /en/status-communities/configure-channel-permissions
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [join-a-channel]: /en/status-communities/join-a-channel
 [join-a-status-community]: /en/status-communities/join-a-status-community
