@@ -9,6 +9,7 @@ hide:
 ## Status Communities
 
 - [About **losing access** to a community][about-losing-access-to-a-community]
+- [**Invite** people to a Status community][invite-people-to-a-status-community]
 
 ## Channels
 
