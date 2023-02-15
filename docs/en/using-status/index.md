@@ -25,6 +25,7 @@ hide:
 ## Message features and tools
 
 - [About Status **messages**][about-status-messages]
+- [**Edit** and **delete** your messages][edit-and-delete-your-messages]
 - [**Pin** a message][pin-a-message]
 
 ## Format and style messages
