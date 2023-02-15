@@ -23,7 +23,7 @@ You can turn off and on your notifications for the entire app or specific commun
 
     1. From the tab bar, tap :mobile-messages: **Messages**.
     1. Tap your profile picture.
-    1. Scroll down in the list and tap :mobile-notifications: **Notifications**.
+    1. Scroll down in the list and tap :mobile-mute: **Notifications**.
     1. Turn **Notifications** off.
 
 === "Desktop"
