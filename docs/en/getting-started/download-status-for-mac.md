@@ -27,7 +27,7 @@ To protect yourself from malware, viruses or scams, always download the Status a
 
 ### Nothing happens on my Mac when I try to open the Status app
 
-Ensure that your Mac has the minimum software required to run the Status app.
+Make sure that your Mac has the minimum software required to run the Status app.
 
 ### My Mac shows a security message when I try to install the Status app
 
