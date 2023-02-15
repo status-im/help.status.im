@@ -32,7 +32,7 @@ To add someone to your contact list, you need their [chat key][understand-your-s
     1. Tap **Send contact request**.
 
     !!! tip
-        To see someone's QR code, ask them to go to Messages > :mobile-qr-code: **Share**. Follow the steps below to add them to contacts using this code.
+        To see someone's QR code, ask them to go to **Messages** > :mobile-qr-code: **Share**. Follow the steps below to add them to contacts using this code.
 
 
 === "Desktop"
