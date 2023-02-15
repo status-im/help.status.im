@@ -216,5 +216,9 @@ nav:
       - If you lose your Status password or recovery phrase: your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase.md
     - Adjust your notifications:
       - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
+    - Settings:
+      - Log out of Status: your-profile-and-preferences/log-out-of-status.md
+    - Handle your contact list and user verification:
+      - Block someone in Status: your-profile-and-preferences/block-someone-in-status
   - Network nodes:
     - network-nodes-and-statistics/index.md
