@@ -1,12 +1,12 @@
 ---
-id: 313
+id: 314
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# Create a channel and configure permissions
+# Configure channel permissions
 
  :octicons-tools-24: In progress
 

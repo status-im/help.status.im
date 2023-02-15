@@ -19,11 +19,11 @@ Community owners can delete [channels][channels-your-quick-start-guide] within t
 
 ## What to expect
 
-* You can only delete a channel if you are the community's owner.
+* You can only delete a channel if you are the community owner.
 
 * When you delete a channel, it disappears immediately, and all users lose access to its content (messages and files).
 
-* If you delete a private channel, the [permissions][create-a-channel-and-configure-permissions] you configured for the channel are also lost. If you want to recreate the channel, you need to configure its permissions again.
+* If you delete a private channel, the [permissions][configure-channel-permissions] you configured for the channel are also lost. If you want to recreate the channel, you need to configure its permissions again.
 
 === "Desktop"
 
