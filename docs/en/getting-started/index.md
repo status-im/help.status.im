@@ -8,6 +8,7 @@ hide:
 
 ## Getting started for new users
 
+- [**Add** a contact in Status][add-a-contact-in-status]
 - [**Run** the Status app for the **first time**][run-the-status-app-for-the-first-time]
 
 ## Download Status

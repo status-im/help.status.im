@@ -166,6 +166,7 @@ nav:
       - Pin a message: using-status/pin-a-message.md
       - Leave a group chat: using-status/leave-a-group-chat.md
     - Direct messages:
+      - Add a contact in Status: getting-started/add-a-contact-in-status.md
       - Remove a contact from Status: using-status/remove-a-contact-from-status.md
       - Block someone in Status: using-status/block-someone-in-status.md
       - Pin messages: using-status/pin-a-message.md
@@ -187,6 +188,8 @@ nav:
     - Channels:
       - Join a channel: status-communities/join-a-channel.md
       - About losing access to a channel: status-communities/about-losing-access-to-a-channel.md
+    - Manage channels:
+      - Delete a channel: status-communities/delete-a-channel.md
     - Create and administer communities:
         - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
     - Status Web Communities:
@@ -196,5 +199,9 @@ nav:
     - status-wallet/index.md
   - Your profile:
     - your-profile-and-preferences/index.md
+    - Security:
+      - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
+    - Troubleshooting:
+      - If you lose your Status password or recovery phrase: your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase.md
   - Network nodes:
     - network-nodes-and-statistics/index.md
