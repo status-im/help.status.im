@@ -9,7 +9,7 @@ hide:
 # Create a channel
 
 !!! note ""
-    Currently, you can only create a channel and add permissions using Status desktop.
+    Currently, you can only create a channel using Status desktop.
 
 Community owners can create public and private channels in the Status app. Public channels are available for all community members to browse and join. A private channel is only available to members who meet the [channel requirements][understand-token-requirements-in-channels]. As a community owner, configure specific permissions to create a private channel.
 
