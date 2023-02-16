@@ -40,7 +40,7 @@ All members in a [Status Community][how-to-use-communities-your-quick-start-guid
 -->
 
 === ":one: Public channel"
-     Public channels are available for anyone to join. When you join a community, you automatically have access to these channels.
+     Public channels are available for anyone to join. When you join a community, you automatically get access to these channels.
 
 === ":two: Private channel"
     Private channels show a :mobile-locked-lock: lock icon next to the channel name. To access these channels, you must [meet and maintain the token requirements][understand-token-requirements-in-channels]. 
@@ -52,7 +52,7 @@ All members in a [Status Community][how-to-use-communities-your-quick-start-guid
 -->
 
 === ":one: Channel information" 
-    This area shows the channel name and permissions. Private channels show a :mobile-locked-lock: lock icon. From this area, you can select **more options** :mobile-more-options: to access additional channel information, like channel members, permissions or notifications.
+    You can see the channel name and permissions here. Private channels show a :mobile-locked-lock: lock icon. From this area, you can select **more options** :mobile-more-options: to access additional channel information, such as channel members, permissions or notifications.
 
 === ":two: Pinned message area"
     Channel members can [pin messages][pin-a-message] to this area, like announcements, FAQs or channel rules.
@@ -65,12 +65,12 @@ All members in a [Status Community][how-to-use-communities-your-quick-start-guid
 
 ## The #general channel
 
-The #general channel exists by default when you [create a community][create-a-status-community]. You can use this channel for various purposes, including sharing news, discussing community policies and events or making announcements.
+The #general channel is created by default when you [create a community][create-a-status-community]. You can use this channel for various purposes, including sharing news, discussing community policies and events or making announcements.
 
-This channel works like any other channel. As a community administrator, you can use the following tips to make this channel more helpful:
+This channel works like any other channel. As a community administrator, here's how you can make this channel more helpful:
 
 - Don't rename the channel. The #general channel is widely recognized and understood in communities. Renaming the channel may confuse members.
-- [Set permissions][configure-channel-permissions] to restrict who can post in #general. This removes noise from the channel and keeps it on topic.
+- [Set up permissions][configure-channel-permissions] to restrict who can post in #general. This removes noise from the channel and keeps it on topic.
 - Use the #general channel to [pin messages][pin-a-message] describing FAQs, community rules or other information relevant to your community.
 
 --8<-- "includes/urls-en.txt"
