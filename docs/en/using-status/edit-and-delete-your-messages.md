@@ -22,7 +22,7 @@ In some cases, users may still see your original messages, even after you edit o
 ### What to expect
 
 - You can edit and delete your Status messages with no time limitations.
-- You can only edit text messages. If you want to change a message that contains media content, consider [deleting][delete-messages] and re-sending it.
+- You can only edit text messages. If you want to change a message that contains media content, consider [deleting](#delete-your-messages) and re-sending it.
 - Once you edit a message, a permanent note appears next to your message saying it was edited.
 - In communities and group chats, you can hide messages you don't want to see with **Delete for me**. Everyone else will still be able to see this message.
 - To delete a message for everyone, select **Delete for everyone**. You can only delete your own messages.
