@@ -4,7 +4,7 @@ name: create-your-status-password.md
 revision: 0
 language: en
 type: tooltip
-relates_to: 41, 374
+relates_to: [41, 374]
 ---
 
 Your Status keys are the foundation of your self-sovereign identity in Web3. You have complete control over these keys, which you can use to sign transactions, access your data, and interact with Web3 services.
