@@ -15,8 +15,6 @@ You can turn off and on your notifications for the entire app or specific commun
 
 ## Mute all the Status app notifications
 
-## Mute Status app
-
  If you find that you are receiving too many notifications from the app, you can easily mute it. Muting the app will silence all ephemeral notifications.
 
 === "Mobile"
