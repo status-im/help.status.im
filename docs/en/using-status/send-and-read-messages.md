@@ -1,12 +1,12 @@
 ---
-id: 314
+id: 180
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# Configure channel permissions
+# Send and read messages
 
  :octicons-tools-24: In progress
 

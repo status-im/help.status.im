@@ -36,6 +36,8 @@
 [remove-members-from-a-group-chat]: /en/using-status/remove-members-from-a-group-chat
 [send-a-contact-request]: /en/using-status/send-a-contact-request
 [send-direct-messages-to-your-contacts]: /en/using-status/send-direct-messages-to-your-contacts
+[send-and-read-messages]: /en/using-status/send-and-read-messages
+[send-an-audio-message]: /en/using-status/send-an-audio-message
 [send-gifs-and-stikers]: /en/using-status/send-gifs-and-stickers
 [share-images-in-status]: /en/using-status/share-images-in-status
 [share-your-status-profile]: /en/using-status/share-your-status-profile
@@ -62,6 +64,7 @@
 [use-a-throwaway-profile-in-status-web]: /en/status-communities/use-a-throwaway-profile-in-status-web
 [view-notifications-and-updates]: /en/using-status/view-notifications-and-updates
 [what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
+[channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 
 [about-your-wallet-accounts-and-addresses]: /en/status-wallet/about-your-wallet-accounts-and-addresses
 [how-to-use-status-wallet-your-quick-start-guide]: /en/status-wallet/how-to-use-status-wallet-your-quick-start-guide
