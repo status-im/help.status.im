@@ -20,6 +20,7 @@ hide:
 ## Manage channels
 
 - [**Create** a channel][create-a-channel]
+- [**Configure** channel permission][configure-channel-permissions]
 - [**Delete** a channel][delete-a-channel]
 
 ## Create and administer communities

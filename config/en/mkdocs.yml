@@ -201,6 +201,7 @@ nav:
       - About losing access to a channel: status-communities/about-losing-access-to-a-channel.md
     - Manage channels:
       - Create a channel: status-communities/create-a-channel.md
+      - Configure channel permission : status-communities/configure-channel-permissions.md
       - Delete a channel: status-communities/delete-a-channel.md
     - Create and administer communities:
         - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
