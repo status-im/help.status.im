@@ -6,11 +6,16 @@ hide:
 
 # Using Status
 
+## Message features and tools
+
+- [About Status **messages**][about-status-messages]
+- [**Pin** a message][pin-a-message]
+- [**React** and **reply** to messages][react-and-reply-to-messages]
+
 ## Direct messages
 
 - [**Remove a contact** from Status][remove-a-contact-from-status]
 - [**Pin** a message][pin-a-message]
-- [**React** and **reply** to messages][react-and-reply-to-messages]
 
 ## Group chats
 
@@ -20,19 +25,11 @@ hide:
 - [**Clear** group chat **history**][clear-group-chat-history]
 - [**Delete** a group chat][delete-a-group-chat]
 - [**Join** a group chat][join-a-group-chat]
-- [**Pin** a message][pin-a-message]
 - [**Leave** a group chat][leave-a-group-chat]
-- [**React** and **reply** to messages][react-and-reply-to-messages]
-
-## Message features and tools
-
-- [About Status **messages**][about-status-messages]
-- [**Pin** a message][pin-a-message]
 
 ## Format and style messages
 
 - [**Format** your messages][format-your-messages]
-- [**React** and **reply** to messages][react-and-reply-to-messages]
 
 ## Share files and conversations
 

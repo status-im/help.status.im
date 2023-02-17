@@ -66,6 +66,7 @@
 [register-your-status-ens-name]: /en/your-profile-and-preferences/register-your-status-ens-name
 [understand-your-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase
 [your-chatkey-emojihash-and-identicon-ring]: /en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring
+[your-status-notifications-guide]: /en/your-profile-and-preferences/your-status-notifications-guide
 
 [gnu-privacy-guard]: https://gnupg.org/
 [perfect-forward-secrecy]: https://en.wikipedia.org/wiki/Forward_secrecy

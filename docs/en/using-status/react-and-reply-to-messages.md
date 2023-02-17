@@ -8,9 +8,9 @@ hide:
 
 # React and reply to messages
 
-In Status, you can reply to specific messages and react with emojis. 
+In Status, you can reply to specific messages and react with emojis.
 
-Replies are useful for when you want to make it clear who you are responding to, as well as receive a faster reply from them. Users whose messages you reply to receive notifications in their Notification Centre.
+Replies are useful for when you want to make it clear who you are responding to, as well as receive a faster reply from them. Users whose messages you reply to receive notifications in their [Notification Centre][your-status-notifications-guide].
 
 Reactions are helpful when you want to show others that you saw their message. Users whose messages you react to do not receive any notifications.
 
@@ -18,14 +18,13 @@ Reactions are helpful when you want to show others that you saw their message. U
 
 === "Mobile"
 
-    1. From the tab bar, tap :mobile-messages: Messages.
-    2. Open the chat with the message you want to react to.
-    3. Long press the message.
-    4. Choose an emoji to react with and tap it.
+    1. Open the group chat, DM chat or community channel with the message you want to react to.
+    2. Long press the message.
+    3. Choose an emoji to react with and tap it.
 
 === "Desktop"
 
-    1. From the navigation bar, click :desktop-chat: Chat.
+    1. Open the group chat, DM chat or community channel with the message you want to react to.
     2. Open the chat with the message you want to react to.
     3. Hover over the message.
     4. Click :desktop-emojis: **Add reaction**.
@@ -35,18 +34,18 @@ Reactions are helpful when you want to show others that you saw their message. U
 
 === "Mobile"
 
-    1. From the tab bar, tap :mobile-messages: Messages.
-    2. Open the chat with the message you want to react to.
-    3. Tap the message.
-    4. Tap :mobile-reply: **Reply**.
-    5. Type your reply and tap :mobile-send: **Send**. 
+    1. Open the group chat, DM chat or community channel with the message you want to react to.
+    2. Long press the message.
+    3. Tap :mobile-reply: **Reply**.
+    4. Type your reply and tap :mobile-send: **Send**. 
 
 === "Desktop"
 
-    1. From the navigation bar, click :desktop-chat: Chat.
-    2. Open the chat with the message you want to react to.
-    3. Hover over the message.
-    4. Click :desktop-reply: **Reply**.
-    5. Type your reply and press ++return++.
+    1. Open the group chat, DM chat or community channel with the message you want to react to.
+    2. Hover over the message and click :desktop-reply: **Reply**.
+    3. Type your reply and press ++return++.
+
+!!! tip
+    You can reply with text, emojis, images and stickers.
 
 --8<-- "includes/urls-en.txt"
