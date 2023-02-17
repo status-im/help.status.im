@@ -276,6 +276,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/using-status/react-and-reply-to-messages/</loc>
+         <lastmod>2023-02-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/using-status/remove-a-contact-from-status/</loc>
          <lastmod>2023-02-17</lastmod>
          <changefreq>daily</changefreq>
@@ -392,6 +397,11 @@
     </url>
     <url>
          <loc>https://help.status.im/en/your-profile-and-preferences/your-status-notification-guide/</loc>
+         <lastmod>2023-02-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/your-profile-and-preferences/your-status-notifications-guide/</loc>
          <lastmod>2023-02-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
