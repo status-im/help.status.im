@@ -4,7 +4,7 @@ name: I-am-new-to-status.md
 revision: 0
 language: en
 type: tooltip
-relates_to: 345, 374, 377
+relates_to: [345, 374, 377]
 ---
 
 # Getting started with Status

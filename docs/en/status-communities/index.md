@@ -12,8 +12,14 @@ hide:
 
 ## Channels
 
+- [**Channels**: your quick start guide][channels-your-quick-start-guide]
 - [**Join** a channel][join-a-channel]
 - [About **losing access** to a channel][about-losing-access-to-a-channel]
+
+## Manage channels
+
+- [**Create** a channel][create-a-channel]
+- [**Delete** a channel][delete-a-channel]
 
 ## Create and administer communities
 
