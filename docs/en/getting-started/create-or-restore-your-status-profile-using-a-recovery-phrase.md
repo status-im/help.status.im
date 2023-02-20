@@ -21,7 +21,7 @@ If you already have a Status account and used your profile in the past 30 days, 
 - Your wallet funds are safe and recoverable as long as you know your recovery phrase and [keep it safe][back-up-and-secure-your-recovery-phrase].
 - When you import an existing Ethereum address from a wallet, you can operate with your funds using [Status Wallet][how-to-use-wallet-your-quick-start-guide].
 - If you already use Status but don't have access to your previous device, you can restore your Status profile on a new device if you have used the app within the past 30 days.
-- If you don't have access to your previous device and haven't used Status in the past 30 days, your funds are safe, but your profile is unrecoverable. You can still use your recovery phrase to create a new profile, but your previous profile configuration (contacts, profile settings, community membership and profile settings) is lost.
+- If you don't have access to your previous device and haven't used Status in the past 30 days, your funds are safe, but your profile is unrecoverable. You can still use your recovery phrase to create a new profile, but your previous profile configuration (contacts, profile settings and community membership) is lost.
 
 This table summarizes your options when you have a recovery phrase:
 
