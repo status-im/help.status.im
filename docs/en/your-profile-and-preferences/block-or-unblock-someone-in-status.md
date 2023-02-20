@@ -16,9 +16,9 @@ You can block a stranger or an existing contact to stop receiving harmful conten
 ## What to expect
 
 - Blocked users don't receive any notifications or see any changes. They only know that you have stopped messaging them.
-- You can't see any messages sent by blocked users, including direct messages and messages in mutual group chats, channels, and communities.
-- A blocked user can see your previous direct messages and future messages you send in mutual group chats, channels, and communities.
-- Status permanently deletes all messages sent by the blocked user, including direct messages and messages in mutual group chats, channels, and communities.
+- You can't see any messages sent by blocked users, including direct messages and messages in mutual group chats, channels and communities.
+- A blocked user can see your previous direct messages and future messages you send in mutual group chats, channels and communities.
+- Status permanently deletes all messages sent by the blocked user, including direct messages and messages in mutual group chats, channels and communities.
 - Unblocking a user does not restore deleted messages.
 - Status stops showing blocked users as mutual contacts.
   
@@ -28,7 +28,7 @@ You can block a stranger or an existing contact to stop receiving harmful conten
 
     1. From the tab bar, tap :mobile-messages: **Messages**.
     1. Tap **Contacts**, then tap the profile photo of the contact you want to block.
-    1. On the profile screen, tap :mobile-more-options: **More options** on the top.
+    1. From the top navigation, tap :mobile-more-options: **More options**.
     1. Tap :mobile-block: **Block User**.
     1. Check the two boxes if you want to remove the user's identity verification and remove the user from your contacts. 
     1. Tap **Block**.
@@ -58,7 +58,7 @@ A stranger is a user who is not your contact. You can encounter a stranger in a 
     ### Step 2: Block the user
     
     1. Tap the profile photo of the user.
-    1. On the user's profile screen, tap :mobile-more-options: **More options** on the top.
+    1. From the top navigation, tap :mobile-more-options: **More options**.
     1. Tap :mobile-block: **Block User**.
     1. Tap **Block**.
 
@@ -82,7 +82,7 @@ A stranger is a user who is not your contact. You can encounter a stranger in a 
 === "Mobile"
 
     1. Tap your profile photo.
-    1. Go to **Privacy & security** > **Blocked & rejected users** <!---Designers haven't decided if this feature is accessed from Messages or Privacy & security-->
+    1. Go to **Privacy and security** > **Blocked and rejected users**. <!---Designers haven't decided if this feature is accessed from Messages or Privacy and security-->
     1. Tap the profile photo of the user you want to unblock.
     1. Tap **Unblock**.
 
