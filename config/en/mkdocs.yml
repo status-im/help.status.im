@@ -219,6 +219,6 @@ nav:
     - Settings:
       - Log out of Status: your-profile-and-preferences/log-out-of-status.md
     - Handle your contact list and user verification:
-      - Block someone in Status: your-profile-and-preferences/block-someone-in-status
+      - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status
   - Network nodes:
     - network-nodes-and-statistics/index.md
