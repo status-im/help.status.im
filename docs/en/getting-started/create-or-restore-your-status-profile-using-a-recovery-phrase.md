@@ -11,24 +11,30 @@ hide:
 
 You can link your existing Ethereum address to a new Status profile. For instance, if you already have a [non-custodial Ethereum wallet][how-to-use-wallet-your-quick-start-guide] such as Metamask or Trust Wallet, you already have an Ethereum address and a [recovery phrase][understand-your-status-keys-and-recovery-phrase].
 
+If you already have a Status account and used your profile in the past 30 days, you can restore it with the profile's recovery phrase.
+
+!!! tip
+    If you already use Status on one device and want to add your profile and funds to a new device, you don't need your recovery phrase. [Sync your new device][add-a-new-device-to-your-status-profile] for the best experience.
+
 ## What to expect
 
 - Your wallet funds are safe and recoverable as long as you know your recovery phrase and [keep it safe][back-up-and-secure-your-recovery-phrase].
-- You can create a new Status profile using your existing Ethereum address.
-- If you already use Status in one device and want to add your profile and funds to a new device, you don't need your recovery phrase. [Sync your new device][add-a-new-device-to-your-status-profile] for the best experience.
+- When you import an existing Ethereum address from a wallet, you can operate with your funds using [Status Wallet][how-to-use-wallet-your-quick-start-guide].
 - If you already use Status but don't have access to your previous device, you can restore your Status profile on a new device if you have used the app within the past 30 days.
-- If you haven't used Status in the past 30 days, your funds are safe, but your profile is unrecoverable.
+- If you don't have access to your previous device and haven't used Status in the past 30 days, your funds are safe, but your profile is unrecoverable. You can still use your recovery phrase to create a new profile, but your previous profile configuration (contacts, profile settings, community membership and profile settings) is lost.
 
 This table summarizes your options when you have a recovery phrase:
 
 | You have | Next step | Your Status profile | Your wallet funds |
 |:---|:---|:---|:---|
-| :material-check: Recovery phrase</br>:octicons-x-24:Status profile | [New profile with existing recovery phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | New profile | :material-check: |
-| :material-check: Recovery phrase</br>:material-check: Access to your Status profile | [Restore profile with recovery phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | :material-check: | :material-check: |
-| :material-check: Recovery phrase</br>:material-check: Used your Status profile in the past 30 days | [Restore profile with recoverpy phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | :material-check: | :material-check: 
-| :material-check: Recovery phrase</br>:octicons-x-24: Used your Status profile in the past 30 days | [New profile with existing recovery phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | :octicons-x-24: | :material-check: |
+| :material-check: Recovery phrase</br>:octicons-x-24:Status profile | [Create profile using a recovery phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | New profile | :material-check: |
+| :material-check: Recovery phrase</br>:material-check: Used your Status profile in the past 30 days | [Restore profile using a recoverpy phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | :material-check: | :material-check: 
+| :material-check: Recovery phrase</br>:octicons-x-24: Used your Status profile in the past 30 days</br>:octicons-x-24: Access to your device | [Create profile using a recovery phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | :octicons-x-24: | :material-check: |
 
 (:material-check: available, :octicons-x-24: not available )
+
+!!! tip
+    Creating or restoring a profile using a recovery phrase follows the same procedure.
 
 ## Create or restore your profile using a recovery phrase
 
