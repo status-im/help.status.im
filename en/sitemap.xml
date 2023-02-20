@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/getting-started/add-a-new-device-to-your-status-profile/</loc>
+         <lastmod>2023-02-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase/</loc>
          <lastmod>2023-02-20</lastmod>
          <changefreq>daily</changefreq>
@@ -172,6 +177,16 @@
     </url>
     <url>
          <loc>https://help.status.im/en/status-wallet/how-to-use-status-wallet-your-quick-start-guide/</loc>
+         <lastmod>2023-02-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-wallet/how-to-use-wallet-your-quick-start-guide/</loc>
+         <lastmod>2023-02-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-wallet/import-your-wallet-funds-into-status-wallet/</loc>
          <lastmod>2023-02-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
