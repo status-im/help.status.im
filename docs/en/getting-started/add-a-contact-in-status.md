@@ -14,7 +14,7 @@ After sending a contact request, wait for the other person to accept it. Once th
 
 If the person you want to chat with doesn't have a Status profile yet, you can [invite them to join Status][invite-friends-to-status].
 
-To add someone to your contact list, you need their [chat key][understand-your-status-keys-and-recovery-phrase], which represents their public Status profile. They can share it with you, so please refer them to [Share your Status profile][share-your-status-profile]. You can also use their QR code to add them to contacts.
+To add someone to your contact list, you need their [chat key][understand-your-status-keys-and-recovery-phrase], which represents their public Status profile. They can share it with you, so refer them to [Share your Status profile][share-your-status-profile]. You can also use their QR code to add them to contacts.
 
 !!! tip
     To add someone you know from a group chat or community, simply right-click their name and select :desktop-add-user: **Send a contact request**.
