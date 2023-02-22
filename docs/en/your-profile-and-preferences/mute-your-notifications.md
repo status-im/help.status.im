@@ -37,7 +37,7 @@ You still see a badge if someone mentions you in a muted channel, community, gro
 
 === "Mobile"
 
-    1. From the tab bar, tap :mobile-communities: **Communities** to mute community and channel or tap :mobile-messages: **Messages** to mute a group chat and DM. 
+    1. From the tab bar, tap :mobile-communities: **Communities** to mute a community or channel, or tap :mobile-messages: **Messages** to mute a group chat or DM. 
     1. Long press the community, channel, group chat or DM you want to mute.
     1. Tap :mobile-mute: **Mute**.
     1. Select the length of time you'd like to mute your notifications.
