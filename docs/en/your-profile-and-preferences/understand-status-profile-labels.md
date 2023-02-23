@@ -10,7 +10,9 @@ hide:
 
 In Status, you can label profiles as trusted or untrusted. This is useful when you want to be able to quickly tell your contacts from possible impersonators.
 
-Identity verification and profile labels help you keep in mind whether you should trust someone without alerting them to your decision.
+Identity verification and profile labels help you keep in mind whether you should trust someone without alerting them to your decision. 
+
+For example, if you're managing a corporate Community and someone requests to join claiming to be an employee, you can try [verifying their identity][verify-your-contacts-identity]. If they fail to pass, you can mark them as untrusted but keep them in your contacts to understand who was trying to impersonate an employee and infiltrate your company's private Community.
 
 !!! note
     To see a label on someone's profile, [mark this profile as trusted or untrusted][verify-your-contacts-identity].
