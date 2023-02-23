@@ -24,5 +24,6 @@ hide:
 ## Handle your contact list and user verification
 
 - [**Block** or **unblock** someone in Status][block-or-unblock-someone-in-status]
+- [Understand Status **profile labels**][understand-status-profile-labels]
 
 --8<-- "includes/urls-en.txt"
