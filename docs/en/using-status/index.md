@@ -15,6 +15,7 @@ hide:
 ## Direct messages
 
 - [**Add a contact** in Status][add-a-contact-in-status]
+- [**Share** your Status **profile**][share-your-status-profile]
 - [**Remove a contact** from Status][remove-a-contact-from-status]
 
 ## Group chats

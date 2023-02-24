@@ -168,17 +168,15 @@ nav:
       - Leave a group chat: using-status/leave-a-group-chat.md
     - Direct messages:
       - Add a contact in Status: getting-started/add-a-contact-in-status.md
+      - Share your Status profile: using-status/share-your-status-profile.md
       - Remove a contact from Status: using-status/remove-a-contact-from-status.md
       - Block someone in Status: using-status/block-someone-in-status.md
       - Pin messages: using-status/pin-a-message.md
+      - React and reply to messages: using-status/react-and-reply-to-messages.md
     - Message features and tools:
       - About Status messages: using-status/about-status-messages.md
       - Messages FAQs: using-status/messages-faqs.md
       - Pin messages: using-status/pin-a-message.md
-      - React and reply to messages: using-status/react-and-reply-to-messages.md
-    - Direct messages:
-      - Remove a contact from Status: using-status/remove-a-contact-from-status.md
-      - Block someone in Status: using-status/block-someone-in-status.md
       - React and reply to messages: using-status/react-and-reply-to-messages.md
     - Message features and tools:
       - About Status messages: using-status/about-status-messages.md
