@@ -15,7 +15,7 @@ Your Status recovery phrase (also known as a seed phrase or backup phrase) consi
 
 ## Backup your recovery phrase
 
-For security reasons, your recovery phrase is permanently removed from your device once you confirm that you have saved it. The option to view the recovery phrase within the Status app becomes unavailable (the option is grayed out).
+For security reasons, your recovery phrase is permanently removed from your device once you confirm that you have saved it. You won't be able to view your recovery phrase in the Status app after that (the option is grayed out).
 
 === "Mobile"
 
@@ -26,12 +26,12 @@ For security reasons, your recovery phrase is permanently removed from your devi
     1. On the **Back up recovery phrase** screen, make sure you have everything ready to write down the recovery phrase. Then, check the verification boxes.
     1. Tap **See my recovery phrase**.
   
-    ### Step 2: Write your recovery phrase
+    ### Step 2: Write down your recovery phrase
 
     1. Write down and [secure](#secure-your-recovery-phrase) your recovery phrase. Don't take a screenshot.
     1. Tap **I wrote it on a paper**.
-    1. The Status app asks you to type two randomly chosen words from your recovery phrase. Type the words, check the **I understand this is the only time I can see my recovery phrase in the app** box, and tap **Done**.
-    1. Once you've written down your recovery phrase, tap **Yes**.
+    1. The Status app asks you to type two randomly chosen words from your recovery phrase. Type the words, check the **I understand this is the only time I can see my recovery phrase in the app** box and tap **Done**.
+    1. Once you write down your recovery phrase, tap **Yes**.
     1. Tap **OK, great**.
 
 === "Desktop"
@@ -58,15 +58,15 @@ Here are some tips on how to keep your recovery phrase secure:
 
 - **Keep it safe**
 
-    Use a paper backup, writing down your recovery phrase on a piece of paper and saving this paper in a locked safe, at the very least. This is the most common backup method, but it's not the most secure. Consider using a hardware wallet in addition to your paper backup.
+    Use a pen-and-paper backup, writing down your recovery phrase on a piece of paper and saving this paper in a locked safe, at the very least. This is the most common backup method, but it's not the most secure one. Consider using a hardware wallet in addition to your pen-and-paper backup.
 
 - **Avoid digital copies**
 
-    Don't take a screenshot of your recovery phrase and don't save your recovery phrase on your phone, computer or any online service.
+    Don't take a screenshot of your recovery phrase and don't save your recovery phrase on your phone, computer or any online services.
 
-- **Keep it secret**
+- **Never share**
 
-    Do not share the seed phrase with anyone, and be careful about who has access to the information.
+    Do not share the seed phrase with anyone and be careful about who has access to it.
 
 - **Use a hardware wallet**
 
@@ -74,9 +74,9 @@ Here are some tips on how to keep your recovery phrase secure:
 
 - **Use multiple backups**
 
-    You can combine different backup methods, such as paper backup and a hardware wallet. In addition, you can improve the security of your paper backups by dividing up your recovery phrase words and storing them in different places.
+    You can combine different backup methods, such as a pen-and-paper backup and a hardware wallet. In addition, you can improve the security of your pen-and-paper backup by dividing up your recovery phrase words and storing them in different places.
 
 !!! note
-    Keep your recovery phrase safe, and never share this information with anyone. Status will never ask you for this information.
+    Keep your recovery phrase safe and never share it with anyone. Status will never ask you for this information, and anyone who does is trying to steal your profile and wallet funds.
 
 --8<-- "includes/urls-en.txt"
