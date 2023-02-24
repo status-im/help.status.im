@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Set-up a token-gated community
+# Configure your community permissions
 
  :octicons-tools-24:
 

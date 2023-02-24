@@ -48,11 +48,13 @@
 [about-losing-access-to-a-channel]: /en/status-communities/about-losing-access-to-a-channel
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
 [about-status-communities]: /en/status-communities/about-status-communities
+[about-the-community-history-service]: /en/status-communities/about-the-community-history-service
 [backup-your-community-key]: /en/status-communities/backup-your-community-key
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [create-a-channel]: /en/status-communities/create-a-channel
 [create-a-status-community]: /en/status-communities/create-a-status-community
 [configure-channel-permissions]: /en/status-communities/configure-channel-permissions
+[configure-your-community-permissions]: /en/status-communities/configure-your-community-permissions
 [delete-a-channel]: /en/status-communities/delete-a-channel
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [invite-people-to-a-status-community]: /en/status-communities/invite-people-to-a-status-community
