@@ -38,6 +38,7 @@ Send messages and files, create group chats or explore decentralized apps with t
 
 - [**Share** images in Status][share-images-in-status]
 - [Send **GIFs and Stickers**][send-gifs-and-stikers]
+- [**Send** an **audio** message][send-an-audio-message]
 
 ## Status Web3 browser
 

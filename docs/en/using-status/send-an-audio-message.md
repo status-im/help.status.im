@@ -8,7 +8,7 @@ hide:
 
 # Send an audio message
 
-You can send an audio message in Status to communicate with your contacts. You can use audio messages to share ideas and updates. Anyone in a channel, direct message (DM) or group chat can play and send audio messages.  
+You can send an audio message in Status to communicate with your contacts. You can use audio messages to share ideas and updates. Anyone in a channel, group chat or direct message (DM) can play and send audio messages.  
 
 You can record an audio message up to one minute long and send as many audio messages as you want.
 
@@ -19,14 +19,10 @@ You can record an audio message up to one minute long and send as many audio mes
 
 === "Mobile"
 
-    1. From the tab bar, tap :mobile-community: **Communities** to send an audio message in a channel, or tap :mobile-messages: **Messages** to send an audio message in a group chat or DM.
+    1. From the tab bar, tap :mobile-communities: **Communities** to send an audio message in a channel, or tap :mobile-messages: **Messages** to send an audio message in a group chat or DM.
     1. Long press :mobile-audio: **Audio** to start recording automatically.
-    1. Optionally, if you are going to send a long message, slide to :mobile-locked-lock: **Lock** for hands-free recording.
+    1. Optionally, whenever you want to send a long message, slide to :mobile-locked-lock: **Lock** for hands-free recording.
     1. When you’re finished, slide to :mobile-placeholder: **send** to stop recording and send the message or to :mobile-delete: **Delete** to discard the message. 
-   
-<!-- 
-imagem
--->
 
 === "Desktop"
 	
