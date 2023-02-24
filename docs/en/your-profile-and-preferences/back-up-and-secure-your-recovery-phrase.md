@@ -48,7 +48,7 @@ For security reasons, your recovery phrase is permanently removed from your devi
     1. Write down and [secure](#secure-your-recovery-phrase) your recovery phrase. Don't take a screenshot.
     1. Click **Confirm recovery phrase**.
     1. The Status app asks you to type two randomly chosen words from your recovery phrase. Type the words and then, click **Continue**.
-    1. Check the **I acknowledge that Status will not be able to show me my seed phrase again** box and click **Complete and delete my recovery phrase**.
+    1. Check the **I acknowledge that Status will not be able to show me my recovery phrase again** box and click **Complete and delete my recovery phrase**.
 
 ## Secure your recovery phrase
 
@@ -66,11 +66,11 @@ Here are some tips on how to keep your recovery phrase secure:
 
 - **Never share**
 
-    Do not share the seed phrase with anyone and be careful about who has access to it.
+    Do not share the recovery phrase with anyone and be careful about who has access to it.
 
 - **Use a hardware wallet**
 
-    Hardware wallets add an extra layer of security to your seed phrase. The [Keycard][about-keycard] hardware wallet integrates with the Status app and is compatible with all major cryptocurrencies.
+    Hardware wallets add an extra layer of security to your recovery phrase. The [Keycard][about-keycard] hardware wallet integrates with the Status app and is compatible with all major cryptocurrencies.
 
 - **Use multiple backups**
 
