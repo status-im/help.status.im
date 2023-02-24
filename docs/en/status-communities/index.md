@@ -6,6 +6,8 @@ hide:
 
 # Status Communities
 
+Create your community, set up private channels or join others' communities and channels.
+
 ## Status Communities
 
 - [About **losing access** to a community][about-losing-access-to-a-community]

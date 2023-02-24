@@ -6,6 +6,8 @@ hide:
 
 # Getting started
 
+Find out what makes Status unique, run Status for the first time and discover essential app features.
+
 ## Getting started for new users
 
 - [**Add** a contact in Status][add-a-contact-in-status]

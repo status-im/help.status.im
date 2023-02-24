@@ -6,6 +6,8 @@ hide:
 
 # Using Status
 
+Send messages and files, create group chats or explore decentralized apps with the Status Web3 browser.
+
 ## Message features and tools
 
 - [About Status **messages**][about-status-messages]
