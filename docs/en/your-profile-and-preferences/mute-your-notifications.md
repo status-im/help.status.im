@@ -28,7 +28,7 @@ You can turn off and on your notifications for the entire app or specific commun
     1. In the **Settings** sidebar, click :desktop-notification: **Notifications and Sounds**.
     1. Turn **Notifications** off.
 
-!!! info
+!!! note
     Muting all the Status app notifications mutes ephemeral notifications (the ones appearing on your screen and disappearing shortly after).
 
 ## Mute specific notifications
