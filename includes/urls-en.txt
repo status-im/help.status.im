@@ -99,6 +99,8 @@
 [share-your-status-profile]: /en/your-profile-and-preferences/share-your-status-profile
 [register-your-status-ens-name]: /en/your-profile-and-preferences/register-your-status-ens-name
 [set-notification-exceptions]: /en/your-profile-and-preferences/set-notification-exceptions
+[sync-profile]: /en/your-profile-and-preferences/sync-your-profile-across-devices#sync-profile
+[sync-your-profile-across-devices]: /en/your-profile-and-preferences/sync-your-profile-across-devices
 [understand-your-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase
 [your-chatkey-emojihash-and-identicon-ring]: /en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring
 [your-status-notifications-guide]: /en/your-profile-and-preferences/your-status-notifications-guide
