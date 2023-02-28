@@ -11,6 +11,7 @@ Set up your Status profile and notifications, customize your settings and fix co
 ## Manage your profile
 
 - [**Log out** of Status][log-out-of-status]
+- [**Sync** your profile across devices][sync-your-profile-across-devices]
 
 ## Adjust your notifiations
 
