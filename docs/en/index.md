@@ -10,7 +10,7 @@ hide:
 
     ---
 
-    Find out what makes Status unique, run Status for the first time, and discover essential app features.
+    Find out what makes Status unique, run Status for the first time and discover essential app features.
 
     [:octicons-arrow-right-24: Getting started][getting-started]
 
@@ -18,7 +18,7 @@ hide:
 
     ---
 
-    Send messages and files, create chat groups, or explore decentralized apps with the Status Web3 browser.
+    Send messages and files, create group chats or explore decentralized apps with the Status Web3 browser.
 
     [:octicons-arrow-right-24: Using Status][using-status]
 
@@ -26,7 +26,7 @@ hide:
 
     ---
 
-    Create your community, set up token-based access and channels, or join communities and channels.
+    Create your community, set up private channels or join others' communities and channels.
 
     [:octicons-arrow-right-24: Status Communities][status-communities]
 
@@ -34,7 +34,7 @@ hide:
 
     ---
 
-    Store, send, receive, and bridge crypto assets safely and anonymously.
+    Store, send, receive and bridge crypto safely and anonymously.
 
     [:octicons-arrow-right-24: Status Wallet][status-wallet]
 
@@ -42,7 +42,7 @@ hide:
 
     ---
 
-    Check your Status profile, configure app notifications and settings, and fix common issues.
+    Set up your Status profile and notifications, customize your settings and fix common issues.
 
     [:octicons-arrow-right-24: Your profile and preferences][your-profile-and-prefences]
 
@@ -50,7 +50,7 @@ hide:
 
     ---
 
-    Get information and insights about your Status Community node and other network nodes.
+    Learn more about your Status Community node and other network nodes.
 
     [:octicons-arrow-right-24: Network nodes and statistics][network-nodes-and-statistics]
 

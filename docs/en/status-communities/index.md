@@ -6,6 +6,8 @@ hide:
 
 # Status Communities
 
+Create your community, set up private channels or join others' communities and channels.
+
 ## Status Communities
 
 - [About **losing access** to a community][about-losing-access-to-a-community]
@@ -20,6 +22,7 @@ hide:
 ## Manage channels
 
 - [**Create** a channel][create-a-channel]
+- [**Configure** channel permissions][configure-channel-permissions]
 - [**Delete** a channel][delete-a-channel]
 
 ## Create and administer communities

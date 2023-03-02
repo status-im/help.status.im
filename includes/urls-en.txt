@@ -25,6 +25,7 @@
 [customize-a-group-chat]: /en/using-status/customize-a-group-chat
 [delete-a-chat-with-someone]: /en/using-status/delete-a-chat-with-someone
 [delete-a-group-chat]: /en/using-status/delete-a-group-chat
+[delete-your-messages]: /en/using-status/edit-and-delete-your-messages/#delete-your-messages
 [edit-and-delete-your-messages]: /en/using-status/edit-and-delete-your-messages
 [enable-rich-link-previews-in-messages]: /en/using-status/enable-rich-link-previews-in-messages
 [format-your-messages]: /en/using-status/format-your-messages
@@ -75,6 +76,8 @@
 
 [how-to-use-wallet-your-quick-start-guide]: /en/status-wallet/how-to-use-wallet-your-quick-start-guide
 [import-your-wallet-funds-into-status-wallet]: /en/status-wallet/import-your-wallet-funds-into-status-wallet
+
+[status-wallet-your-quick-start-guide.md]: /en/status-wallet/status-wallet-your-quick-start-guide
 
 [about-keycard]: /en/your-profile-and-preferences/about-keycard
 [about-your-status-display-name]: /en/your-profile-and-preferences/about-your-status-display-name

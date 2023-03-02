@@ -161,6 +161,7 @@ nav:
     - Message features and tools:
       - About Status messages: using-status/about-status-messages.md
       - Messages FAQs: using-status/messages-faqs.md
+      - Pin messages: using-status/pin-a-message.md
       - React and reply to messages: using-status/react-and-reply-to-messages
       - Edit and delete your messages: using-status/edit-and-delete-your-messages.md
     - Group chats:
@@ -179,16 +180,12 @@ nav:
       - Block someone in Status: using-status/block-someone-in-status.md
       - Pin messages: using-status/pin-a-message.md
       - React and reply to messages: using-status/react-and-reply-to-messages.md
-    - Message features and tools:
-      - About Status messages: using-status/about-status-messages.md
-      - Messages FAQs: using-status/messages-faqs.md
-      - Pin messages: using-status/pin-a-message.md
-      - React and reply to messages: using-status/react-and-reply-to-messages.md
     - Format and style messages:
       - Format your messages: using-status/format-your-messages.md
     - Share files and conversations:
       - Share images in Status: using-status/share-images-in-status.md
       - Send GIFs and stickers: using-status/send-gifs-and-stickers.md
+      - Send and audio message: using-status/send-an-audio-message.md
   - Communities:
     - status-communities/index.md
     - Status Communities:
@@ -200,6 +197,7 @@ nav:
       - About losing access to a channel: status-communities/about-losing-access-to-a-channel.md
     - Manage channels:
       - Create a channel: status-communities/create-a-channel.md
+      - Configure channel permission : status-communities/configure-channel-permissions.md
       - Delete a channel: status-communities/delete-a-channel.md
     - Create and administer communities:
         - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
@@ -212,6 +210,7 @@ nav:
     - your-profile-and-preferences/index.md
     - Security:
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
+      - Backup and secure your recovery phrase: your-profile-and-preferences/backup-and-secure-your-recovery-phrase
     - Troubleshooting:
       - If you lose your Status password or recovery phrase: your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase.md
     - Adjust your notifications:
@@ -220,5 +219,7 @@ nav:
       - Log out of Status: your-profile-and-preferences/log-out-of-status.md
     - Handle your contact list and user verification:
       - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status
+    - Settings:
+      - Log out of Status: your-profile-and-preferences/log-out-of-status
   - Network nodes:
     - network-nodes-and-statistics/index.md

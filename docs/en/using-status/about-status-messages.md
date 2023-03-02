@@ -50,7 +50,7 @@ When you communicate with someone on the Status app, your messages, attachments,
 
 Status incorporates the [Perfect Forward Secrecy :octicons-tab-external-16:][perfect-forward-secrecy]{:target="_blank"} (PFS) encryption mechanism, ensuring that encryption keys change on every message. If your keys are compromised, only the associated message is compromised. All previous messages remain private.
 
-!!! info
+!!! note
     Status messaging protects your privacy in one-to-one communications, chat groups, public chats, and Communities.
 
 --8<-- "includes/urls-en.txt"

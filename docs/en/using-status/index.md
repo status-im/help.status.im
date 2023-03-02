@@ -6,6 +6,8 @@ hide:
 
 # Using Status
 
+Send messages and files, create group chats or explore decentralized apps with the Status Web3 browser.
+
 ## Message features and tools
 
 - [About Status **messages**][about-status-messages]
@@ -15,6 +17,7 @@ hide:
 ## Direct messages
 
 - [**Add a contact** in Status][add-a-contact-in-status]
+- [**Share** your Status **profile**][share-your-status-profile]
 - [**Remove a contact** from Status][remove-a-contact-from-status]
 
 ## Group chats
@@ -35,6 +38,7 @@ hide:
 
 - [**Share** images in Status][share-images-in-status]
 - [Send **GIFs and Stickers**][send-gifs-and-stikers]
+- [**Send** an **audio** message][send-an-audio-message]
 
 ## Status Web3 browser
 
