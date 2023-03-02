@@ -45,6 +45,7 @@
 [share-your-status-profile]: /en/using-status/share-your-status-profile
 [understand-group-chats]: /en/using-status/understand-group-chats
 [understand-peer-to-peer-messaging]: /en/using-status/about-status-messages/#understand-peer-to-peer-messaging
+[view-notifications-and-updates]: /en/using-status/view-notifications-and-updates
 
 [about-losing-access-to-a-channel]: /en/status-communities/about-losing-access-to-a-channel
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
@@ -62,15 +63,11 @@
 [join-a-channel]: /en/status-communities/join-a-channel
 [join-a-status-community]: /en/status-communities/join-a-status-community
 [kick-or-ban-someone-from-your-community]: /en/status-communities/kick-or-ban-someone-from-your-community
-[messages-faqs]: /en/using-status/messages-faqs
-[remove-members-from-a-group-chat]: /en/using-status/remove-members-from-a-group-chat
-[understand-group-chats]: /en/using-status/understand-group-chats
+[set-up-your-communitys-approval-options]: /en/status-communities/set-up-your-communitys-approval-options
 [understand-throwaway-profiles-in-status-web]: /en/status-communities/understand-throwaway-profiles-in-status-web
 [understand-token-requirements-in-channels]: /en/status-communities/understand-token-requirements-in-channels
 [use-a-throwaway-profile-in-status-web]: /en/status-communities/use-a-throwaway-profile-in-status-web
-[view-notifications-and-updates]: /en/using-status/view-notifications-and-updates
 [what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
-[channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 
 [about-your-wallet-accounts-and-addresses]: /en/status-wallet/about-your-wallet-accounts-and-addresses
 [how-to-use-status-wallet-your-quick-start-guide]: /en/status-wallet/how-to-use-status-wallet-your-quick-start-guide

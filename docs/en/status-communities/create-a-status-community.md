@@ -11,16 +11,16 @@ hide:
 !!! note ""
     Currently, you can only create and administer communities using the Status desktop app.</br><p style="text-align: center;">[Download Status desktop :octicons-desktop-download-16:][status-web-download]{ .md-button }
 
-A Status Community is a place where you can connect and communicate with people who share your interests. Communities are ideal for those with a passion or hobby, study groups, gaming communities, professional network groups, or creators looking to generate income from their content without intermediaries.
+A [Status Community][about-status-communities] is a place where you can connect and communicate with people who share your interests. Communities are ideal for those with a passion or hobby, study groups, gaming communities, professional network groups, or creators looking to generate income from their content without intermediaries.
 
-As a community owner, you can [restrict community access using tokens][configure-your-community-permissions], control which users are added to the community and organize discussion groups in [channels][create-a-channel]. Owners have complete control over their community and are responsible for maintaining its rules.
+As a community owner, you can create open communities or [restrict community access using tokens][configure-your-community-permissions], control [membership approval][set-up-your-communitys-approval-options] and organize discussion groups in [channels][create-a-channel]. Owners have complete control over their community and are responsible for maintaining its rules.
 
 ## Create a community
 
 === "Desktop"
 
     1. From the navigation sidebar, click :desktop-communities: **Communities**.
-    1. On top of the content area, click **Create community** and then, click **Create new**.
+    1. On top of the content area, click **Create community**.
     1. Add a **name** and a **short description** of your community.
     1. Optionally, add a **logo**, **banner**, **colour** palette and **tags**. You can [customize these settings](#customize-your-community) at any time.
     1. Configure [additional community settings](#configure-additional-settings).

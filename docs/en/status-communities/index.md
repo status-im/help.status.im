@@ -27,8 +27,8 @@ Create your community, set up private channels or join others' communities and c
 
 ## Create and administer communities
 
-- [**Kick or ban** someone from your community][kick-or-ban-someone-from-your-community]
 - [**Create** a Status community][create-a-status-community]
+- [**Kick or ban** someone from your community][kick-or-ban-someone-from-your-community]
 
 ## Status Web Communities
 
