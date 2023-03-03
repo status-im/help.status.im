@@ -5,6 +5,7 @@
 [using-status]: /en/using-status/
 [your-profile-and-prefences]: /en/your-profile-and-preferences/
 
+[about-the-ethereum-blockchain]: /en/getting-started/about-the-ethereum-blockchain
 [add-a-contact-in-status]: /en/getting-started/add-a-contact-in-status
 [add-a-new-device-to-your-status-profile]: /en/getting-started/add-a-new-device-to-your-status-profile
 [create-or-restore-your-status-profile-using-a-recovery-phrase]: /en/getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase
@@ -29,6 +30,7 @@
 [edit-and-delete-your-messages]: /en/using-status/edit-and-delete-your-messages
 [enable-rich-link-previews-in-messages]: /en/using-status/enable-rich-link-previews-in-messages
 [format-your-messages]: /en/using-status/format-your-messages
+[how-to-use-status-browser-your-quick-start-guide]: /en/using-status/how-to-use-status-browser-your-quick-start-guide
 [join-a-group-chat]: /en/using-status/join-a-group-chat
 [leave-a-group-chat]: /en/using-status/leave-a-group-chat
 [messages-faqs]: /en/using-status/messages-faqs
@@ -80,6 +82,7 @@
 
 [about-keycard]: /en/your-profile-and-preferences/about-keycard
 [about-your-status-display-name]: /en/your-profile-and-preferences/about-your-status-display-name
+[about-status-keys]: /en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase#about-status-keys
 [back-up-and-secure-your-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase
 [back-up-your-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase#backup-your-recovery-phrase
 [block-or-unblock-someone-in-status]: /en/your-profile-and-preferences/block-or-unblock-someone-in-status

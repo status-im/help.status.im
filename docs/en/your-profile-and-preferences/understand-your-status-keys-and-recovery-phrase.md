@@ -15,7 +15,7 @@ Using cryptographic keys, Status gives you complete control over your data. You 
 !!! tip
     For common questions about your Status keys and recovery phrase, check out [FAQ: Status keys and recovery phrase][faq-status-keys-and-recovery-phrase].
 
-## About your Status keys
+## About your Status keys {: #about-status-keys }
 
 When you [create a new Status profile][run-the-status-app-for-the-first-time], the Status app generates a public and a private cryptographic key (a key pair). In essence, these keys are very large numbers securely stored on your device and protected by your Status password.
 
