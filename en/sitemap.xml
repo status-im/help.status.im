@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/getting-started/about-the-ethereum-blockchain/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/getting-started/add-a-contact-in-status/</loc>
          <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
