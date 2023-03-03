@@ -66,7 +66,7 @@ We've built Status so your information is secure and out of our reach. However, 
 
 ### Can Status read my messages?
 
-No. No one besides you and the intended recipient can read your messages. For more information on how Status messaging protects your privacy, check out [About your Status keys][about-your-status-keys].
+No. No one besides you and the intended recipient can read your messages. For more information on how Status messaging protects your privacy, check out [About your Status keys][about-status-keys].
 
 ### Who owns the peer-to-peer network nodes?
 
