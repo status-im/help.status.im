@@ -8,7 +8,7 @@ hide:
 
 # Messages FAQs
 
-Messaging is a critical component of the Status app, along with [Status Communities][how-to-use-communities-your-quick-start-guide], the [Status Wallet][how-to-use-status-wallet-your-quick-start-guide] and the [Status Web3 browser][how-to-use-status-browser-your-quick-start-guide]. Status messaging offers individuals and communities uncensored, private and secure communication.
+Messaging others is an important part of your Status experience, along with [Status Communities][how-to-use-communities-your-quick-start-guide], the [Status Wallet][how-to-use-status-wallet-your-quick-start-guide] and the [Status Web3 browser][how-to-use-status-browser-your-quick-start-guide]. In Status, you can message others and chat in communities privately and securely.
 
 The Status app provides a privacy-centric messenger using decentralized [peer-to-peer (P2P) technology][about-status-messages] and strong end-to-end (E2EE) encryption.
 
@@ -16,7 +16,9 @@ The Status app provides a privacy-centric messenger using decentralized [peer-to
 
 ### What makes Status messaging decentralized?
 
-Unlike centralized networks, which rely on servers controlled by corporations or governments, Status uses a distributed network of nodes. This network is based on Waku, a [peer-to-peer protocol][about-status-messages] for private, secure and censorship-resistant communication.
+Instead of centralized networks, which rely on servers controlled by corporations or governments, Status uses a distributed network of nodes. This network is based on Waku, a [peer-to-peer protocol][about-status-messages] for private, secure and censorship-resistant communication.
+
+In a distributed network, users can securely and directly exchange data without intermediaries that could potentially compromise their privacy.
 
 ### Peer-to-peer networks send messages to every node. Is this not a risk?
 
@@ -29,13 +31,9 @@ The Status peer-to-peer network ensures the resilience of the messaging network.
 Status supports free speech infrastructure that prevents us, or anyone else, from censoring you.
 
 !!! note
-    Nodes in the network still rely on having an internet connection. So if your internet provider (or an authoritarian regime) shuts down your network, Status won't work.
+    Nodes in the network still rely on having an internet connection. So if your internet provider (or an authoritarian regime) shuts down your network, Status messaging won't work.
 
 ## Status messaging
-
-### Can Status read my messages?
-
-No. No one besides you and the intended recipient can read your messages.
 
 ### Are my messages in the blockchain?
 
@@ -45,28 +43,30 @@ No, your messages are not in the blockchain and are not transported through the 
 
 Yes, you can always [edit and delete your messages][edit-and-delete-your-messages].
 
+In some cases, users may still see your original messages, even after you edit or delete them. Check out [Edit and delete your messages][edit-and-delete-your-messages] for more information.
+
 ### If I'm disconnected, can I still access my messages?
 
-The [peer-to-peer network][about-status-messages] store messages that can't be delivered for up to 30 days. Your device downloads and securely stores these messages permanently when you connect to the network.
+The [peer-to-peer network][about-status-messages] store messages that couldn't be delivered for up to 30 days. Your device downloads and securely stores these messages permanently when you connect to the network. Messages stored on your device are always available offline.
 
 ## Privacy and security
 
-### How Status protects my privacy?
+### How does Status protect my privacy?
 
 Status implements end-to-end encryption (E2EE) using [cryptographic keys][understand-your-status-keys-and-recovery-phrase]. When you send a message, the message is encrypted using the recipient's public key. The only way to decrypt the message and read its content is by using the recipient's private key. Even if a malicious actor intercepts the message, they can't read its content as they don't have the private key.
 
-!!! tip
-    The [Waku network][waku] implements additional privacy capabilities in addition to E2EE, such as sender anonymity or metadata protection
+!!! note
+    The [Waku network][waku] implements additional privacy capabilities in addition to E2EE, such as sender anonymity or metadata protection.
 
 ### Other messaging apps use E2EE encryption; why use Status?
 
 While other messaging apps offer E2EE encryption, their centralized network design allows interpretation of who is talking to whom and where. These messaging apps can collect and sell your data and create a profile about you.
 
-We've built Status so your information is secure and out of our reach. No one (not even Status) can obtain any data or metadata about you.
+We've built Status so your information is secure and out of our reach. However, it's important to remember that no privacy tool can guarantee absolute data security.
 
-### Are my messages really private?
+### Can Status read my messages?
 
-Yes, they are. In Status, your messages are end-to-end encrypted and distributed using a decentralized network. Status doesn't use central servers to relay or store your messages. There is no way for a malicious actor (or Status) to read your messages.
+No. No one besides you and the intended recipient can read your messages. For more information on how Status messaging protects your privacy, check out [About your Status keys][about-your-status-keys].
 
 ### Who owns the peer-to-peer network nodes?
 
