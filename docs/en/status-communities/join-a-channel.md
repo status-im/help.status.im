@@ -14,7 +14,7 @@ All members of a [community](about-status-communities.md) can browse and join op
 
 ## Join an open channel
 
-Channels that do not show a :mobile-locked-lock: lock icon are open for anyone to join. When you join a community, you automatically have access to these channels.
+All members can join channels that don't have a :mobile-locked-lock: lock icon next to their names. When you join a community, you automatically get access to these channels.
 
 === "Mobile"
 
@@ -25,11 +25,11 @@ Channels that do not show a :mobile-locked-lock: lock icon are open for anyone t
 === "Desktop"
 
     1. From the navigation sidebar, click the community with the channel you want to join.
-    1. In the channel sidebar, click on the open channel.
+    1. In the channel sidebar, click the open channel.
 
 ## Join a token-gated channel
 
-Channels that are token-gated show a :mobile-locked-lock: lock icon. To access these channels, you need to meet and maintain the token requirements.
+Channels that are token-gated have a :mobile-locked-lock: lock icon next to their names. To access these channels, you must meet the token requirements. To maintain access, you need to keep holding the required tokens.
 
 === "Mobile"
 
