@@ -1,12 +1,12 @@
 ---
-id: 496
+id: 495
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# Transfer your community's ownership
+# Restore your community using the community key
 
  :octicons-tools-24: In progress
 
