@@ -199,6 +199,7 @@ nav:
     - Create and administer communities:
       - Create a Status Community: status-communities/create-a-status-community.md
       - Customize your community: status-communities/customize-your-community.md
+      - Back up your community key: status-communities/back-up-your-community-key.md
       - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
     - Status Web Communities:
       - Use a throwaway profile in Status Web: status-communities/use-a-throwaway-profile-in-status-web.md

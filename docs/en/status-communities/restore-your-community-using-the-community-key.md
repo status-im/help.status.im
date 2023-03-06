@@ -1,12 +1,12 @@
 ---
-id: 29
+id: 495
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# Backup your community key
+# Restore your community using the community key
 
  :octicons-tools-24: In progress
 

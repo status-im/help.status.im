@@ -52,7 +52,7 @@
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
 [about-status-communities]: /en/status-communities/about-status-communities
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
-[backup-your-community-key]: /en/status-communities/backup-your-community-key
+[back-up-your-community-key]: /en/status-communities/back-up-your-community-key
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [create-a-channel]: /en/status-communities/create-a-channel
 [create-a-status-community]: /en/status-communities/create-a-status-community
@@ -64,7 +64,9 @@
 [join-a-channel]: /en/status-communities/join-a-channel
 [join-a-status-community]: /en/status-communities/join-a-status-community
 [kick-or-ban-someone-from-your-community]: /en/status-communities/kick-or-ban-someone-from-your-community
+[restore-your-community-using-the-community-key]: /en/status-communities/restore-your-community-using-the-community-key
 [set-up-your-communitys-approval-options]: /en/status-communities/set-up-your-communitys-approval-options
+[transfer-your-community-s-ownership]: /en/status-communities/transfer-your-community-s-ownership
 [understand-throwaway-profiles-in-status-web]: /en/status-communities/understand-throwaway-profiles-in-status-web
 [understand-token-requirements-in-channels]: /en/status-communities/understand-token-requirements-in-channels
 [use-a-throwaway-profile-in-status-web]: /en/status-communities/use-a-throwaway-profile-in-status-web
