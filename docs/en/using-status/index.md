@@ -8,12 +8,6 @@ hide:
 
 Send messages and files, create group chats or explore decentralized apps with the Status Web3 browser.
 
-## Message features and tools
-
-- [About Status **messages**][about-status-messages]
-- [**Pin** a message][pin-a-message]
-- [**React** and **reply** to messages][react-and-reply-to-messages]
-
 ## Direct messages
 
 - [**Add a contact** in Status][add-a-contact-in-status]

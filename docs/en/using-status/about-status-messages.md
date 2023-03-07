@@ -8,7 +8,7 @@ hide:
 
 # About Status messages
 
-Messaging is a critical Status component. The Status app combines [peer-to-peer messaging](#understand-peer-to-peer-messaging) technologies with robust end-to-end encryption across all your devices. Peer-to-peer messaging eliminates the need for centralized servers and intermediaries, providing a censorship-resistant alternative to other popular messaging apps.
+Messaging is a critical Status component. The Status app combines [peer-to-peer messaging][peer-to-peer-messaging] technologies with robust end-to-end encryption across all your devices. Peer-to-peer messaging eliminates the need for centralized servers and intermediaries, providing a censorship-resistant alternative to other popular messaging apps.
 
 We've built the Status app to keep your messages and information out of our reach. Other messaging apps offer end-to-end encryption, but their centralized network design allows interpretation of who is talking to whom and where. See how Status compares to other messaging apps in the table below:
 
@@ -33,7 +33,7 @@ We've built the Status app to keep your messages and information out of our reac
 !!! tip
     For answers to general questions about your Status messages, check the [Messages FAQs][messages-faqs] topic.
 
-## Understand peer-to-peer messaging
+## Understand peer-to-peer messaging {: #peer-to-peer-messaging }
 
 Status provides resilient messaging without relying on centralized servers, data centers, or service providers. The Status app uses [Waku :octicons-tab-external-16:][waku]{:target="_blank"}, a peer-to-peer protocol for private, secure, and censorship-resistant communication.
 
@@ -42,7 +42,7 @@ Unlike centralized networks (A), which depend on a central server to relay messa
 ![The peer-to-peer network sends messages to every node and doesn't rely on a central server.](./about-status-messages/125-0-1-dark.png#only-light)
 ![The peer-to-peer network sends messages to every node and doesn't rely on a central server.](./about-status-messages/125-0-1-light.png#only-dark)
 
-## Built-in privacy and security
+## Built-in privacy and security {: #privacy-and-security }
 
 The Status app secures your messages the entire time they are in transit using end-to-end encryption. This industry standard protection uses strong encryption keys and ensures that only you and the recipients can read your messages. No one else (not even Status) can read your conversations or identify you or other participants.
 

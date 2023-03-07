@@ -33,7 +33,7 @@ If you lose your recovery phrase but can still sign in to your Status profile (u
 Follow these steps:
 
 1. Sign in to the Status profile where you lost your recovery phrase.
-1. Verify if your recovery phrase is still [available in the Status app][back-up-your-recovery-phrase]. If it's available, [back up your recovery phrase][back-up-your-recovery-phrase]. Your wallet funds are safe and you don't need to do anything else. If your recovery phrase isn't available, continue with the next step.
+1. Verify if your recovery phrase is still [available in the Status app][back-up-recovery-phrase]. If it's available, [back up your recovery phrase][back-up-recovery-phrase]. Your wallet funds are safe and you don't need to do anything else. If your recovery phrase isn't available, continue with the next step.
 1. [Log out of Status][log-out-of-status] and [create a new Status profile][run-the-status-app-for-the-first-time]. This creates a new key pair and default wallet address.
 1. Sign in to your new Status profile and copy the new wallet address.
 1. [Log out][log-out-of-status] of your new profile and sign in to the profile where you lost your recovery phrase.
@@ -54,7 +54,7 @@ In this situation, if you're still signed in to your Status profile, you may be 
 Follow these steps:
 
 1. Don't log out of Status and don't change to another app. Plug in your device to charge it. Don't restart your device or update the Status app.
-1. Verify if your recovery phrase is still [available in the Status app][back-up-your-recovery-phrase]. If it's available, [back up your recovery phrase][back-up-your-recovery-phrase]. Your wallet funds are safe but you need [create a new Status profile with the recovery phrase][create-or-restore-your-status-profile-using-a-recovery-phrase] because your password is lost. If your recovery phrase is not available, continue with the next step.
+1. Verify if your recovery phrase is still [available in the Status app][back-up-recovery-phrase]. If it's available, [back up your recovery phrase][back-up-recovery-phrase]. Your wallet funds are safe but you need [create a new Status profile with the recovery phrase][create-or-restore-your-status-profile-using-a-recovery-phrase] because your password is lost. If your recovery phrase is not available, continue with the next step.
 1. Using a second device, [create a new Status profile][run-the-status-app-for-the-first-time]. This creates a new key pair and default wallet address.
 1. On the second device, copy the new wallet address.
 1. From the Status profile where you lost your recovery phrase and password, [send all your wallet funds][send-crypto] to the new wallet address.
