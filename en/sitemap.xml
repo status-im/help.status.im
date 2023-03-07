@@ -311,11 +311,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://help.status.im/en/using-status/pin-a-chat-message/</loc>
-         <lastmod>2023-03-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://help.status.im/en/using-status/pin-a-message/</loc>
          <lastmod>2023-03-07</lastmod>
          <changefreq>daily</changefreq>
@@ -346,22 +341,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://help.status.im/en/using-status/send-direct-messages-to-your-contacts/</loc>
-         <lastmod>2023-03-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://help.status.im/en/using-status/send-gifs-and-stickers/</loc>
          <lastmod>2023-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/using-status/share-images-in-status/</loc>
-         <lastmod>2023-03-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://help.status.im/en/using-status/share-your-status-profile/</loc>
          <lastmod>2023-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -437,6 +422,11 @@
     </url>
     <url>
          <loc>https://help.status.im/en/your-profile-and-preferences/set-your-notification-exceptions/</loc>
+         <lastmod>2023-03-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/your-profile-and-preferences/share-your-status-profile/</loc>
          <lastmod>2023-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
