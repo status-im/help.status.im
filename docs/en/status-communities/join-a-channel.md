@@ -8,28 +8,28 @@ hide:
 
 # Join a channel
 
-With Status, you can organize your conversations with your contacts into designated spaces called [channels](channels-your-quick-start-guide.md). Channels bring the right people and information together for a common purpose, like a specific project or topic.
+With Status, you can organize your conversations with community members into designated spaces called [channels](channels-your-quick-start-guide.md). Channels bring the right people and information together for a common purpose, like a specific project or topic.
 
-All members of a [community](about-status-communities.md) can browse and join open channels. For token-gated channels, you must [meet the requirements](understand-token-requirements-in-channels.md) to join the channel. To maintain access to token-gated channels, hold the necessary tokens at all times.
+All members of a [community](about-status-communities.md) can browse and join public channels. For private channels, you must [meet the requirements](understand-token-requirements-in-channels.md) to join the channel. To maintain access to private channels, hold the necessary tokens at all times.
 
-## Join an open channel
+## Join a public channel
 
-Channels that do not show a :mobile-locked-lock: lock icon are open for anyone to join. When you join a community, you automatically have access to these channels.
+All members can join channels that don't have a :mobile-locked-lock: lock icon next to their names. When you join a community, you automatically get access to these channels.
 
 === "Mobile"
 
     1. From the tab bar, tap :mobile-communities: **Communities**.
     1. Tap the community with the channel you want to join.
-    1. Tap on the open channel.
+    1. Tap on the public channel.
 
 === "Desktop"
 
     1. From the navigation sidebar, click the community with the channel you want to join.
-    1. In the channel sidebar, click on the open channel.
+    1. In the channel sidebar, click the public channel.
 
-## Join a token-gated channel
+## Join a private channel
 
-Channels that are token-gated show a :mobile-locked-lock: lock icon. To access these channels, you need to meet and maintain the token requirements.
+Private channels have a :mobile-locked-lock: lock icon next to their names. To access these channels, you need to meet the token requirements. To maintain access, you need to keep holding the required tokens.
 
 === "Mobile"
 
@@ -41,7 +41,7 @@ Channels that are token-gated show a :mobile-locked-lock: lock icon. To access t
 === "Desktop"
 
     1. From the navigation sidebar, click the community with the channel you want to join.
-    1. In the channel sidebar, select the token-gated channel.
+    1. In the channel sidebar, select the private channel.
     1. Verify if you meet the channel requirements. If you don't meet the channel requirements, the **Enter channel** button is greyed out.
     1. Click **Enter channel**.
 
