@@ -43,7 +43,7 @@ All members in a [Status Community][how-to-use-communities-your-quick-start-guid
      All community members can join public channels. When you join a community, you automatically get access to these channels.
 
 === ":mobile-two: Private channel"
-    Private channels have a :mobile-locked-lock: lock icon next to the channel name. To access these channels, you should [meet token requirements][understand-token-requirements-in-channels]. To maintain access, keep holding the required tokens.
+    Private channels have a :mobile-locked-lock: lock icon next to the channel name. To access these channels, you need to [meet the token requirements][understand-token-requirements-in-channels]. To maintain access, keep holding the required tokens.
 
 ## Channel information
 
