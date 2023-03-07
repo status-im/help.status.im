@@ -6,17 +6,17 @@ hide:
   - navigation
 ---
 
-# Configure channel notifications
+# Set up your channel notifications
 
-You can configure notification settings for each channel you are a member of in the Status app, so you receive notifications only from those channels that are relevant to you.
+Any member of an existing channel can set up their notification settings for a channel. In the Status app, you receive notifications only from those channels that are relevant to you.
 
-## Configure notifications
+## Set up notifications
 
 === "Mobile"
 
     1. From the tab bar, tap :mobile-communities: **Communities**.
-    1. Tap the community with the channel you want to configure notifications. 
-    1. Long press the channel you want to configure the notifications.
+    1. Tap the community with the channel you want to set up notifications. 
+    1. Long press the channel you want to set up the notifications.
     1. Select :mobile-notifications-settings: **Notification Settings**.
 
 === "Desktop"

@@ -57,7 +57,6 @@
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [create-a-channel]: /en/status-communities/create-a-channel
 [create-a-status-community]: /en/status-communities/create-a-status-community
-[configure-channel-permissions]: /en/status-communities/configure-channel-permissions
 [configure-your-community-permissions]: /en/status-communities/configure-your-community-permissions
 [delete-a-channel]: /en/status-communities/delete-a-channel
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
