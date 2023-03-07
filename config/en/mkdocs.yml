@@ -148,38 +148,33 @@ nav:
   - Getting started:
     - getting-started/index.md
     - Getting started for new users:
+      - Add a contact in Status: getting-started/add-a-contact-in-status
       - Run the Status app for the first time: getting-started/run-the-status-app-for-the-first-time.md
       - Create or restore your Status profile using a recovery phrase: getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase.md
       - Invite friends to Status: getting-started/invite-friends-to-status
     - Download Status:
       - Download Status for Mac: getting-started/download-status-for-mac.md
-      - Download Status for Windows: getting-started/download-status-for-windows.md
       - Download Status for Linux: getting-started/download-status-for-linux.md
-      - Download Status for mobile: getting-started/download-status-for-mobile.md
   - Using Status:
     - using-status/index.md
-    - Message features and tools:
-      - About Status messages: using-status/about-status-messages.md
-      - Messages FAQs: using-status/messages-faqs.md
-      - Pin messages: using-status/pin-a-message.md
-      - React and reply to messages: using-status/react-and-reply-to-messages
-      - Edit and delete your messages: using-status/edit-and-delete-your-messages.md
-    - Group chats:
-      - Add members to a group chat: using-status/add-members-to-a-group-chat.md
-      - Remove members from a group chat: using-status/remove-members-from-a-group-chat.md
-      - Clear group chat history: using-status/clear-group-chat-history.md
-      - Create a group chat: using-status/create-a-group-chat.md
-      - Delete a group chat: using-status/delete-a-group-chat.md
-      - Join a group chat: using-status/join-a-group-chat.md
-      - Pin a message: using-status/pin-a-message.md
-      - Leave a group chat: using-status/leave-a-group-chat.md
     - Direct messages:
       - Add a contact in Status: getting-started/add-a-contact-in-status.md
       - Share your Status profile: using-status/share-your-status-profile.md
       - Remove a contact from Status: using-status/remove-a-contact-from-status.md
-      - Block someone in Status: using-status/block-someone-in-status.md
-      - Pin messages: using-status/pin-a-message.md
-      - React and reply to messages: using-status/react-and-reply-to-messages.md
+    - Group chats:
+      - Create a group chat: using-status/create-a-group-chat.md
+      - Add members to a group chat: using-status/add-members-to-a-group-chat.md
+      - Remove members from a group chat: using-status/remove-members-from-a-group-chat.md
+      - Clear group chat history: using-status/clear-group-chat-history.md
+      - Delete a group chat: using-status/delete-a-group-chat.md
+      - Join a group chat: using-status/join-a-group-chat.md
+      - Leave a group chat: using-status/leave-a-group-chat.md
+    - Message features and tools:
+      - About Status messages: using-status/about-status-messages.md
+      - Messages FAQs: using-status/messages-faqs.md
+      - Edit and delete your messages: using-status/edit-and-delete-your-messages.md
+      - Pin a message: using-status/pin-a-message.md
+      - React and reply to messages: using-status/react-and-reply-to-messages
     - Format and style messages:
       - Format your messages: using-status/format-your-messages.md
     - Share files and conversations:
@@ -189,7 +184,6 @@ nav:
   - Communities:
     - status-communities/index.md
     - Status Communities:
-      - Join a Status Community: status-communities/join-a-status-community.md
       - About losing access to a community: status-communities/about-losing-access-to-a-community.md
     - Channels:
       - Channels your quick start guide: status-communities/channels-your-quick-start-guide.md
@@ -197,7 +191,7 @@ nav:
       - About losing access to a channel: status-communities/about-losing-access-to-a-channel.md
     - Manage channels:
       - Create a channel: status-communities/create-a-channel.md
-      - Configure channel permission : status-communities/configure-channel-permissions.md
+      - Configure channel permissions: status-communities/configure-channel-permissions.md
       - Delete a channel: status-communities/delete-a-channel.md
     - Create and administer communities:
       - Create a Status Community: status-communities/create-a-status-community.md
@@ -210,18 +204,17 @@ nav:
     - status-wallet/index.md
   - Your profile:
     - your-profile-and-preferences/index.md
-    - Security:
-      - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
-      - Backup and secure your recovery phrase: your-profile-and-preferences/backup-and-secure-your-recovery-phrase
-    - Troubleshooting:
-      - If you lose your Status password or recovery phrase: your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase.md
+    - Manage your profile:
+      - Log out of Status: your-profile-and-preferences/log-out-of-status.md
+      - Share your Status profile: your-profile-and-preferences/share-your-status-profile.md
     - Adjust your notifications:
       - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
-    - Settings:
-      - Log out of Status: your-profile-and-preferences/log-out-of-status.md
     - Handle your contact list and user verification:
       - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status
-    - Settings:
-      - Log out of Status: your-profile-and-preferences/log-out-of-status
+    - Secure your profile:
+      - Backup and secure your recovery phrase: your-profile-and-preferences/backup-and-secure-your-recovery-phrase
+      - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
+    - Troubleshooting:
+      - If you lose your Status password or recovery phrase: your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase.md
   - Network nodes:
     - network-nodes-and-statistics/index.md

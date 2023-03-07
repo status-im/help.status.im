@@ -38,7 +38,7 @@ This table summarizes your options when you have a recovery phrase:
 
 ## Create or restore your profile using a recovery phrase
 
-When you restore your Status profile using a recovery phrase, Status tries to pull your information from the [decentralized Waku network][understand-peer-to-peer-messaging]. Status doesn't use centralized servers and doesn't store your profile information.
+When you restore your Status profile using a recovery phrase, Status tries to pull your information from the [decentralized Waku network][peer-to-peer-messaging]. Status doesn't use centralized servers and doesn't store your profile information.
 
 === "Mobile"
 
@@ -58,7 +58,7 @@ When you restore your Status profile using a recovery phrase, Status tries to pu
     1. On the **profile identifiers** screen, you can learn more about your Status profile or tap **Skip** to finish the profile setup.
     1. Tap **Start using Status**.
 
-    If Status finds an existing profile in the [Waku network][understand-peer-to-peer-messaging], you can use your existing profile or the one you have just created. When you choose your existing profile, [synchronize this profile][add-a-new-device-to-your-status-profile] with your device.
+    If Status finds an existing profile in the [Waku network][peer-to-peer-messaging], you can use your existing profile or the one you have just created. When you choose your existing profile, [synchronize this profile][add-a-new-device-to-your-status-profile] with your device.
 
 === "Desktop"
 

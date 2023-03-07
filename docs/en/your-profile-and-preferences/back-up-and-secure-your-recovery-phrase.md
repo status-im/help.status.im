@@ -13,7 +13,7 @@ Your Status recovery phrase (also known as a seed phrase or backup phrase) consi
 !!! warning "Caution"
     Status can't recover your Status password or recovery phrase for you. It is your responsibility to keep this information safe. Check out [If you lose your Status password or recovery phrase][if-you-lose-your-status-password-or-recovery-phrase] for more information.
 
-## Backup your recovery phrase
+## Back up your recovery phrase {: #back-up-recovery-phrase }
 
 For security reasons, your recovery phrase is permanently removed from your device once you confirm that you have saved it. You won't be able to view your recovery phrase in the Status app after that (the option is grayed out).
 
