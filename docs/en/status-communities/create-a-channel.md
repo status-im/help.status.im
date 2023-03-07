@@ -19,7 +19,7 @@ Community owners can create public and private channels in the Status app. All c
 
     1. From the navigation sidebar, click the community where you want to create a channel.
     1. In the **Community** sidebar, right-click the empty space and select **Create Channel**.
-    1. Type your **Channel name**. Optionally, click :desktop-emojis: to choose an emoji.
+    1. Type your **Channel name**. Optionally, click :desktop-emojis: **Emoji** to choose an emoji.
     1. Optionally, choose a **Channel colour** and add a **Description** of your channel.
     1. Click **Create Channel**.
 
