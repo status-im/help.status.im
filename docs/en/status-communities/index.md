@@ -28,6 +28,7 @@ Create your community, set up private channels or join others' communities and c
 ## Create and administer communities
 
 - [**Create** a Status community][create-a-status-community]
+- [**Import** or **Restore** your Status community][import-or-restore-your-status-community]
 - [**Kick or ban** someone from your community][kick-or-ban-someone-from-your-community]
 - [Set up your **community permissions**][set-up-your-community-permissions]
 - [**Restore** your Status Community][restore-your-status-community]
