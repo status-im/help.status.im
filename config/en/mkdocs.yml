@@ -148,10 +148,10 @@ nav:
   - Getting started:
     - getting-started/index.md
     - Getting started for new users:
-      - Add a contact in Status: getting-started/add-a-contact-in-status
+      - Add a contact in Status: getting-started/add-a-contact-in-status.md
       - Run the Status app for the first time: getting-started/run-the-status-app-for-the-first-time.md
       - Create or restore your Status profile using a recovery phrase: getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase.md
-      - Invite friends to Status: getting-started/invite-friends-to-status
+      - Invite friends to Status: getting-started/invite-friends-to-status.md
     - Download Status:
       - Download Status for Mac: getting-started/download-status-for-mac.md
       - Download Status for Linux: getting-started/download-status-for-linux.md
@@ -159,7 +159,6 @@ nav:
     - using-status/index.md
     - Direct messages:
       - Add a contact in Status: getting-started/add-a-contact-in-status.md
-      - Share your Status profile: using-status/share-your-status-profile.md
       - Remove a contact from Status: using-status/remove-a-contact-from-status.md
     - Group chats:
       - Create a group chat: using-status/create-a-group-chat.md
@@ -174,7 +173,7 @@ nav:
       - Messages FAQs: using-status/messages-faqs.md
       - Edit and delete your messages: using-status/edit-and-delete-your-messages.md
       - Pin a message: using-status/pin-a-message.md
-      - React and reply to messages: using-status/react-and-reply-to-messages
+      - React and reply to messages: using-status/react-and-reply-to-messages.md
     - Format and style messages:
       - Format your messages: using-status/format-your-messages.md
     - Share files and conversations:
@@ -210,9 +209,9 @@ nav:
     - Adjust your notifications:
       - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
     - Handle your contact list and user verification:
-      - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status
+      - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status.md
     - Secure your profile:
-      - Backup and secure your recovery phrase: your-profile-and-preferences/backup-and-secure-your-recovery-phrase
+      - Back up and secure your recovery phrase: your-profile-and-preferences/back-up-and-secure-your-recovery-phrase.md
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
     - Troubleshooting:
       - If you lose your Status password or recovery phrase: your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase.md
