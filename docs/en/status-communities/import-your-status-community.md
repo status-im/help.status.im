@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Restore your community using the community key
+# Import your Status Community
 
  :octicons-tools-24: In progress
 

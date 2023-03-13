@@ -13,7 +13,7 @@ hide:
 
 When you create a [Status Community][about-status-communities], the Status app generates a unique and private key associated with your community. In essence, the community key is a large string of characters protected by your Status password.
 
-The community key provides control over your community's settings, membership and other important aspects of its operation. Use your community key backup to [restore the community][restore-your-community-using-the-community-key] on another device or to [transfer your community's ownership][transfer-your-community-s-ownership] to someone else.
+The community key provides control over your community's settings, membership and other important aspects of its operation. Use your community key backup to [import the community][import-your-status-community] on another device or to [transfer your community's ownership][transfer-your-community-s-ownership] to someone else.
 
 !!! warning "Caution"
     Manually transferring your community from one computer to another by copying the private key is an insecure method of handling a private key. Still, it's currently the only way to do so.</br>

@@ -60,11 +60,11 @@
 [configure-your-community-permissions]: /en/status-communities/configure-your-community-permissions
 [delete-a-channel]: /en/status-communities/delete-a-channel
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
+[import-your-status-community]: /en/status-communities/import-your-status-community
 [invite-people-to-a-status-community]: /en/status-communities/invite-people-to-a-status-community
 [join-a-channel]: /en/status-communities/join-a-channel
 [join-a-status-community]: /en/status-communities/join-a-status-community
 [kick-or-ban-someone-from-your-community]: /en/status-communities/kick-or-ban-someone-from-your-community
-[restore-your-community-using-the-community-key]: /en/status-communities/restore-your-community-using-the-community-key
 [set-up-your-communitys-approval-options]: /en/status-communities/set-up-your-communitys-approval-options
 [transfer-your-community-s-ownership]: /en/status-communities/transfer-your-community-s-ownership
 [understand-throwaway-profiles-in-status-web]: /en/status-communities/understand-throwaway-profiles-in-status-web
