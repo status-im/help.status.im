@@ -13,7 +13,7 @@ hide:
 
 You can import your Status Community onto another device using your community key. You can also use this key and method to [transfer the community's ownership][transfer-your-community-s-ownership].
 
-The community key is a large string of characters stored in the Status app and protected by your Status password. Be careful handling this key. Anyone with access to your community key may become the owner and control its settings, permissions and membership approvals.
+The community key is a large string of characters stored in the Status app and protected by your Status password. Anyone with access to your community key may become the owner and control its settings, permissions and membership approvals.
 
 !!! warning "Caution"
     Manually transferring your community from one computer to another by copying the private key is an insecure method of handling a private key. Still, it's currently the only way to do so.</br>
