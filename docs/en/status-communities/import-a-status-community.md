@@ -6,10 +6,10 @@ hide:
   - navigation
 ---
 
-# Import your Status Community
+# Import a Status Community
 
 !!! note ""
-     Currently, you can only import or restore communities using [Status desktop][download-status].
+    Currently, you can only import or restore communities using [Status desktop][download-status].
 
 You can import your Status Community onto another device using your community key. You can also use this key and method to [transfer the community's ownership][transfer-your-community-s-ownership].
 
