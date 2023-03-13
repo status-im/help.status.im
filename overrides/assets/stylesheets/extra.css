@@ -48,6 +48,10 @@
     border-radius: 15px;
   }
 
+.md-tooltip--inline {
+    font-weight: 400 !important;
+}
+
 .md-tooltip--inline .md-tooltip__inner {
   font-size: 90% !important;
 }
