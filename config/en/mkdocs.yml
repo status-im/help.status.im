@@ -45,8 +45,6 @@ theme:
       code: Roboto Mono
     icon:
       repo: fontawesome/brands/github
-    features:
-      - content.tooltips
 
       # Custom admonitions (callouts) require "Insiders" subscription
       admonition:
@@ -62,6 +60,7 @@ theme:
 
     # Material for MkDocs features
     features:
+      - content.tooltips
       - search.suggest
       - search.highlight
       - navigation.instant
