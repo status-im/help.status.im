@@ -1,1 +1,2 @@
-*[blockchain]: A blockchain is a decentralized digital ledger composed of blocks.
+*[blockchain]: A blockchain is a digital ledger that stores information across a network of computers,  making it difficult to modify or hack. It consists of blocks of data, each connected to the previous one, forming a chain.
+*[DeFi]: DeFi, or Decentralized Finance, refers to a financial system built on blockchain technology that operates independently from traditional banks and financial institutions. This includes crypto loans and deposits, as well as token swapping and liquidity pools.
