@@ -98,6 +98,8 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+      auto_append:
+        - includes/abbreviations.md
   - tables
   - toc:
       toc_depth: 2
