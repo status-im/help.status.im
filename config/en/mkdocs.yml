@@ -25,6 +25,8 @@ theme:
     logo: assets/images/status-logo-320x320.png
     favicon: assets/images/status-logo-32x32.png
     language: en
+    features:
+      - content.tooltips
     palette:
       - media: "(prefers-color-scheme: light)"
         scheme: default

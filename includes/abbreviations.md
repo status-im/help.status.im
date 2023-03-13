@@ -1,0 +1,1 @@
+*[blockchain]: A blockchain is a decentralized digital ledger composed of blocks.
