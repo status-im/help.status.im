@@ -36,6 +36,7 @@
 [join-a-group-chat]: /en/using-status/join-a-group-chat
 [leave-a-group-chat]: /en/using-status/leave-a-group-chat
 [messages-faq]: /en/using-status/messages-faq
+[peer-to-peer-messaging]: /en/using-status/about-status-messages#peer-to-peer-messaging
 [pin-a-message]: /en/using-status/pin-a-message
 [react-and-reply-to-messages]: /en/using-status/react-and-reply-to-messages
 [remove-a-contact-from-status]: /en/using-status/remove-a-contact-from-status
@@ -47,7 +48,6 @@
 [send-gifs-and-stikers]: /en/using-status/send-gifs-and-stickers
 [share-images-in-status]: /en/using-status/share-images-in-status
 [understand-group-chats]: /en/using-status/understand-group-chats
-[peer-to-peer-messaging]: /en/using-status/about-status-messages#peer-to-peer-messaging
 [view-notifications-and-updates]: /en/using-status/view-notifications-and-updates
 
 [about-community-request-approvals]: /en/status-communities/about-community-request-approvals
@@ -55,11 +55,7 @@
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
 [about-status-communities]: /en/status-communities/about-status-communities
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
-<<<<<<< HEAD
 [back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
-=======
-[back-up-your-community-key]: /en/status-communities/back-up-your-community-key
->>>>>>> 122b4cf (311 First draft, waiting for additional info -- Not ready for review.)
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [co-manage-your-status-community]: /en/status-communities/co-manage-your-status-community
 [set-up-channel-permissions]: /en/status-communities/set-up-channel-permissions
