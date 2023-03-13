@@ -13,7 +13,7 @@ hide:
 
 When you create a [Status Community][about-status-communities], the Status app generates a unique and private key associated with your community. In essence, the community key is a large string of characters protected by your Status password.
 
-The community key provides control over your community's settings, membership and other important aspects of its operation. Use your community key backup to [import the community][import-your-status-community] on another device or to [transfer your community's ownership][transfer-your-community-s-ownership] to someone else.
+The community key provides control over your community's settings, membership approvals and other important aspects of its operation. Use your community key backup to [import the community][import-your-status-community] onto another device or to [transfer your community's ownership][transfer-your-community-s-ownership] to someone else.
 
 !!! warning "Caution"
     Manually transferring your community from one computer to another by copying the private key is an insecure method of handling a private key. Still, it's currently the only way to do so.</br>
@@ -23,7 +23,7 @@ The community key provides control over your community's settings, membership an
 
 - As a community owner, you're responsible for backing up your community key and keeping it safe. Status doesn't have access to your community key and can't recover it for you.
 - Anyone with access to your community key may become the owner of the community and control its settings, permissions and membership.
-- If no new messages are posted to your community for 30 days, all the community messages and settings are irretrievably lost, even with the community key.
+- If no new messages are posted to your community for 30 days, all the community messages and settings are irretrievably lost, even if you have the community key.
 
 ## Back up your community key
 
@@ -43,7 +43,7 @@ The community key provides control over your community's settings, membership an
 
 ### Where is my community information backed up?
 
-Your community configuration and messages for up to 30 days are cached in the Waku [peer-to-peer network][peer-to-peer-messaging].
+Your community configuration and messages for up to 30 days are cached in the Waku [peer-to-peer network][peer-to-peer-messaging]. The community key represents proof of ownership but doesn't store the community configuration and messages.
 
 ### How frequently should I back up the community key?
 
