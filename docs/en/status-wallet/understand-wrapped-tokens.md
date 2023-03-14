@@ -19,7 +19,7 @@ Wrapped tokens solve this problem. For example, you can exchange your BTC coin f
 - The value of your wrapped tokens depends on the value of their original coins.
 - Wrapped tokens are backed 1:1 by the asset they depend on. For example, if you own 0.5 WETH, you own the equivalent ETH value.
 - Wrapped tokens are similar to their original coins, but they don't have all the same features those original coins offer.
-- You can use wrapped tokens 
+- You can use wrapped tokens for staking, swapping, governance and in DeFi apps, just as any other token on the Ethereum blockchain.
 
 ## How wrapped tokens work
 
