@@ -54,7 +54,7 @@
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
 [about-status-communities]: /en/status-communities/about-status-communities
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
-[backup-your-community-key]: /en/status-communities/backup-your-community-key
+[back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [co-manage-your-status-community]: /en/status-communities/co-manage-your-status-community
 [configure-channel-permissions]: /en/status-communities/configure-channel-permissions
@@ -68,9 +68,12 @@
 [join-a-status-community]: /en/status-communities/join-a-status-community
 [kick-or-ban-someone-from-your-community]: /en/status-communities/kick-or-ban-someone-from-your-community
 [leave-a-community]: /en/status-communities/leave-a-community
+[manage-your-community-from-different-computers]: /en/status-communities/manage-your-community-from-different-computers
+[set-up-private-and-public-communities]: /en/status-communities/set-up-private-and-public-communities
 [set-up-your-communitys-approval-options]: /en/status-communities/set-up-your-communitys-approval-options
 [set-up-your-community-permissions]: /en/status-communities/set-up-your-community-permissions
-[set-up-private-and-public-communities]: /en/status-communities/set-up-private-and-public-communities
+[restore-your-status-community]: /en/status-communities/restore-your-status-community
+[transfer-your-community-s-ownership]: /en/status-communities/transfer-your-community-s-ownership
 [understand-throwaway-profiles-in-status-web]: /en/status-communities/understand-throwaway-profiles-in-status-web
 [understand-token-requirements-in-channels]: /en/status-communities/understand-token-requirements-in-channels
 [understand-token-requirements-in-communities]: /en/status-communities/understand-token-requirements-in-communities
