@@ -13,6 +13,7 @@
 [download-status-for-linux]: /en/getting-started/download-status-for-linux
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
 [invite-friends-to-status]: /en/getting-started/invite-friends-to-status
+[new-profile]: /en/getting-started/run-the-status-app-for-the-first-time#new-profile
 [run-the-status-app-for-the-first-time]: /en/getting-started/run-the-status-app-for-the-first-time
 [what-is-status]: /en/getting-started/what-is-status
 
