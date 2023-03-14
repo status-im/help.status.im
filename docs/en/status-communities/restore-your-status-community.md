@@ -30,7 +30,7 @@ The community's private key is a large string of characters stored in the Status
 
 ## Restore your community
 
-To restore your Status Community, your need to back up your private community key first. For instructions, read [Back up your community's private key][back-up-your-community-s-private-key]. To transfer your community's ownership, ask the new owner to complete these steps on their computer using their Status profile.
+To restore your Status Community, you need to back up your private community key first. For instructions, read [Back up your community's private key][back-up-your-community-s-private-key]. To transfer your community's ownership, ask the new owner to complete these steps on their computer using their Status profile.
 
 === "Desktop"
 
