@@ -72,12 +72,12 @@
 
 [about-your-wallet-accounts-and-addresses]: /en/status-wallet/about-your-wallet-accounts-and-addresses
 [how-to-use-status-wallet-your-quick-start-guide]: /en/status-wallet/how-to-use-status-wallet-your-quick-start-guide
-[send-crypto]: /en/status-wallet/send-crypto
-
 [how-to-use-wallet-your-quick-start-guide]: /en/status-wallet/how-to-use-wallet-your-quick-start-guide
 [import-your-wallet-funds-into-status-wallet]: /en/status-wallet/import-your-wallet-funds-into-status-wallet
 [receive-crypto]: /en/status-wallet/receive-crypto
+[send-crypto]: /en/status-wallet/send-crypto
 [status-wallet-your-quick-start-guide.md]: /en/status-wallet/status-wallet-your-quick-start-guide
+[swap-crypto]: /en/status-wallet/swap-crypto
 [understand-coins-and-tokens]: /en/status-wallet/understand-coins-and-tokens
 [understand-network-fees]: /en/status-wallet/understand-network-fees
 [understand-wrapped-tokens]: /en/status-wallet/understand-wrapped-tokens
