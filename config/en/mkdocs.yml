@@ -205,6 +205,8 @@ nav:
       - Understand throwaway profiles in Status Web: status-communities/understand-throwaway-profiles-in-status-web.md
   - Wallet:
     - status-wallet/index.md
+    - Handle your crypto:
+      - Understand wrapped tokens: wallet/understand-wrapped-tokens.md
   - Your profile:
     - your-profile-and-preferences/index.md
     - Manage your profile:
