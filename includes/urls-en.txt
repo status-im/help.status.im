@@ -76,7 +76,7 @@
 [import-your-wallet-funds-into-status-wallet]: /en/status-wallet/import-your-wallet-funds-into-status-wallet
 [receive-crypto]: /en/status-wallet/receive-crypto
 [send-crypto]: /en/status-wallet/send-crypto
-[status-wallet-your-quick-start-guide.md]: /en/status-wallet/status-wallet-your-quick-start-guide
+[status-wallet-your-quick-start-guide]: /en/status-wallet/status-wallet-your-quick-start-guide
 [swap-crypto]: /en/status-wallet/swap-crypto
 [understand-coins-and-tokens]: /en/status-wallet/understand-coins-and-tokens
 [understand-network-fees]: /en/status-wallet/understand-network-fees
