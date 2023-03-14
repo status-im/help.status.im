@@ -47,3 +47,24 @@
     text-align: center;
     border-radius: 15px;
   }
+
+.md-tooltip--inline {
+    font-weight: 400 !important;
+}
+
+.md-tooltip--inline .md-tooltip__inner {
+  font-size: .75rem !important;
+}
+
+
+@media only screen and (min-width: 768px) {
+  .md-tooltip {
+    max-width: calc(100vw - 5rem);
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .md-tooltip {
+    max-width: calc(100vw - 30rem);
+  }
+}
