@@ -23,9 +23,6 @@ There are three approaches to inviting someone.
 | Show QR code | Use this option to show the community QR code to people to scan. | Mobile |
 | Share a link | Use this option to share a link via your other social media or copy it and share it manually. | Mobile and desktop |
 
-!!! tip
-    After opening the link or scanning the QR code, people can install Status if they haven't already.
-
 === "Mobile"
 
     1. From the tab bar, tap :mobile-communities: **Communities**.
@@ -49,5 +46,8 @@ There are three approaches to inviting someone.
     |---------|--------|
     | Share to Status contacts | 1. In the **Invite Contacts** pop-up window, type the names of your contacts in the search bar or check the boxes next to the names. <br/> 2. Click **Next**. <br/> 3. Optionally, type an invitation message. <br/> 4. Click **Send Invites**. | 
     | Share a link | 1. In the **Invite Contacts** pop-up window, click :desktop-copy: **Copy** next to the link. <br/> 2. Switch to the app or platform where you want to share the link and paste it there.
+
+!!! tip
+    After opening the link or scanning the QR code, people can install Status if they haven't already.
 
 --8<-- "includes/urls-en.txt"
