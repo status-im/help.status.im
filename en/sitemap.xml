@@ -221,12 +221,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/status-wallet/receive-crypto/</loc>
+         <lastmod>2023-03-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/status-wallet/send-crypto/</loc>
          <lastmod>2023-03-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://help.status.im/en/status-wallet/status-wallet-your-quick-start-guide/</loc>
+         <lastmod>2023-03-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-wallet/swap-crypto/</loc>
+         <lastmod>2023-03-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-wallet/understand-network-fees/</loc>
+         <lastmod>2023-03-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-wallet/understand-wrapped-tokens/</loc>
          <lastmod>2023-03-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
