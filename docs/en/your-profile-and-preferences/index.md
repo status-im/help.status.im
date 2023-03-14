@@ -13,7 +13,7 @@ Set up your Status profile and notifications, customize your settings and fix co
 - [**Log out** of Status][log-out-of-status]
 - [**Share** your Status profile][share-your-status-profile]
 
-## Adjust your notifiations
+## Adjust your notifications
 
 - [**Mute** your notifications][mute-your-notifications]
 
