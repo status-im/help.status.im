@@ -25,7 +25,7 @@ Wrapped tokens solve this problem. For example, you can exchange your BTC coin f
 
 The value of your wrapped tokens depends on the value of their original coins, and each wrapped token is backed 1:1 by their original coin stored in a dedicated vault.
 
-Wrapped tokens are similar to their original coins, but they don't have all the same features those original coins offer. For example, the XMR (Monero) coin's original blockchain guarantees your transaction history and balance are fully private, but WXMR (wrapped XMR) is a regular token on the Ethereum blockchain. That's why your transaction history for XWMR will be public{ title="This means that everyone can view your balance and transaction history. That's the way the majority of blockchains work, including Ethereum, with Monero (XMR) being a notable exception." }, just as for any other Ethereum-based token. Status Wallet is only compatible with the Ethereum blockchain, so you need to use WXMR.
+Wrapped tokens are similar to their original coins, but they don't have all the same features those original coins offer. For example, the XMR (Monero) coin's original blockchain guarantees your transaction history and balance are fully private, but WXMR (wrapped XMR) is a regular token on the Ethereum blockchain. That's why your transaction history for XWMR will be public { title="This means that everyone can view your balance and transaction history. That's the way the majority of blockchains work, including Ethereum, with Monero (XMR) being a notable exception." }, just as for any other Ethereum-based token. Status Wallet is only compatible with the Ethereum blockchain, so you need to use WXMR.
 
 To swap or send your wrapped tokens, you need to have Ether on your Status Wallet balance to pay the network fees. Network fees are charges you pay for transactions to be processed on the blockchain. For more details on network fees, check out [Understand network fees][understand-network-fees].
 
@@ -42,3 +42,5 @@ To get wrapped tokens, you can:
 You can use your Ethereum-based wrapped tokens just like any other tokens on the Ethereum blockchain. For example, you can use them for staking and governance, as well as in DeFi apps, including as loan collaterals.
 
 --8<-- "includes/urls-en.txt"
+
+*[public]: This means that everyone can view your balance and transaction history. That's the way the majority of blockchains work, including Ethereum, with Monero (XMR) being a notable exception.
