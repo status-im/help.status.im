@@ -36,6 +36,7 @@ Create your community, set up private channels or join others' communities and c
 - [**Back up** your community's private key][back-up-your-community-s-private-key]
 - [**Delegate admin functions** to community members][delegate-admin-functions-to-community-members]
 - [**Delete** your Status **Community**][delete-your-status-community]
+- [**Transfer** your community's ownership][transfer-your-community-s-ownership]
 
 ## Status Web Communities
 
