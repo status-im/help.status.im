@@ -8,56 +8,44 @@ hide:
 
 # Sync your profile across devices
 
-!!! note
-     Currently, you can only sync your profile using Status mobile.
+If you use Status on more than one device, sync your profile so that it's up to date on every device and you can switch between them seamlessly. Without syncing, you are likely to configure the same options more than once and receive multiple notifications for one single message.
 
+Currently, you can only set up syncing using the Status mobile app, but you can pair a computer using your phone.
 <!---This feature will be available on Desktop in the next major release, I'll update this article when the new release comes out.--->
-
-If you use Status on more than one device, sync your profile so that it's up to date on every device and you can switch devices seamlessly. Without syncing, you are likely to configure the same options more than once and receive multiple notifications for one single message.
 
 ## What to expect
 
 - You can pair up to three devices.
-- After you pair the devices, the Status data on your devices are in sync automatically until you unpair the devices.
-- Synced data include your message status (read or unread) and configuration for the profile, messaging, notification, wallets and browser.
-- Your messages are not synced, they are maintained using Waku. For details about messages, check the [About Status messages][about-status-messages] article.
+- Once you set up the syncing, your Status profile data on your devices are in sync automatically until you unpair the devices.
+- Your profile data include your message status (read or unread) and configuration for the profile, messaging, notification, wallets and browser.
+- Your messages are not part of your profile data. When you sync a new device, only the messages sent or received in the last 30 days are available on your new device. Messages you receive from that initial sync are always available.
+- If you have multiple profiles, you need to set up syncing for each one of them.
 
-## Sync a new device
+## Sync your profile {: #sync-profile }
 
-If you open Status on a device for the first time, you can log into an existing profile by syncing.
+When setting up syncing, you need to reveal the QR code or sync code on the primarily used device and scan or enter the code on the other device.
 
-In Status on your logged-in device:
+=== "Mobile"
+    
+    ### Step 1: Reveal the code for syncing on your main device
 
-1. Tap your profile photo.
-1. Go to :mobile-syncing: **Syncing** > tap :desktop-plus: > tap :mobile-reveal: **Reveal sync code**.
-1. [Authenticate your profile][Authenticate your profile] using your password, biometrics or keycard.
+    1. From the tab bar, tap :mobile-messages: **Messages**.
+    1. Tap your profile photo and go to :mobile-syncing: **Syncing**. 
+    1. Proceed depending on your situation.
+        - If you have never used Status on it before, tap :desktop-plus: **Add** and then tap :mobile-reveal: **Reveal sync code**. 
+        - If you already use Status on it, find it in the **Not paired with this device** list and tap **Pair** next to it.
+    1. Confirm your profile credentials.
+    
+    ### Step 2: Use the code on the other device
 
-In Status on your new device:
+    | Device to sync | Steps |
+    | ------ | ----- |
+    | Doesn't run Status |  1. Install and open Status.  <br/> 2. Tap **Sign in**. <br/> 3. Tap :mobile-camera: **Enable camera** to scan the QR code shown on your first device or tap **Enter sync code** to enter the sync code. | 
+    | Running Status |  1. From the tab bar, tap :mobile-messages: **Messages**. <br/> 2. Tap your profile photo and go to :mobile-syncing: **Syncing**. <br/> 3. Tap :desktop-plus: **Add**. <br/> 4. Tap :mobile-scan: **Scan or enter sync code**. <br/> 5. Tap :mobile-camera: **Enable camera** to scan the QR code shown on your main device or tap **Enter sync code** to enter the sync code. |
 
-1. Tap **Sign in**.
-1. Tap :mobile-camera: **Enable camera** to scan the QR code shown on your first device or tap **Enter sync code** to enter the sync code.
+## Turn off profile syncing
 
-!!! tip
-    During the syncing process, make sure Status is running on both devices and connected to the internet. You can see the validity period of the QR code and the sync code under the QR code. If the codes are expired, authenticate your profile again and get new codes.
-
-## Sync a logged-in device
-
-If you have logged into an account on multiple devices, you can set up syncing on any of your devices.
-
-In Status on one device:
-
-1. Tap your profile photo.
-1. Tap :mobile-syncing: **Syncing**.
-1. In the **Not paired with this device** list, tap **Pair** next to the device you would like to sync.
-1. [Authenticate your profile][Authenticate your profile] using your password, biometrics or keycard.
-
-In Status on your other device:
-
-1. Tap your profile photo.
-1. Tap :mobile-syncing: **Syncing** > tap :desktop-plus: > tap :mobile-scan: **Scan or enter sync code**.
-1. Tap :mobile-camera: **Enable camera** to scan the QR code shown on your first device or tap **Enter sync code** to enter the sync code.
-
-## Turn off syncing
+Turning off syncing degrades your experience with Status. But you can turn it off when you want to dispose of a device, or you see a device you don't recognize.
 
 1. In Status on one of your devices, tap your profile photo.
 1. Tap :mobile-syncing: **Syncing**.
