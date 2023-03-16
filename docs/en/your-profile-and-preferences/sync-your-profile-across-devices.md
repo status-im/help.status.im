@@ -43,6 +43,9 @@ When setting up syncing, you need to reveal the QR code or sync code on the prim
     | Doesn't run Status |  1. Install and open Status.  <br/> 2. Tap **Sign in**. <br/> 3. Tap :mobile-camera: **Enable camera** to scan the QR code shown on your first device or tap **Enter sync code** to enter the sync code. | 
     | Running Status |  1. From the tab bar, tap :mobile-messages: **Messages**. <br/> 2. Tap your profile photo and go to :mobile-syncing: **Syncing**. <br/> 3. Tap :desktop-plus: **Add**. <br/> 4. Tap :mobile-scan: **Scan or enter sync code**. <br/> 5. Tap :mobile-camera: **Enable camera** to scan the QR code shown on your main device or tap **Enter sync code** to enter the sync code. |
 
+!!! tip
+    During the syncing process, make sure Status is running on both devices and connected to the internet. Under the QR code, you can see the validity time of the QR code and the sync code. If the codes expire, confirm your profile credentials again and get new ones.
+
 ## Turn off profile syncing
 
 Turning off syncing degrades your experience with Status. But you can turn it off when you want to dispose of a device, or you see a device you don't recognize.
