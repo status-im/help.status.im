@@ -6,36 +6,19 @@ hide:
   - navigation
 ---
 
-# About community request approval
+# About community request approval <!--include a plural on request or approval? ASk Emma-->
 
-When a community requires [manual approval][link-here] for membership requests, the community owner reviews each request and makes a decision based on their own criteria.
+When a community requires [manual approval][link-here] for membership requests, the community owner reviews each request and decides based on their criteria. If you're a community owner and want to configure manual approval, read [set up your community's approval options][link to the article].
 
-If you request to [join a community][join-a-status-community] on the Status app that requires manual approval, there are three possible outcomes for your request: accepted, timeout, or not accepted.
+!!! tip
+    In addition to manual approval, community owners may configure [token requirements][] to join their communities. Manual approval and token requirements work independently.
 
-## Accepted 
-
-<!--
-image
--->
-If the community owner approves your request to join, you'll be granted access to the community and able to participate in it. <!--you get access to the community imediatly-->
-
-## Timeout
+Once you send a request to [join a community][join-a-status-community], your request can be accepted or not. To check the status of your request, go to the community screen.
 
 <!--
-image
+image (place an image here that shows both situations)
 -->
 
-Your request will automatically expire if the community owner does not respond within 7 days. <!--maybe explain here that the output message for timeout and not accept is the same -->
-
-!!!note 
-    You can request to join a community as many times as you want. <!--You're free to request to join a community as many times as you'd like.-->
-
-## Not accepted
-
-<!--
-image
--->
-
-If the community owner denies your request to join, you won't be able to access the community.
+If the community owner approves your request to join, you get access to the community immediately.
 
 --8<-- "includes/urls-en.txt"
