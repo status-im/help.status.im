@@ -16,9 +16,9 @@ As a community owner, you can manually approve a request from people who wants t
 ## What to expect
 
 <!--
-    - what happens if I reject a request? will the person receive a notification? 
-    - How can she/he find out about this? 
-    - what happens if I ignore the request?
+    - what happens if I reject a request? will the person receive a notification? I do not receive a notification
+    - How can she/he find out about this? if your request was denied you can find out by going to the community screen. 
+    - what happens if I ignore the request? same!
     - In addition to manual approval, you can configure [token requirements][] to join their communities. Manual approval and token requirements work independently.
 -->
 
