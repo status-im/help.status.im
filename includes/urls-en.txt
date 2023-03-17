@@ -97,6 +97,7 @@
 [create-and-use-additional-status-profiles]: /en/your-profile-and-preferences/create-and-use-additional-status-profiles
 [create-or-restore-your-status-profile-using-keycard]: /en/your-profile-and-preferences/create-or-restore-your-status-profile-using-keycard
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
+[delete-your-status-profile]: /en/your-profile-and-preferences/delete-your-status-profile
 [faq-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/faq-status-keys-and-recovery-phrase
 [if-you-lose-your-status-password-or-recovery-phrase]: /en/your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase
 [log-out-of-status]: /en/your-profile-and-preferences/log-out-of-status

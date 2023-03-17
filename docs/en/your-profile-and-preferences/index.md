@@ -13,6 +13,7 @@ Set up your Status profile and notifications, customize your settings and fix co
 - [**Share** your Status profile][share-your-status-profile]
 - [Create and use **additional Status profiles**][create-and-use-additional-status-profiles]
 - [**Sync** your profile across devices][sync-your-profile-across-devices]
+- [**Delete** your Status profile][delete-your-status-profile]
 
 ## Adjust your notifications
 
