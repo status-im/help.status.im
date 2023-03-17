@@ -12,6 +12,8 @@ Status Wallet is an open-source non-custodial wallet that helps you store, send,
 
 ## Send and receive crypto
 
+- [**Send** crypto **to your Status Wallet**][send-crypto-to-your-status-wallet]
+
 ## Buy crypto
 
 ## Handle your crypto
