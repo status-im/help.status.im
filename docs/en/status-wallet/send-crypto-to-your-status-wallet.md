@@ -12,7 +12,7 @@ To transfer your crypto to your Status Wallet from an exchange or another wallet
 
 For more details, check out [Receive crypto][receive-crypto].
 
-!!! note ""
+!!! note
      If you want to send crypto to someone else from your Status Wallet, check out [Send crypto to someone][send-crypto].
 
 --8<-- "includes/urls-en.txt"
