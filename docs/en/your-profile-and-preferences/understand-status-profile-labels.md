@@ -20,14 +20,37 @@ For example, if you're managing a corporate community and someone requests to jo
 
 ## The basics
 
-- You can mark other users' Status profiles with two labels: trusted or untrusted.
-- Only you can set and see these labels in your Status contacts' profiles. The person you mark doesn't see the label and isn't notified about your decision.
+- You can mark your contacts' Status profiles with two labels: trusted or untrusted.
+- Only you can set and see these labels on your Status contacts' profiles. The person you mark doesn't see the label and isn't notified about your decision.
 - These labels have no impact on your contact's status. For example, if you mark a contact as untrusted, this doesn't remove them from your contact list.
 
 ## Status profile labels
 
-By default, those you add to your contacts get the :mobile-contact: Contact label. If you're in doubt about your Status contact's identity, you can [send them an identity verification request][verify-your-contacts-identity]. In this request, you ask a question only this person can know the answer to.
+If you're in doubt about your Status contact's identity, you can [send them an identity verification request][verify-your-contacts-identity]. In this request, you ask a question only this person can know the answer to.
 
 Depending on their response, you then mark them as trusted or untrusted. Once you do, a label appears next to their profile name: :mobile-trusted: Trusted or :mobile-untrusted: Untrusted.
+
+![There are several types of labels and label combinations you can use to mark someone else's profile.](./understand-status-profile-labels/393-0-1-light.png#only-light)
+![There are several types of labels and label combinations you can use to mark someone else's profile.](./understand-status-profile-labels/393-0-1-dark.png#only-dark)
+
+### :mobile-contact: Contact
+
+By default, those you add to your contacts get this label.
+
+### :mobile-trusted: Trusted
+
+If you mark your contact as trusted, this label appears on their profile.
+
+### :mobile-untrusted: Untrusted
+
+If you mark your contact as untrusted and remove them from your contact list, this label appears on their profile.
+
+### :mobile-untrusted::mobile-contact: Untrusted contact
+
+If you mark your contact as untrusted and keep them on your contact list, these two labels appear on their profile.
+
+### :mobile-blocked: Blocked
+
+Once you block someone, this label appears on their profile.
 
 --8<-- "includes/urls-en.txt"
