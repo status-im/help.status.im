@@ -471,6 +471,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/your-profile-and-preferences/understand-status-profile-labels/</loc>
+         <lastmod>2023-03-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase/</loc>
          <lastmod>2023-03-20</lastmod>
          <changefreq>daily</changefreq>
