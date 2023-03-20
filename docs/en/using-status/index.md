@@ -6,15 +6,12 @@ hide:
 
 # Using Status
 
-## Message features and tools
-
-- [About Status **messages**][about-status-messages]
-- [**Pin** a message][pin-a-message]
-- [**React** and **reply** to messages][react-and-reply-to-messages]
+Send messages and files, create group chats or explore decentralized apps with the Status Web3 browser.
 
 ## Direct messages
 
 - [**Add a contact** in Status][add-a-contact-in-status]
+- [**Share** your Status **profile**][share-your-status-profile]
 - [**Remove a contact** from Status][remove-a-contact-from-status]
 
 ## Group chats
@@ -27,6 +24,13 @@ hide:
 - [**Join** a group chat][join-a-group-chat]
 - [**Leave** a group chat][leave-a-group-chat]
 
+## Message features and tools
+
+- [About Status **messages**][about-status-messages]
+- [Messages **FAQs**][messages-faqs]
+- [**Edit** and **delete** your messages][edit-and-delete-your-messages]
+- [**Pin** a message][pin-a-message]
+
 ## Format and style messages
 
 - [**Format** your messages][format-your-messages]
@@ -35,6 +39,7 @@ hide:
 
 - [**Share** images in Status][share-images-in-status]
 - [Send **GIFs and Stickers**][send-gifs-and-stikers]
+- [**Send** an **audio** message][send-an-audio-message]
 
 ## Status Web3 browser
 

@@ -16,7 +16,7 @@ You can remove any contact from your Status contact list. In Status, you need to
 - After you remove a contact, your direct messages with them remain. To delete these messages, [delete the chat][delete-a-chat-with-someone].
 - A user not on your contact list can still see your profile and send you a contact request. To prevent this, you can [block the user][block-someone-in-status].
 
-!!! info
+!!! note
     Status doesn't access or use your phone's contact list. When you remove a contact from Status who is also on your phone's contact list, that person stays on your list.
 
 ## Remove a contact

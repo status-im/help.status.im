@@ -28,7 +28,7 @@ You can turn off and on your notifications for the entire app or specific commun
     1. In the **Settings** sidebar, click :desktop-notification: **Notifications and Sounds**.
     1. Turn **Notifications** off.
 
-!!! info
+!!! note
     Muting all the Status app notifications mutes ephemeral notifications (the ones appearing on your screen and disappearing shortly after).
 
 ## Mute specific notifications
@@ -37,7 +37,7 @@ You still see a badge if someone mentions you in a muted channel, community, gro
 
 === "Mobile"
 
-    1. From the tab bar, tap :mobile-communities: **Communities** to mute community and channel or tap :mobile-messages: **Messages** to mute a group chat and DM. 
+    1. From the tab bar, tap :mobile-communities: **Communities** to mute a community or channel, or tap :mobile-messages: **Messages** to mute a group chat or DM. 
     1. Long press the community, channel, group chat or DM you want to mute.
     1. Tap :mobile-mute: **Mute**.
     1. Select the length of time you'd like to mute your notifications.

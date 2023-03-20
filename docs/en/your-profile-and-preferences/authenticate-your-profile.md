@@ -1,16 +1,16 @@
 ---
-id: 383
+id: 
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# Share your Status profile
+# Authenticate your profile
 
  :octicons-tools-24: In progress
 
-!!! note ""
+!!! note
      We're working on this content.
 
 --8<-- "includes/urls-en.txt"

@@ -11,18 +11,18 @@ hide:
 !!! note ""
     Currently, you can only create a channel using Status desktop.
 
-Community owners can create public and private channels in the Status app. Public channels are available for all community members to browse and join. A private channel is only available to members who meet the [channel requirements][understand-token-requirements-in-channels]. As a community owner, configure specific permissions to create a private channel.
+Community owners can create public and private channels in the Status app. All community members can browse and join public channels. To join private channels, members must meet the [channel requirements][understand-token-requirements-in-channels]. As a community owner, you can set up specific permissions to create a private channel.
 
 ## Create a channel
 
 === "Desktop"
 
     1. From the navigation sidebar, click the community where you want to create a channel.
-    1. In the **Community** sidebar, right-click and select **Create Channel**.
-    1. Type your **Channel name**. Optionally, click :desktop-emojis: to choose an emoji.
+    1. In the **Community** sidebar, right-click the empty space and select **Create Channel**.
+    1. Type your **Channel name**. Optionally, click :desktop-emojis: **Emoji** to choose an emoji.
     1. Optionally, choose a **Channel colour** and add a **Description** of your channel.
     1. Click **Create Channel**.
 
-If you need to configure additional permission, click **Add permissions** and check out [configure channel permissions][configure-channel-permissions]. For example, if you want to create a read-only announcement channel or a channel that members can view and post.
+If you need to set up additional permissions, click **Add permissions** and check out [configure channel permissions][configure-channel-permissions]. For example, you can create a read-only announcement channel or a channel all members can view and post in.
 
 --8<-- "includes/urls-en.txt"

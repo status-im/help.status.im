@@ -19,31 +19,31 @@ As a community owner, you can use channels to break down a large community into 
 [image](image)
 -->
 
-=== ":one: Community information"
-    Information about the community, such as the number of members, active users, or the main community topics.
+=== ":mobile-one: Community information"
+    Information about the community, such as the number of members, active users or the main community topics.
 
-=== ":two: Channel categories"
-    Community owners can group related channels into [categories][create-a-channel]. This is especially helpful for communities with a large number of channels.
+=== ":mobile-two: Channel categories"
+    Community owners can group related channels into [categories][create-a-channel]. This is especially useful for communities with a lot of channels.
 
-=== ":three: Channels list"
-    The list of available channels in a community. [Private channels][configure-channel-permissions] show a :mobile-locked-lock: lock icon next to the channel name.
+=== ":mobile-three: Channels list"
+    The list of available channels in a community. [Private channels][configure-channel-permissions] have a :mobile-locked-lock: lock icon next to the channel name.
 
 ## Public and private channels
 
-All members in a [Status Community][how-to-use-communities-your-quick-start-guide] can browse and join public channels. For private channels, you must [meet the token requirements][understand-token-requirements-in-channels] to join the channel. To maintain access to private channels, hold the necessary tokens at all times.
+All members in a [Status Community][how-to-use-communities-your-quick-start-guide] can browse and join public channels. For private channels, you must [meet the token requirements][understand-token-requirements-in-channels] to join the channel. To maintain access to private channels, hold the required tokens at all times.
 
 !!! note
-    Messages in a [private community][how-to-use-communities-your-quick-start-guide] or private channel are always end-to-end encrypted.
+    Messages in [private communities][how-to-use-communities-your-quick-start-guide] and private channels are always end-to-end encrypted.
 
 <!--
 ![image](image)
 -->
 
-=== ":one: Public channel"
-     Public channels are available for anyone to join. When you join a community, you automatically get access to these channels.
+=== ":mobile-one: Public channel"
+     All community members can join public channels. When you join a community, you automatically get access to these channels.
 
-=== ":two: Private channel"
-    Private channels show a :mobile-locked-lock: lock icon next to the channel name. To access these channels, you must [meet and maintain the token requirements][understand-token-requirements-in-channels]. 
+=== ":mobile-two: Private channel"
+    Private channels have a :mobile-locked-lock: lock icon next to the channel name. To access these channels, you need to [meet the token requirements][understand-token-requirements-in-channels]. To maintain access, keep holding the required tokens.
 
 ## Channel information
 
@@ -51,17 +51,17 @@ All members in a [Status Community][how-to-use-communities-your-quick-start-guid
 ![image](image)
 -->
 
-=== ":one: Channel information" 
-    You can see the channel name and permissions here. Private channels show a :mobile-locked-lock: lock icon. From this area, you can select **more options** :mobile-more-options: to access additional channel information, such as channel members, permissions or notifications.
+=== ":mobile-one: Channel information"
+    You can see the channel name and permissions here. Private channels have a :mobile-locked-lock: lock icon. From this area, you can select :mobile-more-options: **More options** to view more details about the channel, such as channel members, permissions or notifications.
 
-=== ":two: Pinned message area"
-    Channel members can [pin messages][pin-a-message] to this area, like announcements, FAQs or channel rules.
+=== ":mobile-two: Pinned message area"
+    Channel members can [pin messages][pin-a-message] to this area, such as announcements, FAQs or channel rules.
 
-=== ":three: Channel feed"
+=== ":mobile-three: Channel feed"
     This area shows the channel activity, including messages, photos, reactions or links.
 
-=== ":four: Message field"
-    Includes the available messaging options to help you communicate and connect with people, like [images][share-images-in-status], [text][send-and-read-messages], emojis or [audio messages][send-an-audio-message].
+=== ":mobile-four: Message field"
+    From here, you can send messages to channel members with [text][send-and-read-messages], [images][share-images-in-status] or emojis, as well as [audio messages][send-an-audio-message].
 
 ## The #general channel
 
