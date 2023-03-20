@@ -481,6 +481,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/your-profile-and-preferences/verify-your-contacts-identity/</loc>
+         <lastmod>2023-03-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/your-profile-and-preferences/your-status-notification-guide/</loc>
          <lastmod>2023-03-20</lastmod>
          <changefreq>daily</changefreq>
