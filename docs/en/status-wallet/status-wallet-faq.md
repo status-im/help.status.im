@@ -19,7 +19,7 @@ Yes. The source code of both [Status Mobile][status-mobile-github] and [Status D
 Yes, Status Wallet is fully self-custodial. This means no one but you can access your recovery phrase, as Status Wallet doesn't store it anywhere.
 
 !!! note
-    Anyone who has your backup phrase can use it to access your wallet and manage your crypto. 
+    Anyone who has your recovery phrase can use it to access your wallet and manage your crypto. 
 
 ## Assets
 
