@@ -22,7 +22,7 @@ The community's private key provides control over your community's settings, mem
 ## What to expect
 
 - As a community owner, you're responsible for backing up your community's private key and keeping it safe. Status doesn't have access to this key and can't recover it for you.
-- Anyone with access to your community's private key may become the owner of the community and control its settings, permissions and membership.
+- Anyone with access to your community's private key may become the owner of the community and control its settings, permissions and membership approvals.
 - If no new messages are posted to your community for 30 days or more, all the community messages and settings are irretrievably lost, even if you have the community's private key.
 
 ## Back up your community key
