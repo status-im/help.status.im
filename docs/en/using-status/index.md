@@ -8,6 +8,13 @@ hide:
 
 Send messages and files, create group chats or explore decentralized apps with the Status Web3 browser.
 
+## Message features and tools
+
+- [About Status **messages**][about-status-messages]
+- [Messages **FAQs**][messages-faqs]
+- [**Edit** and **delete** your messages][edit-and-delete-your-messages]
+- [**Pin** a message][pin-a-message]
+
 ## Direct messages
 
 - [**Add a contact** in Status][add-a-contact-in-status]
@@ -23,13 +30,6 @@ Send messages and files, create group chats or explore decentralized apps with t
 - [**Delete** a group chat][delete-a-group-chat]
 - [**Join** a group chat][join-a-group-chat]
 - [**Leave** a group chat][leave-a-group-chat]
-
-## Message features and tools
-
-- [About Status **messages**][about-status-messages]
-- [Messages **FAQs**][messages-faqs]
-- [**Edit** and **delete** your messages][edit-and-delete-your-messages]
-- [**Pin** a message][pin-a-message]
 
 ## Format and style messages
 
