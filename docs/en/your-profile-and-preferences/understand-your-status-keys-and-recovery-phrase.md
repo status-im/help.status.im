@@ -27,7 +27,7 @@ The Status app uses your private key to sign and encrypt your messages, making s
 !!! note
     You can regenerate your private key on a different device using your [recovery phrase](#about-your-recovery-phrase).
 
-Your public key is paired with your private key and identifies your Status profile and [Status wallet][how-to-use-status-wallet-your-quick-start-guide] address. For this reason, you can freely share your public key without worry. While anyone can send you a message or a crypto transaction to your public key, you need your private key to confirm you're the intended recipient.
+Your public key is paired with your private key and identifies your Status profile and [Status wallet][status-wallet-your-quick-start-guide] address. For this reason, you can freely share your public key without worry. While anyone can send you a message or a crypto transaction to your public key, you need your private key to confirm you're the intended recipient.
 
 Public and private keys function similarly to doors and keys in the physical world. Door keys are private and personal, but the door is public and visible to everyone.
 

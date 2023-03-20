@@ -205,6 +205,8 @@ nav:
       - Understand throwaway profiles in Status Web: status-communities/understand-throwaway-profiles-in-status-web.md
   - Wallet:
     - status-wallet/index.md
+    - Getting started:
+      - Status Wallet FAQ: wallet/status-wallet-faq.md
     - Send and receive crypto:
       - Send crypto to your Status Wallet: wallet/send-crypto-to-your-status-wallet.md
     - Handle your crypto:

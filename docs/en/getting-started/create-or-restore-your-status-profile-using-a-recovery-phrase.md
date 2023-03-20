@@ -9,7 +9,7 @@ hide:
 
 # Create or restore your Status profile using a recovery phrase
 
-You can link your existing Ethereum address to a new Status profile. For instance, if you already have a [non-custodial Ethereum wallet][how-to-use-wallet-your-quick-start-guide] such as Metamask or Trust Wallet, you already have an Ethereum address and a [recovery phrase][understand-your-status-keys-and-recovery-phrase].
+You can link your existing Ethereum address to a new Status profile. For instance, if you already have a [non-custodial Ethereum wallet][status-wallet-your-quick-start-guide] such as Metamask or Trust Wallet, you already have an Ethereum address and a [recovery phrase][understand-your-status-keys-and-recovery-phrase].
 
 If you already have a Status account and used your profile in the past 30 days, you can restore it with the profile's recovery phrase.
 
