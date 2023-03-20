@@ -26,7 +26,7 @@ Currently, you can only set up syncing using the Status mobile app, but you can 
 When setting up syncing, you need to reveal the QR code or sync code on the primarily used device and scan or enter the code on the other device.
 
 === "Mobile"
-    
+
     ### Step 1: Reveal the code for syncing on your main device
 
     1. From the tab bar, tap :mobile-messages: **Messages**.
@@ -49,6 +49,8 @@ When setting up syncing, you need to reveal the QR code or sync code on the prim
 ## Turn off profile syncing
 
 Turning off syncing degrades your experience with Status. But you can turn it off when you want to dispose of a device, or you see a device you don't recognize.
+
+=== "Mobile"
 
 1. In Status on one of your devices, tap your profile photo.
 1. Tap :mobile-syncing: **Syncing**.
