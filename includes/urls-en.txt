@@ -81,6 +81,7 @@
 [status-wallet-your-quick-start-guide]: /en/status-wallet/status-wallet-your-quick-start-guide
 [swap-crypto]: /en/status-wallet/swap-crypto
 [understand-coins-and-tokens]: /en/status-wallet/understand-coins-and-tokens
+[understand-l2s-and-sidechains]: /en/status-wallet/understand-l2s-and-sidechains
 [understand-network-fees]: /en/status-wallet/understand-network-fees
 [understand-wrapped-tokens]: /en/status-wallet/understand-wrapped-tokens
 [withdraw-crypto-to-your-bank-account]: /en/status-wallet/withdraw-crypto-to-your-bank-account
