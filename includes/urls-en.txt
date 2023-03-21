@@ -56,6 +56,8 @@
 [about-status-communities]: /en/status-communities/about-status-communities
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
 [back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
+[about-tokens-collectibles-and-ens-names]: /en/status-communities/about-tokens-collectibles-and-ens-names
+[backup-your-community-key]: /en/status-communities/backup-your-community-key
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [co-manage-your-status-community]: /en/status-communities/co-manage-your-status-community
 [set-up-channel-permissions]: /en/status-communities/set-up-channel-permissions
