@@ -48,6 +48,7 @@
 [peer-to-peer-messaging]: /en/using-status/about-status-messages#peer-to-peer-messaging
 [view-notifications-and-updates]: /en/using-status/view-notifications-and-updates
 
+[about-community-request-approvals]: /en/status-communities/about-community-request-approvals
 [about-losing-access-to-a-channel]: /en/status-communities/about-losing-access-to-a-channel
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
 [about-status-communities]: /en/status-communities/about-status-communities
@@ -67,6 +68,7 @@
 [set-up-your-communitys-approval-options]: /en/status-communities/set-up-your-communitys-approval-options
 [understand-throwaway-profiles-in-status-web]: /en/status-communities/understand-throwaway-profiles-in-status-web
 [understand-token-requirements-in-channels]: /en/status-communities/understand-token-requirements-in-channels
+[understand-token-requirements-in-communities]: /en/status-communities/understand-token-requirements-in-communities
 [use-a-throwaway-profile-in-status-web]: /en/status-communities/use-a-throwaway-profile-in-status-web
 [what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
 

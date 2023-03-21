@@ -10,6 +10,7 @@ Create your community, set up private channels or join others' communities and c
 
 ## Status Communities
 
+- [About community **request approvals**][about-community-request-approvals]
 - [About **losing access** to a community][about-losing-access-to-a-community]
 - [**Invite** people to a Status community][invite-people-to-a-status-community]
 

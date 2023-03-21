@@ -186,6 +186,7 @@ nav:
   - Communities:
     - status-communities/index.md
     - Status Communities:
+      - About community request approvals: status-communities/about-community-request-approvals.md
       - About losing access to a community: status-communities/about-losing-access-to-a-community.md
       - Invite people to a Status community: status-communities/invite-people-to-a-status-community.md
     - Channels:
