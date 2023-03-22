@@ -32,8 +32,8 @@ When setting up syncing, you need to reveal the QR code or sync code on the prim
     1. From the tab bar, tap :mobile-messages: **Messages**.
     1. Tap your profile photo and go to :mobile-syncing: **Syncing**. 
     1. Proceed depending on your situation.
-        - If you have never used Status on it before, tap :desktop-plus: **Add** and then tap :mobile-reveal: **Reveal sync code**. 
-        - If you already use Status on it, find it in the **Not paired with this device** list and tap **Pair** next to it.
+        - If you have never used Status on your other device before, tap :desktop-plus: **Add** and then tap :mobile-reveal: **Reveal sync code**. 
+        - If you already use Status on your other device, find it in the **Not paired with this device** list and tap **Pair** next to it.
     1. Confirm your profile credentials.
     
     ### Step 2: Use the code on the other device
