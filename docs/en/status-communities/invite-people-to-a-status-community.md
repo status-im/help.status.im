@@ -33,7 +33,7 @@ There are three approaches to inviting someone.
     |---------|--------|
     | Share to Status contacts | 1. Select :mobile-add-user: **Invite people from contacts list**. <br/> 2. Check the boxes next to the contacts you want to share with. <br/> 3. Tap **Invite users**. |
     | Show QR code | 1. Select :moblie-qr-code: **Show QR code**. <br/> 2. Show or send the QR code to people you want to invite. |
-    | Share a link | 1. Select :mobile-share: **Share community**. <br/> 2. To share the link via another app on your phone, tap a profile photo or an app icon. To copy the link, tap **Copy**. |
+    | Share a link | 1. Select :mobile-share: **Share community**. <br/> 2. To share the link via another app on your phone, tap a profile picture or an app icon. To copy the link, tap **Copy**. |
 
 === "Desktop"
 
