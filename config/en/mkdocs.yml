@@ -219,8 +219,8 @@ nav:
     - Adjust your notifications:
       - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
     - Handle your contact list and user verification:
-      - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status
-      - Understand Status profile labels: your-profile-and-preferences/understand-status-profile-labels
+      - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status.md
+      - Understand Status profile labels: your-profile-and-preferences/understand-status-profile-labels.md
     - Secure your profile:
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
     - Troubleshooting:
