@@ -83,6 +83,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.keys
   - pymdownx.tilde
+  - pymdownx.caret
   - pymdownx.smartsymbols
   - pymdownx.superfences
   - pymdownx.tabbed:
@@ -199,6 +200,7 @@ nav:
     - Create and administer communities:
       - Create a Status Community: status-communities/create-a-status-community.md
       - Customize your community: status-communities/customize-your-community.md
+      - Set up your community permissions: status-communities/set-up-your-community-permissions.md
       - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
     - Status Web Communities:
       - Use a throwaway profile in Status Web: status-communities/use-a-throwaway-profile-in-status-web.md
