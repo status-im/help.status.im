@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Messages FAQs
+# Messages FAQ
 
 Messaging others is an important part of your Status experience, along with [Status Communities][how-to-use-communities-your-quick-start-guide], the [Status Wallet][status-wallet-your-quick-start-guide] and the [Status Web3 browser][how-to-use-status-browser-your-quick-start-guide]. In Status, you can message others and chat in communities privately and securely.
 

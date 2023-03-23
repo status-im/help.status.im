@@ -33,7 +33,7 @@
 [how-to-use-status-browser-your-quick-start-guide]: /en/using-status/how-to-use-status-browser-your-quick-start-guide
 [join-a-group-chat]: /en/using-status/join-a-group-chat
 [leave-a-group-chat]: /en/using-status/leave-a-group-chat
-[messages-faqs]: /en/using-status/messages-faqs
+[messages-faq]: /en/using-status/messages-faq
 [pin-a-message]: /en/using-status/pin-a-message
 [react-and-reply-to-messages]: /en/using-status/react-and-reply-to-messages
 [remove-a-contact-from-status]: /en/using-status/remove-a-contact-from-status

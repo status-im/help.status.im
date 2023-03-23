@@ -27,7 +27,7 @@ Send messages and files, create group chats or explore decentralized apps with t
 ## Message features and tools
 
 - [About Status **messages**][about-status-messages]
-- [Messages **FAQs**][messages-faqs]
+- [Messages **FAQ**][messages-faqs]
 - [**Edit** and **delete** your messages][edit-and-delete-your-messages]
 - [**Pin** a message][pin-a-message]
 

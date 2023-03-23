@@ -55,7 +55,7 @@ All members in a [Status Community][how-to-use-communities-your-quick-start-guid
     You can see the channel name and permissions here. Private channels have a :mobile-locked-lock: lock icon. From this area, you can select :mobile-more-options: **More options** to view more details about the channel, such as channel members, permissions or notifications.
 
 === ":mobile-two: Pinned message area"
-    Channel members can [pin messages][pin-a-message] to this area, such as announcements, FAQs or channel rules.
+    Channel members can [pin messages][pin-a-message] to this area, such as announcements, FAQ or channel rules.
 
 === ":mobile-three: Channel feed"
     This area shows the channel activity, including messages, photos, reactions or links.

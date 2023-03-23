@@ -8,7 +8,7 @@ hide:
 
 # Pin a message
 
-You can pin important information in group chats so that it doesn't get lost in the message history. For example, you can pin your chat rules, event announcements and FAQs.
+You can pin important information in group chats so that it doesn't get lost in the message history. For example, you can pin your chat rules, event announcements and FAQ.
 
 Chat members can pin both their own and other members' messages. Message pinning is available in direct messages (DMs), group chats and community channels.
 

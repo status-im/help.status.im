@@ -31,7 +31,7 @@ We've built the Status app to keep your messages and information out of our reac
 - Status cannot identify you or other participants in the conversation.
 
 !!! tip
-    For answers to general questions about your Status messages, check the [Messages FAQs][messages-faqs] topic.
+    For answers to general questions about your Status messages, check the [Messages FAQ][messages-faq] topic.
 
 ## Understand peer-to-peer messaging {: #peer-to-peer-messaging }
 
