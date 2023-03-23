@@ -13,6 +13,7 @@
 [download-status-for-linux]: /en/getting-started/download-status-for-linux
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
 [invite-friends-to-status]: /en/getting-started/invite-friends-to-status
+[new-profile]: /en/getting-started/run-the-status-app-for-the-first-time#new-profile
 [run-the-status-app-for-the-first-time]: /en/getting-started/run-the-status-app-for-the-first-time
 [what-is-status]: /en/getting-started/what-is-status
 
@@ -107,6 +108,7 @@
 [sync-your-profile-across-devices]: /en/your-profile-and-preferences/sync-your-profile-across-devices
 [understand-status-profile-labels]: /en/your-profile-and-preferences/understand-status-profile-labels
 [understand-your-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase
+[verify-your-contacts-identity]: /en/your-profile-and-preferences/verify-your-contacts-identity.md
 [your-chatkey-emojihash-and-identicon-ring]: /en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring
 [your-status-notifications-guide]: /en/your-profile-and-preferences/your-status-notifications-guide
 

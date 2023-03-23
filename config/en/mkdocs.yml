@@ -103,6 +103,7 @@ markdown_extensions:
   - toc:
       toc_depth: 2
       permalink: true
+      title: Contents
 
 # Theme customization
 extra_css:
@@ -216,12 +217,13 @@ nav:
     - Manage your profile:
       - Log out of Status: your-profile-and-preferences/log-out-of-status.md 
       - Share your Status profile: your-profile-and-preferences/share-your-status-profile.md
+      - Create and use additional Status profiles: your-profile-and-preferences/create-and-use-additional-status-profiles.md
       - Sync your profile across devices: your-profile-and-preferences/sync-your-profile-across-devices.md
     - Adjust your notifications:
       - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
     - Handle your contact list and user verification:
-      - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status
-      - Understand Status profile labels: your-profile-and-preferences/understand-status-profile-labels
+      - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status.md
+      - Understand Status profile labels: your-profile-and-preferences/understand-status-profile-labels.md
     - Secure your profile:
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
     - Troubleshooting:
