@@ -12,7 +12,7 @@ hide:
 
 ### Is Status Wallet open source?
 
-Yes. The source code of both [Status Mobile][status-mobile-github] and [Status Desktop][status-desktop-github] is fully available on GitHub, including the Wallet's source code.
+Yes. The source code of [Status Mobile][status-mobile-github], [Status Desktop][status-desktop-github] and [Status Web][status-web] is fully available on GitHub, including the Wallet's source code.
 
 ### Is Status Wallet self-custodial?
 
@@ -21,11 +21,17 @@ Yes, Status Wallet is fully self-custodial. This means that Status Wallet doesn'
 !!! note
     Anyone who has your recovery phrase can use it to access your wallet and manage your crypto. For tips on how to protect your recovery phrase, check out [Back up and secure your recovery phrase][back-up-and-secure-your-recovery-phrase].
 
+### Is Status Wallet secure?
+
+Yes. Status Wallet is open source, so anyone can review the source code to make sure it's secure. Your keys are encrypted with your Status password which only you should know. All crypto transactions need to be confirmed on your device before they are send. Finally, Status Wallet is self-custodial, which means Status doesn't have access to your recovery phrase.
+
+Since you're the only person who can access your recovery phrase, the safety of your crypto is mostly in your hands. Think of Status Wallet as a personal safe you keep at home. While this safe has a secure lock and a bullet-proof body, anyone you share the code with can open the safe. Unless you forget to lock the door or tell someone your code, the safe can protect your money. In Status Wallet, your recovery phrase is the safe code you should never share with anyone.
+
 ## Assets
 
 ### What assets does Status Wallet support?
 
-Status Wallet can only be used for Ethereum-based assets. This includes Ether (ETH) and ERC-20 tokens, as well as assets from Ethereum layer-2 blockchains (L2s) and sidechains. For more details on L2s and sidechains, check out [Understand L2s and sidechains][understand-l2s-and-sidechains].
+You can only use Status Wallet for Ethereum-based assets. This includes Ether (ETH) and ERC-20 tokens, as well as assets from Ethereum layer-2 blockchains (L2s) and sidechains. For more details on L2s and sidechains, check out [Understand L2s and sidechains][understand-l2s-and-sidechains].
 
 This means Status Wallet can't be used for Bitcoin or other non-Ethereum based coins. Instead, you can use their Ethereum-based wrapped versions with your Status Wallet. Check out [Understand wrapped tokens][understand-wrapped-tokens] for more details.
 

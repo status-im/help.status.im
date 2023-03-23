@@ -116,6 +116,7 @@
 [perfect-forward-secrecy]: https://en.wikipedia.org/wiki/Forward_secrecy
 [status-desktop-github]: https://github.com/status-im/status-desktop
 [status-mobile-github]: https://github.com/status-im/status-mobile
+[status-web-github]: https://github.com/status-im/status-web
 [status-web-download]: https://status.im/get
 [status-website]: https://status.im
 [tenor]: https://tenor.com/
