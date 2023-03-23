@@ -12,7 +12,7 @@ When you run Status for the first time, the app creates a pair of [cryptographic
 
 These keys are securely stored on your device and protected by your Status password. To understand how these keys work and how they protect your data and privacy, check out [Understand your Status keys and recovery phrase][understand-your-status-keys-and-recovery-phrase].
 
-## Create a new Status profile
+## Create a new Status profile {: new-profile }
 
 If you want to create your profile from an existing recovery phrase, check out [Create or restore your Status profile using a recovery phrase][create-or-restore-your-status-profile-using-a-recovery-phrase]. If you're going to use a Keycard to create your profile, check out [Create or restore your Status profile using Keycard][create-or-restore-your-status-profile-using-keycard].
 
