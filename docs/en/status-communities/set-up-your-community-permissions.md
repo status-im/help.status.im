@@ -40,7 +40,7 @@ Community owners configure permissions using three different variables: `Who hol
 
 | Variable      | Description                                                                    | Options                               |
 |:--------------|:-------------------------------------------------------------------------------|:--------------------------------------|
-| Who holds (optional) | The tokens and amount (for assets and collectibles) that someone needs to hold. | Assets, Collectibles, ENS            |
+| Who holds (optional) | The tokens and amounts (for assets and collectibles) someone needs to hold. | Assets, Collectibles, ENS            |
 | Is allowed to | The community role that you assign to someone.                                | :desktop-admin: Become admin, :desktop-member: Become member |
 | In            | The community this permission applies to.                                      | Community                               |
 
