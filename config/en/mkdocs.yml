@@ -207,11 +207,11 @@ nav:
   - Wallet:
     - status-wallet/index.md
     - Getting started:
-      - Status Wallet FAQ: status-wallet/status-wallet-faq.md
+      - Status Wallet FAQ: wallet/status-wallet-faq.md
     - Send and receive crypto:
-      - Send crypto to your Status Wallet: status-wallet/send-crypto-to-your-status-wallet.md
+      - Send crypto to your Status Wallet: wallet/send-crypto-to-your-status-wallet.md
     - Understand crypto assets:
-      - Understand wrapped tokens: status-wallet/understand-wrapped-tokens.md
+      - Understand wrapped tokens: wallet/understand-wrapped-tokens.md
   - Your profile:
     - your-profile-and-preferences/index.md
     - Manage your profile:
