@@ -12,9 +12,10 @@ Status uses a [peer-to-peer network][peer-to-peer-messaging] that temporarily st
 
 ## What to expect
 
-- The only way to delete your Status profile is to stop using it for 30 days or more.
-- Once your profile is deleted, it's irretrievably lost. You can always create a new Status profile.
-- Deleting your Status profile doesn't remove your wallet funds. Your wallet funds are safe and available if you know [your recovery phrase] [create-or-restore-your-status-profile-using-a-recovery-phrase].
+- If you decide to stop using a profile, you can leave it inactive for 30 days or more. By doing so, the Status peer-to-peer network stops caching your information and the profile is irretrievably lost. You can always create a new Status profile.
+- Though your profile is lost, your wallet funds are not. Your wallet funds are safe and available if you know [your recovery phrase] [create-or-restore-your-status-profile-using-a-recovery-phrase].
+- The messages you sent are still accessible to the recipients, whether they are direct messages or messages in a group chat or community.
+- People still can see all information you display on your profile screen. For example, your profile name, photo, bio and linked social media.
 
 ## Delete your Status Profile
 
