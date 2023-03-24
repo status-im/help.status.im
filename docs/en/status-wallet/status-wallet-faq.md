@@ -12,7 +12,7 @@ hide:
 
 ### Is Status Wallet open source?
 
-Yes. The source code of [Status Mobile][status-mobile-github], [Status Desktop][status-desktop-github] and [Status Web][status-web] is fully available on GitHub, including the Wallet's source code.
+Yes. The source code of [Status Mobile][status-mobile-github], [Status Desktop][status-desktop-github] and [Status Web][status-web-github] is fully available on GitHub, including the Wallet's source code.
 
 ### Is Status Wallet self-custodial?
 
