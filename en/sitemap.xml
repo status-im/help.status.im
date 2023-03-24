@@ -491,6 +491,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/your-profile-and-preferences/remove-a-status-profile/</loc>
+         <lastmod>2023-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/your-profile-and-preferences/set-notification-exceptions/</loc>
          <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
