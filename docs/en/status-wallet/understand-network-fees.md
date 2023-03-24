@@ -8,7 +8,7 @@ hide:
 
 # Understand network fees
 
-To send your crypto to someone else, you need to pay network fees.
+To send your crypto to someone else, you need to pay network fees. Network fees are charged by the blockchain network to process your transaction.
 
 !!! note
      Status Wallet doesn't charge any extra transaction fees. The only fees you need to pay are charged by the blockchain. Those fees remain the same no matter which wallet app you're using.
