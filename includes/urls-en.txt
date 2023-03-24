@@ -106,7 +106,6 @@
 [mute-your-notifications]: /en/your-profile-and-preferences/mute-your-notifications
 [share-your-status-profile]: /en/your-profile-and-preferences/share-your-status-profile
 [register-your-status-ens-name]: /en/your-profile-and-preferences/register-your-status-ens-name
-[remove-a-status-profile]: /en/your-profile-and-preferences/remove-a-status-profile
 [set-notification-exceptions]: /en/your-profile-and-preferences/set-notification-exceptions
 [sync-profile]: /en/your-profile-and-preferences/sync-your-profile-across-devices#sync-profile
 [sync-your-profile-across-devices]: /en/your-profile-and-preferences/sync-your-profile-across-devices
