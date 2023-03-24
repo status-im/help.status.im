@@ -8,16 +8,18 @@ hide:
 
 # Understand network fees
 
-To send your crypto to someone else, you need to pay network fees. Network fees are charged by the blockchain network to process your transaction.
+To [send your crypto to someone else][send-crypto], you need to pay network fees. Network fees are charged by the blockchain network to process your transaction.
 
 !!! note
-     Status Wallet doesn't charge any extra transaction fees. The only fees you need to pay are charged by the blockchain. Those fees remain the same no matter which wallet app you're using.
+     [Status Wallet][status-wallet-your-quick-start-guide] doesn't charge any extra transaction fees. The only fees you need to pay are charged by the blockchain. Those fees remain the same no matter which wallet app you're using.
 
 ## Who is charging network fees and why
 
 When you send a blockchain transaction, it needs to be processed and validated by the network. This involves the work of miners, who use powerful computers to validate transactions. By sending a transaction, you create a job miners compete for. Every job needs to be paid, so you pay network fees to compensate miners for their work.
 
-A network fee's size depends on how busy the blockchain is, as well as the size of your transaction. Network fees are measured in gas, which in turn is measured in gwei. Gwei are units of Ether, much like cents are units of dollars.
+A network fee's size depends on how busy the blockchain is, as well as the size of your transaction. The more transactions are waiting to be validated, the higher the fees get.
+
+Network fees are measured in gas, which in turn is measured in gwei. Gwei are units of Ether (ETH), much like cents are units of dollars.
 
 ## What happens if you set the network fees too low
 
@@ -31,3 +33,5 @@ Miners invest their time and resources into processing transactions, which inclu
 If you accidentally sent a transaction with a custom network fee that's too low, check out [Handle pending or stuck transactions][handle-pending-or-stuck-transactions]. If you want to cancel your transaction, check out [Cancel transactions][cancel-transactions].
 
 --8<-- "includes/urls-en.txt"
+
+*[Ether]: Ether (ETH) is the native coin of the Ethereum blockchain. For more details on coins and tokens, check out [Understand coins and tokens][understand-coins-and-tokens].
