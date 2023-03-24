@@ -65,6 +65,7 @@
 [join-a-channel]: /en/status-communities/join-a-channel
 [join-a-status-community]: /en/status-communities/join-a-status-community
 [kick-or-ban-someone-from-your-community]: /en/status-communities/kick-or-ban-someone-from-your-community
+[leave-a-community]: /en/status-communities/leave-a-community
 [set-up-your-communitys-approval-options]: /en/status-communities/set-up-your-communitys-approval-options
 [understand-throwaway-profiles-in-status-web]: /en/status-communities/understand-throwaway-profiles-in-status-web
 [understand-token-requirements-in-channels]: /en/status-communities/understand-token-requirements-in-channels
@@ -98,6 +99,7 @@
 [create-or-restore-your-status-profile-using-keycard]: /en/your-profile-and-preferences/create-or-restore-your-status-profile-using-keycard
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
 [delete-your-status-profile]: /en/your-profile-and-preferences/delete-your-status-profile
+[edit-your-profile]: /en/your-profile-and-preferences/edit-your-profile
 [faq-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/faq-status-keys-and-recovery-phrase
 [if-you-lose-your-status-password-or-recovery-phrase]: /en/your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase
 [log-out-of-status]: /en/your-profile-and-preferences/log-out-of-status
