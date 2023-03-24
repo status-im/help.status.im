@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Set up your community's approval options < ## !-- find a better title. Se nao conseguir devo separar os dois artigos.-->
+# Manage community join request
 
 As a community owner, you can manually approve a request from people who wants to join your community. With this option enabled, you receive a notification whenever someone requests to join your community. This way, you can decide whether to accept, reject or ignore the request.
 
@@ -15,9 +15,9 @@ As a community owner, you can manually approve a request from people who wants t
 - If a community owner rejects a joining request, the person who sent the request will not be notified.
 - The community screen is where you can find out if your request was approved or denied.
 - In addition to manual approval, you can configure [token requirements][understand-token-requirements-in-communities] to join communities. Manual approval and token requirements work independently.
-- <!-- talk about ignore? Sim! add a informação sobre 7 dias.-->
+- When a user sends a join request to a community in Status, the community owner has the option to ignore it. If ignored, the request will automatically timeout after 7 days.
 
-## Set up manual approval options <!--Set up manage a>
+## Set up community join requests
 
 === "Desktop"
 
@@ -28,9 +28,7 @@ As a community owner, you can manually approve a request from people who wants t
     1. Check the **Request to join required** box to enable manual approval.
     1. Click **Save changes**.   
 
-## [Manage joining requests]
-
-<!--Essa procedimento deve explciar onde devo ir para aceitar ou ignorar o join request.-->
+## Reject or accept community join requests
 
 === "Desktop"
 
