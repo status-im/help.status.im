@@ -13,6 +13,12 @@ To [send your crypto to someone else][send-crypto], you need to pay network fees
 !!! note
      [Status Wallet][status-wallet-your-quick-start-guide] doesn't charge any extra transaction fees. The only fees you need to pay are charged by the blockchain. Those fees remain the same no matter which wallet app you're using.
 
+## The basics
+
+- Network fees are charged by miners to process your transaction. Miners are network participants who use their computers to validate blockchain transactions.
+- Status Wallet doesn't charge any extra transaction fees.
+- You can [set custom network fees][set-custom-network-fees] for your transactions. If you set the network fee too low, it can take much longer for your transaction to be processed.
+
 ## Who is charging network fees and why
 
 When you send a blockchain transaction, it needs to be processed and validated by the network. This involves the work of miners, who use powerful computers to validate transactions. By sending a transaction, you create a job miners compete for. Every job needs to be paid, so you pay network fees to compensate miners for their work.
