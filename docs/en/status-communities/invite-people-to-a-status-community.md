@@ -48,6 +48,6 @@ There are three approaches to inviting someone.
     | Share a link | 1. In the **Invite Contacts** pop-up window, click :desktop-copy: **Copy** next to the link. <br/> 2. Switch to the app or platform where you want to share the link and paste it there.
 
 !!! tip
-    After opening the link or scanning the QR code, people can install Status if they haven't already.
+    After opening the link or scanning the QR code, people can [install Status][download-status] Status if they haven't already.
 
 --8<-- "includes/urls-en.txt"
