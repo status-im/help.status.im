@@ -79,6 +79,7 @@
 [restore-your-status-community]: /en/status-communities/restore-your-status-community
 [self-destruct-a-token-remotely]: /en/status-communities/self-destruct-a-token-remotely 
 [set-up-a-private-community]: /en/status-communities/set-up-a-private-community
+[restore-your-status-community]: /en/status-communities/restore-your-status-community
 [set-up-your-communitys-approval-options]: /en/status-communities/set-up-your-communitys-approval-options
 [set-up-your-community-permissions]: /en/status-communities/set-up-your-community-permissions
 [transfer-your-community-s-ownership]: /en/status-communities/transfer-your-community-s-ownership
