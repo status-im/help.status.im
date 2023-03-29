@@ -111,6 +111,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/status-communities/co-manage-your-status-community/</loc>
+         <lastmod>2023-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/status-communities/configure-channel-permissions/</loc>
          <lastmod>2023-03-29</lastmod>
          <changefreq>daily</changefreq>
@@ -177,6 +182,16 @@
     </url>
     <url>
          <loc>https://help.status.im/en/status-communities/leave-a-community/</loc>
+         <lastmod>2023-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-communities/set-up-private-and-public-communities/</loc>
+         <lastmod>2023-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-communities/set-up-your-community-permissions/</loc>
          <lastmod>2023-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
