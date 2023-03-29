@@ -13,7 +13,7 @@ hide:
 
 A [Status Community][about-status-communities] is a place where you can connect and communicate with people who share your interests. Communities are ideal for those with a passion or hobby, study groups, gaming communities, professional network groups, or creators looking to generate income from their content without intermediaries.
 
-As a community owner, you can create open communities or [restrict community access using tokens][configure-your-community-permissions], control [membership approval][set-up-your-communitys-approval-options] and organize discussion groups in [channels][create-a-channel]. Owners have complete control over their community and are responsible for maintaining its rules.
+As a community owner, you can create open communities or [restrict community access using tokens][set-up-your-community-permissions], control [membership approval][set-up-your-communitys-approval-options] and organize discussion groups in [channels][create-a-channel]. Owners have complete control over their community and are responsible for maintaining its rules.
 
 ## Create a community
 

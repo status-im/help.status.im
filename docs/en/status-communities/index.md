@@ -22,7 +22,7 @@ Create your community, set up private channels or join others' communities and c
 ## Manage channels
 
 - [**Create** a channel][create-a-channel]
-- [**Configure** channel permissions][configure-channel-permissions]
+- [Set up **channel permissions**][set-up-channel-permissions]
 - [**Delete** a channel][delete-a-channel]
 
 ## Create and administer communities
