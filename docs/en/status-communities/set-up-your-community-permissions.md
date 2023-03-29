@@ -52,14 +52,14 @@ Community owners customize permissions using three different variables: `Who hol
 ## Edit community permissions
 
 1. From the navigation sidebar, click your community.
-1. On top of the channels sidebar, click your community logo and then, click **Permissions**.
+1. On top of the channel sidebar, click your community logo and then, click **Permissions**.
 1. In the permission you want to edit, click :desktop-edit: **Edit**.
 1. To customize the permission, follow the steps in the [Add community permissions](#add-community-permissions) section.
 
 ## Delete community permissions
 
 1. From the navigation sidebar, click your community.
-1. On top of the channels sidebar, click your community logo and then, click **Permissions**.
+1. On top of the channel sidebar, click your community logo and then, click **Permissions**.
 1. In the permission you want to delete, click :desktop-delete: **Delete**.
 1. Click **Delete permission** to confirm your action.
 

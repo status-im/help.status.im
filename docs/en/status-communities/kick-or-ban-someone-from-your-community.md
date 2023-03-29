@@ -35,7 +35,7 @@ In the case of minor offences or annoyances, consider kicking the offender. For 
 === "Desktop"
 
     1. From the navigation sidebar, click your community.
-    1. At the top of the channels sidebar, click your community logo.
+    1. At the top of the channel sidebar, click your community logo.
     1. Click :mobile-placeholder: **Members** to show all the community users.
     1. Hover over the user and select **Kick** or **Ban**, depending on the action you wish to perform.
     1. Click **Kick** or **Ban** again to confirm your action.

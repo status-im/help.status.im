@@ -55,7 +55,7 @@ After you create a community, you can customize its settings at any time.
 === "Desktop"
 
     1. From the navigation sidebar, click your community.
-    1. On top of the channels sidebar, click your community logo.
+    1. On top of the channel sidebar, click your community logo.
     1. Click :desktop-overview: **Overview**.
     1. Expand the window and click **Edit Community**.
     1. Edit your community look-and-feel, [additional settings](#configure-additional-settings) or [community rules](#describe-your-community-and-its-rules).
