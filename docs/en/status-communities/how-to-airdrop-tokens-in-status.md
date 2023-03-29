@@ -1,12 +1,12 @@
 ---
-id: 522
+id: 540
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# Set up private and public communities
+# How to airdrop tokens in Status
 
  :octicons-tools-24: In progress
 

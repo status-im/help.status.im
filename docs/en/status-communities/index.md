@@ -31,6 +31,7 @@ Create your community, set up private channels or join others' communities and c
 - [**Kick or ban** someone from your community][kick-or-ban-someone-from-your-community]
 - [Set up your **community permissions**][set-up-your-community-permissions]
 - [**Restore** your Status Community][restore-your-status-community]
+- [Set up a **private community**][set-up-a-private-community]
 
 ## Status Web Communities
 
