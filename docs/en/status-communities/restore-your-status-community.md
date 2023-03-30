@@ -25,7 +25,7 @@ The community's private key is a large string of characters stored in the Status
 ## What to expect
 
 - The community's private key represents proof of ownership but doesn't store the community configuration and messages. Your community configuration and messages are temporarily stored in the Waku [peer-to-peer network][peer-to-peer-messaging].
-- If no new messages are posted to your community for 30 days or more, all the community messages and settings are irretrievably lost, even if you have the community's private key.
+- When you [delete your Status Community][delete-your-status-community], all the community messages and settings are irretrievably lost, even if you have the community's private key.
 - If you want to manage your community from multiple computers, don't restore the community using the private key. Instead, [set up additional computers][manage-your-community-from-different-computers] to manage your community.
 
 ## Restore your community
