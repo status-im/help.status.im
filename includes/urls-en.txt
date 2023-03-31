@@ -61,7 +61,9 @@
 [set-up-channel-permissions]: /en/status-communities/set-up-channel-permissions
 [create-a-channel]: /en/status-communities/create-a-channel
 [create-a-status-community]: /en/status-communities/create-a-status-community
+[delegate-admin-functions-to-your-community]: /en/status-communities/delegate-admin-functions-to-your-community
 [delete-a-channel]: /en/status-communities/delete-a-channel
+[delete-community-permissions]: /en/status-communities/set-up-your-community-permissions#delete-community-permissions
 [how-to-airdrop-tokens-in-status]: /en/status-communities/how-to-airdrop-tokens-in-status
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [import-your-status-community]: /en/status-communities/import-your-status-community
@@ -74,6 +76,7 @@
 [manage-your-community-from-different-computers]: /en/status-communities/manage-your-community-from-different-computers
 [mint-tokens-for-your-community]: /en/status-communities/mint-tokens-for-your-community
 [restore-your-status-community]: /en/status-communities/restore-your-status-community
+[self-destruct-a-token-remotely]: /en/status-communities/self-destruct-a-token-remotely 
 [set-up-a-private-community]: /en/status-communities/set-up-a-private-community
 [set-up-your-communitys-approval-options]: /en/status-communities/set-up-your-communitys-approval-options
 [set-up-your-community-permissions]: /en/status-communities/set-up-your-community-permissions

@@ -86,6 +86,9 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.smartsymbols
   - pymdownx.superfences
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji:
@@ -207,6 +210,7 @@ nav:
       - Back up your community's private key: status-communities/back-up-your-community-s-private-key.md
       - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
       - Restore your Status Community: status-communities/restore-your-status-community.md
+      - Delegate admin functions to your community: status-communities/delegate-admin-functions-to-your-community.md
     - Status Web Communities:
       - Use a throwaway profile in Status Web: status-communities/use-a-throwaway-profile-in-status-web.md
       - Understand throwaway profiles in Status Web: status-communities/understand-throwaway-profiles-in-status-web.md

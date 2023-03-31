@@ -1,3 +1,5 @@
 *[blockchain]: A blockchain is a digital ledger that stores information across a network of computers,  making it difficult to modify or hack. It consists of blocks of data, each connected to the previous one, forming a chain.
+*[collectible]: A collectible is a unique digital asset that is stored on a blockchain. These assets are called non-fungible tokens (NFTs) and represent ownership of digital art, music, videos and other creative works.
+*[collectibles]: A collectible is a unique digital asset that is stored on a blockchain. These assets are called non-fungible tokens (NFTs) and represent ownership of digital art, music, videos and other creative works.
 *[DeFi]: DeFi, or Decentralized Finance, refers to a financial system built on blockchain technology that operates independently from traditional banks and financial institutions. This includes crypto loans and deposits, as well as token swapping and liquidity pools.
 *[pen-and-paper backup]: A pen-and-paper backup refers to a physical copy of important documents or notes. You can use this backup in case of loss or damage to the original information.
