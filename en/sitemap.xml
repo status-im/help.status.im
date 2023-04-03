@@ -121,11 +121,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://help.status.im/en/status-communities/configure-channel-permissions/</loc>
-         <lastmod>2023-04-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://help.status.im/en/status-communities/configure-your-community-permissions/</loc>
          <lastmod>2023-04-03</lastmod>
          <changefreq>daily</changefreq>
@@ -152,6 +147,11 @@
     </url>
     <url>
          <loc>https://help.status.im/en/status-communities/delete-a-channel/</loc>
+         <lastmod>2023-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-communities/how-to-airdrop-tokens-in-status/</loc>
          <lastmod>2023-04-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -191,7 +191,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/status-communities/manage-community-join-requests/</loc>
+         <lastmod>2023-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/status-communities/manage-your-community-from-different-computers/</loc>
+         <lastmod>2023-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-communities/mint-tokens-for-your-community/</loc>
          <lastmod>2023-04-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -201,7 +211,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://help.status.im/en/status-communities/set-up-private-and-public-communities/</loc>
+         <loc>https://help.status.im/en/status-communities/set-up-a-private-community/</loc>
+         <lastmod>2023-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-communities/set-up-channel-permissions/</loc>
          <lastmod>2023-04-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
