@@ -24,7 +24,7 @@ Token requirements can be useful to ensure that your community members have a ce
 
 - Use the Become member token-based permission to set up a private community.
 - You can set up token-based permissions with existing tokens or tokens you have [minted][mint-tokens-for-your-community] and distributed via [airdrops][how-to-airdrop-tokens-in-status].
-- In a private community, members must always meet and keep the token requirements. Community members not holding the required tokens lost access to the community automatically.
+- In a private community, members must always meet and keep the token requirements. Community members not holding the required tokens lose access to the community automatically.
 - Use [channel permissions][set-up-channel-permissions] to make one or more channels private while keeping your community public.
 - To transform a private community into a public one, [delete the Become member token-based permissions][delete-community-permissions].
 
@@ -37,7 +37,7 @@ Community owners customize permissions using three different variables: `Who hol
     1. From the navigation sidebar, click your community.
     1. On top of the channel sidebar, click your community logo and then, click **Permissions**.
     1. Click **Add permission**.
-    1. For the `Who holds` variable, select the tokens and amounts (for assets and collectibles) members must hold to join your community. You can choose and combine up to five Assets, Collectibles or ENS.
+    1. For the `Who holds` variable, select the tokens and amounts (for assets and collectibles) members must hold to join your community. You can choose and combine up to five assets, collectibles or ENS names.
     1. For the `Is allowed to` variable, select :desktop-member: **Become member**.
     1. For the `In` variable, make sure your community is selected.
     1. Click **Create permission**. The new permission takes effect immediately.
