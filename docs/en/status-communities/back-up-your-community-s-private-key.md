@@ -23,14 +23,14 @@ The community's private key provides control over your community's settings, mem
 
 - As a community owner, you're responsible for backing up your community's private key and keeping it safe. Status doesn't have access to this key and can't recover it for you.
 - Anyone with access to your community's private key may become the owner of the community and control its settings, permissions and membership approvals.
-- If no new messages are posted to your community for 30 days or more, all the community messages and settings are irretrievably lost, even if you have the community's private key.
+- Even with your community's private key, your community may disappear irretrievably if [you delete it][delete-your-status-community] or the owner's node is offline for more than 30 days without activity.
 
 ## Back up your community key
 
 === "Desktop"
 
     1. From the navigation sidebar, click your community.
-    1. At the top of the channels sidebar, click your community logo and then, click :desktop-overview: **Overview**.
+    1. At the top of the channel sidebar, click your community logo and then, click :desktop-overview: **Overview**.
     1. In the **Back up community key** area, click :desktop-back-up: **Back up**.
     1. In the pop-up window showing your community's private key, click **Copy**.
     1. Close the window showing the key. You can access this information at any time.
@@ -46,8 +46,7 @@ The community's private key provides control over your community's settings, mem
 Your community configuration and messages for up to 30 days are cached in the Waku [peer-to-peer network][peer-to-peer-messaging]. The community's private key represents proof of ownership but doesn't store the community configuration and messages.
 
 ### How frequently should I back up the community's private key?
-
-You only need to back up your community's private key once. You can create the backup right after you [create the community][create-a-status-community].
+You only need to back up your community's private key once, as long as you don't lose it. You can create the backup right after you [create the community][create-a-status-community].
 
 ### How can I protect my community's private key?
 
