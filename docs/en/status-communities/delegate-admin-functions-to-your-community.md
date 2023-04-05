@@ -11,27 +11,28 @@ hide:
 !!! note ""
     Currently, you can only delegate admin functions using Status desktop. [:octicons-desktop-download-16: Download Status desktop][status-web-download].
 
-Community owners have total control over their communities, including settings, membership approvals and permissions. Owners can delegate administrative functions to other community members.
+Community owners have total control over their communities, including settings, membership approvals and permissions. In addition, owners can delegate administrative functions to other community members through the [admin role][about-the-owner-and-admin-community-roles].
 
 To delegate admin functions to others, owners use [token-based community permissions][set-up-your-community-permissions]. Tokens are digital assets in a blockchain (such as the [Ethereum blockchain][about-the-ethereum-blockchain]), including assets (virtual coins), collectibles and ENS names.
 
 ## What to expect
 
-- It's easier to delegate admin functions using ENS names than collectibles, but it requires that the new admin owns an ENS name.
-- You can create a maximum of five different Become admin community-level permissions, but you can apply a single permission to multiple members.
+- To delegate admin functions, you assign the `Become admin` community permission to a collectible or ENS name owner.
+- Using ENS names to delegate admin functions is more straightforward than using collectibles, but it requires the admin to own the ENS name.
+- You can create a maximum of five different `Become admin` community-level permissions, but you can apply a single permission to multiple members.
 - To stop delegating admin functions, [self-destruct the admin token][self-destruct-a-token-remotely] or [delete the admin permission][delete-community-permissions].
 
 ## How to delegate admin functions
 
-You can delegate admin functions to others using a collectible or ENS name.
+You can delegate [admin functions][about-the-owner-and-admin-community-roles] to others using a collectible or an ENS name.
 
-If you use a collectible, follow a three-step process:
+If you use a collectible, follow this process:
 
 - [x] [Mint][mint-tokens-for-your-community] a non-transferable (soulbound) and remotely-destructible collectible.
-- [x] [Airdrop the collectible][how-to-airdrop-tokens-in-status] to the person you wish to delegate admin functions to.
+- [x] [Airdrop the collectible][how-to-airdrop-collectibles-in-status] to the person you wish to delegate admin functions to.
 - [x] [Delegate the admin function](#delegate-admin-functions-using-collectibles-or-ens-names) using token-based community permissions.
 
-If you use ENS names, you can delegate admin functions to specific people (such as alice.acme.eth) or a group of people under the same ENS domain (such as acme.eth).
+Using ENS names, you don't need to mint and airdrop any token. You [delegate admin functions](#delegate-admin-functions-using-collectibles-or-ens-names) to a specific ENS name owner (such as alice.acme.eth) or a group of people under the same ENS domain (such as acme.eth).
 
 !!! note
     Assets don't have the non-transferable (soulbound) and self-destructing properties collectibles have, making it harder to remove admin functions from other users. Avoid using assets to delegate admin functions.
@@ -48,12 +49,12 @@ If you use ENS names, you can delegate admin functions to specific people (such 
     1. For the `In` variable, make sure your community is selected.
     1. Click **Create permission**. The new permission takes effect immediately.
     
-    | Option | Steps |
+    | Delegation option | Steps |
     |:---|:---|
     | Collectible | 1. Select **Collectibles**.</br>2. Choose the collectible and amount you want to use to delegate admin functions.</br>3. Alternatively, **Import existing collectible**.</br>4. Click **Add**. |
     | ENS name | 1. Select **ENS**.</br>2. Enter the ENS name or domain you want to delegate admin functions to.</br>3. Click **Add**.
 
 !!! note
-    When you select the Become admin role, the **Hide permission** option is enabled automatically.
+    When you select the `Become admin` role, the **Hide permission** option is enabled automatically.
 
 --8<-- "includes/urls-en.txt"

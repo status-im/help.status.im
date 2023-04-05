@@ -56,6 +56,7 @@
 [about-status-communities]: /en/status-communities/about-status-communities
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
 [back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
+[about-the-owner-and-admin-community-roles]: /en/status-communities/about-the-owner-and-admin-community-roles
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [co-manage-your-status-community]: /en/status-communities/co-manage-your-status-community
 [set-up-channel-permissions]: /en/status-communities/set-up-channel-permissions
@@ -64,7 +65,7 @@
 [delegate-admin-functions-to-your-community]: /en/status-communities/delegate-admin-functions-to-your-community
 [delete-a-channel]: /en/status-communities/delete-a-channel
 [delete-community-permissions]: /en/status-communities/set-up-your-community-permissions#delete-community-permissions
-[how-to-airdrop-tokens-in-status]: /en/status-communities/how-to-airdrop-tokens-in-status
+[how-to-airdrop-collectibles-in-status]: /en/status-communities/how-to-airdrop-collectibles-in-status
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [import-your-status-community]: /en/status-communities/import-your-status-community
 [invite-people-to-a-status-community]: /en/status-communities/invite-people-to-a-status-community
