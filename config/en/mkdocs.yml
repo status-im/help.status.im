@@ -217,6 +217,8 @@ nav:
       - Send crypto to your Status Wallet: status-wallet/send-crypto-to-your-status-wallet.md
     - Understand crypto assets:
       - Understand wrapped tokens: status-wallet/understand-wrapped-tokens.md
+    - Handle your crypto:
+      - Delete your wallet: status-wallet/delete-your-wallet.md
   - Your profile:
     - your-profile-and-preferences/index.md
     - Manage your profile:
