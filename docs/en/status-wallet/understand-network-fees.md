@@ -11,12 +11,12 @@ hide:
 To [send your crypto to someone else][send-crypto], you need to pay network fees. Network fees (also known as gas fees) are charged by the blockchain network to process your transaction.
 
 !!! note
-     [Status Wallet][status-wallet-your-quick-start-guide] doesn't charge any extra fees for sending transactions. The only fees you need to pay are charged by the blockchain. Those fees remain the same no matter which wallet app you're using.
+     [Status Wallet][status-wallet-your-quick-start-guide] doesn't charge any extra network fees for sending transactions. The only fees you need to pay are charged by the blockchain. Those fees remain the same no matter which wallet app you're using.
 
 ## The basics
 
 - Network fees are charged by validators to process your transaction. Validators are network participants who use their computers to validate transactions.
-- Status Wallet doesn't charge any extra fees for sending transactions.
+- Status Wallet doesn't charge any extra network fees for sending transactions.
 - You can [set custom network fees][set-custom-network-fees] for your transactions. If you set the network fee too low, it can take much longer for your transaction to be processed. To resend your transaction with a higher fee, check out [Handle pending or stuck transactions][handle-pending-or-stuck-transactions].
 
 ## Who is charging network fees and why
