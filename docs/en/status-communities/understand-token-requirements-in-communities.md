@@ -12,14 +12,14 @@ hide:
 image
 -->
 
-In Status, there are two kinds of [communities][join-a-status-community]: public and private. If you want to join a private community, you need to meet the token requirements set by the community owner. To maintain access to a private community, hold the necessary tokens at all times.
+In Status, there are two kinds of communities: public and private. If you want to join a private community, you need to meet the token requirements set by the community owner. To maintain access to a private community, hold the necessary tokens at all times.
 
-Community owners can set up token requirements for their communities. To join a community, you need to meet its token requirements. For example, a community owner can set up owning 10 SNTs as a requirement to join a community. In that case, you need to have a minimum of 10 SNTs to join that community.
+Community owners can set up token requirements for their communities. To [join a community][join-a-status-community], you need to meet its token requirements. For example, a community owner can set up owning 10 SNTs as a requirement to join a community. In that case, you need to have a minimum of 10 SNTs to join that community.
 
 There are three kinds of tokens in the Status app: assets, collectibles, and ENS (Ethereum Name Service) names. Community owners can set up any combination of these tokens as a requirement to join their communities.
 
 !!! note
-    When you join a private community, the token required to join are not transferred to anyone. They remain on your account. They are simply used for verification purposes, and your tokens remain in your possession.
+    When you join a private community, the token required to join is not transferred to anyone. They remain on your account. They are simply used for verification purposes, and your tokens remain in your possession.
 
 ## You meet the requirements
 
