@@ -213,6 +213,7 @@ nav:
     - status-wallet/index.md
     - Getting started:
       - Status Wallet FAQ: status-wallet/status-wallet-faq.md
+      - Understand your wallet balance: status-wallet/understand-your-wallet-balance.md
     - Send and receive crypto:
       - Send crypto to your Status Wallet: status-wallet/send-crypto-to-your-status-wallet.md
     - Understand crypto assets:

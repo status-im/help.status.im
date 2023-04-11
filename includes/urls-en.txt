@@ -86,13 +86,16 @@
 [about-your-wallet-accounts-and-addresses]: /en/status-wallet/about-your-wallet-accounts-and-addresses
 [cancel-transactions]: /en/status-wallet/cancel-transactions
 [handle-pending-or-stuck-transactions]: /en/status-wallet/handle-pending-or-stuck-transactions
+[handle-transactions-you-didn-t-make]: /en/status-wallet/handle-transactions-you-didn-t-make
 [import-your-wallet-funds-into-status-wallet]: /en/status-wallet/import-your-wallet-funds-into-status-wallet
+[manage-and-organize-your-accounts]: /en/status-wallet/manage-and-organize-your-accounts
 [receive-crypto]: /en/status-wallet/receive-crypto
 [send-crypto]: /en/status-wallet/send-crypto
 [send-crypto-to-your-status-wallet]: /en/status-wallet/send-crypto-to-your-status-wallet
 [status-wallet-faq]: /en/status-wallet/status-wallet-faq
 [status-wallet-your-quick-start-guide]: /en/status-wallet/status-wallet-your-quick-start-guide
 [swap-crypto]: /en/status-wallet/swap-crypto
+[understand-block-explorers]: /en/status-wallet/understand-block-explorers
 [understand-coins-and-tokens]: /en/status-wallet/understand-coins-and-tokens
 [understand-l2s-and-sidechains]: /en/status-wallet/understand-l2s-and-sidechains
 [understand-network-fees]: /en/status-wallet/understand-network-fees
