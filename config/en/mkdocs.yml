@@ -206,6 +206,7 @@ nav:
       - Set up a private community: status-communities/set-up-a-private-community.md
       - Back up your community's private key: status-communities/back-up-your-community-s-private-key.md
       - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
+      - Manage community join requests: status-communities/manage-community-join-requests.md
       - Restore your Status Community: status-communities/restore-your-status-community.md
     - Status Web Communities:
       - Use a throwaway profile in Status Web: status-communities/use-a-throwaway-profile-in-status-web.md
