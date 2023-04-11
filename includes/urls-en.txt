@@ -91,6 +91,7 @@
 [receive-crypto]: /en/status-wallet/receive-crypto
 [send-crypto]: /en/status-wallet/send-crypto
 [send-crypto-to-your-status-wallet]: /en/status-wallet/send-crypto-to-your-status-wallet
+[set-custom-network-fees]: /en/status-wallet/set-custom-network-fees
 [status-wallet-faq]: /en/status-wallet/status-wallet-faq
 [status-wallet-your-quick-start-guide]: /en/status-wallet/status-wallet-your-quick-start-guide
 [swap-crypto]: /en/status-wallet/swap-crypto
