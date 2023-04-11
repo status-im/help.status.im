@@ -26,7 +26,7 @@ There are three kinds of tokens in the Status app: assets, collectibles, and ENS
 Before you join a private community, the Status app automatically checks if you meet the community requirements. If you meet the requirements, the option to join the community is available.
 
 !!! note
-    If the community owner has set [manual approval][manage-community-join-request] option for their community, you still need the owner's approval to join.
+    If the community owner has set [manual approval][manage-community-join-requests] option for their community, you still need the owner's approval to join.
 
 ## You don't meet the token requirements
 
