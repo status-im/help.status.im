@@ -34,7 +34,7 @@ As a community owner, you can manually approve requests from people who want to 
 
     1. From the navigation sidebar, click your community.
     1. At the top of the channel sidebar, click your community logo.
-    1. Click :desktop-members: **Members**.
+    1. Click :web-members: **Members**.
     1. At the top of the content area, select **Pending requests**.
     1. Hover over the user and select **Reject** or **Accept**, depending on your decision.
 
