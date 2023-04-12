@@ -48,6 +48,7 @@
 [send-gifs-and-stikers]: /en/using-status/send-gifs-and-stickers
 [share-images-in-status]: /en/using-status/share-images-in-status
 [understand-group-chats]: /en/using-status/understand-group-chats
+[use-mentions-in-status]: /en/using-status/use-mentions-in-status
 [view-notifications-and-updates]: /en/using-status/view-notifications-and-updates
 
 [about-community-request-approvals]: /en/status-communities/about-community-request-approvals
@@ -60,6 +61,8 @@
 [backup-your-community-key]: /en/status-communities/backup-your-community-key
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [co-manage-your-status-community]: /en/status-communities/co-manage-your-status-community
+[customized-your-channel]: /en/status-communities/customize-your-channel
+[customize-your-community]: /en/status-communities/customize-your-community
 [set-up-channel-permissions]: /en/status-communities/set-up-channel-permissions
 [create-a-channel]: /en/status-communities/create-a-channel
 [create-a-status-community]: /en/status-communities/create-a-status-community
@@ -69,7 +72,7 @@
 [delete-a-channel]: /en/status-communities/delete-a-channel
 [delete-community-permissions]: /en/status-communities/set-up-your-community-permissions#delete-community-permissions
 [delete-your-status-community]: /en/status-communities/delete-your-status-community
-[how-to-airdrop-collectibles-in-status]: /en/status-communities/how-to-airdrop-collectibles-in-status
+[how-to-airdrop-tokens-in-status]: /en/status-communities/how-to-airdrop-tokens-in-status
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [import-a-community-someone-shares-with-you]: /en/status-communities/import-a-community-someone-shares-with-you
 [invite-people-to-a-status-community]: /en/status-communities/invite-people-to-a-status-community

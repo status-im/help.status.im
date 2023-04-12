@@ -29,7 +29,7 @@ You can delegate [admin functions][permissions-by-role-in-status-communities] to
 If you use a collectible, follow this process:
 
 - [x] [Mint][mint-tokens-for-your-community] a non-transferable (soulbound) and remotely-destructible collectible.
-- [x] [Airdrop the collectible][how-to-airdrop-collectibles-in-status] to the person you wish to delegate admin functions to.
+- [x] [Airdrop the collectible][how-to-airdrop-tokens-in-status] to the person you wish to delegate admin functions to.
 - [x] [Delegate the admin function](#delegate-admin-functions-using-collectibles-or-ens-names) using token-based community permissions.
 
 Using ENS names, you don't need to mint and airdrop any token. You [delegate admin functions](#delegate-admin-functions-using-collectibles-or-ens-names) to a specific ENS name owner (such as alice.acme.eth) or a group of people under the same ENS domain (such as acme.eth).

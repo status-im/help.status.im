@@ -14,6 +14,7 @@ Create your community, set up private channels or join others' communities and c
 - [**Invite** people to a Status community][invite-people-to-a-status-community]
 - [**Import** a community someone shares with you][import-a-community-someone-shares-with-you]
 - [Understand **token requirements** in communities][understand-token-requirements-in-communities]
+- [**Permissions by role** in Status Communities][permissions-by-role-in-status-communities]
 
 ## Channels
 

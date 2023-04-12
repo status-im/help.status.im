@@ -1,12 +1,12 @@
 ---
-id: 540
+id: 559
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# How to airdrop collectibles in Status
+# Use mentions in Status
 
  :octicons-tools-24: In progress
 
