@@ -1,12 +1,12 @@
 ---
-id: 547
+id: 558
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# About the owner and admin community roles
+# Permissions by role in Status Communities
 
  :octicons-tools-24: In progress
 
