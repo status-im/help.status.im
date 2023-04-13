@@ -19,7 +19,7 @@ Block explorers are network-specific. This means that for [bridge transactions][
 !!! tip
      For details on where find your Status Wallet address, check out [Receive crypto][receive-crypto].
 
-To get started with block explorers, copy your Status Wallet address and look it up on a block explorer of your choice. For example, you can use [Etherscan][etherscan], [Blockchair][blockchair] or [beaconcha.in][beaconchain] for the Ethereum mainnet. If you're using [an L2 or a sidechain][understand-l2s-and-sidechains], you'll need to find a block explorer for this network.
+To get started with block explorers, copy your Status Wallet address and look it up on a block explorer of your choice. For example, you can use [Etherscan][etherscan], [Blockchair][blockchair] or [beaconcha.in][beaconchain] for the Ethereum mainnet. If you're using [an L2 or a sidechain][understand-l2s-and-sidechains], you need to find a block explorer for this network.
 
 ## Explore transaction data
 
