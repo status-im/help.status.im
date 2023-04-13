@@ -22,11 +22,11 @@ Token requirements can be useful to ensure that your community members have a ce
 
 ## What to expect
 
-- Use the Become member token-based permission to set up a private community.
+- Use the `Become member` token-based permission to set up a private community.
 - You can set up token-based permissions with existing tokens or tokens you have [minted][mint-tokens-for-your-community] and distributed via [airdrops][how-to-airdrop-tokens-in-status].
 - In a private community, members must always meet and keep the token requirements. Community members not holding the required tokens lose access to the community automatically.
 - Use [channel permissions][set-up-channel-permissions] to make one or more channels private while keeping your community public.
-- To transform a private community into a public one, [delete the Become member token-based permissions][delete-community-permissions].
+- To transform a private community into a public one, [delete the `Become member` token-based permissions][delete-community-permissions].
 
 ## Set up a private community
 
