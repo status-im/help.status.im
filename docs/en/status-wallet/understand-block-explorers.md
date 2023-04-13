@@ -34,10 +34,10 @@ To get started with block explorers, copy your Status Wallet address and look it
 | Status | Your transaction's status: for example, processing or completed. For more details on each status, check out [Understand transaction statuses][understand-transaction-statuses].  |
 | From | The address this transaction was sent from.   |
 | To | The address this transaction was sent to.  |
-| Block | The block your transaction was added to.  |
+| Block | The block your transaction was added to. Blocks are structures within the blockchain. Each block has a unique ID and includes multiple transactions.  |
 | Value | The total ETH value that is transferred.  |
 | Tokens transferred |  A list of tokens that are transferred in this transaction, if any. |
-| Timestamp | The date and time at which your transaction was completed. Empty for transactions that are still processing. |
+| Timestamp | The date and time at which your transaction was completed. |
 | Transaction fee | The [network fee][understand-network-fees] that was charged for your transaction. |
 
 ### Advanced data
