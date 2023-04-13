@@ -86,6 +86,7 @@
 
 [about-your-wallet-accounts-and-addresses]: /en/status-wallet/about-your-wallet-accounts-and-addresses
 [cancel-transactions]: /en/status-wallet/cancel-transactions
+[crypto-bridging-your-quick-start-guide]: /en/status-wallet/crypto-bridging-your-quick-start-guide
 [handle-pending-or-stuck-transactions]: /en/status-wallet/handle-pending-or-stuck-transactions
 [import-your-wallet-funds-into-status-wallet]: /en/status-wallet/import-your-wallet-funds-into-status-wallet
 [receive-crypto]: /en/status-wallet/receive-crypto
