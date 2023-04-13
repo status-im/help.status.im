@@ -45,7 +45,7 @@
 [send-direct-messages-to-your-contacts]: /en/using-status/send-direct-messages-to-your-contacts
 [send-and-read-messages]: /en/using-status/send-and-read-messages
 [send-an-audio-message]: /en/using-status/send-an-audio-message
-[send-gifs-and-stikers]: /en/using-status/send-gifs-and-stickers
+[send-gifs-and-stickers]: /en/using-status/send-gifs-and-stickers
 [share-images-in-status]: /en/using-status/share-images-in-status
 [understand-group-chats]: /en/using-status/understand-group-chats
 [use-mentions-in-status]: /en/using-status/use-mentions-in-status
@@ -61,7 +61,7 @@
 [backup-your-community-key]: /en/status-communities/backup-your-community-key
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [co-manage-your-status-community]: /en/status-communities/co-manage-your-status-community
-[customized-your-channel]: /en/status-communities/customize-your-channel
+[customize-your-channel]: /en/status-communities/customize-your-channel
 [customize-your-community]: /en/status-communities/customize-your-community
 [set-up-channel-permissions]: /en/status-communities/set-up-channel-permissions
 [create-a-channel]: /en/status-communities/create-a-channel
@@ -72,6 +72,7 @@
 [delete-a-channel]: /en/status-communities/delete-a-channel
 [delete-community-permissions]: /en/status-communities/set-up-your-community-permissions#delete-community-permissions
 [delete-your-status-community]: /en/status-communities/delete-your-status-community
+[getting-started-for-community-owners]: /en/status-communities/getting-started-for-community-owners
 [how-to-airdrop-tokens-in-status]: /en/status-communities/how-to-airdrop-tokens-in-status
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [import-a-community-someone-shares-with-you]: /en/status-communities/import-a-community-someone-shares-with-you
