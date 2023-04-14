@@ -8,22 +8,24 @@ hide:
 
 # Transfer your community's ownership
 
-You can transfer your Status Community ownership if you can't manage it and want to pass on the responsibility to someone else. To transfer your community's ownership, you need a [backup of your community's private key][back-up-your-community-s-private-key].
+You can transfer your Status Community ownership if you can't manage it and want to pass on the responsibility to someone else. To transfer your community's ownership, you need a [backup of the community's private key][back-up-your-community-s-private-key].
 
-When you transfer the community's ownership, the new owner's computer becomes a new community node with full control of the community, including its settings, permissions and membership approvals.
+When you transfer the ownership, the new owner's computer becomes a community node with full control of the community, including its settings, permissions and membership approvals.
 
 !!! tip
     If you need help managing your community, consider adding others as admins. For more information, check out [Co-manage your Status Community][co-manage-your-status-community].
 
 ## Security problems with the existing ownership model
 
-The current system for transferring ownership of Status Communities has two main problems.
+The current system for transferring ownership of Status Communities has two important security problems:
 
-Firstly, the community owner must share the community's private key with the new owner. Manually transferring the private key from one owner to another is an insecure method of handling a private key.
-
-Secondly, there is no way to be certain that the community has been fully transferred. After handing over it to the new owner, the old owner may still have a copy of the private key. This means that an old owner with malicious intentions could potentially regain access to the community at any time.
+- The community owner must share the community's private key with the new owner. Manually transferring the private key from one owner to another is an insecure method of handling a private key.
+- There is no way to be certain that the community is fully transferred. After handing it over to the new owner, the previous owner may still have a copy of the private key. This means that an old owner with malicious intentions could potentially regain access to the community at any time.
 
 We're working on implementing a token-based ownership model to solve these problems. In the meantime, take extra precautions when handling your community key and keep it safe.
+
+!!! warning "Caution"
+    Read and consider the security implications before transferring or accepting the ownership of a community.
 
 ## How to transfer your community ownership
 
