@@ -8,6 +8,8 @@ hide:
 
 # Transfer your community's ownership
 
+:octicons-beaker-24: Beta
+
 You can transfer your Status Community ownership if you can't manage it and want to pass on the responsibility to someone else. To transfer your community's ownership, you need a [backup of the community's private key][back-up-your-community-s-private-key].
 
 When you transfer the ownership, the new owner's computer becomes a community node with full control of the community, including its settings, permissions and membership approvals.
@@ -35,5 +37,7 @@ To transfer your community, follow this process:
 - [x] Handle over the private key to the new community owner.
 - [x] Ask the new owner to [restore the community][restore-your-status-community] using the private key.
 - [x] Delete or destroy any copy you own of the private key.
+
+*[Beta]: This software feature is currently incomplete or in beta, and is subject to change at any time.
 
 --8<-- "includes/urls-en.txt"
