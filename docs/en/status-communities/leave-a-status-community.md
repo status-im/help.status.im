@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Leave a community
+# Leave a Status Community
 
  :octicons-tools-24: In progress
 
