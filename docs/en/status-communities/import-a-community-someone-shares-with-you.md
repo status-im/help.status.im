@@ -38,7 +38,7 @@ To import the community, ask the person sharing the community to [send you the l
     | Option | Steps |
     |:---|:---|
     | QR code | 1. From the tab bar, tap :mobile-communities: **Communities**.</br>2. From the top navigation, tap :mobile-scan: **Scan** and scan the QR code. |
-    | Public's community key | 1. From the tab bar, tap :mobile-communities: **Communities**.</br>2. Tap :mobile-add: **Add** > :mobile-download: **Import community**.</br>3. In the **Community key** text field, enter the community link or public's community key.</br>4. Verify the community you're about to import and tap :mobile-receive: **Import community**. |
+    | Public's community key | 1. From the tab bar, tap :mobile-communities: **Communities**.</br>2. Tap :mobile-add: **Add** > :mobile-download: **Import community**.</br>3. In the **Community key** text field, enter the community link or public's community key.</br>4. Verify the community you're about to import and tap :mobile-download: **Import community**. |
 
 === "Desktop"
 
