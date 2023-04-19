@@ -12,7 +12,7 @@ Create your community, set up private channels or join others' communities and c
 - [About community **request approvals**][about-community-request-approvals]
 - [About **losing access** to a community][about-losing-access-to-a-community]
 - [**Invite** people to a Status community][invite-people-to-a-status-community]
-- [**Import** a Status Community][import-a-status-community]
+- [**Import** a community someone shares with you][import-a-community-someone-shares-with-you]
 
 ## Channels
 
