@@ -12,7 +12,7 @@ Block explorers are tools you can use to browse blockchain data. With block expl
 
 Since all Ethereum blockchain data is public and pseudonymous, it doesn't matter whose transactions you're exploring. You can view the details of both your own and others' transactions.
 
-Block explorers are network-specific. This means that for [bridge transactions][crypto-bridging-your-quick-start-guide], you need to use two different block explorers, one for each chain. In your Status Wallet, you can find the Bridge field  and transaction hashes for each chain. For more details, check out [Understand your transaction details][understand-your-transaction-details].
+Block explorers are network-specific. This means that for [bridge transactions][crypto-bridging-your-quick-start-guide], you need to use two or more different block explorers, one for each chain. In your Status Wallet, you can find the Bridge field  and transaction hashes for each chain. For more details, check out [Understand your transaction details][understand-your-transaction-details].
 
 ## Use block explorers
 
@@ -23,10 +23,12 @@ To get started with block explorers, copy your Status Wallet address and look it
 
 ## Explore transaction data
 
+You can usually find the data below on all block explorers. This list isn't comprehensive. For more details, check out your block explorer's documentation.
+
 ### Basic data
 
 !!! tip
-     To view your transaction details in your Status Wallet, go to the home screen and click or tap the transaction you're interested in.
+     To view your transaction details in your Status Wallet, go to the Wallet home screen and click or tap the transaction you're interested in.
 
 | Field  | Description |
 |--------|-------------|
@@ -44,7 +46,8 @@ To get started with block explorers, copy your Status Wallet address and look it
 
 | Field  | Description |
 |--------|-------------|
-| Nonce | The transaction number for the from address. The first transaction for each address has a nonce of 0. You can use nonces to cancel or resend transactions that are still processing. For more details, check out [Cancel transactions][cancel-transactions] and [Handle pending or stuck transactions][handle-pending-or-stuck-transactions]. |
-| Gas price | Cost per unit of gas for this transaction, in gwei. |
+| Nonce | The transaction number for the `from` address. The first transaction for each address has a nonce of 0. You can use nonces to cancel or resend transactions that are still processing. For more details, check out [Cancel transactions][cancel-transactions] and [Handle pending or stuck transactions][handle-pending-or-stuck-transactions]. |
+| Gas price | Cost per [unit of gas for this transaction][understand-network-fees], in gwei. |
+| Confirmations | The [number of confirmations][understand-confirmations] this transaction currently has. |
 
 --8<-- "includes/urls-en.txt"
