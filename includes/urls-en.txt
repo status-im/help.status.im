@@ -91,6 +91,7 @@
 
 [about-your-wallet-accounts-and-addresses]: /en/status-wallet/about-your-wallet-accounts-and-addresses
 [cancel-transactions]: /en/status-wallet/cancel-transactions
+[crypto-bridging-your-quick-start-guide]: /en/status-wallet/crypto-bridging-your-quick-start-guide
 [handle-pending-or-stuck-transactions]: /en/status-wallet/handle-pending-or-stuck-transactions
 [import-your-wallet-funds-into-status-wallet]: /en/status-wallet/import-your-wallet-funds-into-status-wallet
 [receive-crypto]: /en/status-wallet/receive-crypto
@@ -100,10 +101,13 @@
 [status-wallet-faq]: /en/status-wallet/status-wallet-faq
 [status-wallet-your-quick-start-guide]: /en/status-wallet/status-wallet-your-quick-start-guide
 [swap-crypto]: /en/status-wallet/swap-crypto
+[understand-block-explorers]: /en/status-wallet/understand-block-explorers
 [understand-coins-and-tokens]: /en/status-wallet/understand-coins-and-tokens
 [understand-l2s-and-sidechains]: /en/status-wallet/understand-l2s-and-sidechains
 [understand-network-fees]: /en/status-wallet/understand-network-fees
+[understand-transaction-statuses]: /en/status-wallet/understand-transaction-statuses
 [understand-wrapped-tokens]: /en/status-wallet/understand-wrapped-tokens
+[understand-your-transaction-details]: /en/status-wallet/understand-your-transaction-details
 [withdraw-crypto-to-your-bank-account]: /en/status-wallet/withdraw-crypto-to-your-bank-account
 
 [about-keycard]: /en/your-profile-and-preferences/about-keycard
@@ -134,7 +138,10 @@
 [your-chatkey-emojihash-and-identicon-ring]: /en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring
 [your-status-notifications-guide]: /en/your-profile-and-preferences/your-status-notifications-guide
 
+[beaconchain]: https://beaconcha.in/
+[blockchair]: https://blockchair.com/ethereum/
 [ethereum-name-service]: https://ens.domains/
+[etherscan]: https://etherscan.io/
 [bittorrent-peer-to-peer-network]: https://en.wikipedia.org/wiki/BitTorrent
 [gnu-privacy-guard]: https://gnupg.org/
 [perfect-forward-secrecy]: https://en.wikipedia.org/wiki/Forward_secrecy
