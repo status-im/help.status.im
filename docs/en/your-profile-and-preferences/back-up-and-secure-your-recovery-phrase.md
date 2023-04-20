@@ -58,7 +58,7 @@ Here are some tips on how to keep your recovery phrase secure:
 
 <div class="admonition tip screenreader">
 <p class="admonition-title">Tip</p>
-<p>If you're using a screen reader, consider making an audio recording of your recovery phrase. For extra security, you can come up with a short story that would include words from your recovery phrase in the right order.</p>
+<p>If you're using a screen reader, consider making an audio recording of your recovery phrase or asking someone you trust to do so. For extra security, you can come up with a short story that would include words from your recovery phrase in the right order, and ask someone you trust to record it for you.</p>
 </div>
 
 - **Keep it safe**
