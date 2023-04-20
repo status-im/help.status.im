@@ -52,9 +52,14 @@ For security reasons, your recovery phrase is permanently removed from your devi
 
 ## Secure your recovery phrase
 
-If you lose your recovery phrase or someone else gets access to it, you lose access to your Status profile and funds in the [Status Wallet][status-wallet-your-quick-start-guide.md].
+If you lose your recovery phrase or someone else gets access to it, you lose access to your Status profile and funds in the [Status Wallet][status-wallet-your-quick-start-guide].
 
 Here are some tips on how to keep your recovery phrase secure:
+
+<div class="admonition tip screenreader">
+<p class="admonition-title">Tip</p>
+<p>If you're using a screen reader, consider making an audio recording of your recovery phrase. For extra security, you can come up with a short story that would include words from your recovery phrase in the right order.</p>
+</div>
 
 - **Keep it safe**
 
