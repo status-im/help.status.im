@@ -17,7 +17,7 @@ The community's private key provides control over your community's settings, mem
 
 !!! warning "Caution"
     Manually transferring your community from one computer to another by copying the private key is an insecure method of handling a private key. Still, it's currently the only way to do so.</br>
-    We're aware of this issue and plan to implement a secure solution in a future release. In the meantime, take extra precautions when handling your community key and keep it safe.
+    We're aware of this issue and plan to implement a secure solution in a future release. In the meantime, be extra cautions when handling your community key and keep it safe.
 
 ## What to expect
 
