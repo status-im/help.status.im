@@ -8,6 +8,8 @@ hide:
 
 # Back up and secure your recovery phrase
 
+:octicons-accessibility-24: Accessibility-friendly
+
 Your Status recovery phrase (also known as a seed phrase or backup phrase) consists of 12 words that can be used to regenerate your [private key][understand-your-status-keys-and-recovery-phrase]. If you lose your private key or it is compromised, you lose access to your Status profile and funds forever. For this reason, you must always backup your recovery phrase and keep it safe.
 
 !!! warning "Caution"
@@ -57,7 +59,7 @@ If you lose your recovery phrase or someone else gets access to it, you lose acc
 Here are some tips on how to keep your recovery phrase secure:
 
 <div class="admonition tip screenreader">
-<p class="admonition-title">Tip</p>
+<p class="admonition-title">Screen reader tip</p>
 <p>If you're using a screen reader, consider making an audio recording of your recovery phrase or asking someone you trust to do so. For extra security, you can come up with a short story that would include words from your recovery phrase in the right order, and ask someone you trust to record it for you.</p>
 </div>
 
@@ -83,5 +85,8 @@ Here are some tips on how to keep your recovery phrase secure:
 
 !!! note
     Keep your recovery phrase safe and never share it with anyone. Status will never ask you for this information, and anyone who does is trying to steal your profile and wallet funds.
+
+
+*[Accessibility-friendly]: This page contains extra information that can be helpful to you if you use a screen reader.
 
 --8<-- "includes/urls-en.txt"
