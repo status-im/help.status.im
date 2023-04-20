@@ -24,7 +24,7 @@ For security reasons, your recovery phrase is permanently removed from your devi
     ### Step 1: Find your recovery phrase
 
     1. From the tab bar, tap :mobile-messages: **Messages**.
-    1. Tap your profile picture > :mobile-privacy: **Privacy and security**.
+    1. Tap your profile picture <span aria-label="and then go to" role="img"> &gt; </span> <span area-hidden="true">:mobile-privacy:</span> **Privacy and security**.
     1. On the **Back up recovery phrase** screen, make sure you have everything ready to write down the recovery phrase. Then, check the verification boxes.
     1. Tap **See my recovery phrase**.
   
