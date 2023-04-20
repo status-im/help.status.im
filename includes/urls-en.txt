@@ -64,6 +64,7 @@
 [delegate-admin-functions-to-community-members]: /en/status-communities/delegate-admin-functions-to-community-members
 [delete-a-channel]: /en/status-communities/delete-a-channel
 [delete-community-permissions]: /en/status-communities/set-up-your-community-permissions#delete-community-permissions
+[delete-your-status-community]: /en/status-communities/delete-your-status-community
 [how-to-airdrop-collectibles-in-status]: /en/status-communities/how-to-airdrop-collectibles-in-status
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [import-a-community-someone-shares-with-you]: /en/status-communities/import-a-community-someone-shares-with-you
@@ -71,7 +72,7 @@
 [join-a-channel]: /en/status-communities/join-a-channel
 [join-a-status-community]: /en/status-communities/join-a-status-community
 [kick-or-ban-someone-from-your-community]: /en/status-communities/kick-or-ban-someone-from-your-community
-[leave-a-community]: /en/status-communities/leave-a-community
+[leave-a-status-community]: /en/status-communities/leave-a-status-community
 [manage-community-join-requests]: /en/status-communities/manage-community-join-requests
 [manage-your-community-from-different-computers]: /en/status-communities/manage-your-community-from-different-computers
 [mint-tokens-for-your-community]: /en/status-communities/mint-tokens-for-your-community
