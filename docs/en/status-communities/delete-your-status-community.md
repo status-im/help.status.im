@@ -28,7 +28,7 @@ You must complete the following tasks:
 - [x] Set up [manual approval][manage-community-join-requests] for the community.
 - [x] [Kick out all members from the community][kick-or-ban-someone-from-your-community].
 - [x] [Leave your community][leave-a-status-community].
-- [x] Delete and destroy the community private key if it's stored anywhere.
+- [x] Delete or destroy the community's private key if it's stored anywhere.
 - [x] Wait 30 days.
 
 After 30 days, the Waku peer-to-peer network stops caching your community data, and the community is deleted irrecoverably.
