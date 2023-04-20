@@ -2368,6 +2368,32 @@
 
               
             
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Transfer your community's ownership
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
           </ul>
         </nav>
       
@@ -3548,6 +3574,36 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#current-security-issues-you-should-consider" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Current security issues you should consider
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-transfer-your-community-ownership" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How to transfer your community ownership
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -3579,10 +3635,33 @@
 
 
 <h1 id="transfer-your-communitys-ownership">Transfer your community's ownership<a class="headerlink" href="#transfer-your-communitys-ownership" title="Permanent link">&para;</a></h1>
-<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.875 2.292a.114.114 0 0 0-.032.018A7.239 7.239 0 0 0 4.75 8.25a7.248 7.248 0 0 0 3.654 6.297c.57.327.982.955.941 1.682v.002l-.317 6.058a.75.75 0 1 1-1.498-.078l.317-6.062v-.004c.006-.09-.047-.215-.188-.296A8.749 8.749 0 0 1 3.25 8.25a8.738 8.738 0 0 1 3.732-7.169 1.547 1.547 0 0 1 1.709-.064c.484.292.809.835.809 1.46v4.714a.25.25 0 0 0 .119.213l2.25 1.385c.08.05.182.05.262 0l2.25-1.385a.25.25 0 0 0 .119-.213V2.478c0-.626.325-1.169.81-1.461a1.547 1.547 0 0 1 1.708.064 8.741 8.741 0 0 1 3.732 7.17 8.747 8.747 0 0 1-4.41 7.598c-.14.081-.193.206-.188.296v.004l.318 6.062a.75.75 0 1 1-1.498.078l-.317-6.058v-.002c-.041-.727.37-1.355.94-1.682A7.247 7.247 0 0 0 19.25 8.25a7.239 7.239 0 0 0-3.093-5.94.114.114 0 0 0-.032-.018l-.01-.001c-.003 0-.014 0-.031.01-.036.022-.084.079-.084.177V7.19c0 .608-.315 1.172-.833 1.49l-2.25 1.385a1.75 1.75 0 0 1-1.834 0l-2.25-1.384A1.752 1.752 0 0 1 8 7.192V2.477c0-.098-.048-.155-.084-.176a.068.068 0 0 0-.031-.011l-.01.001Z"/></svg></span> In progress</p>
-<div class="admonition note">
-<p>We're working on this content.</p>
+<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 8.807V3.5h-.563a.75.75 0 0 1 0-1.5h9.125a.75.75 0 0 1 0 1.5H16v5.307l5.125 9.301c.964 1.75-.302 3.892-2.299 3.892H5.174c-1.998 0-3.263-2.142-2.3-3.892ZM4.189 18.832a1.123 1.123 0 0 0 .985 1.668h13.652a1.123 1.123 0 0 0 .985-1.668L17.7 15H6.3ZM14.5 3.5h-5V9a.75.75 0 0 1-.093.362L7.127 13.5h9.746l-2.28-4.138A.75.75 0 0 1 14.5 9Z"/></svg></span> <abbr title="This software feature is currently incomplete or in beta, and is subject to change at any time.">Beta</abbr></p>
+<p>If you can't manage your Status Community anymore, you can transfer the ownership to someone else. To transfer your community's ownership, you need a <a href="/en/status-communities/back-up-your-community-s-private-key">backup of the community's private key</a>.</p>
+<p>When you transfer the ownership, the new owner's computer becomes a community node with full control of the community, including its settings, permissions and membership approvals.</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>If you need help managing your community, consider adding others as admins. For more information, check out <a href="/en/status-communities/co-manage-your-status-community">Co-manage your Status Community</a>.</p>
 </div>
+<h2 id="current-security-issues-you-should-consider">Current security issues you should consider<a class="headerlink" href="#current-security-issues-you-should-consider" title="Permanent link">&para;</a></h2>
+<p>The current system for transferring ownership of Status Communities has two important security issues:</p>
+<ul>
+<li>The community owner has to share the community's private key with the new owner. Manually transferring the private key from one owner to another is an insecure method of handling a private key.</li>
+<li>There is no way to be certain that the community is fully transferred. After handing it over to the new owner, the previous owner may still have a copy of the private key. This means that an old owner with malicious intentions could potentially regain access to the community at any time.</li>
+</ul>
+<p>We're working on implementing a token-based ownership model to solve these problems. In the meantime, be extra cautious when handling your community key and keep it safe. For example, don't save your private's community key in an online storage service or screenshot.</p>
+<div class="admonition warning">
+<p class="admonition-title">Caution</p>
+<p>Read and consider the security implications before you transfer the ownership of your community or become the new owner of someone else's community.</p>
+</div>
+<h2 id="how-to-transfer-your-community-ownership">How to transfer your community ownership<a class="headerlink" href="#how-to-transfer-your-community-ownership" title="Permanent link">&para;</a></h2>
+<p>Here's how to transfer your community:</p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> <a href="/en/status-communities/back-up-your-community-s-private-key">Back up your community's private key</a>.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Handle over the private key to the new community owner.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Ask the new owner to <a href="/en/status-communities/restore-your-status-community">restore the community</a> using the private key.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> <a href="/en/status-communities/leave-a-status-community">Leave the community</a>. If you wish, join the community again as a member.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Delete or destroy any copy you own of the private key.</li>
+</ul>
 
   
     
@@ -3596,7 +3675,7 @@
         <span class="md-icon" title="Last update">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
         </span>
-        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 14, 2023</span>
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 20, 2023</span>
       </span>
     
     

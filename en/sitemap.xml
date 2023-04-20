@@ -286,6 +286,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/status-communities/join-a-status-community/restore-your-status-community/</loc>
+         <lastmod>2023-04-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/status-wallet/</loc>
          <lastmod>2023-04-20</lastmod>
          <changefreq>daily</changefreq>
