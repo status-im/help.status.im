@@ -64,6 +64,7 @@
 [delegate-admin-functions-to-community-members]: /en/status-communities/delegate-admin-functions-to-community-members
 [delete-a-channel]: /en/status-communities/delete-a-channel
 [delete-community-permissions]: /en/status-communities/set-up-your-community-permissions#delete-community-permissions
+[delete-your-status-community]: /en/status-communities/delete-your-status-community
 [how-to-airdrop-collectibles-in-status]: /en/status-communities/how-to-airdrop-collectibles-in-status
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [import-your-status-community]: /en/status-communities/import-your-status-community
