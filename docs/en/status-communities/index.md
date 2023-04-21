@@ -37,6 +37,7 @@ Create your community, set up private channels or join others' communities and c
 - [**Delegate admin functions** to community members][delegate-admin-functions-to-community-members]
 - [**Delete** your Status **Community**][delete-your-status-community]
 - [**Transfer** your community's ownership][transfer-your-community-s-ownership]
+- [**Turn off** the Community **History** Service][turn-off-the-community-history-service]
 
 ## Status Web Communities
 
