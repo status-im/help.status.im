@@ -56,6 +56,14 @@
   font-size: .75rem !important;
 }
 
+.screenreader {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px);
+}
+
 @media only screen and (min-width: 768px) {
   .md-tooltip {
       max-width: calc(100vw - 5rem);

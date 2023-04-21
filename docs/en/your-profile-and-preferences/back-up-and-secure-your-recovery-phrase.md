@@ -8,6 +8,8 @@ hide:
 
 # Back up and secure your recovery phrase
 
+<span class="screenreader" role="note">This page contains extra information that can be helpful to you if you use a screen reader. </span>
+
 Your Status recovery phrase (also known as a seed phrase or backup phrase) consists of 12 words that can be used to regenerate your [private key][understand-your-status-keys-and-recovery-phrase]. If you lose your private key or it is compromised, you lose access to your Status profile and funds forever. For this reason, you must always backup your recovery phrase and keep it safe.
 
 !!! warning "Caution"
@@ -22,7 +24,7 @@ For security reasons, your recovery phrase is permanently removed from your devi
     ### Step 1: Find your recovery phrase
 
     1. From the tab bar, tap :mobile-messages: **Messages**.
-    1. Tap your profile picture > :mobile-privacy: **Privacy and security**.
+    1. Tap your profile picture <span aria-label="and then go to" role="img"> &gt; </span> <span area-hidden="true">:mobile-privacy:</span> **Privacy and security**.
     1. On the **Back up recovery phrase** screen, make sure you have everything ready to write down the recovery phrase. Then, check the verification boxes.
     1. Tap **See my recovery phrase**.
   
@@ -52,9 +54,14 @@ For security reasons, your recovery phrase is permanently removed from your devi
 
 ## Secure your recovery phrase
 
-If you lose your recovery phrase or someone else gets access to it, you lose access to your Status profile and funds in the [Status Wallet][status-wallet-your-quick-start-guide.md].
+If you lose your recovery phrase or someone else gets access to it, you lose access to your Status profile and funds in the [Status Wallet][status-wallet-your-quick-start-guide].
 
 Here are some tips on how to keep your recovery phrase secure:
+
+<div class="admonition tip screenreader">
+<p class="admonition-title">Screen reader tip</p>
+<p>If you're using a screen reader, consider making an audio recording of your recovery phrase or asking someone you trust to do so. For extra security, you can come up with a short story that would include words from your recovery phrase in the right order, and ask someone you trust to record it for you.</p>
+</div>
 
 - **Keep it safe**
 
@@ -78,5 +85,6 @@ Here are some tips on how to keep your recovery phrase secure:
 
 !!! note
     Keep your recovery phrase safe and never share it with anyone. Status will never ask you for this information, and anyone who does is trying to steal your profile and wallet funds.
+
 
 --8<-- "includes/urls-en.txt"
