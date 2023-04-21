@@ -75,6 +75,7 @@
 [getting-started-for-community-owners]: /en/status-communities/getting-started-for-community-owners
 [how-chs-works]: /en/status-communities/about-the-community-history-service#how-chs-works
 [how-to-airdrop-tokens-in-status]: /en/status-communities/how-to-airdrop-tokens-in-status
+[how-to-mint-an-admin-token]: /en/status-communities/how-to-mint-an-admin-token
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [import-a-community-someone-shares-with-you]: /en/status-communities/import-a-community-someone-shares-with-you
 [invite-people-to-a-status-community]: /en/status-communities/invite-people-to-a-status-community
