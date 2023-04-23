@@ -8,20 +8,20 @@ hide:
 
 # Invite people to a channel
 
-Whether you're a channel owner or a member, you can tell people about the channel and invite them to join.
+Whether you're a channel owner or a member, you can invite anyone to any channel you're a member of.
 
 !!! note
-    You can't join a channel if you are not a member of a community.
+    To join the channel, the person you're inviting needs to be a member of the community.
 
 ## Invite options
 
-There are three options for inviting someone to a channel.
+There are three ways you can invite someone to a channel.
 
-| Option | Description | Works with |
+| Ways | Description | Works with |
 |---------|-------------|------|
-| Share to Status contacts | Use this option to share the channel with people in your Status contact list. | Mobile and desktop |
-| Show QR code | Use this option to show the channel QR code to people to scan. | Mobile |
-| Share a link | Use this option to share a link via your other social media or copy it and share it manually. | Mobile and desktop |
+| Share to Status contacts | You can share the channel with anyone who's on your Status contact list. | Mobile and desktop |
+| Show QR code | Show the channel's QR code to the person you want to invite. | Mobile |
+| Share a link | Share the link via messenger apps or social media. | Mobile and desktop |
 
 ## Invite people to a channel
 
@@ -34,9 +34,9 @@ There are three options for inviting someone to a channel.
 
     | Option | Steps |
     |---------|--------|
-    | Share to Status contacts | 1. Select :mobile-add-user: **Invite people from contacts list**. <br/> 2. Check the boxes next to the contacts you want to share with. <br/> 3. Tap **Invite users**. |
-    | Show QR code | 1. Select :moblie-qr-code: **Show QR code**. <br/> 2. Show the QR code to people you want to invite. |
-    | Share a link | 1. Select :mobile-share: **Share channel**. <br/> 2. Share the channel link using your preferred method. 
+    | Share to Status contacts | 1. Select :mobile-add-user: **Invite people from contacts list**. <br/> 2. Check the boxes next to the contacts you want to invite. <br/> 3. Tap **Invite users**. |
+    | Show QR code | 1. Select :moblie-qr-code: **Show QR code**. <br/> 2. Show the QR code to the person you want to invite. |
+    | Share a link | 1. Select :mobile-share: **Share channel**. <br/> 2. Share the channel link via social media, messenger apps or any other app you prefer. 
 
 === "Desktop"
 
