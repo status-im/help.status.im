@@ -10,7 +10,7 @@ hide:
 
  :octicons-tools-24: In progress
 
-!!! note ""
+!!! note
      We're working on this content.
 
 --8<-- "includes/urls-en.txt"

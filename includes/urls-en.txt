@@ -183,6 +183,7 @@
 [configure-mentions-and-all-other-messages]: /en/your-profile-and-preferences/configure-mentions-and-all-other-messages
 [customize-membership-request-notifications]: /en/your-profile-and-preferences/customize-membership-request-notifications
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
+[customize-mentions-and-other-messages]: /en/your-profile-and-preferences/customize-mentions-and-other-messages
 [delete-your-status-profile]: /en/your-profile-and-preferences/delete-your-status-profile
 [edit-profile-info]: /en/your-profile-and-preferences/view-and-edit-your-status-profile#edit-profile-info
 [edit-profile-picture]: /en/your-profile-and-preferences/view-and-edit-your-status-profile#edit-profile-picture

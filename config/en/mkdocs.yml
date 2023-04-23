@@ -310,15 +310,11 @@ nav:
       - Set up your notification settings: your-profile-and-preferences/set-up-your-notification-settings.md
       - View notifications and updates: your-profile-and-preferences/view-notifications-and-updates.md
       - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
-      - Customize direct message notifications: your-profile-and-preferences/customize-direct-message-notifications.md
-      - Configure mentions and all other messages: your-profile-and-preferences/configure-mentions-and-all-other-messages.md
-      - Customize group chat notifications: your-profile-and-preferences/customize-group-chat-notifications.md
-      - Configure community and channel notifications: your-profile-and-preferences/configure-community-and-channel-notifications.md
-      - Set up and customize notification exceptions: your-profile-and-preferences/set-up-and-customize-notification-exceptions.md
-      - Customize membership request notifications: your-profile-and-preferences/customize-membership-request-notifications
-      - Reset your notification settings: your-profile-and-preferences/reset-your-notification-settings.md
-    - Your profile security and privacy:
-      - Back up and secure your recovery phrase: your-profile-and-preferences/back-up-and-secure-your-recovery-phrase.md
+      - Customize mentions and other messages: your-profile-and-preferences/customize-mentions-and-other-messages.md
+    - Handle your contact list and user verification:
+      - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status.md
+      - Understand Status profile labels: your-profile-and-preferences/understand-status-profile-labels.md
+    - Secure your profile:
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
       - View your profile as someone else: your-profile-and-preferences/view-your-profile-as-someone-else.md
       - About changing your password: your-profile-and-preferences/about-changing-your-password.md
