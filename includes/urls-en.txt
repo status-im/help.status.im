@@ -96,6 +96,7 @@
 [what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
 
 [about-your-wallet-accounts-and-addresses]: /en/status-wallet/about-your-wallet-accounts-and-addresses
+[buy-crypto]: /en/status-wallet/buy-crypto
 [cancel-transactions]: /en/status-wallet/cancel-transactions
 [crypto-bridging-your-quick-start-guide]: /en/status-wallet/crypto-bridging-your-quick-start-guide
 [handle-pending-or-stuck-transactions]: /en/status-wallet/handle-pending-or-stuck-transactions
