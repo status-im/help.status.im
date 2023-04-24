@@ -13,7 +13,7 @@ hide:
 
 In Status Communities, owners can customize community permissions using tokens. Tokens are digital assets in a blockchain (such as the [Ethereum blockchain][about-the-ethereum-blockchain]), including virtual coins, collectibles and domain names.
 
-Once you set up token-based permissions, certain actions within your community are only available to users who own a particular token. For instance, owners can [restrict access to their community][set-up-a-private-community] or [delegate admin functions][co-manage-your-status-community] to specific token holders.
+Once you set up token-based permissions, certain actions within your community are only available to users who own a particular token. For instance, owners can [restrict access to their community][set-up-a-private-community] or [delegate admin functions][delegate-admin-functions-to-community-members] to specific token holders.
 
 !!! note
     In Status, your tokens are securely stored in your [Status Wallet][status-wallet-your-quick-start-guide].
@@ -23,7 +23,7 @@ Once you set up token-based permissions, certain actions within your community a
 - Using token-based permissions, community owners can restrict community access and actions to specific people based on token requirements.
 - Only the community owner can add, edit or delete community-level permissions.
 - You set up community permissions in the same way you [set up channel permissions][set-up-channel-permissions]. The only difference is the permissions you grant, either community-level (Become admin or Become member) or channel-level (Moderate, View and post or View only).
-- Use the Become member permission to [restrict access to your community][set-up-a-private-community]. Use the Become admin permission to [delegate admin functions][co-manage-your-status-community] to someone.
+- Use the Become member permission to [restrict access to your community][set-up-a-private-community]. Use the Become admin permission to [delegate admin functions][delegate-admin-functions-to-community-members] to someone.
 
 ## Add community permissions
 

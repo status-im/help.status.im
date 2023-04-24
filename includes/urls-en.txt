@@ -61,7 +61,6 @@
 [set-up-channel-permissions]: /en/status-communities/set-up-channel-permissions
 [create-a-channel]: /en/status-communities/create-a-channel
 [create-a-status-community]: /en/status-communities/create-a-status-community
-[co-manage-your-status-community]: /en/status-communities/co-manage-your-status-community
 [configure-channel-permissions]: /en/status-communities/configure-channel-permissions
 [configure-your-community-permissions]: /en/status-communities/configure-your-community-permissions
 [delegate-admin-functions-to-community-members]: /en/status-communities/delegate-admin-functions-to-community-members

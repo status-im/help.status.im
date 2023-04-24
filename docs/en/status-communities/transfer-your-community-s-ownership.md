@@ -15,7 +15,7 @@ If you can't manage your Status Community anymore, you can transfer the ownershi
 When you transfer the ownership, the new owner's computer becomes a community node with full control of the community, including its settings, permissions and membership approvals.
 
 !!! tip
-    If you need help managing your community, consider adding others as admins. For more information, check out [Co-manage your Status Community][co-manage-your-status-community].
+    If you need help managing your community, consider adding others as admins. For more information, check out [Delegate admin functions to community members][delegate-admin-functions-to-community-members].
 
 ## Current security issues you should consider
 
