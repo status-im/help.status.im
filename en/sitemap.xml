@@ -101,6 +101,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://help.status.im/en/status-communities/about-tokens-collectibles-and-ens-names/</loc>
+         <lastmod>2023-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://help.status.im/en/status-communities/back-up-your-community-s-private-key/</loc>
          <lastmod>2023-04-24</lastmod>
          <changefreq>daily</changefreq>
@@ -297,6 +302,11 @@
     </url>
     <url>
          <loc>https://help.status.im/en/status-wallet/about-your-wallet-accounts-and-addresses/</loc>
+         <lastmod>2023-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-wallet/buy-crypto/</loc>
          <lastmod>2023-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
