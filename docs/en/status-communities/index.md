@@ -45,6 +45,7 @@ Create your community, set up private channels or join others' communities and c
 - [**Turn off** the Community **History** Service][turn-off-the-community-history-service]
 - [Manage community **join requests**][manage-community-join-requests]
 - [**Mint tokens** for your community][mint-tokens-for-your-community]
+- [Administer your community from **different computers**][administer-your-community-from-different-computers]
 
 ## Status Web Communities
 
