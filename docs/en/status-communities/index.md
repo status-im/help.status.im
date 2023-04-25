@@ -40,8 +40,8 @@ Create your community, set up private channels or join others' communities and c
 - [**Delete** your Status **Community**][delete-your-status-community]
 - [**Transfer** your community's ownership][transfer-your-community-s-ownership]
 - [**Turn off** the Community **History** Service][turn-off-the-community-history-service]
-- [**Manage** community join requests][manage-community-join-requests]
 - [Manage community **join requests**][manage-community-join-requests]
+- [Administer your community from **different computers**][administer-your-community-from-different-computers]
 
 ## Status Web Communities
 
