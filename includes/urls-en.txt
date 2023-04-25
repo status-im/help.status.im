@@ -56,6 +56,7 @@
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
 [about-status-communities]: /en/status-communities/about-status-communities
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
+[administer-your-community-from-different-computers]: /en/status-communities/administer-your-community-from-different-computers
 [back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [about-tokens-collectibles-and-ens-names]: /en/status-communities/about-tokens-collectibles-and-ens-names
 [backup-your-community-key]: /en/status-communities/backup-your-community-key
@@ -83,7 +84,6 @@
 [kick-or-ban-someone-from-your-community]: /en/status-communities/kick-or-ban-someone-from-your-community
 [leave-a-status-community]: /en/status-communities/leave-a-status-community
 [manage-community-join-requests]: /en/status-communities/manage-community-join-requests
-[manage-your-community-from-different-computers]: /en/status-communities/manage-your-community-from-different-computers
 [mint-tokens-for-your-community]: /en/status-communities/mint-tokens-for-your-community
 [permissions-by-role-in-status-communities]: /en/status-communities/permissions-by-role-in-status-communities
 [restore-your-status-community]: /en/status-communities/restore-your-status-community
