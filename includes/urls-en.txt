@@ -131,6 +131,7 @@
 [create-and-use-additional-status-profiles]: /en/your-profile-and-preferences/create-and-use-additional-status-profiles
 [create-or-restore-your-status-profile-using-keycard]: /en/your-profile-and-preferences/create-or-restore-your-status-profile-using-keycard
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
+[customize-membership-request-notifications]: /en/your-profile-and-preferences/customize-membership-request-notifications
 [delete-your-status-profile]: /en/your-profile-and-preferences/delete-your-status-profile
 [edit-your-profile]: /en/your-profile-and-preferences/edit-your-profile
 [faq-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/faq-status-keys-and-recovery-phrase

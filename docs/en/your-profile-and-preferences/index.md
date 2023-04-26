@@ -19,6 +19,7 @@ Set up your Status profile and notifications, customize your settings and fix co
 ## Adjust your notifications
 
 - [**Mute** your notifications][mute-your-notifications]
+- [Customize **membership request** notifications][customize-membership-request-notifications]
 
 ## Handle your contact list and user verification
 
