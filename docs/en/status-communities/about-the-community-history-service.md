@@ -56,7 +56,7 @@ The following example demonstrates how a message archive is generated and how yo
 
 The CHS relies solely on the messages stored in the community owner's computer as the source of archives. If you miss any messages, your members can't receive a copy via the CHS. To provide a complete history of messages, keep your Status desktop online every day or at least once every six days.
 
-Don't remove or edit archive files, as they're part of the CHS mechanism.
+Don't remove or edit `.torrent` files, as they're part of the CHS mechanism.
 
 In case your computer malfunctions and you can't get online, you can consider [setting up additional computers][manage-your-community-from-different-computers] to manage your community. But if you [move your community owner node][restore-your-status-community] from one computer to another, the archives created using the previous computer becomes unavailable.
 
