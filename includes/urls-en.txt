@@ -103,6 +103,7 @@
 [buy-crypto]: /en/status-wallet/buy-crypto
 [cancel-transactions]: /en/status-wallet/cancel-transactions
 [crypto-bridging-your-quick-start-guide]: /en/status-wallet/crypto-bridging-your-quick-start-guide
+[export-your-recovery-phrase]: /en/status-wallet/export-your-recovery-phrase.md
 [handle-pending-or-stuck-transactions]: /en/status-wallet/handle-pending-or-stuck-transactions
 [import-your-wallet-funds-into-status-wallet]: /en/status-wallet/import-your-wallet-funds-into-status-wallet
 [receive-crypto]: /en/status-wallet/receive-crypto
@@ -163,4 +164,5 @@
 [status-website]: https://status.im
 [tenor]: https://tenor.com/
 [trusted-platform-module]: https://en.wikipedia.org/wiki/Trusted_Platform_Module
+[uniswap-token-list]: https://tokenlists.org/token-list?url=https://gateway.ipfs.io/ipns/tokens.uniswap.org
 [waku]: https://waku.org/
