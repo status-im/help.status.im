@@ -14,6 +14,7 @@ Create your community, set up private channels or join others' communities and c
 - [About community **request approvals**][about-community-request-approvals]
 - [Understand **token requirements** in communities][understand-token-requirements-in-communities]
 - [About **losing access** to a community][about-losing-access-to-a-community]
+- [**Leave** a Status Community][leave-a-status-community]
 
 ## Channels
 

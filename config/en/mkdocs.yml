@@ -223,7 +223,8 @@ nav:
       - Invite people to a Status community: status-communities/invite-people-to-a-status-community.md
       - About community request approvals: status-communities/about-community-request-approvals.md
       - Understand token requirements in communities: status-communities/understand-token-requirements-in-communities.md
-      - About losing access to a community: status-communities/about-losing-access-to-a-community.md
+      - Permissions by role in Status Communities: status-communities/permissions-by-role-in-status-communities.md
+      - Leave a Status Community: status-communities/leave-a-status-community.md
     - Channels:
       - Channels your quick start guide: status-communities/channels-your-quick-start-guide.md
       - Join a channel: status-communities/join-a-channel.md
