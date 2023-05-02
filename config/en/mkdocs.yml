@@ -217,10 +217,10 @@ nav:
       - Restore your Status Community: status-communities/restore-your-status-community.md
       - Delegate admin functions to community members: status-communities/delegate-admin-functions-to-community-members.md
       - Delete your Status Community: status-communities/delete-your-status-community.md
-      - Transfer your community's ownership: status-communities/transfer-your-community-s-ownership
-      - About the Community History Service: status-communities/about-the-community-history-service
+      - About the Community History Service: status-communities/about-the-community-history-service.md
       - Turn off the Community History Service: status-communities/turn-off-the-community-history-service.md
-      - Mint tokens for your community: status-communities/mint-tokens-for-your-community
+      - Transfer your community's ownership: status-communities/transfer-your-community-s-ownership.md
+      - Mint tokens for your community: status-communities/mint-tokens-for-your-community.md
     - Status Web Communities:
       - Use a throwaway profile in Status Web: status-communities/use-a-throwaway-profile-in-status-web.md
       - Understand throwaway profiles in Status Web: status-communities/understand-throwaway-profiles-in-status-web.md
