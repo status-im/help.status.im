@@ -13,6 +13,7 @@
 [download-status-for-linux]: /en/getting-started/download-status-for-linux
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
 [invite-friends-to-status]: /en/getting-started/invite-friends-to-status
+[layer-2-scaling-solutions-for-ethereum]: /en/getting-started/layer-2-scaling-solutions-for-ethereum
 [new-profile]: /en/getting-started/run-the-status-app-for-the-first-time#new-profile
 [run-the-status-app-for-the-first-time]: /en/getting-started/run-the-status-app-for-the-first-time
 [what-is-status]: /en/getting-started/what-is-status
@@ -56,9 +57,10 @@
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
 [about-status-communities]: /en/status-communities/about-status-communities
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
-[back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [about-tokens-collectibles-and-ens-names]: /en/status-communities/about-tokens-collectibles-and-ens-names
+[back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [backup-your-community-key]: /en/status-communities/backup-your-community-key
+[burn-your-community-tokens]: /en/status-communities/burn-your-community-tokens
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [co-manage-your-status-community]: /en/status-communities/co-manage-your-status-community
 [customize-your-channel]: /en/status-communities/customize-your-channel
@@ -73,6 +75,7 @@
 [delete-community-permissions]: /en/status-communities/set-up-your-community-permissions#delete-community-permissions
 [delete-your-status-community]: /en/status-communities/delete-your-status-community
 [getting-started-for-community-owners]: /en/status-communities/getting-started-for-community-owners
+[grant-exclusive-access-with-custom-tokens]: /en/status-communities/grant-exclusive-access-with-custom-tokens
 [how-chs-works]: /en/status-communities/about-the-community-history-service#how-chs-works
 [how-to-airdrop-tokens-in-status]: /en/status-communities/how-to-airdrop-tokens-in-status
 [how-to-mint-an-admin-token]: /en/status-communities/how-to-mint-an-admin-token
