@@ -10,10 +10,10 @@ hide:
 
 There are times when you may not enjoy the conversations in a community, and you can leave it.
 
-## What to expact
+## What to expect
 
-- You stop receiving messages from the community.
-- The community owner will not recive any notification nitification about your levaing.
+- You no longer receive messages from the community.
+- Status does not notify the community owner and other members of your action.
 - You can join the community again.
 
 ## Leave a Status Community
@@ -21,7 +21,7 @@ There are times when you may not enjoy the conversations in a community, and you
 === "Mobile"
 
     1. From the tab bar, tap :mobile-communities: **Communities**.
-    1. In the **Communities** list, slect the one you want to leave.
+    1. In the **Communities** list, select the one you want to leave.
     1. Tap :mobile-more-options: **More options**.
     1. Select :mobile-log-out: **Leave community**.
     1. Tap **Leave community** again to confirm.
