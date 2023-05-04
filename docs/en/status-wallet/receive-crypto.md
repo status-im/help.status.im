@@ -19,23 +19,26 @@ To receive crypto, you need to share your Ethereum address with the sender. As l
 
     1. From the tab bar, tap :mobile-wallet: **Wallet**.
     1. From the navigation bar, tap :mobile-qr-code: **View address**.
-    1. Choose either your legacy or multichain address. For your multichain address, tap :desktop-edit: **Edit** to choose which chains you want your multichain address to feature.
+    1. Choose either your legacy or multi-chain address. For your multi-chain address, tap :desktop-edit: **Edit** to choose which chains you want your multi-chain address to feature.
     1. To copy your address, tap :mobile-copy: **Copy**.
 
 === "Desktop"
 
     1. From the navigation sidebar, click :desktop-wallet: **Wallet**.
     1. Click :desktop-receive: **Receive**.
-    1. Choose either your legacy or multichain address. For your multichain address, click :desktop-edit: **Edit** to choose which chains you want your multichain address to feature. 
+    1. Choose either your legacy or multi-chain address. For your multi-chain address, click :desktop-edit: **Edit** to choose which chains you want your multi-chain address to feature. 
     1. To copy your address, click :desktop-copy: **Copy address**.
 
-## Your legacy and multichain addresses
+## Your legacy and multi-chain addresses
 
-In essence, your legacy and multichain addresses are the same address. If you're only interested in the Ethereum mainnet, you can safely use your legacy address.
+In essence, your legacy and multi-chain addresses are the same address. If you're only interested in the Ethereum mainnet, you can safely use your legacy address.
 
-The key difference between your legacy and multichain addresses is that your multichain address lists the blockchain networks you want to receive crypto on. This means that if you're using any [l2s or sidechains][understand-l2s-and-sidechains], your multichain address can help signal which chains you prefer. 
+The key difference between your legacy and multi-chain addresses is that your multi-chain address lists the blockchain networks you want to receive crypto on. This means that if you're using any [layer-2 solutions or sidechains][understand-l2s-and-sidechains], your multi-chain address can help signal which chains you prefer.
 
-For example, if you're using Ethereum mainnet and Optimism but not Arbitrum, you can click :desktop-edit: Edit on your Multichain address screen and check the boxes next to the chains you want to use. The unselected chains do not show up in your address, letting the sender know you don't want to receive crypto on those chains.
+!!! note
+     To use your multi-chain address, the sender needs to use a wallet app that supports multi-chain addresses. Status Wallet does this by default.
+
+For example, if you're using Ethereum mainnet and Optimism but not Arbitrum, you can click :desktop-edit: Edit on your multi-chain address screen and check the boxes next to the chains you want to use. The unselected chains do not show up in your address. This lets the sender know you don't want to receive crypto on those chains.
 
 ## What to do if you didn't receive your crypto
 
