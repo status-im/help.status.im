@@ -8,7 +8,7 @@ hide:
 
 # Receive crypto
 
-To receive crypto, you need to share your Ethereum address with the sender. As long as you only share your public address (which starts with `0x`), it's perfectly safe.
+To receive crypto, you need to share your Ethereum address with the sender. As long as you only share your public address (which starts with `0x` and is 42 characters long), it's perfectly safe.
 
 !!! warning
      You should never share your 12-word recovery phrase with anyone. Anyone who has your recovery phrase can manage your crypto. If someone's asking for your recovery phrase to send you crypto, they're trying to scam you.
@@ -18,9 +18,9 @@ To receive crypto, you need to share your Ethereum address with the sender. As l
 === "Mobile"
 
     1. From the tab bar, tap :mobile-wallet: **Wallet**.
-    1. From the navigation bar, tap :mobile-qr-code: **View address**.
+    1. From the top navigation, tap :mobile-qr-code: **View address**.
     1. Choose either your legacy or multi-chain address. For your multi-chain address, tap :desktop-edit: **Edit** to choose which chains you want your multi-chain address to feature.
-    1. To copy your address, tap :mobile-copy: **Copy**.
+    1. To copy your address, tap :mobile-copy: **Copy**. You can also ask the sender to scan the QR code of your address.
 
 === "Desktop"
 
@@ -38,7 +38,7 @@ The key difference between your legacy and multi-chain addresses is that your mu
 !!! note
      To use your multi-chain address, the sender needs to use a wallet app that supports multi-chain addresses. Status Wallet does this by default.
 
-For example, if you're using Ethereum mainnet and Optimism but not Arbitrum, you can click :desktop-edit: Edit on your multi-chain address screen and check the boxes next to the chains you want to use. The unselected chains do not show up in your address. This lets the sender know you don't want to receive crypto on those chains.
+For example, if you're using Ethereum mainnet and Optimism but not Arbitrum, your multi-chain address can show that preference. To add this to your address, go to Wallet > Receive > Multi-chain address > :desktop-edit: Edit (Wallet > View Address > Multi-chain address > :mobile-edit: Edit on mobile). From there, check the boxes next to the chains you want to use. The unselected chains do not show up in your address. This lets the sender know you don't want to receive crypto on those chains.
 
 ## What to do if you didn't receive your crypto
 
