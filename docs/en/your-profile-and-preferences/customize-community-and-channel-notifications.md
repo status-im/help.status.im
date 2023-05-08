@@ -8,33 +8,33 @@ hide:
 
 # Customize community and channel notifications
 
-Any member of an existing community or channel can set up their notification settings in three different options: [`mute messages`](link), [`mention people`](link) and [`set up exceptions`](link). Using these options, you receive notifications only from those communities or channels that are relevant to you. 
+You can customize the messages and mentions notifications you receive in communities and channels. By doing so, you only receive the group chat notifications relevant to you.
 
 This article describes common examples.
 
 - [Mute all community notifications.](#mute-all-community-notifications)
 - [Mute community notifications except global mentions.](#mute-community-notifications-except-global-mentions)
-- [Set the same settings for all community messages types.](#set-the-same-settings-for-all-community-messages-types)
+- [Set the same settings for all community message types.](#set-the-same-settings-for-all-community-message-types)
 
 ## Mute all community notifications
 
-You can turn off your notifications for specific communities for a designated period. Communities appear greyed out when you mute their notifications.
+You can turn off your notifications for specific communities for a designated period. When you mute notifications for a community, it starts appearing greyed out.
 
 === "Mobile"
 
     1. From the tab bar, tap :mobile-communities: **Communities**.
     1. Long press the community you want to mute.
     1. Tap :mobile-mute: **Mute**.
-    1. Select the length of time you'd like to mute your notifications.
+    1. Choose for how long you'd like to mute your notifications.
 
 !!! tip
-	Communities appear greyed out :mobile-mute: **Mute**, when you mute their notifications.
+	When you mute notifications for a community, it starts appearing greyed out :mobile-mute: **Mute**.
 
 === "Desktop"  
 
     1. From the navigation sidebar, click :desktop-settings: **Settings**.
     1. From the settings sidebar, click :desktop-communities: **Communities**.
-    1. Choose the community you want to mute, and click :desktop-notification: **Mute**.
+    1. Choose the community you want to mute and click :desktop-notification: **Mute**.
 
 ## Mute community notifications except global mentions
 
@@ -47,9 +47,9 @@ If you want to avoid missing important messages, you can selectively mute some n
     1. Tap :mobile-notifications-settings: **Notification settings**.
     1. Select **Personal mentions** > **Notifications off**.
     1. Select **All other messages** > **Notifications off**.
-    1. Verify **Global mentions** is set to **On**. If it is not, then select **Global mentions** > **Notifications on**.
+    1. MAke sure **Global mentions** is set to **On**. If it is not, select **Global mentions** > **Notifications on**.
 
-## Set the same settings for all community messages types
+## Set the same settings for all community message types
 
 === "Mobile"
 
@@ -62,7 +62,7 @@ If you want to avoid missing important messages, you can selectively mute some n
 
 
 !!! note
-	You can fine tune your notifications using exceptions. Status provides more advanced ways to configure your exceptions. For more information check out "name of the article here".
+	You can fine-tune your notifications using exceptions. Status provides more advanced ways to configure your exceptions. For more details, check out [Set up and customize notification exceptions][set-up-and-customize-notification-exceptions].
 
 
 --8<-- "includes/urls-en.txt"
