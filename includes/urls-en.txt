@@ -133,10 +133,14 @@
 [create-or-restore-your-status-profile-using-keycard]: /en/your-profile-and-preferences/create-or-restore-your-status-profile-using-keycard
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
 [delete-your-status-profile]: /en/your-profile-and-preferences/delete-your-status-profile
+[edit-profile-info]: /en/your-profile-and-preferences/edit-your-status-profile#edit-profile-info
+[edit-profile-picture]: /en/your-profile-and-preferences/edit-your-status-profile#edit-profile-picture
+[edit-showcase]: /en/your-profile-and-preferences/edit-your-status-profile#edit-showcase
 [edit-your-status-profile]: /en/your-profile-and-preferences/edit-your-status-profile
 [faq-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/faq-status-keys-and-recovery-phrase
 [if-you-lose-your-status-password-or-recovery-phrase]: /en/your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase
 [log-out-of-status]: /en/your-profile-and-preferences/log-out-of-status
+[manage-links]: /en/your-profile-and-preferences/edit-your-status-profile#manage-links
 [mute-your-notifications]: /en/your-profile-and-preferences/mute-your-notifications
 [share-your-status-profile]: /en/your-profile-and-preferences/share-your-status-profile
 [register-your-status-ens-name]: /en/your-profile-and-preferences/register-your-status-ens-name
