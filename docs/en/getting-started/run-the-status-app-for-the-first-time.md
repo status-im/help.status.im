@@ -50,7 +50,7 @@ To protect your Status data and funds, [back up and secure your recovery phrase]
 
 ## Customize your profile
 
-You can customize your Status profile at any time in the [Status settings][customize-your-status-profile].
+Here you only fill out basic information. You can customize your Status profile further at any time in the [Status settings][edit-your-status-profile].
 
 === "Mobile"
 

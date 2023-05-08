@@ -186,12 +186,16 @@
 [customize-membership-request-notifications]: /en/your-profile-and-preferences/customize-membership-request-notifications
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
 [delete-your-status-profile]: /en/your-profile-and-preferences/delete-your-status-profile
+[edit-profile-info]: /en/your-profile-and-preferences/edit-your-status-profile#edit-profile-info
+[edit-profile-picture]: /en/your-profile-and-preferences/edit-your-status-profile#edit-profile-picture
+[edit-showcase]: /en/your-profile-and-preferences/edit-your-status-profile#edit-showcase
 [edit-your-status-profile]: /en/your-profile-and-preferences/edit-your-status-profile
 [enable-rich-link-previews-in-messages]: /en/your-profile-and-preferences/enable-rich-link-previews-in-messages
 [faq-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/faq-status-keys-and-recovery-phrase
 [if-you-lose-your-status-password-or-recovery-phrase]: /en/your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase
 [keycard-your-quick-start-guide]: /en/your-profile-and-preferences/keycard-your-quick-start-guide
 [log-out-of-status]: /en/your-profile-and-preferences/log-out-of-status
+[manage-links]: /en/your-profile-and-preferences/edit-your-status-profile#manage-links
 [mute-your-notifications]: /en/your-profile-and-preferences/mute-your-notifications
 [profile-synchronization-reference]: /en/your-profile-and-preferences/profile-synchronization-reference
 [share-your-status-profile]: /en/your-profile-and-preferences/share-your-status-profile
