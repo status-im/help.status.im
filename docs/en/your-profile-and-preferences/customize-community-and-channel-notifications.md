@@ -49,7 +49,19 @@ If you want to avoid missing important messages, you can selectively mute some n
     1. Select **All other messages** > **Notifications off**.
     1. MAke sure **Global mentions** is set to **On**. If it is not, select **Global mentions** > **Notifications on**.
 
+=== "Desktop"  
+
+    1. From the navigation sidebar, click :desktop-settings: **Settings**.
+    1. From the **Settings sidebar**, click :desktop-notification: **Notifications and Sounds**.
+    1. Scroll down to the **Exceptions** area and click :desktop-add: **Add** next to the group chat you want to mute.
+    1. Select **Personal mentions** > **Turn off**. 
+    1. Select **All other messages** > **Turn off**.
+    1. On the same pop-up menu, verify **Global mentions** is set to **Send alerts**. If it is not, then select **Global mentions** > **Send Alerts**.
+    1. Click **Done**. 
+
 ## Set the same settings for all community message types
+
+Currently, you can only set the same settings for all community types using Status mobile.
 
 === "Mobile"
 
@@ -59,10 +71,7 @@ If you want to avoid missing important messages, you can selectively mute some n
     1. Turn on **Same settings for all messages types**. 
     1. Choose your preferred notification option. 
 
-
-
 !!! note
 	You can fine-tune your notifications using exceptions. Status provides more advanced ways to configure your exceptions. For more details, check out [Set up and customize notification exceptions][set-up-and-customize-notification-exceptions].
-
 
 --8<-- "includes/urls-en.txt"
