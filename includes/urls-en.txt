@@ -57,8 +57,8 @@
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
 [about-status-communities]: /en/status-communities/about-status-communities
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
-[administer-your-community-from-different-computers]: /en/status-communities/administer-your-community-from-different-computers
 [about-tokens-collectibles-and-ens-names]: /en/status-communities/about-tokens-collectibles-and-ens-names
+[administer-your-community-from-different-computers]: /en/status-communities/administer-your-community-from-different-computers
 [back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [burn-your-community-tokens]: /en/status-communities/burn-your-community-tokens
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
