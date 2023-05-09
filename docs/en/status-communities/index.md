@@ -41,7 +41,7 @@ Create your community, set up private channels or join others' communities and c
 - [**Transfer** your community's ownership][transfer-your-community-s-ownership]
 - [**Turn off** the Community **History** Service][turn-off-the-community-history-service]
 - [Manage community **join requests**][manage-community-join-requests]
-- [Administer your community from **different computers**][administer-your-community-from-different-computers]
+- [Administer your community with **control and admin nodes**][administer-your-community-with-control-and-admin-nodes]
 
 ## Status Web Communities
 
