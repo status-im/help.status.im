@@ -56,7 +56,7 @@
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
 [about-status-communities]: /en/status-communities/about-status-communities
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
-[administer-your-community-with-control-and-admin-nodes]: /en/status-communities/administer-your-community-with-control-and-admin-nodes
+[aabout-the-control-node-in-status-communities]: /en/status-communities/aabout-the-control-node-in-status-communities
 [back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [about-tokens-collectibles-and-ens-names]: /en/status-communities/about-tokens-collectibles-and-ens-names
 [backup-your-community-key]: /en/status-communities/backup-your-community-key
