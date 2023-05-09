@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Administer your community with control and admin nodes
+# About the control node in Status Communities
 
 !!! note ""
     Currently, you can only administer communities using the Status desktop app. [:octicons-desktop-download-16: Download Status desktop][status-web-download].
