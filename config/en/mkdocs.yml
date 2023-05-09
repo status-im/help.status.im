@@ -251,5 +251,6 @@ nav:
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
     - Troubleshooting:
       - If you lose your Status password or recovery phrase: your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase.md
+      - Common issues when the community control node is offline: common-issues-when-the-community-control-node-is-offline.md
   - Network nodes:
     - network-nodes-and-statistics/index.md
