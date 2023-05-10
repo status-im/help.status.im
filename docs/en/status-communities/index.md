@@ -42,7 +42,7 @@ Create your community, set up private channels or join others' communities and c
 - [About the **Community History Service**][about-the-community-history-service]
 - [**Turn off** the Community **History** Service][turn-off-the-community-history-service]
 - [Manage community **join requests**][manage-community-join-requests]
-- [Administer your community with **control and admin nodes**][aabout-the-control-node-in-status-communities]
+- [About the **control node** in Status Communities][about-the-control-node-in-status-communities]
 
 ## Status Web Communities
 
