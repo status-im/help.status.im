@@ -19,6 +19,7 @@ Set up your Status profile and notifications, customize your settings and fix co
 ## Adjust your notifications
 
 - [**Mute** your notifications][mute-your-notifications]
+- [Customize **direct message notifications**][customize-direct-message-notifications]
 
 ## Handle your contact list and user verification
 

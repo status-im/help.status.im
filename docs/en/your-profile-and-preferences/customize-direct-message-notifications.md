@@ -1,0 +1,85 @@
+---
+id: 597
+revision: 0
+language: en
+hide:
+  - navigation
+---
+
+# Customize direct message notifications
+
+By default, you receive notifications for direct messages (DMs). You can customize the notifications you receive in DMs. By doing so, you only receive the DMs notifications relevant to you.
+
+In addition to DMs you receive from others, you also receive notifications for mentions. To customize your mentions notifications, read [Customize mentions and other messages][customize-mentions-and-other-messages].
+
+## Mute direct messages notifications from a user
+
+When you mute DMs from a user, you may still receive mentions from that user. If you want to customize metions, check out [Customize mentions and other messages][customize-mentions-and-other-messages].
+
+=== "Mobile"
+
+    1. From the tab bar, tap :mobile-messages: **Messages**.
+    1. Long press the DM you want to mute.
+    1. Tap :mobile-mute: **Mute**.
+    1. Select the length of time you'd like to mute your notifications.
+
+=== "Desktop"  
+
+    1. From the navigation sidebar, click :desktop-messages: **Messages**.
+    1. Under the messages list, right click the DM you want to mute.
+    1. Select **Mute chat**.
+
+!!! tip
+	DMs show up greyed out :mobile-mute: **Mute** next to their name, when you mute notifications.
+
+## Mute all direct messages notifications
+
+This action mutes notifications from all your direct messages (DMs). If you want to mute all Status notifications, read [Mute your notifications][mute-your-notifications].
+
+=== "Mobile"
+
+    1. From the tab bar, tap :mobile-messages: **Messages**.
+    1. Tap your profile picture.
+    1. Scroll down in the list and tap :mobile-mute: **Notifications**.
+    1. Turn **Notifications** off.
+
+=== "Desktop"
+
+    1. From the navigation sidebar, click :desktop-settings: **Settings**. 
+    1. In the **Settings** sidebar, click :desktop-notification: **Notifications and Sounds**.
+    1. Turn **Notifications** off.
+
+!!! note
+    Muting all the Status app notifications mutes ephemeral notifications (the ones appearing on your screen and disappearing shortly after).
+
+## Customize direct messages notifications
+
+=== "Mobile"
+
+    1. From the tab bar,  tap :mobile-messages: **Messages**.
+    1. Long press the DM you want to set up notifications for.
+    1. Tap :mobile-notifications-settings: **Notification settings**.
+    1. Select **Personal mentions**, **Global mentions** or **All other messages**.
+    1. Choose your notification preference.
+
+    | Preference | Description |
+    |:---|:---|
+    | Notification on| Turn this on if you want to see notifications banners. |
+    | In notification centre only |Turn on this option to receive subtle notifications without banners. You need to unlock your phone to see your notifications. |
+    | Notifications off | Turn this off if you don't want to receive notifications. |
+
+
+=== "Desktop"  
+
+    1. From the navigation sidebar, click :desktop-settings: **Settings**.
+    1. From the **Settings sidebar**, click :desktop-notification: **Notifications and Sounds**.
+    1. Under the **Messages** area click on the drop-down menu next to **1:1 Chats**.
+    1. Choose your notification preference.                   
+    
+    | Preference | Description |
+    |:---|:---|
+    | Send Alerts| Turn this on if you want to see notifications banners. |
+    | Deliver Quietly |Turn on this option to receive subtle notifications without banners. You need to unlock your phone to see your notifications. |
+    | Turn off | Turn this off if you don't want to receive notifications. |
+    
+--8<-- "includes/urls-en.txt"
