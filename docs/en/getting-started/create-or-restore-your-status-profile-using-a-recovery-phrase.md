@@ -36,7 +36,7 @@ This table summarizes your options when you have a recovery phrase:
 !!! tip
     Creating or restoring a profile using a recovery phrase follows the same procedure.
 
-## Create or restore your profile using a recovery phrase
+## Create or restore your profile using a recovery phrase {: #create-or-restore-profile-with-recovery-phrase }
 
 When you restore your Status profile using a recovery phrase, Status tries to pull your information from the [decentralized Waku network][peer-to-peer-messaging]. Status doesn't use centralized servers and doesn't store your profile information.
 
