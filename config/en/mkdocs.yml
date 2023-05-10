@@ -217,8 +217,8 @@ nav:
       - Restore your Status Community: status-communities/restore-your-status-community.md
       - Delegate admin functions to community members: status-communities/delegate-admin-functions-to-community-members.md
       - Delete your Status Community: status-communities/delete-your-status-community.md
-      - Transfer your community's ownership: status-communities/transfer-your-community-s-ownership
-      - About the Community History Service: status-communities/about-the-community-history-service
+      - Transfer your community's ownership: status-communities/transfer-your-community-s-ownership.md
+      - About the Community History Service: status-communities/about-the-community-history-service.md
       - Turn off the Community History Service: status-communities/turn-off-the-community-history-service.md
       - Replace your community's control node: status-communities/replace-your-community-s-control-node.md
     - Status Web Communities:
