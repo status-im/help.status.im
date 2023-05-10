@@ -95,6 +95,7 @@
 [manage-community-join-requests]: /en/status-communities/manage-community-join-requests
 [mint-tokens-for-your-community]: /en/status-communities/mint-tokens-for-your-community
 [permissions-by-role-in-status-communities]: /en/status-communities/permissions-by-role-in-status-communities
+[replace-your-community-s-control-node]: /en/status-communities/replace-your-community-s-control-node
 [restore-your-status-community]: /en/status-communities/restore-your-status-community
 [self-destruct-a-token-remotely]: /en/status-communities/self-destruct-a-token-remotely 
 [set-up-a-private-community]: /en/status-communities/set-up-a-private-community
