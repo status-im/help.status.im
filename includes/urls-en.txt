@@ -103,8 +103,10 @@
 [about-your-wallet-accounts-and-addresses]: /en/status-wallet/about-your-wallet-accounts-and-addresses
 [buy-crypto]: /en/status-wallet/buy-crypto
 [cancel-transactions]: /en/status-wallet/cancel-transactions
+[create-a-new-wallet]: /en/status-wallet/create-a-new-wallet
 [crypto-bridging-your-quick-start-guide]: /en/status-wallet/crypto-bridging-your-quick-start-guide
 [handle-pending-or-stuck-transactions]: /en/status-wallet/handle-pending-or-stuck-transactions
+[handle-transactions-you-don-t-recognize]: /en/status-wallet/handle-transactions-you-don-t-recognize
 [import-your-wallet-funds-into-status-wallet]: /en/status-wallet/import-your-wallet-funds-into-status-wallet
 [receive-crypto]: /en/status-wallet/receive-crypto
 [send-crypto]: /en/status-wallet/send-crypto
