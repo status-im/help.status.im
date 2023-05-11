@@ -8,13 +8,13 @@ hide:
 
 # Customize direct message notifications
 
-By default, you receive notifications for direct messages (DMs). You can customize the notifications you receive in DMs. By doing so, you only receive the DMs notifications relevant to you.
+By default, you receive notifications for direct messages (DMs). You can choose which notifications you receive for your DMs. If you do so, you only receive the DMs notifications relevant to you.
 
-In addition to DMs you receive from others, you also receive notifications for mentions. To customize your mentions notifications, read [Customize mentions and other messages][customize-mentions-and-other-messages].
+In addition to DM notifications, you also receive notifications for mentions. For example, if you mute someone, they can still mention you in a community channel or group chat. To customize your mention notifications, read [Customize mentions and other messages][customize-mentions-and-other-messages].
 
 ## Mute direct messages notifications from a user
 
-When you mute DMs from a user, you may still receive mentions from that user. If you want to customize metions, check out [Customize mentions and other messages][customize-mentions-and-other-messages].
+When you mute DMs from a user, you may still receive mention notification from that user. If you want to customize mention notifications, check out [Customize mentions and other messages][customize-mentions-and-other-messages].
 
 === "Mobile"
 
@@ -30,7 +30,7 @@ When you mute DMs from a user, you may still receive mentions from that user. If
     1. Select **Mute chat**.
 
 !!! tip
-	DMs show up greyed out :mobile-mute: **Mute** next to their name, when you mute notifications.
+	When you mute notifications for a DM, it gets greyed out and :mobile-mute: Mute appears next to the user's name.
 
 ## Mute all direct messages notifications
 
@@ -40,7 +40,7 @@ This action mutes notifications from all your direct messages (DMs). If you want
 
     1. From the tab bar, tap :mobile-messages: **Messages**.
     1. Tap your profile picture.
-    1. Scroll down in the list and tap :mobile-mute: **Notifications**.
+    1. Scroll down the list and tap :mobile-mute: **Notifications**.
     1. Turn **Notifications** off.
 
 === "Desktop"
@@ -50,7 +50,7 @@ This action mutes notifications from all your direct messages (DMs). If you want
     1. Turn **Notifications** off.
 
 !!! note
-    Muting all the Status app notifications mutes ephemeral notifications (the ones appearing on your screen and disappearing shortly after).
+    If you mute all Status app notifications, you're also muting notifications that appear on your screen and disappear shortly after.
 
 ## Customize direct messages notifications
 
@@ -64,22 +64,22 @@ This action mutes notifications from all your direct messages (DMs). If you want
 
     | Preference | Description |
     |:---|:---|
-    | Notification on| Turn this on if you want to see notifications banners. |
-    | In notification centre only |Turn on this option to receive subtle notifications without banners. You need to unlock your phone to see your notifications. |
-    | Notifications off | Turn this off if you don't want to receive notifications. |
+    | Notifications on| Turn this on if you want to see notification banners. |
+    | In notification centre only |Turn this on to receive subtle notifications without banners. You need to unlock your phone to see your notifications. |
+    | Notifications off | Turn this off if you don't want to receive any notifications. |
 
 
 === "Desktop"  
 
     1. From the navigation sidebar, click :desktop-settings: **Settings**.
     1. From the **Settings sidebar**, click :desktop-notification: **Notifications and Sounds**.
-    1. Under the **Messages** area click on the drop-down menu next to **1:1 Chats**.
+    1. Under the **Messages** area, click on the drop-down menu next to **1:1 Chats**.
     1. Choose your notification preference.                   
     
     | Preference | Description |
     |:---|:---|
-    | Send Alerts| Turn this on if you want to see notifications banners. |
-    | Deliver Quietly |Turn on this option to receive subtle notifications without banners. You need to unlock your phone to see your notifications. |
+    | Send alerts| Turn this on if you want to see notifications banners. |
+    | Deliver quietly |Turn this on to receive subtle notifications without banners. You need to unlock your phone to see your notifications. |
     | Turn off | Turn this off if you don't want to receive notifications. |
     
 --8<-- "includes/urls-en.txt"
