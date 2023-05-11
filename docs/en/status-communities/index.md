@@ -36,6 +36,7 @@ Create your community, set up private channels or join others' communities and c
 - [**Restore** your Status Community][restore-your-status-community]
 - [Set up a **private community**][set-up-a-private-community]
 - [**Back up** your community's private key][back-up-your-community-s-private-key]
+- [About the **Community History Service**][about-the-community-history-service]
 - [**Delegate admin functions** to community members][delegate-admin-functions-to-community-members]
 - [**Delete** your Status **Community**][delete-your-status-community]
 - [**Transfer** your community's ownership][transfer-your-community-s-ownership]

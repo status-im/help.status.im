@@ -4,9 +4,13 @@ revision: 0
 language: en
 hide:
   - navigation 
+  - navigation 
 ---
 
 # About the Community History Service
+# About the Community History Service
+
+
 
 !!! note ""
      Currently, you can only configure and benefit from the community history service using Status desktop. [:octicons-desktop-download-16: Download Status desktop][status-web-download].
