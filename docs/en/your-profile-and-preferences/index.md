@@ -41,6 +41,7 @@ Set up your Status profile and notifications, customize your settings and fix co
 
 ## Your profile security and privacy
 
+- [**Respond** to a **contact request**][respond-to-a-contact-request]
 - [**Back up and secure** your recovery phrase][back-up-and-secure-your-recovery-phrase]
 - [Understand your **Status keys** and **recovery phrase**][understand-your-status-keys-and-recovery-phrase]
 - [**View your profile** as someone else][view-your-profile-as-someone-else]
