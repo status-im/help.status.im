@@ -34,7 +34,6 @@ Status Users with access to your profile can send you contact requests. For exam
     | View the sender's message | Tap the request message, then tap :mobile-add-user: **Review contact request**. |
     | View the sender's profile | Tap the sender's profile picture. |
 
-
 === "Desktop"
 
     1. From the navigation sidebar, click :desktop-chat: **Messages**.
@@ -49,6 +48,6 @@ Status Users with access to your profile can send you contact requests. For exam
     | View the sender's profile | Click on the sender's profile picture. |
 
 !!! tip
-    In Status, you can [label other users' profiles][understand-status-profile-labels]. Whether you accept or reject the contact request, you can [block the user][] or [mark the user as untrusted][]. If you accept the request, you can [mark the user as trusted][] or [verify the user's identity]
+    In Status, you can [label other users' profiles][understand-status-profile-labels]. Whether you accept or reject the contact request from someone, you can [block the user][] or [mark the user as untrusted][]. After  you accept the request, you can [mark the user as trusted][] or [verify the user's identity]
 
 --8<-- "includes/urls-en.txt"
