@@ -14,7 +14,7 @@ hide:
 
 Status uses a [peer-to-peer network][peer-to-peer-messaging] to temporarily store your community messages for 30 days. When your community members get online, messages are automatically downloaded and stored locally on their computers.
 
-The peer-to-peer network purges messages older than 30 days, so members who don't receive them in time can't access them. With the Community History Service (CHS), every community member can access all historical messages.
+The peer-to-peer network deletes messages older than 30 days, so members who don't receive them in time can't access them. With the Community History Service (CHS), every community member can access all historical messages.
 
 ## The basics
 
@@ -28,7 +28,7 @@ The peer-to-peer network purges messages older than 30 days, so members who don'
 
 ## How the Community History Service works {: #how-chs-works}
 
-The CHS leverages BitTorrent, a communication protocol for decentralized data sharing, with a built-in BitTorrent client in the Status desktop. BitTorrent connects computers with IP addresses and transfers archives to every member's computer.
+The CHS uses BitTorrent, a communication protocol for decentralized data sharing, with a built-in BitTorrent client in the Status desktop. BitTorrent connects computers with IP addresses and transfers archives to every member's computer.
 
 Every seven days, the CHS prompts your control node to create an archive for messages in the past seven days. Then BitTorrent clients in your and your community members' Status apps share the archive.
 
