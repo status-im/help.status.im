@@ -9,15 +9,17 @@ hide:
 # Manage community join requests
 
 !!! note ""
-     Currently, you can only manage community join requests using Status desktop.
+     Currently, you can only manage community join requests in Status desktop app.
 
-As a community owner, you can manually approve or reject requests from people who want to join your community. With this option enabled, you receive a notification whenever someone requests to join your community. This way, you can decide whether to accept, reject or ignore the request.
+You can set up manual or automatic approval join requests for your community. All requests to join your community are automatically approved by default, but you can enable manual approval.
+
+With the manual approval option, you receive a notification whenever someone requests to join your community. This way, you can decide whether to accept, reject or ignore the request.
 
 ## What to expect
 
 - Users don't receive a notification when a community owner or admin rejects their join request. Users only get a notification when the request to join is accepted.
 - The community screen is where the user can find out if their request was approved or denied.
-- If your community node is offline (for example, when you turn off your computer or close the Status desktop app), automatic join requests are rejected, and manual join requests time out in seven days. Keep the Status desktop app running as much as possible.
+- If your control node is offline (for example, when you turn off your computer or close the Status desktop app), automatic join requests are rejected, and manual join requests time out in seven days. Keep the Status desktop app running as much as possible.
 - In addition to manual approval, you can set up [token requirements][understand-token-requirements-in-communities] to join communities. Manual approval and token requirements work independently.
 
 !!! note
