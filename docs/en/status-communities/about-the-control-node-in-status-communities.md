@@ -41,7 +41,7 @@ Using a different computer is helpful if you run your Status Community on your d
 !!! tip
     Community control nodes are the only ones with access to the private's community key. If you run Status desktop on multiple computers and are unsure which one is the control node, verify if you can [back up your private's community key][back-up-your-community-s-private-key]. If you can, you're running a control node.
 
-No matter how many additional computers you use to manage your community, they forward admin tasks to the Status desktop app working as the control node, which functions as the administration hub.
+No matter how many additional computers you use to administer your community, they all forward admin tasks to the Status desktop app working as the control node, which functions as the administration hub.
 
 !!! note
     Your community is still available when the Status desktop app acting as the control node is offline, but your community members' experience degrades. For more information, check out [Common issues when the control node is offline][common-issues-when-the-community-control-node-is-offline].
