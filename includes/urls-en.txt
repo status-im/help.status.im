@@ -66,6 +66,7 @@
 [burn-your-community-tokens]: /en/status-communities/burn-your-community-tokens
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [co-manage-your-status-community]: /en/status-communities/co-manage-your-status-community
+[common-issues-when-the-community-control-node-is-offline]: /en/status-communites/common-issues-when-the-community-control-node-is-offline
 [customize-your-channel]: /en/status-communities/customize-your-channel
 [customize-your-community]: /en/status-communities/customize-your-community
 [set-up-channel-permissions]: /en/status-communities/set-up-channel-permissions
