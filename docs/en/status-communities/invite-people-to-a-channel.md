@@ -8,18 +8,18 @@ hide:
 
 # Invite people to a channel
 
-Whether you're a channel owner or a member, you can invite anyone to any channel you're a member of.
+Whether you're a comunity owner or a member, you can invite anyone to any channel you're a member of.
 
 !!! note
     To join the channel, the person you're inviting needs to be a member of the community.
 
 ## Invite options
 
-There are three ways you can invite someone to a channel.
+There are three different options you can invite someone to a channel.
 
-| Ways | Description | Works with |
+| Options | Description | Works with |
 |---------|-------------|------|
-| Share to Status contacts | You can share the channel with anyone who's on your Status contact list. | Mobile and desktop |
+| Invite your Status contacts | You can share the channel with anyone who's on your Status contact list. | Mobile and desktop |
 | Show QR code | Show the channel's QR code to the person you want to invite. | Mobile |
 | Share a link | Share the link via messenger apps or social media. | Mobile and desktop |
 
@@ -34,22 +34,22 @@ There are three ways you can invite someone to a channel.
 
     | Option | Steps |
     |---------|--------|
-    | Share to Status contacts | 1. Select :mobile-add-user: **Invite people from contacts list**. <br/> 2. Check the boxes next to the contacts you want to invite. <br/> 3. Tap **Invite users**. |
+    | Invite your Status contacts | 1. Select :mobile-add-user: **Invite people from contacts list**. <br/> 2. Check the boxes next to the contacts you want to invite. <br/> 3. Tap **Invite users**. |
     | Show QR code | 1. Select :moblie-qr-code: **Show QR code**. <br/> 2. Show the QR code to the person you want to invite. |
     | Share a link | 1. Select :mobile-share: **Share channel**. <br/> 2. Share the channel link via social media, messenger apps or any other app you prefer. 
 
 === "Desktop"
 
     1. From the navigation sidebar, click the community with the channel you want to share.
-    1. In the community sidebar, right click the channel and then select :desktop-share: **Share channel**.
+    1. In the channels sidebar, right click the channel and then select :desktop-share: **Share channel**.
     1. Choose the contacts or copy the link and proceed as follows:
 
     | Option | Steps |
     |---------|--------|
-    | Share to Status contacts | 1. In the **Invite Contacts** pop-up window, type the names of your contacts in the search bar or check the boxes next to the names. <br/> 2. Click **Next**. <br/> 3. Optionally, type an invitation message. <br/> 4. Click **Send Invites**. |
+    | Invite your Status contacts | 1. In the **Invite Contacts** pop-up window, type the names of your contacts in the search bar or check the boxes next to the names. <br/> 2. Click **Next**. <br/> 3. Optionally, type an invitation message. <br/> 4. Click **Send Invites**. |
     | Share a link | 1. In the **Invite Contacts** pop-up window, click :desktop-copy: **Copy** next to the link. <br/> 2. Switch to the app where you want to share the link and paste it there.
 
 !!! tip
-    After opening the link or scanning the QR code, people can install Status if they haven't already.
+    After opening the link or scanning the QR code, people can [install Status][run-the-status-app-for-the-first-time] if they haven't already.
 
 --8<-- "includes/urls-en.txt"
