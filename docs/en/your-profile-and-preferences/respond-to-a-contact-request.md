@@ -42,12 +42,12 @@ Status Users with access to your profile can send you contact requests. For exam
     
     | Action | Step |
     |:-------|:-----|
-    | Accept request | Click :desktop-positive: **Yes**. |
-    | Decline request | Click :desktop-negtive: **No**. |
+    | Accept request | Click :desktop-done: **Yes**. |
+    | Decline request | Click :desktop-decline: **No**. |
     | View the sender's message | Click on the request message. |
     | View the sender's profile | Click on the sender's profile picture. |
 
 !!! tip
-    In Status, you can [label other users' profiles][understand-status-profile-labels]. Whether you accept or reject the contact request from someone, you can [block the user][] or [mark the user as untrusted][]. After  you accept the request, you can [mark the user as trusted][] or [verify the user's identity]
+    In Status, you can [label other users' profiles][understand-status-profile-labels]. For example, whether you accept or reject the contact request from someone, you can [block the user][block-or-unblock-someone-in-status] or [mark the user as untrusted][verify-your-contacts-identity]. After you accept the request, you can [verify the user's identity][verify-your-contacts-identity] or [mark the user as identity verified][verify-your-contacts-identity].
 
 --8<-- "includes/urls-en.txt"

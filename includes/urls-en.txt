@@ -152,7 +152,7 @@
 [sync-your-profile-across-devices]: /en/your-profile-and-preferences/sync-your-profile-across-devices
 [understand-status-profile-labels]: /en/your-profile-and-preferences/understand-status-profile-labels
 [understand-your-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase
-[verify-your-contacts-identity]: /en/your-profile-and-preferences/verify-your-contacts-identity.md
+[verify-your-contacts-identity]: /en/your-profile-and-preferences/verify-your-contacts-identity
 [your-chatkey-emojihash-and-identicon-ring]: /en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring
 [your-status-notifications-guide]: /en/your-profile-and-preferences/your-status-notifications-guide
 

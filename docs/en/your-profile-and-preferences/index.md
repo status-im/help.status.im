@@ -22,12 +22,12 @@ Set up your Status profile and notifications, customize your settings and fix co
 
 ## Handle your contact list and user verification
 
+- [**Respond** to a **contact request**][respond-to-a-contact-request]
 - [**Block** or **unblock** someone in Status][block-or-unblock-someone-in-status]
 - [Understand Status **profile labels**][understand-status-profile-labels]
 
 ## Secure your profile
 
-- [**Respond** to a **contact request**][respond-to-a-contact-request]
 - [**Back up and secure** your recovery phrase][back-up-and-secure-your-recovery-phrase]
 - [Understand your **Status keys** and **recovery phrase**][understand-your-status-keys-and-recovery-phrase]
 
