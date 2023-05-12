@@ -216,11 +216,7 @@
 [turn-off-profile-syncing]: /en/your-profile-and-preferences/turn-off-profile-syncing
 [understand-status-profile-labels]: /en/your-profile-and-preferences/understand-status-profile-labels
 [understand-your-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase
-[uninstall-status-desktop]: /en/your-profile-and-preferences/uninstall-status-desktop
-[view-and-edit-your-profile]: /en/your-profile-and-preferences/view-and-edit-your-profile
 [verify-your-contacts-identity]: /en/your-profile-and-preferences/verify-your-contacts-identity
-[view-notifications-and-updates]: /en/your-profile-and-preferences/view-notifications-and-updates
-[view-your-profile-as-someone-else]: /en/your-profile-and-preferences/view-your-profile-as-someone-else
 [your-chatkey-emojihash-and-identicon-ring]: /en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring
 [your-status-notifications-guide]: /en/your-profile-and-preferences/your-status-notifications-guide
 
