@@ -2404,6 +2404,122 @@
   
   
     <li class="md-nav__item">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    
+  
+    About the Community History Service
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    About the Community History Service
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#the-basics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The basics
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-chs-works" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How the Community History Service works
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#an-example-of-the-workflow" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        An example of the workflow
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#maintain-the-availability" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Maintain the availability
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../delegate-admin-functions-to-community-members/" class="md-nav__link">
         
   
@@ -3939,18 +4055,22 @@
 <p>Currently, you can only configure and benefit from the community history service using Status desktop. <a href="https://status.im/get"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="m4.927 5.427 2.896 2.896a.25.25 0 0 0 .354 0l2.896-2.896A.25.25 0 0 0 10.896 5H8.75V.75a.75.75 0 1 0-1.5 0V5H5.104a.25.25 0 0 0-.177.427Z"/><path d="M1.573 2.573a.25.25 0 0 0-.073.177v7.5a.25.25 0 0 0 .25.25h12.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25h-3a.75.75 0 1 1 0-1.5h3A1.75 1.75 0 0 1 16 2.75v7.5A1.75 1.75 0 0 1 14.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0 1 11.25 16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 0 1 0 10.25v-7.5A1.75 1.75 0 0 1 1.75 1h3a.75.75 0 0 1 0 1.5h-3a.25.25 0 0 0-.177.073ZM6.982 12a5.72 5.72 0 0 1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z"/></svg></span> Download Status desktop</a>.</p>
 </div>
 <p>Status uses a <a href="/en/using-status/about-status-messages#peer-to-peer-messaging">peer-to-peer network</a> to temporarily store your community messages for 30 days. When your community members get online, messages are automatically downloaded and stored locally on their computers.</p>
-<p>The peer-to-peer network purges messages older than 30 days, and members who don't have the chance to receive these messages in time can't access them. With the Community History Service (CHS), every community member can access all historical messages.</p>
+<p>The peer-to-peer network deletes messages older than 30 days, so members who don't receive them in time can't access them. With the Community History Service (CHS), every community member can access all historical messages.</p>
 <h2 id="the-basics">The basics<a class="headerlink" href="#the-basics" title="Permanent link">&para;</a></h2>
 <ul>
 <li>The Status mobile app doesn't support the CHS.</li>
 <li>The CHS is on by default, but community owners can <a href="/en/status-communities/turn-off-the-community-history-service">turn it off</a>. Other community members can't turn it off or choose not to download historical messages.</li>
-<li>When new members join, they can see messages from the past 30 days immediately. However, the CHS may need to process messages older than 30 days and can only provide access to them after a period of time.</li>
-<li>Only the Status app can process the archive files into readable messages. The messages in the archives are encrypted, and it's impossible to directly open the archives to read them.</li>
+<li>When new members join, they can immediately see messages from the past 30 days. However, it may take a few days for messages older than 30 days to appear.</li>
+<li>Messages are only readable after importing in Status. The messages in the archives are encrypted, and it's impossible to directly open the archives to read them.</li>
 </ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Downloading and importing messages can take a long time. If messages of a period don't appear, wait a few days.</p>
+</div>
 <h2 id="how-chs-works">How the Community History Service works<a class="headerlink" href="#how-chs-works" title="Permanent link">&para;</a></h2>
-<p>The CHS leverages BitTorrent, a communication protocol for decentralized data sharing, with a built-in BitTorrent client in the Status desktop. BitTorrent connects computers with IP addresses and transfers archives to every member's computer.</p>
-<p>Every seven days, the CHS runs on your control node and prompts the BitTorrent client in your Status app to create an archive file for messages in the past seven days. Additionally, this process creates a <abbr title="A magnet link is a hyperlink containing information needed for downloading data in a peer-to-peer network, like the filename and download sources.">magnet link</abbr> for downloading this archive.</p>
-<p>The CHS runs automatically in the background. You or your community members must be online with the Status desktop app running for the CHS to share or download archives.</p>
+<p>The CHS uses BitTorrent, a communication protocol for decentralized data sharing, with a built-in BitTorrent client in the Status desktop. BitTorrent connects computers with IP addresses and transfers archives to every member's computer.</p>
+<p>Every seven days, the CHS prompts your control node to create an archive for messages in the past seven days. Then BitTorrent clients in your and your community members' Status apps share the archive.</p>
+<p>The CHS runs automatically in the background, you can't see its processes or notifications. You or your community members must be online with the Status desktop app running for the CHS to share, download or import archives.</p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 <p>Status can't access or manipulate your messages through the CHS. The archives are stored locally on your and your community members' computers.</p>
@@ -3961,10 +4081,11 @@
 </div>
 <h2 id="an-example-of-the-workflow">An example of the workflow<a class="headerlink" href="#an-example-of-the-workflow" title="Permanent link">&para;</a></h2>
 <p>The following example demonstrates how a message archive is generated and how your community members Alice and Bob access it.</p>
-<h3 id="step-1-your-bittorrent-client-generates-an-archive">Step 1: Your BitTorrent client generates an archive<a class="headerlink" href="#step-1-your-bittorrent-client-generates-an-archive" title="Permanent link">&para;</a></h3>
+<h3 id="step-1-your-status-generates-an-archive">Step 1: Your Status generates an archive<a class="headerlink" href="#step-1-your-status-generates-an-archive" title="Permanent link">&para;</a></h3>
 <ul class="task-list">
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Your Status desktop running the control node is online.</li>
-<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> The BitTorrent client in your Status app generates an archive and a corresponding <abbr title="A magnet link is a hyperlink containing information needed for downloading data in a peer-to-peer network, like the filename and download sources.">magnet link</abbr>.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> The control node generates an archive.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> The BitTorrent client in your Status app makes the archive sharable over a <abbr title="A magnet link is a hyperlink containing information needed for downloading data in a peer-to-peer network, like the filename and download sources.">magnet link</abbr>.</li>
 </ul>
 <h3 id="step-2-community-members-read-messages-older-than-30-days">Step 2: Community members read messages older than 30 days<a class="headerlink" href="#step-2-community-members-read-messages-older-than-30-days" title="Permanent link">&para;</a></h3>
 <ul class="task-list">
@@ -3974,9 +4095,9 @@
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> Bob's online, and his Status app downloads the archive from your or Alice's computer.</li>
 </ul>
 <h2 id="maintain-the-availability">Maintain the availability<a class="headerlink" href="#maintain-the-availability" title="Permanent link">&para;</a></h2>
-<p>The CHS archives messages only from the computer that runs the control node. If you miss any messages, your members can't receive a copy via the CHS. To provide a complete history of messages, keep your Status desktop online every day or at least once every six days.</p>
-<p>Don't remove or edit <code>.torrent</code> files, as they're part of the CHS mechanism.</p>
-<p>If you <a href="/en/status-communities/restore-your-status-community">move your control node</a> from one computer to another, the archives created using the previous computer becomes unavailable.</p>
+<p>The CHS archives messages only from the computer that runs the control node. If you miss any messages, your members can't receive a copy via the CHS. To provide a complete history, keep your control node online every day or at least once every six days.</p>
+<p>Don't remove or edit torrent files, as they're part of the CHS mechanism.</p>
+<p>If you <a href="/en/status-communities/restore-your-status-community">move your control node</a> from one computer to another, copy the Status folder to the new computer to keep the existing archives accessible.</p>
 <div class="admonition tip">
 <p class="admonition-title">Tip</p>
 <p><a href="/en/status-communities/turn-off-the-community-history-service">Turning off the CHS</a> significantly reduces community members' experience. Keep it on unless it's really necessary.</p>
@@ -3994,7 +4115,7 @@
         <span class="md-icon" title="Last update">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
         </span>
-        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 8, 2023</span>
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 12, 2023</span>
       </span>
     
     
