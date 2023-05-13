@@ -236,6 +236,8 @@ nav:
       - Receive crypto: status-wallet/receive-crypto.md
       - Send crypto to your Status Wallet: status-wallet/send-crypto-to-your-status-wallet.md
       - Understand network fees: status-wallet/understand-network-fees.md
+    - Privacy and security:
+      - If someone else has access to your Wallet: status-wallet/if-someone-else-has-access-to-your-wallet.md
     - Understand crypto assets:
       - Understand wrapped tokens: status-wallet/understand-wrapped-tokens.md
   - Your profile:

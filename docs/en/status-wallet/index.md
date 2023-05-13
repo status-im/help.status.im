@@ -30,6 +30,8 @@ Status Wallet is an open-source non-custodial wallet that helps you store, send,
 
 ## Privacy and security
 
+- [If someone else **has access to your Wallet**][if-someone-else-has-access-to-your-wallet]
+
 ## Advanced topics
 
 --8<-- "includes/urls-en.txt"

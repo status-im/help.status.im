@@ -114,6 +114,8 @@
 [cancel-transactions]: /en/status-wallet/cancel-transactions
 [crypto-bridging-your-quick-start-guide]: /en/status-wallet/crypto-bridging-your-quick-start-guide
 [handle-pending-or-stuck-transactions]: /en/status-wallet/handle-pending-or-stuck-transactions
+[handle-transactions-you-don-t-recognize]: /en/status-wallet/handle-transactions-you-don-t-recognize
+[if-someone-else-has-access-to-your-wallet]: /en/status-wallet/if-someone-else-has-access-to-your-wallet
 [import-your-wallet-funds-into-status-wallet]: /en/status-wallet/import-your-wallet-funds-into-status-wallet
 [receive-crypto]: /en/status-wallet/receive-crypto
 [send-crypto]: /en/status-wallet/send-crypto
@@ -124,6 +126,7 @@
 [swap-crypto]: /en/status-wallet/swap-crypto
 [understand-block-explorers]: /en/status-wallet/understand-block-explorers
 [understand-coins-and-tokens]: /en/status-wallet/understand-coins-and-tokens
+[understand-common-scams]: /en/status-wallet/understand-common-scams
 [understand-l2s-and-sidechains]: /en/status-wallet/understand-l2s-and-sidechains
 [understand-network-fees]: /en/status-wallet/understand-network-fees
 [understand-transaction-statuses]: /en/status-wallet/understand-transaction-statuses
