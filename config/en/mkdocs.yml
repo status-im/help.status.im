@@ -226,7 +226,7 @@ nav:
       - Transfer your community's ownership: status-communities/transfer-your-community-s-ownership.md
       - About the control node in Status Communities: status-communities/about-the-control-node-in-status-communities.md
       - Replace your community's control node: status-communities/replace-your-community-s-control-node.md
-      - Common issues when the community control node is offline: status-communities/common-issues-when-the-community-control-node-is-offline.md
+      - Common issues when the community's control node is offline: status-communities/common-issues-when-the-community-s-control-node-is-offline.md
     - Status Web Communities:
       - Use a throwaway profile in Status Web: status-communities/use-a-throwaway-profile-in-status-web.md
       - Understand throwaway profiles in Status Web: status-communities/understand-throwaway-profiles-in-status-web.md
@@ -258,6 +258,6 @@ nav:
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
     - Troubleshooting:
       - If you lose your Status password or recovery phrase: your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase.md
-      - Common issues when the community control node is offline: your-profile-and-preferences/common-issues-when-the-community-s-control-node-is-offline.md
+      - Common issues when the community's control node is offline: status-communities/common-issues-when-the-community-s-control-node-is-offline.md
   - Network nodes:
     - network-nodes-and-statistics/index.md

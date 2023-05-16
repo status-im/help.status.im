@@ -47,7 +47,7 @@ Create your community, set up private channels or join others' communities and c
 - [**Mint tokens** for your community][mint-tokens-for-your-community]
 - [About the **control node** in Status Communities][about-the-control-node-in-status-communities]
 - [**Replace** your community's control node][replace-your-community-s-control-node]
-- [Common issues when the community control node is **offline**][common-issues-when-the-community-control-node-is-offline]
+- [Common issues when the **community's control node is offline**][common-issues-when-the-community-s-control-node-is-offline]
 
 ## Status Web Communities
 
