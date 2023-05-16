@@ -46,7 +46,7 @@ When setting up syncing, you need to reveal the QR code or sync code on the prim
 !!! tip
     During the syncing process, make sure Status is running on both devices and connected to the internet. Under the QR code, you can see the validity time of the QR code and the sync code. If the codes expire, confirm your profile credentials again and get new ones.
 
-## Turn off profile syncing
+## Turn off profile syncing {: #turn-off-profile-syncing }
 
 Turning off syncing degrades your experience with Status. But you can turn it off when you want to dispose of a device, or you see a device you don't recognize.
 

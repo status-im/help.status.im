@@ -8,25 +8,24 @@ hide:
 
 # Replace your community's control node
 
-The [community control node][about-the-control-node-in-status-communities] maintains the community's settings and configuration and provides your community functionality. Ensuring the control node's availability and continuous operation is essential for proper community management and functionality.
+The computer where you create your Status Community and every computer where you run Status desktop and restore your private's community key becomes a [community control node][about-the-control-node-in-status-communities]. You can replace the Status desktop running as the control node if you need to reinstall Status desktop or it becomes unavailable.
 
-When you create a community or restore the private's community key, your computer becomes a control node.
-
-You can replace the control node if you need to reinstall the original node or it becomes unavailable.
+The community control node maintains the settings, configuration and functionality of your community. Keep the Status desktop app where you set up your community running and connected to the internet as much as possible, or at least once every six days.
 
 !!! warning "Caution"
-    Don't run more than one control node. Running your community with multiple control nodes may cause unforeseen issues, such as duplicate join request notifications.
+    Don't use more than one installation of Status desktop as your community's control node. Running your community with multiple control nodes will cause unforeseen issues and increase your community's bandwidth requirements.
 
 # Replace your community's control node
 
-Here are the steps to set up a new control node on another computer. You need a [backup of your private's community key][back-up-your-community-s-private-key] to complete this process:
+Here are the steps to set up a new Status desktop installation as the community control node. You need a backup of your [private's community key][back-up-your-community-s-private-key] and [recovery phrase][back-up-and-secure-your-recovery-phrase] to complete this process.
 
-- [x] On the new computer, install the Status desktop app [with your existing Status profile][create-or-restore-your-status-profile-using-a-recovery-phrase] and without importing the private's community key.
-- [x] If you still can access the computer with the initial control node, [verify that your profile in the initial node is in synch][sync-your-profile-across-devices] with your profile on the new computer.
-- [x] If you still can access the computer with the initial control node, turn off this computer or uninstall the Status desktop app.
-- [x] On the new computer, [restore your Status Community][restore-your-status-community].
+!!! warning "Caution"
+    Only proceed if you have a copy of your private's community key and recovery phrase. If you proceed without this information, you will lose your Status profile and community.
 
-!!! tip
-    Community control nodes are the only ones with access to the private's community key. If you can [back up your private's community key][back-up-your-community-s-private-key] on the new computer, you're running a control node.
+- [x] If you can still access the initial Status desktop app acting as the control node, [uninstall this app][uninstall-status-desktop].
+- [x] Using the same computer or a different one, reinstall Status desktop [with the same Status profile you used to create your community][create-or-restore-your-status-profile-using-a-recovery-phrase]. Don't import your private's community key yet.
+- [x] Verify that your profile in both the new and the previous Status desktop installations [are in sync][sync-your-profile-across-devices]. The sync process may take some time to complete.
+- [x] After the synchronisation process, [remove your original Status desktop][turn-off-profile-syncing] from the list of synchronised devices.
+- [x] On the new Status desktop installation, [restore your Status Community][restore-your-status-community] by importing the private's community key.
 
 --8<-- "includes/urls-en.txt"

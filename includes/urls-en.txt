@@ -155,8 +155,10 @@
 [set-notification-exceptions]: /en/your-profile-and-preferences/set-notification-exceptions
 [sync-profile]: /en/your-profile-and-preferences/sync-your-profile-across-devices#sync-profile
 [sync-your-profile-across-devices]: /en/your-profile-and-preferences/sync-your-profile-across-devices
+[turn-off-profile-syncing]: /en/your-profile-and-preferences/turn-off-profile-syncing
 [understand-status-profile-labels]: /en/your-profile-and-preferences/understand-status-profile-labels
 [understand-your-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase
+[uninstall-status-desktop]: /en/your-profile-and-preferences/uninstall-status-desktop
 [verify-your-contacts-identity]: /en/your-profile-and-preferences/verify-your-contacts-identity.md
 [your-chatkey-emojihash-and-identicon-ring]: /en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring
 [your-status-notifications-guide]: /en/your-profile-and-preferences/your-status-notifications-guide

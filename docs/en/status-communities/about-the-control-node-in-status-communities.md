@@ -25,7 +25,7 @@ As the community owner, the control node runs automatically in your Status deskt
 
 ## Maintain your community available
 
-The community control node running in your Status desktop maintains the community's settings and configuration and provides your community functionality. Keep the Status desktop app where you set up your community running and connected to the internet as much as possible or at least once every six days.
+The community control node maintains the settings, configuration and functionality of your community. Keep the Status desktop app where you set up your community running and connected to the internet as much as possible, or at least once every six days.
 
 If the control node goes offline, your [community's functionality is affected][common-issues-when-the-community-control-node-is-offline]. You can [set up a new control node][replace-your-community-s-control-node] if the initial Status desktop fails or becomes inaccessible.
 
