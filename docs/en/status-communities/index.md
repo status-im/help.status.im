@@ -45,9 +45,9 @@ Create your community, set up private channels or join others' communities and c
 - [**Turn off** the Community **History** Service][turn-off-the-community-history-service]
 - [Manage community **join requests**][manage-community-join-requests]
 - [**Mint tokens** for your community][mint-tokens-for-your-community]
-- [Administer your community from **different computers**][administer-your-community-from-different-computers]
 - [About the **control node** in Status Communities][about-the-control-node-in-status-communities]
 - [**Replace** your community's control node][replace-your-community-s-control-node]
+- [Common issues when the community control node is **offline**][common-issues-when-the-community-control-node-is-offline]
 
 ## Status Web Communities
 
