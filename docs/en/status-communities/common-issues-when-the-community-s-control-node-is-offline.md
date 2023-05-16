@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Common issues when the community control node is offline
+# Common issues when the community's control node is offline
 
  :octicons-tools-24: In progress
 

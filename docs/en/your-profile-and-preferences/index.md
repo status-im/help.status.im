@@ -33,6 +33,6 @@ Set up your Status profile and notifications, customize your settings and fix co
 ## Troubleshooting
 
 - [If you **lose** your Status **password** or **recovery phrase**][if-you-lose-your-status-password-or-recovery-phrase]
-- [Common issues when the **community control node is offline**][common-issues-when-the-community-control-node-is-offline]
+- [Common issues when the **community control node is offline**][common-issues-when-the-community-s-control-node-is-offline]
 
 --8<-- "includes/urls-en.txt"

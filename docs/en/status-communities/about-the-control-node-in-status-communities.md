@@ -27,7 +27,7 @@ As the community owner, the control node runs automatically in your Status deskt
 
 The community control node maintains the settings, configuration and functionality of your community. Keep the Status desktop app where you set up your community running and connected to the internet as much as possible, or at least once every six days.
 
-If the control node goes offline, your [community's functionality is affected][common-issues-when-the-community-control-node-is-offline]. You can [set up a new control node][replace-your-community-s-control-node] if the initial Status desktop fails or becomes inaccessible.
+If the control node goes offline, your [community's functionality is affected][common-issues-when-the-community-s-control-node-is-offline]. You can [set up a new control node][replace-your-community-s-control-node] if the initial Status desktop fails or becomes inaccessible.
 
 !!! warning "Caution"
     Don't use more than one installation of Status desktop as your community's control node. Running your community with multiple control nodes will cause unforeseen issues and increase your community's bandwidth requirements.
@@ -44,6 +44,6 @@ Using a different computer is helpful if you run your Status Community on your d
 No matter how many additional computers you use to administer your community, they all forward admin tasks to the Status desktop app working as the control node, which functions as the administration hub.
 
 !!! note
-    Your community is still available when the Status desktop app acting as the control node is offline, but your community members' experience degrades. For more information, check out [Common issues when the control node is offline][common-issues-when-the-community-control-node-is-offline].
+    Your community is still available when the Status desktop app acting as the control node is offline, but your community members' experience degrades. For more information, check out [Common issues when the control node is offline][common-issues-when-the-community-s-control-node-is-offline].
 
 --8<-- "includes/urls-en.txt"

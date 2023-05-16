@@ -66,7 +66,7 @@
 [burn-your-community-tokens]: /en/status-communities/burn-your-community-tokens
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [co-manage-your-status-community]: /en/status-communities/co-manage-your-status-community
-[common-issues-when-the-community-control-node-is-offline]: /en/status-communites/common-issues-when-the-community-control-node-is-offline
+[common-issues-when-the-community-s-control-node-is-offline]: /en/status-communites/common-issues-when-the-community-s-control-node-is-offline
 [customize-your-channel]: /en/status-communities/customize-your-channel
 [customize-your-community]: /en/status-communities/customize-your-community
 [set-up-channel-permissions]: /en/status-communities/set-up-channel-permissions
@@ -139,7 +139,7 @@
 [back-up-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase#back-up-recovery-phrase
 [block-or-unblock-someone-in-status]: /en/your-profile-and-preferences/block-or-unblock-someone-in-status
 [change-your-status-display-name]: /en/your-profile-and-preferences/change-your-status-display-name
-[common-issues-when-the-community-control-node-is-offline]: /en/your-profile-and-preferences/common-issues-when-the-community-control-node-is-offline
+[common-issues-when-the-community-s-control-node-is-offline]: /en/your-profile-and-preferences/common-issues-when-the-community-s-control-node-is-offline
 [create-and-use-additional-status-profiles]: /en/your-profile-and-preferences/create-and-use-additional-status-profiles
 [create-or-restore-your-status-profile-using-keycard]: /en/your-profile-and-preferences/create-or-restore-your-status-profile-using-keycard
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
