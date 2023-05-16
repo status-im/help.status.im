@@ -24,7 +24,7 @@ The current system for transferring ownership of Status Communities has two impo
 - The community owner has to share the community's private key with the new owner. Manually transferring the private key from one owner to another is an insecure method of handling a private key.
 - There is no way to be certain that the community is fully transferred. After handing it over to the new owner, the previous owner may still have a copy of the private key. This means that an old owner with malicious intentions could potentially regain access to the community at any time.
 
-We're working on implementing a token-based ownership model to solve these problems. In the meantime, be extra cautious when handling your community key and keep it safe. For example, don't save your private's community key in an online storage service or screenshot.
+We're working on implementing a token-based ownership model to solve these problems. In the meantime, be extra cautious when handling your community key and keep it safe. For example, don't save your community's private key in an online storage service or screenshot.
 
 !!! warning "Caution"
     Read and consider the security implications before you transfer the ownership of your community or become the new owner of someone else's community.

@@ -17,7 +17,7 @@ As the community owner, the control node runs automatically in your Status deskt
 
 ## The basics
 
-- The computer where you [create your Status Community][create-a-status-community] and every computer where you run Status desktop and [restore your private's community key][restore-your-status-community] becomes a control node.
+- The computer where you [create your Status Community][create-a-status-community] and every computer where you run Status desktop and [restore your community's private key][restore-your-status-community] becomes a control node.
 - To provide the best experience for your members, keep the Status desktop app acting as the control node online every day or at least once every six days.
 - Don't use more than one installation of Status Desktop as your community's control node. Running your community with multiple control nodes will cause unforeseen issues and increase your community's bandwidth requirements.
 - You can [install a new control node][replace-your-community-s-control-node] when you need to reinstall Status desktop or it becomes unavailable.
@@ -34,12 +34,12 @@ If the control node goes offline, your [community's functionality is affected][c
 
 ## Administer your community from a different computer
 
-If you want to administer your community from another computer, [set up your same Status profile on that computer][create-or-restore-profile-with-recovery-phrase] without importing the private's community key. This process doesn't create a new control node, and you can complete it on as many computers as you want.
+If you want to administer your community from another computer, [set up your same Status profile on that computer][create-or-restore-profile-with-recovery-phrase] without importing the community's private key. This process doesn't create a new control node, and you can complete it on as many computers as you want.
 
 Using a different computer is helpful if you run your Status Community on your desktop computer but want to travel with your laptop, for example. Additionally, you can [delegate admin permissions to others][delegate-admin-functions-to-community-members] using tokens.
 
 !!! tip
-    Community control nodes are the only ones with access to the private's community key. If you run Status desktop on multiple computers and are unsure which one is the control node, verify if you can [back up your private's community key][back-up-your-community-s-private-key]. If you can, you're running a control node.
+    Community control nodes are the only ones with access to the community's private key. If you run Status desktop on multiple computers and are unsure which one is the control node, verify if you can [back up your community's private key][back-up-your-community-s-private-key]. If you can, you're running a control node.
 
 No matter how many additional computers you use to administer your community, they all forward admin tasks to the Status desktop app working as the control node, which functions as the administration hub.
 

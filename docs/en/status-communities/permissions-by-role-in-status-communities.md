@@ -35,12 +35,12 @@ Refer to this table for the Status Communities permissions by role type.
 | View community node statistics                                                                                                                                   | :material-check: | :material-check: |                  |
 | [Mint tokens][mint-tokens-for-your-community]                                                                                                                    | :material-check: |                  |                  |
 | [Airdrop tokens][how-to-airdrop-tokens-in-status]                                                                                                                | :material-check: |                  |                  |
-| [Access the private's community key][back-up-your-community-s-private-key] :two:                                                                                 | :material-check: |                  |                  |
+| [Access the community's private key][back-up-your-community-s-private-key] :two:                                                                                 | :material-check: |                  |                  |
 | [Configure the Community History Service][about-the-community-history-service]                                                                                   | :material-check: |                  |                  |
 
 :one: If an admin [accepts a member request][manage-community-join-requests] or removes a member by [kicking or banning them][kick-or-ban-someone-from-your-community], the command is sent to the owner node for action. If the owner node is not online, it will take the required action the next time it comes online.
 
-:two: Community owners have the option to [manage their community using multiple computers][manage-your-community-from-different-computers]. For instance, they may use a laptop in addition to their desktop computer. If the owner manages the community from a computer without importing the private's community key, the key is not available on that computer.
+:two: Community owners have the option to [manage their community using multiple computers][manage-your-community-from-different-computers]. For instance, they may use a laptop in addition to their desktop computer. If the owner manages the community from a computer without importing the community's private key, the key is not available on that computer.
 
 !!! note
     To provide the best experience for their members, community owners should keep the Status desktop app online every day or at least once every six days.
