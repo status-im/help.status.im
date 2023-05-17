@@ -13,10 +13,15 @@
 [download-status]: /en/getting-started/#download-status
 [download-status-for-linux]: /en/getting-started/download-status-for-linux
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
+[download-status-for-windows]: /en/getting-started/download-status-for-windows
+[download-the-status-mobile-app]: /en/getting-started/download-the-status-mobile-app
+[how-to-use-status-your-quick-start-guide]: /en/getting-started/how-to-use-status-your-quick-start-guide
+[if-you-upgrade-from-the-old-status-app]: /en/getting-started/if-you-upgrade-from-the-old-status-app
 [invite-friends-to-status]: /en/getting-started/invite-friends-to-status
 [layer-2-scaling-solutions-for-ethereum]: /en/getting-started/layer-2-scaling-solutions-for-ethereum
 [new-profile]: /en/getting-started/run-the-status-app-for-the-first-time#new-profile
 [run-the-status-app-for-the-first-time]: /en/getting-started/run-the-status-app-for-the-first-time
+[understand-your-actions-in-status]: /en/getting-started/understand-your-actions-in-status
 [what-is-status]: /en/getting-started/what-is-status
 
 [about-status-messages]: /en/using-status/about-status-messages

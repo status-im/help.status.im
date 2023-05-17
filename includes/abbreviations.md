@@ -3,6 +3,5 @@
 *[collectibles]: A collectible is a unique digital asset that is stored on a blockchain. These assets are called non-fungible tokens (NFTs) and represent ownership of digital art, music, videos and other creative works.
 *[DeFi]: DeFi, or Decentralized Finance, refers to a financial system built on blockchain technology that operates independently from traditional banks and financial institutions. This includes crypto loans and deposits, as well as token swapping and liquidity pools.
 *[pen-and-paper backup]: A pen-and-paper backup refers to a physical copy of important documents or notes. You can use this backup in case of loss or damage to the original information.
-*[magnet link]: A magnet link is a hyperlink containing information needed for downloading data in a peer-to-peer network, like the filename and download sources.
 *[mainnet]: The primary Ethereum blockchain network.
 *[pseudonymous]: All blockchain data is pseudonymous. This means that while everyone can view your balance and transaction history, there's no way to tie any of this data to your real-life identity. If you're concerned about your privacy, avoid sending money to your wallet from a centralized exchange such as Kraken, Coinbase or Gemini that requires you to confirm your identity.
