@@ -34,7 +34,7 @@ When you remove an account in your Wallet, you're simply hiding it in the app. T
 
     1. From the navigation sidebar, go to :desktop-settings: **Settings** > :desktop-wallet: **Wallet**.
     1. Click the account you want to remove.
-    1. Click :desktop-remove: **Remove account**.
+    1. Click :desktop-delete: **Remove account**.
     1. Write down your derivation path. Using this path, you will be able Using this path, you will be able to resetore your account later. Once you write it down, check **I have taken note of the derivation path** and click **Remove**.
 
 
@@ -43,7 +43,7 @@ When you remove an account in your Wallet, you're simply hiding it in the app. T
 !!! tip
      Blockchains are pseudonymous: unless you sent crypto to your Status Wallet from a centralized crypto exchange, there's no way to trace your address to your real identity.
 
-If you no longer need your Status Wallet, simply [send your leftover crypto to some other wallet address][send-crypto-to-someone-else] and uninstall the app. You can always [restore your Wallet][import-an-account-into-your-status-wallet] later if you keep your recovery phrase.
+If you no longer need your Status Wallet, simply [send your leftover crypto to some other wallet address][send-crypto] and uninstall the app. You can always [restore your Wallet][import-an-account] later if you keep your recovery phrase.
 
 --8<-- "includes/urls-en.txt"
 
