@@ -87,7 +87,7 @@
 [cancel-transactions]: /en/status-wallet/cancel-transactions
 [delete-your-wallet]: /en/status-wallet/delete-your-wallet
 [handle-pending-or-stuck-transactions]: /en/status-wallet/handle-pending-or-stuck-transactions
-[import-your-wallet-funds-into-status-wallet]: /en/status-wallet/import-your-wallet-funds-into-status-wallet
+[import-an-account]: /en/status-wallet/import-an-account
 [receive-crypto]: /en/status-wallet/receive-crypto
 [send-crypto]: /en/status-wallet/send-crypto
 [send-crypto-to-your-status-wallet]: /en/status-wallet/send-crypto-to-your-status-wallet
