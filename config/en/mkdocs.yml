@@ -155,14 +155,29 @@ nav:
   - Start: index.md
   - Getting started:
     - getting-started/index.md
+    - Intro to Status:
+      - What is Status: getting-started/what-is-status.md
+      - How to use Status – your quick start quide: getting-started/how-to-use-status-your-quick-start-guide
+      - Understand your actions in Status: getting-started/understand-your-actions-in-status
+      - About the Ethereum blockchain: getting-started/about-the-ethereum-blockchain
     - Getting started for new users:
-      - Add a contact in Status: getting-started/add-a-contact-in-status.md
       - Run the Status app for the first time: getting-started/run-the-status-app-for-the-first-time.md
       - Create or restore your Status profile using a recovery phrase: getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase.md
+      - Sign into your Status profile on a new device: getting-started/sign-into-your-status-profile-on-a-new-device.md
+      - Add a contact in Status: using-status/add-a-contact-in-status.md
+      - Join a Status Community: status-communities/join-a-status-community.md
       - Invite friends to Status: getting-started/invite-friends-to-status.md
+      - Status Wallet – your quick start guide: status-wallet/status-wallet-your-quick-start-guide.md
+    - Getting started with your community:
+      - Create a Status Community: status-communities/create-a-status-community.md
+      - Getting started for community owners: status-communities/getting-started-for-community-owners.md
+      - About Status Web Communities: status-communities/about-status-web-communities.md
     - Download Status:
+      - Download Status for Windows: getting-started/download-status-for-windows.md
       - Download Status for Mac: getting-started/download-status-for-mac.md
       - Download Status for Linux: getting-started/download-status-for-linux.md
+      - Download the Status mobile app: getting-started/download-the-status-mobile-app.md
+      - If you upgrade from the old Status app: getting-started/if-you-upgrade-from-the-old-status-app.md
   - Using Status:
     - using-status/index.md
     - Direct messages:

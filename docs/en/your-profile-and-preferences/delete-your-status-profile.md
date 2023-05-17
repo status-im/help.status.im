@@ -21,10 +21,10 @@ Status uses a [peer-to-peer network][peer-to-peer-messaging] that temporarily st
 
 Here are things you can do if you want to stop using a profile:
 
-- [Transfer assets][send-crypto] out of your Status wallet.
-- Inform your contacts the profile is out of use.
-- [Leave group chats][leave-a-group-chat] and [communities][leave-a-community] you joined.
-- [Edit your profile][edit-your-profile] and remove your personal information.
-- [Remove your profile][remove-a-status-profile] from all your devices and leave it inactive for 30 days.
+- [x] [Transfer assets][send-crypto] out of your Status wallet.
+- [x] Inform your contacts the profile is out of use.
+- [x] [Leave group chats][leave-a-group-chat] and [communities][leave-a-status-community] you joined.
+- [x] [Edit your profile][edit-your-profile] and remove your personal information.
+- [x] [Remove your profile][remove-a-status-profile-from-your-profile-list] from all your devices and leave it inactive for 30 days.
 
 --8<-- "includes/urls-en.txt"
