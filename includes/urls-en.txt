@@ -62,6 +62,7 @@
 [about-losing-access-to-a-channel]: /en/status-communities/about-losing-access-to-a-channel
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
 [about-status-communities]: /en/status-communities/about-status-communities
+[about-status-web-communities]: /en/status-communities/about-status-web-communities
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
 [about-the-control-node-in-status-communities]: /en/status-communities/about-the-control-node-in-status-communities
 [back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
@@ -159,6 +160,7 @@
 [register-your-status-ens-name]: /en/your-profile-and-preferences/register-your-status-ens-name
 [remove-a-status-profile-from-your-profile-list]: /en/your-profile-and-preferences/remove-a-status-profile-from-your-profile-list
 [set-notification-exceptions]: /en/your-profile-and-preferences/set-notification-exceptions
+[sign-into-your-status-profile-on-a-new-device]: /en/your-profile-and-preferences/sign-into-your-status-profile-on-a-new-device
 [sync-profile]: /en/your-profile-and-preferences/sync-your-profile-across-devices#sync-profile
 [sync-your-profile-across-devices]: /en/your-profile-and-preferences/sync-your-profile-across-devices
 [turn-off-profile-syncing]: /en/your-profile-and-preferences/turn-off-profile-syncing

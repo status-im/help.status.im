@@ -19,6 +19,7 @@ Find out what makes Status unique, run Status for the first time and discover es
 
 - [**Run** the Status app for the **first time**][run-the-status-app-for-the-first-time]
 - [**Create or restore** your Status profile using a **recovery phrase**][create-or-restore-your-status-profile-using-a-recovery-phrase]
+- [**Sign into** your Status profile on a new device][sign-into-your-status-profile-on-a-new-device]
 - [**Add a contact** in Status][add-a-contact-in-status]
 - [**Join** a Status Community][join-a-status-community]
 - [**Invite friends** to Status][invite-friends-to-status]
