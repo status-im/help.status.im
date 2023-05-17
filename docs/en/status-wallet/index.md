@@ -20,7 +20,7 @@ Status Wallet is an open-source non-custodial wallet that helps you store, send,
 
 ## Handle your crypto
 
-- [**Delete** your **wallet**][delete-your-wallet]
+- [**Delete** your **Status Wallet** or wallet **account**¶][delete-your-wallet]
 
 ## Understand crypto assets
 
