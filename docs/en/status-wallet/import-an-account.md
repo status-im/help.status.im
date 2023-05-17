@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Import your wallet funds into Status Wallet
+# Import an account into your Status Wallet
 
  :octicons-tools-24: In progress
 
