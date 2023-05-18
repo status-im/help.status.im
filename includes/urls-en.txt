@@ -144,7 +144,7 @@
 [understand-block-explorers]: /en/status-wallet/understand-block-explorers
 [understand-coins-and-tokens]: /en/status-wallet/understand-coins-and-tokens
 [understand-common-scams]: /en/status-wallet/understand-common-scams
-[understand-erc-20-tokens]: /en/status-wallet/understand-erc-20-tokens
+[understand-erc20-tokens]: /en/status-wallet/understand-erc20-tokens
 [understand-l2s-and-sidechains]: /en/status-wallet/understand-l2s-and-sidechains
 [understand-network-fees]: /en/status-wallet/understand-network-fees
 [understand-transaction-details]: /en/status-wallet/understand-transaction-details
