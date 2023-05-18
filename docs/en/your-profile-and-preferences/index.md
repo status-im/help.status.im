@@ -14,7 +14,7 @@ Set up your Status profile and notifications, customize your settings and fix co
 - [**View and edit** your profile][view-and-edit-your-profile]
 - [**Share** your Status profile][share-your-status-profile]
 - [**Sync** your profile across devices][sync-your-profile-across-devices]
-- [**Edit** your Status profile][edit-your-status-profile]
+- [**View and edit** your Status profile][view-and-edit-your-status-profile]
 - [**Remove** a Status profile from your profile list][remove-a-status-profile-from-your-profile-list]
 - [**Log out** of Status][log-out-of-status]
 - [**Delete** your Status profile][delete-your-status-profile]
