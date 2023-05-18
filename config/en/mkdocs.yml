@@ -164,7 +164,7 @@ nav:
       - Run the Status app for the first time: getting-started/run-the-status-app-for-the-first-time.md
       - Create or restore your Status profile using a recovery phrase: getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase.md
       - Sign into your Status profile on a new device: getting-started/sign-into-your-status-profile-on-a-new-device.md
-      - Add a contact in Status: using-status/add-a-contact-in-status.md
+      - Add a contact in Status: messaging-and-web3-browser/add-a-contact-in-status.md
       - Join a Status Community: status-communities/join-a-status-community.md
       - Invite friends to Status: getting-started/invite-friends-to-status.md
       - Status Wallet – your quick start guide: status-wallet/status-wallet-your-quick-start-guide.md
@@ -178,31 +178,32 @@ nav:
       - Download Status for Linux: getting-started/download-status-for-linux.md
       - Download the Status mobile app: getting-started/download-the-status-mobile-app.md
       - If you upgrade from the old Status app: getting-started/if-you-upgrade-from-the-old-status-app.md
-  - Using Status:
-    - using-status/index.md
+  - Messaging:
+    - messaging-and-web3-browser/index.md
     - Direct messages:
-      - Add a contact in Status: getting-started/add-a-contact-in-status.md
-      - Remove a contact from Status: using-status/remove-a-contact-from-status.md
+      - Understand direct messages: messaging-and-web3-browser/understand-direct-messages.md
+      - Add a contact in Status: messaging-and-web3-browser/add-a-contact-in-status.md
+      - Remove a contact from Status: messaging-and-web3-browser/remove-a-contact-from-status.md
     - Group chats:
-      - Create a group chat: using-status/create-a-group-chat.md
-      - Add members to a group chat: using-status/add-members-to-a-group-chat.md
-      - Remove members from a group chat: using-status/remove-members-from-a-group-chat.md
-      - Clear group chat history: using-status/clear-group-chat-history.md
-      - Delete a group chat: using-status/delete-a-group-chat.md
-      - Join a group chat: using-status/join-a-group-chat.md
-      - Leave a group chat: using-status/leave-a-group-chat.md
+      - Create a group chat: messaging-and-web3-browser/create-a-group-chat.md
+      - Add members to a group chat: messaging-and-web3-browser/add-members-to-a-group-chat.md
+      - Remove members from a group chat: messaging-and-web3-browser/remove-members-from-a-group-chat.md
+      - Clear group chat history: messaging-and-web3-browser/clear-group-chat-history.md
+      - Delete a group chat: messaging-and-web3-browser/delete-a-group-chat.md
+      - Join a group chat: messaging-and-web3-browser/join-a-group-chat.md
+      - Leave a group chat: messaging-and-web3-browser/leave-a-group-chat.md
     - Message features and tools:
-      - About Status messages: using-status/about-status-messages.md
-      - Messages FAQ: using-status/messages-faq.md
-      - Edit and delete your messages: using-status/edit-and-delete-your-messages.md
-      - Pin a message: using-status/pin-a-message.md
-      - React and reply to messages: using-status/react-and-reply-to-messages.md
+      - About Status messages: messaging-and-web3-browser/about-status-messages.md
+      - Messages FAQ: messaging-and-web3-browser/messages-faq.md
+      - Edit and delete your messages: messaging-and-web3-browser/edit-and-delete-your-messages.md
+      - Pin a message: messaging-and-web3-browser/pin-a-message.md
+      - React and reply to messages: messaging-and-web3-browser/react-and-reply-to-messages.md
     - Format and style messages:
-      - Format your messages: using-status/format-your-messages.md
+      - Format your messages: messaging-and-web3-browser/format-your-messages.md
     - Share files and conversations:
-      - Share images in Status: using-status/share-images-in-status.md
-      - Send GIFs and stickers: using-status/send-gifs-and-stickers.md
-      - Send and audio message: using-status/send-an-audio-message.md
+      - Share images in Status: messaging-and-web3-browser/share-images-in-status.md
+      - Send GIFs and stickers: messaging-and-web3-browser/send-gifs-and-stickers.md
+      - Send and audio message: messaging-and-web3-browser/send-an-audio-message.md
   - Communities:
     - status-communities/index.md
     - Status Communities:

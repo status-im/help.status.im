@@ -20,7 +20,7 @@ hide:
 
     Send messages and files, create group chats or explore decentralized apps with the Status Web3 browser.
 
-    [:octicons-arrow-right-24: Using Status][using-status]
+    [:octicons-arrow-right-24: Using Status][messaging-and-web3-browser]
 
 -   :desktop-communities:{ .lg .middle } **Status Communities**
 
