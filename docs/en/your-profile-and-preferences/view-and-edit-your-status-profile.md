@@ -6,7 +6,7 @@ hide:
   - navigation 
 ---
 
-# Edit your Status profile
+# View and edit your Status profile
 
 !!! note ""
     Currently, some sections are not editable on Status desktop. Use the Status mobile app to edit them.

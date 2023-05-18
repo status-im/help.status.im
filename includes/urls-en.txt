@@ -136,7 +136,7 @@
 [edit-profile-info]: /en/your-profile-and-preferences/edit-your-status-profile#edit-profile-info
 [edit-profile-picture]: /en/your-profile-and-preferences/edit-your-status-profile#edit-profile-picture
 [edit-showcase]: /en/your-profile-and-preferences/edit-your-status-profile#edit-showcase
-[edit-your-status-profile]: /en/your-profile-and-preferences/edit-your-status-profile
+[view-and-edit-your-status-profile]: /en/your-profile-and-preferences/view-and-edit-your-status-profile
 [faq-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/faq-status-keys-and-recovery-phrase
 [if-you-lose-your-status-password-or-recovery-phrase]: /en/your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase
 [log-out-of-status]: /en/your-profile-and-preferences/log-out-of-status
