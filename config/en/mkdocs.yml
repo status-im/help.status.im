@@ -182,28 +182,39 @@ nav:
     - messaging-and-web3-browser/index.md
     - Direct messages:
       - Understand direct messages: messaging-and-web3-browser/understand-direct-messages.md
+      - Share your Status profile: messaging-and-web3-browser/share-your-status-profile.md
+      - Find people on Status: messaging-and-web3-browser/find-people-on-status.md
       - Add a contact in Status: messaging-and-web3-browser/add-a-contact-in-status.md
-      - Remove a contact from Status: messaging-and-web3-browser/remove-a-contact-from-status.md
+      - Send direct messages **to your contact: messaging-and-web3-browser/send-direct-messages-to-your-contacts.md
+      - Add peopple to a direct message: messaging-and-web3-browser/add-people-to-a-direct-message.md
+      - Delete a chat with someone: messaging-and-web3-browser/delete-a-chat-with-someone.md
     - Group chats:
+      - Understand group chats: messaging-and-web3-browser/understand-group-chats.md
       - Create a group chat: messaging-and-web3-browser/create-a-group-chat.md
+      - Customize a group chat: messaging-and-web3-browser/customize-a-group-chat
       - Add members to a group chat: messaging-and-web3-browser/add-members-to-a-group-chat.md
-      - Remove members from a group chat: messaging-and-web3-browser/remove-members-from-a-group-chat.md
-      - Clear group chat history: messaging-and-web3-browser/clear-group-chat-history.md
-      - Delete a group chat: messaging-and-web3-browser/delete-a-group-chat.md
       - Join a group chat: messaging-and-web3-browser/join-a-group-chat.md
+      - Clear group chat history: messaging-and-web3-browser/clear-group-chat-history.md
+      - Change who can invite you to group chats: messaging-and-web3-browser/change-who-can-invite-you-to-group-chats.md
+      - Remove members from a group chat: messaging-and-web3-browser/remove-members-from-a-group-chat.md
+      - Delete a group chat: messaging-and-web3-browser/delete-a-group-chat.md
       - Leave a group chat: messaging-and-web3-browser/leave-a-group-chat.md
     - Message features and tools:
       - About Status messages: messaging-and-web3-browser/about-status-messages.md
       - Messages FAQ: messaging-and-web3-browser/messages-faq.md
+      - Format your messages: messaging-and-web3-browser/format-your-messages.md
       - Edit and delete your messages: messaging-and-web3-browser/edit-and-delete-your-messages.md
       - Pin a message: messaging-and-web3-browser/pin-a-message.md
       - React and reply to messages: messaging-and-web3-browser/react-and-reply-to-messages.md
-    - Format and style messages:
-      - Format your messages: messaging-and-web3-browser/format-your-messages.md
+      - Enable rich link previews in messages: messaging-and-web3-browser/enable-rich-link-previews-in-messages.md
+      - Use mentions in Status: messaging-and-web3-browser/use-mentions-in-status.md
+      - Mute your notifications: messaging-and-web3-browser/mute-your-notifications.md
     - Share files and conversations:
       - Share images in Status: messaging-and-web3-browser/share-images-in-status.md
-      - Send GIFs and stickers: messaging-and-web3-browser/send-gifs-and-stickers.md
       - Send and audio message: messaging-and-web3-browser/send-an-audio-message.md
+      - Send GIFs and stickers: messaging-and-web3-browser/send-gifs-and-stickers.md
+      - Add, remove or share sticker sets: messaging-and-web3-browser/add-remove-or-share-sticker-sets.md
+      - Share a conversation: messaging-and-web3-browser/share-a-conversation.md
   - Communities:
     - status-communities/index.md
     - Status Communities:
@@ -269,9 +280,12 @@ nav:
       - Remove a Status profile from your profile list: your-profile-and-preferences/remove-a-status-profile-from-your-profile-list.md
     - Adjust your notifications:
       - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
+      - View notifications and updates: your-profile-and-preferences/view-notifications-and-updates.md
     - Handle your contact list and user verification:
       - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status.md
       - Understand Status profile labels: your-profile-and-preferences/understand-status-profile-labels.md
+      - Add a nickname to your contacts: your-profile-and-preferences/add-a-nickname-to-your-contacts.md
+      - Remove a contact from Status: messaging-and-web3-browser/remove-a-contact-from-status.md
     - Secure your profile:
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
     - Troubleshooting:

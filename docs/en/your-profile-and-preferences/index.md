@@ -19,16 +19,19 @@ Set up your Status profile and notifications, customize your settings and fix co
 ## Adjust your notifications
 
 - [**Mute** your notifications][mute-your-notifications]
+- [**View** notifications and updates][view-notifications-and-updates]
 
 ## Handle your contact list and user verification
 
-- [**Block** or **unblock** someone in Status][block-or-unblock-someone-in-status]
+- [**Block or unblock** someone in Status][block-or-unblock-someone-in-status]
 - [Understand Status **profile labels**][understand-status-profile-labels]
 
 ## Secure your profile
 
 - [**Back up and secure** your recovery phrase][back-up-and-secure-your-recovery-phrase]
 - [Understand your **Status keys** and **recovery phrase**][understand-your-status-keys-and-recovery-phrase]
+- [Add a **nickname** to your contacts][add-a-nickname-to-your-contacts]
+- [**Remove a contact** from Status][remove-a-contact-from-status]
 
 ## Troubleshooting
 

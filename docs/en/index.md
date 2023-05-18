@@ -14,13 +14,13 @@ hide:
 
     [:octicons-arrow-right-24: Getting started][getting-started]
 
--   :desktop-mobile:{ .lg .middle } **Using Status**
+-   :desktop-mobile:{ .lg .middle } **Messaging and Web3 browser**
 
     ---
 
     Send messages and files, create group chats or explore decentralized apps with the Status Web3 browser.
 
-    [:octicons-arrow-right-24: Using Status][messaging-and-web3-browser]
+    [:octicons-arrow-right-24: Messaging and Web3 browser][messaging-and-web3-browser]
 
 -   :desktop-communities:{ .lg .middle } **Status Communities**
 
