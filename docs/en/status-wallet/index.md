@@ -17,7 +17,7 @@ Status Wallet is an open-source non-custodial wallet that helps you store, send,
 
 ## Send and receive crypto
 
-- [***Send** crypto **to someone**][send-crypto**]
+- [**Send** crypto **to someone**][send-crypto**]
 - [**Receive** crypto][receive-crypto]
 - [**Send** crypto **to your Status Wallet**][send-crypto-to-your-status-wallet]
 - [**Cancel** transactions][cancel-transactions]
@@ -60,6 +60,6 @@ Status Wallet is an open-source non-custodial wallet that helps you store, send,
 
 ## Advanced topics
 
-- [Understand layer-2 solutions and sidechains][understand-l2-s-and-sidechains]
+- [Understand layer-2 solutions and sidechains][understand-l2s-and-sidechains]
 
 --8<-- "includes/urls-en.txt"
