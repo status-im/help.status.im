@@ -14,43 +14,64 @@ Create your community, set up private channels or join others' communities and c
 - [**Invite** people to a Status community][invite-people-to-a-status-community]
 - [**Import** a community someone shares with you][import-a-community-someone-shares-with-you]
 - [Understand **token requirements** in communities][understand-token-requirements-in-communities]
-- [**Permissions by role** in Status Communities][permissions-by-role-in-status-communities]
 
 ## Channels
 
 - [**Channels**: your quick start guide][channels-your-quick-start-guide]
 - [**Join** a channel][join-a-channel]
-- [About **losing access** to a channel][about-losing-access-to-a-channel]
 - [**Invite** people to a channel][invite-people-to-a-channel]
+- [Understand **token requirements** in channels][understand-token-requirements-in-channels]
+- [About **losing access** to a channel][about-losing-access-to-a-channel]
 
-## Manage channels
+## Administer channels
 
 - [**Create** a channel][create-a-channel]
+- [**Customize** your channel][customize-your-channel]
+- [**Change** a private channel to public][change-a-private-channel-to-public]
 - [Set up **channel permissions**][set-up-channel-permissions]
+- [Set a read-only channel][set-a-read-only-channel]
+- [Set a private channel][set-a-read-only-channel]
 - [**Delete** a channel][delete-a-channel]
 
-## Create and administer communities
+## Create your community
 
+- [**Getting started** for community owners][getting-started-for-community-owners]
 - [**Create** a Status community][create-a-status-community]
-- [**Kick or ban** someone from your community][kick-or-ban-someone-from-your-community]
-- [Set up your **community permissions**][set-up-your-community-permissions]
-- [**Restore** your Status Community][restore-your-status-community]
-- [Set up a **private community**][set-up-a-private-community]
+- [**Customize** your community][customize-your-community]
+- [**Import a Discord Community** into status][import-a-discord-community-into-status]
 - [**Back up** your community's private key][back-up-your-community-s-private-key]
-- [About the **Community History Service**][about-the-community-history-service]
-- [**Delegate admin functions** to community members][delegate-admin-functions-to-community-members]
-- [**Delete** your Status **Community**][delete-your-status-community]
-- [**Transfer** your community's ownership][transfer-your-community-s-ownership]
-- [About the **Community History Service**][about-the-community-history-service]
-- [**Turn off** the Community **History** Service][turn-off-the-community-history-service]
+
+## Administer your community
+
 - [Manage community **join requests**][manage-community-join-requests]
-- [**Mint tokens** for your community][mint-tokens-for-your-community]
 - [About the **control node** in Status Communities][about-the-control-node-in-status-communities]
 - [**Replace** your community's control node][replace-your-community-s-control-node]
-- [Common issues when the **community's control node is offline**][common-issues-when-the-community-s-control-node-is-offline]
+- [**Transfer** your community's ownership][transfer-your-community-s-ownership]
+- [**Restore** your Status Community][restore-your-status-community]
+- [About the **Community History Service**][about-the-community-history-service]
+- [**Turn off** the Community **History** Service][turn-off-the-community-history-service]
+- [**Kick or ban** someone from your community][kick-or-ban-someone-from-your-community]
+- [**Delete** your Status **Community**][delete-your-status-community]
+
+## Use tokens and set community permissions
+
+- [Set up a **private community**][set-up-a-private-community]
+- [**Change** a private community to public][change-a-private-community-to-public]
+- [**Permissions by role** in Status Communities][permissions-by-role-in-status-communities]
+- [Set up your **community permissions**][set-up-your-community-permissions]
+- [Grant **exclusive access** with custom tokens][grant-exclusive-access-with-custom-tokens]
+- [**Mint tokens** for your community][mint-tokens-for-your-community]
+- [How to mint an **admin token**][how-to-mint-an-admin-token]
+- [**Import tokens** to your community][import-tokens-to-your-community]
+- [How to **airdrop tokens** in status][how-to-airdrop-tokens-in-status]
+- [**Delegate admin functions** to community members][delegate-admin-functions-to-community-members]
+- [**Remotely self destruct** a token][remotely-self-destruct-a-token]
+- [**Burn** your community tokens][burn-your-community-tokens]
 
 ## Status Web Communities
 
+- [About status **web communities**][about-status-web-communities]
+- [**Join** a Community on Status Web][join-a-community-on-status-web]
 - [Understand **throwaway profiles** in Status Web][understand-throwaway-profiles-in-status-web]
 - [**Use a throwaway profile** in Status Web][use-a-throwaway-profile-in-status-web]
 
