@@ -168,6 +168,7 @@ nav:
       - Join a Status Community: status-communities/join-a-status-community.md
       - Invite friends to Status: getting-started/invite-friends-to-status.md
       - Status Wallet – your quick start guide: status-wallet/status-wallet-your-quick-start-guide.md
+      - Sign into your Status profile on a new device: your-profile-and-preferences/sign-into-your-status-profile-on-a-new-device.md
     - Getting started with your community:
       - Create a Status Community: status-communities/create-a-status-community.md
       - Getting started for community owners: status-communities/getting-started-for-community-owners.md
@@ -182,7 +183,7 @@ nav:
     - messaging-and-web3-browser/index.md
     - Direct messages:
       - Understand direct messages: messaging-and-web3-browser/understand-direct-messages.md
-      - Share your Status profile: messaging-and-web3-browser/share-your-status-profile.md
+      - Share your Status profile: your-profile-and-preferences/share-your-status-profile.md
       - Find people on Status: messaging-and-web3-browser/find-people-on-status.md
       - Add a contact in Status: messaging-and-web3-browser/add-a-contact-in-status.md
       - Send direct messages **to your contact: messaging-and-web3-browser/send-direct-messages-to-your-contacts.md
@@ -286,15 +287,28 @@ nav:
   - Your profile:
     - your-profile-and-preferences/index.md
     - Manage your profile:
+      - Sign into your Status profile on a new device: your-profile-and-preferences/sign-into-your-status-profile-on-a-new-device.md
+      - View and edit your profile: your-profile-and-preferences/view-and-edit-your-profile.md
+      - Share your Status profile: your-profile-and-preferences/share-your-status-profile.md
+      - Change your password: your-profile-and-preferences/change-your-password.md
+      - Sync your profile across devices: your-profile-and-preferences/sync-your-profile-across-devices.md
+      - Remove a Status profile from your profile list: your-profile-and-preferences/remove-a-status-profile-from-your-profile-list.md
       - Log out of Status: your-profile-and-preferences/log-out-of-status.md 
       - Share your Status profile: your-profile-and-preferences/share-your-status-profile.md
       - Create and use additional Status profiles: your-profile-and-preferences/create-and-use-additional-status-profiles.md
-      - Sync your profile across devices: your-profile-and-preferences/sync-your-profile-across-devices.md
       - Delete your Status profile: your-profile-and-preferences/delete-your-status-profile.md
-      - Remove a Status profile from your profile list: your-profile-and-preferences/remove-a-status-profile-from-your-profile-list.md
     - Adjust your notifications:
-      - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
+      - Your Status notifications guide: your-profile-and-preferences/your-status-notifications-guide.md
+      - Set up your notification settings: your-profile-and-preferences/set-up-your-notification-settings.md
       - View notifications and updates: your-profile-and-preferences/view-notifications-and-updates.md
+      - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
+      - Customize direct message notifications: your-profile-and-preferences/customize-direct-message-notifications.md
+      - Customize mentions and all other messages: your-profile-and-preferences/configure-mentions-and-all-other-messages.md
+      - Customize group chat notifications: your-profile-and-preferences/customize-group-chat-notifications.md
+      - Customize community and channel notifications: your-profile-and-preferences/configure-community-and-channel-notifications.md
+      - Set up and customize notification exceptions: your-profile-and-preferences/set-up-and-customize-notification-exceptions.md
+      - Customize membership request notifications: your-profile-and-preferences/customize-membership-request-notifications
+      - Reset your notification settings: your-profile-and-preferences/reset-your-notification-settings.md
     - Handle your contact list and user verification:
       - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status.md
       - Understand Status profile labels: your-profile-and-preferences/understand-status-profile-labels.md
@@ -305,5 +319,9 @@ nav:
     - Troubleshooting:
       - If you lose your Status password or recovery phrase: your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase.md
       - Common issues when the community's control node is offline: status-communities/common-issues-when-the-community-s-control-node-is-offline.md
+      - Uninstall Status desktop: your-profile-and-preferences/uninstall-status-desktop.md
+    - User your Keycard:
+      - Keycard - your quick start guide: your-profile-and-preferences/keycard-your-quick-start-guide.md
+      - Create or restore your Status profile using Keycard: your-profile-and-preferences/create-or-restore-your-status-profile-using-keycard.md
   - Network nodes:
     - network-nodes-and-statistics/index.md

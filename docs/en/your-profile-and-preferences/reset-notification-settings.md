@@ -1,12 +1,12 @@
 ---
-id: 377
+id: 640
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# About Keycard
+# Reset notifications settings
 
  :octicons-tools-24: In progress
 
