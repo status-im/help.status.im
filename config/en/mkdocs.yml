@@ -312,8 +312,8 @@ nav:
     - Handle your contact list and user verification:
       - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status.md
       - Understand Status profile labels: your-profile-and-preferences/understand-status-profile-labels.md
-      - Add a nickname to your contacts: your-profile-and-preferences/add-a-nickname-to-your-contacts.md
       - Remove a contact from Status: messaging-and-web3-browser/remove-a-contact-from-status.md
+      - Add or remove a nickname from someone else's profile: your-profile-and-preferences/add-or-remove-a-nickname-from-someone-else-s-profile.md
     - Secure your profile:
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
     - Troubleshooting:

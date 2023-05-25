@@ -37,12 +37,12 @@ Set up your Status profile and notifications, customize your settings and fix co
 
 - [**Block or unblock** someone in Status][block-or-unblock-someone-in-status]
 - [Understand Status **profile labels**][understand-status-profile-labels]
+- [Add or remove a **nickname** from someone else's profile][add-or-remove-a-nickname-from-someone-else-s-profile]
 
 ## Your profile security and privacy
 
 - [**Back up and secure** your recovery phrase][back-up-and-secure-your-recovery-phrase]
 - [Understand your **Status keys** and **recovery phrase**][understand-your-status-keys-and-recovery-phrase]
-- [Add a **nickname** to your contacts][add-a-nickname-to-your-contacts]
 - [**Remove a contact** from Status][remove-a-contact-from-status]
 
 ## Troubleshooting
