@@ -20,12 +20,12 @@ Status Wallet is an open-source non-custodial wallet that helps you store, send,
 - [**Send** crypto **to someone**][send-crypto]
 - [**Receive** crypto][receive-crypto]
 - [**Send** crypto **to your Status Wallet**][send-crypto-to-your-status-wallet]
-- [**Cancel** transactions][cancel-transactions]
 - [**Share** your **address**][share-your-address]
+- [Set **custom network fees**][set-custom-network-fees]
 - [Handle **transactions you don't recognize**][handle-transactions-you-don-t-recognize]
 - [Handle **pending or stuck transactions**][handle-pending-or-stuck-transactions]
+- [**Cancel** transactions][cancel-transactions]
 - [Understand your Status **signing phrase**][understand-your-status-signing-phrase]
-- [Set **custom network fees**][set-custom-network-fees]
 - [Understand **network fees**][understand-network-fees]
 - [Understand **block explorers**][understand-block-explorers]
 - [Understand **transaction details**][understand-transaction-details]
@@ -34,9 +34,9 @@ Status Wallet is an open-source non-custodial wallet that helps you store, send,
 ## Handle your crypto
 
 - [**Create** and manage **accounts**][create-and-manage-accounts]
+- [**Withdraw** crypto **to your bank account**][withdraw-crypto-to-your-bank-account]
 - [Add **watch-only** accounts][add-watch-only-accounts]
 - [About **custom tokens** in Status][about-custom-tokens]
-- [**Withdraw** crypto **to your bank account**][withdraw-crypto-to-your-bank-account]
 - [**Delete** your **Status Wallet** or wallet **account**][delete-your-wallet]
 
 ## Understand crypto assets
