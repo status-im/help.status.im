@@ -35,7 +35,6 @@ Status Wallet is an open-source non-custodial wallet that helps you store, send,
 
 - [**Create** and manage **accounts**][create-and-manage-accounts]
 - [Add **watch-only** accounts][add-watch-only-accounts]
-- [**Export** your recovery phrase][export-your-recovery-phrase]
 - [About **custom tokens** in Status][about-custom-tokens]
 - [**Withdraw** crypto **to your bank account**][withdraw-crypto-to-your-bank-account]
 - [**Delete** your **Status Wallet** or wallet **account**][delete-your-wallet]
@@ -56,7 +55,7 @@ Status Wallet is an open-source non-custodial wallet that helps you store, send,
 
 - [Understand **common scams**][understand-common-scams]
 - [If someone else **has access to your Wallet**][if-someone-else-has-access-to-your-wallet]
-- [**Back up** your wallet][back-up-your-wallet]
+- [**Back up** your Wallet][back-up-your-wallet]
 
 ## Advanced topics
 
