@@ -148,6 +148,7 @@
 [remove-a-status-profile-from-your-profile-list]: /en/your-profile-and-preferences/remove-a-status-profile-from-your-profile-list
 [respond-to-a-contact-request]: /en/your-profile-and-preferences/respond-to-a-contact-request
 [set-notification-exceptions]: /en/your-profile-and-preferences/set-notification-exceptions
+[stop-contact-requests]: /en/your-profile-and-preferences/respond-to-a-contact-request#stop-contact-requests
 [sync-profile]: /en/your-profile-and-preferences/sync-your-profile-across-devices#sync-profile
 [sync-your-profile-across-devices]: /en/your-profile-and-preferences/sync-your-profile-across-devices
 [understand-status-profile-labels]: /en/your-profile-and-preferences/understand-status-profile-labels
