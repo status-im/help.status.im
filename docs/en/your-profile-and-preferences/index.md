@@ -13,7 +13,6 @@ Set up your Status profile and notifications, customize your settings and fix co
 - [**Sign into** your Status profile on a new device][sign-into-your-status-profile-on-a-new-device]
 - [**View and edit** your profile][view-and-edit-your-profile]
 - [**Share** your Status profile][share-your-status-profile]
-- [Change your **password**][change-your-password]
 - [**Sync** your profile across devices][sync-your-profile-across-devices]
 - [**Remove** a Status profile from your profile list][remove-a-status-profile-from-your-profile-list]
 - [**Log out** of Status][log-out-of-status]
@@ -44,6 +43,10 @@ Set up your Status profile and notifications, customize your settings and fix co
 - [Understand your **Status keys** and **recovery phrase**][understand-your-status-keys-and-recovery-phrase]
 - [Add a **nickname** to your contacts][add-a-nickname-to-your-contacts]
 - [**Remove a contact** from Status][remove-a-contact-from-status]
+- [**Stay anonymous** when your messages are forwarded][stay-anonymous-when-your-messages-are-forwarded]
+- [About changing your **password**][about-changing-your-password]
+- [Set up **biometric authentication**][set-up-biometic-authentication]
+- [Set up **automatic locking** for the Status app][set-up-automatic-locking-for-the-status-app]
 
 ## Troubleshooting
 
@@ -55,5 +58,12 @@ Set up your Status profile and notifications, customize your settings and fix co
 
 - [Keycard: your **quick start guide**][keycard-your-quick-start-guide]
 - [Create or restore your Status profile **using Keycard**][create-or-restore-your-status-profile-using-keycard]
+
+## Change your settings and preferences
+
+- [Status settings **reference**][status-settings-reference]
+- [Register or add your **ENS name** in Status][register-or-add-your-ens-name-in-status]
+- [Set the **default browser** in Status][set-the-default-browser-in-status]
+- [Enable **rich link previews** in messages][enable-rich-link-previews-in-messages]
 
 --8<-- "includes/urls-en.txt"

@@ -38,7 +38,6 @@
 [delete-community-permissions]: /en/messaging-and-web3-browser/set-up-your-community-permissions#delete-community-permissions
 [delete-messages]: /en/messaging-and-web3-browser/edit-and-delete-your-messages#delete-messages
 [edit-and-delete-your-messages]: /en/messaging-and-web3-browser/edit-and-delete-your-messages
-[enable-rich-link-previews-in-messages]: /en/messaging-and-web3-browser/enable-rich-link-previews-in-messages
 [find-people-on-status]: /en/messaging-and-web3-browser/find-people-on-status
 [format-your-messages]: /en/messaging-and-web3-browser/format-your-messages
 [how-to-use-status-browser-your-quick-start-guide]: /en/messaging-and-web3-browser/how-to-use-status-browser-your-quick-start-guide
@@ -172,7 +171,7 @@
 [back-up-and-secure-your-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase
 [back-up-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase#back-up-recovery-phrase
 [block-or-unblock-someone-in-status]: /en/your-profile-and-preferences/block-or-unblock-someone-in-status
-[change-your-password]: /en/your-profile-and-preferences/change-your-password
+[about-changing-your-password]: /en/your-profile-and-preferences/about-changing-your-password
 [change-your-status-display-name]: /en/your-profile-and-preferences/change-your-status-display-name
 [common-issues-when-the-community-s-control-node-is-offline]: /en/status-communities/common-issues-when-the-community-s-control-node-is-offline
 [create-and-use-additional-status-profiles]: /en/your-profile-and-preferences/create-and-use-additional-status-profiles
@@ -185,6 +184,7 @@
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
 [delete-your-status-profile]: /en/your-profile-and-preferences/delete-your-status-profile
 [edit-your-profile]: /en/your-profile-and-preferences/edit-your-profile
+[enable-rich-link-previews-in-messages]: /en/your-profile-and-preferences/enable-rich-link-previews-in-messages
 [faq-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/faq-status-keys-and-recovery-phrase
 [if-you-lose-your-status-password-or-recovery-phrase]: /en/your-profile-and-preferences/if-you-lose-your-status-password-or-recovery-phrase
 [keycard-your-quick-start-guide]: /en/your-profile-and-preferences/keycard-your-quick-start-guide
@@ -193,14 +193,19 @@
 [profile-synchronization-reference]: /en/your-profile-and-preferences/profile-synchronization-reference
 [share-your-status-profile]: /en/your-profile-and-preferences/share-your-status-profile
 [sign-into-your-status-profile-on-a-new-device]: /en/your-profile-and-preferences/sign-into-your-status-profile-on-a-new-device
-[register-your-status-ens-name]: /en/your-profile-and-preferences/register-your-status-ens-name
+[register-or-add-your-ens-name-in-status]: /en/your-profile-and-preferences/register-or-add-your-ens-name-in-status
 [remove-a-contact-from-status]: /en/your-profile-and-preferences/remove-a-contact-from-status
 [remove-a-status-profile-from-your-profile-list]: /en/your-profile-and-preferences/remove-a-status-profile-from-your-profile-list
 [reset-your-notification-settings]: /en/your-profile-and-preferences/reset-your-notification-settings
 [set-notification-exceptions]: /en/your-profile-and-preferences/set-notification-exceptions
+[set-the-default-browser-in-status]: /en/your-profile-and-preferences/set-the-default-browser-in-status
 [set-up-and-customize-notification-exceptions]: /en/your-profile-and-preferences/set-up-and-customize-notification-exceptions
+[set-up-automatic-locking-for-the-status-app]: /en/your-profile-and-preferences/set-up-automatic-locking-for-the-status-app
+[set-up-biometic-authentication]: /en/your-profile-and-preferences/set-up-biometic-authentication
 [set-up-your-notification-settings]: /en/your-profile-and-preferences/set-up-your-notification-settings
 [sign-into-your-status-profile-on-a-new-device]: /en/your-profile-and-preferences/sign-into-your-status-profile-on-a-new-device
+[status-settings-reference]: /en/your-profile-and-preferences/status-settings-reference
+[stay-anonymous-when-your-messages-are-forwarded]: /en/your-profile-and-preferences/stay-anonymous-when-your-messages-are-forwarded
 [sync-profile]: /en/your-profile-and-preferences/sync-your-profile-across-devices#sync-profile
 [sync-your-profile-across-devices]: /en/your-profile-and-preferences/sync-your-profile-across-devices
 [turn-off-profile-syncing]: /en/your-profile-and-preferences/turn-off-profile-syncing
