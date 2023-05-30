@@ -38,7 +38,7 @@ Send messages and files, create group chats or explore decentralized apps with t
 - [**Edit** and **delete** your messages][edit-and-delete-your-messages]
 - [**Pin** a message][pin-a-message]
 - [**React and reply** to messages][react-and-reply-to-messages]
-- [Enable rich link previews in messages][enable-rich-link-previews-in-messages]
+- [Enable **rich link previews** in messages][enable-rich-link-previews-in-messages]
 - [**Use mentions** in Status][use-mentions-in-status]
 - [**Mute** your notifications][mute-your-notifications]
 
@@ -51,5 +51,7 @@ Send messages and files, create group chats or explore decentralized apps with t
 - [Share a **conversation**][share-a-conversation]
 
 ## Status Web3 browser
+
+- [Set the **default browser** in Status][set-the-default-browser-in-status]
 
 --8<-- "includes/urls-en.txt"
