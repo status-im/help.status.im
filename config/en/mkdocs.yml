@@ -312,14 +312,9 @@ nav:
       - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
       - Customize direct message notifications: your-profile-and-preferences/customize-direct-message-notifications.md
       - Respond to a contact request: your-profile-and-preferences/respond-to-a-contact-request.md
-      - Configure mentions and all other messages: your-profile-and-preferences/configure-mentions-and-all-other-messages.md
-      - Customize group chat notifications: your-profile-and-preferences/customize-group-chat-notifications.md
-      - Configure community and channel notifications: your-profile-and-preferences/configure-community-and-channel-notifications.md
-      - Set up and customize notification exceptions: your-profile-and-preferences/set-up-and-customize-notification-exceptions.md
-      - Customize membership request notifications: your-profile-and-preferences/customize-membership-request-notifications
-      - Reset your notification settings: your-profile-and-preferences/reset-your-notification-settings.md
-    - Your profile security and privacy:
-      - Back up and secure your recovery phrase: your-profile-and-preferences/back-up-and-secure-your-recovery-phrase.md
+      - Understand Status profile labels: your-profile-and-preferences/understand-status-profile-labels.md
+      - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status.md
+    - Secure your profile:
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
       - View your profile as someone else: your-profile-and-preferences/view-your-profile-as-someone-else.md
       - About changing your password: your-profile-and-preferences/about-changing-your-password.md
