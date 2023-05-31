@@ -55,6 +55,7 @@ Create your community, set up private channels or join others' communities and c
 
 ## Use tokens and set community permissions
 
+- [**Token-based access** to communities and channels][token-based-access-to-communities-and-channels]
 - [Set up a **private community**][set-up-a-private-community]
 - [**Change** a private community to public][change-a-private-community-to-public]
 - [**Permissions by role** in Status Communities][permissions-by-role-in-status-communities]

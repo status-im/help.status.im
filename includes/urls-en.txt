@@ -6,6 +6,7 @@
 [your-profile-and-prefences]: /en/your-profile-and-preferences/
 
 [about-the-ethereum-blockchain]: /en/getting-started/about-the-ethereum-blockchain
+[add-a-contact-in-status]: /en/getting-started/add-a-contact-in-status
 [add-a-new-device-to-your-status-profile]: /en/getting-started/add-a-new-device-to-your-status-profile
 [create-or-restore-your-status-profile-using-a-recovery-phrase]: /en/getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase
 [create-or-restore-profile-with-recovery-phrase]: /en/getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase#create-or-restore-profile-with-recovery-phrase
@@ -88,7 +89,7 @@
 [delete-community-permissions]: /en/status-communities/set-up-your-community-permissions#delete-community-permissions
 [delete-your-status-community]: /en/status-communities/delete-your-status-community
 [getting-started-for-community-owners]: /en/status-communities/getting-started-for-community-owners
-[grant-exclusive-access-with-custom-tokens]: /en/status-communities/grant-exclusive-access-with-custom-tokens
+[grant-exclusive-access-with-tokens]: /en/status-communities/grant-exclusive-access-with-tokens
 [how-chs-works]: /en/status-communities/about-the-community-history-service#how-chs-works
 [how-to-airdrop-tokens-in-status]: /en/status-communities/how-to-airdrop-tokens-in-status
 [how-to-mint-an-admin-token]: /en/status-communities/how-to-mint-an-admin-token
@@ -115,8 +116,10 @@
 [set-up-a-private-community]: /en/status-communities/set-up-a-private-community
 [set-up-a-private-channel]: /en/status-communities/set-up-a-private-channel
 [restore-your-status-community]: /en/status-communities/restore-your-status-community
+[set-up-collectible-options]: /en/status-communities/mint-tokens-for-your-community#set-up-collectible-options
 [set-up-your-communitys-approval-options]: /en/status-communities/set-up-your-communitys-approval-options
 [set-up-your-community-permissions]: /en/status-communities/set-up-your-community-permissions
+[token-based-access-to-communities-and-channels]: /en/status-communities/token-based-access-to-communities-and-channels
 [transfer-your-community-s-ownership]: /en/status-communities/transfer-your-community-s-ownership
 [turn-off-the-community-history-service]: /en/status-communities/turn-off-the-community-history-service
 [understand-throwaway-profiles-in-status-web]: /en/status-communities/understand-throwaway-profiles-in-status-web

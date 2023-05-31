@@ -18,7 +18,7 @@ Whether you're a comunity owner or a member, you can invite anyone to any channe
 There are three different options you can invite someone to a channel.
 
 | Option | Description | Works with |
-|---------|-------------|------|
+|:---|:---|:---|
 | Invite your Status contacts | You can share the channel with anyone who's on your Status contact list. | Mobile and desktop |
 | Show QR code | Show the channel's QR code to the person you want to invite. | Mobile |
 | Share a link | Share the link via messenger apps or social media. | Mobile and desktop |

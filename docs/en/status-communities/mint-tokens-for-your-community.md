@@ -13,10 +13,10 @@ hide:
 
 With Status, you can mint custom tokens as a community owner. You have complete control over your token creation and distribution.
 
-Your token's purpose and use are specific to your community. For example, you can reward your entire community or individual members with custom tokens, or offer [exclusive membership to token holders][grant-exclusive-access-with-custom-tokens]. After minting your tokens, you can distribute them to community members and other users of Status via [airdrops][how-to-airdrop-tokens-in-Status].
+Your token's purpose and use are specific to your community. For example, you can reward your entire community or individual members with custom tokens, or offer [exclusive membership to token holders][grant-exclusive-access-with-tokens]. After minting your tokens, you can distribute them to community members and other users of Status via [airdrops][how-to-airdrop-tokens-in-Status].
 
 !!! note
-    Currently, you can only mint collectibles. You will be able to mint assets in a future Status release.
+    Currently, you can only mint collectibles.
 
 When you mint a token, you create a new and unique digital asset in the blockchain network. The blockchain charges you a transaction fee for this process. Fore more details about blockchain fees, check out [Understand network fees][understand-network-fees].
 
@@ -32,18 +32,20 @@ When you mint a token, you create a new and unique digital asset in the blockcha
 
 ## Mint a collectible
 
-1. From the navigation sidebar, click your community.
-1. At the top of the channel sidebar, click your community logo and then, click :desktop-token: **Mint tokens**.
-1. Click **Create new token**.
-1. Customize your collectible by adding its artwork, name and description.
-1. Set up your [collectible options](#set-up-collectible-options).
-1. Click **Preview** to review your new token description and settings and then, click **Mint**.
-1. Review the transaction and fees and click :desktop-password: **Sign transaction**.
+=== "Desktop"
+
+    1. From the navigation sidebar, click your community.
+    1. At the top of the channel sidebar, click your community logo and then, click :desktop-token: **Mint tokens**.
+    1. Click **Create new token**.
+    1. Customize your collectible by adding its artwork, name and description.
+    1. Set up your [collectible options](#set-up-collectible-options).
+    1. Click **Preview** to review your new token description and settings and then, click **Mint**.
+    1. Review the transaction and fees and click :desktop-password: **Sign transaction**.
 
 !!! note
     You can't change the collectible description or options after minting.
 
-## Set up collectible options
+## Set up collectible options {: #set-up-collectible-options }
 
 | Setting | Description |
 |:---|:---|

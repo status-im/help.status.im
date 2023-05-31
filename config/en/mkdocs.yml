@@ -255,11 +255,15 @@ nav:
       - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
       - Delete your Status Community: status-communities/delete-your-status-community.md
     - Use tokens and set community permissions:
+      - Token-based access to communities and channels: status-communities/token-based-access-to-communities-and-channels.md
       - Set up a private community: status-communities/set-up-a-private-community.md
       - Change a private community to public: status-communities/change-a-private-community-to-public.md
       - Permissions by role in Status Communities: status-communities/permissions-by-role-in-status-communities.md
       - Set up your community permissions: status-communities/set-up-your-community-permissions.md
       - Grant exclusive access with custom tokens: status-communities/grant-exclusive-access-with-custom-tokens.md
+      - Permissions by role in Status Communities: status-communities/permissions-by-role-in-status-communities.md
+      - Set up your community permissions: status-communities/set-up-your-community-permissions.md
+      - Grant exclusive access with tokens: status-communities/grant-exclusive-access-with-tokens.md
       - Mint tokens for your community: status-communities/mint-tokens-for-your-community.md
       - How to mint an admin token: status-communities/how-to-mint-an-admin-token.md
       - Import tokens to your community: status-communities/import-tokens-to-your-community.md
