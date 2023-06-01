@@ -6,7 +6,6 @@
 [your-profile-and-prefences]: /en/your-profile-and-preferences/
 
 [about-the-ethereum-blockchain]: /en/getting-started/about-the-ethereum-blockchain
-[add-a-contact-in-status]: /en/getting-started/add-a-contact-in-status
 [add-a-new-device-to-your-status-profile]: /en/getting-started/add-a-new-device-to-your-status-profile
 [create-or-restore-your-status-profile-using-a-recovery-phrase]: /en/getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase
 [create-or-restore-profile-with-recovery-phrase]: /en/getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase#create-or-restore-profile-with-recovery-phrase
@@ -167,6 +166,7 @@
 
 [about-your-status-display-name]: /en/your-profile-and-preferences/about-your-status-display-name
 [about-status-keys]: /en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase#about-status-keys
+[add-a-contact-in-status]: /en/your-profile-and-preferences/add-a-contact-in-status
 [add-a-nickname-to-your-contacts]: /en/your-profile-and-preferences/add-a-nickname-to-your-contacts
 [back-up-and-secure-your-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase
 [back-up-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase#back-up-recovery-phrase
