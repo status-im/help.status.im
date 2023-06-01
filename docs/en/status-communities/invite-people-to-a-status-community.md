@@ -13,15 +13,17 @@ Whether you are a community member or not, you can tell people about the communi
 !!! note
     People you invite still need to meet the requirements to join private communities.
 
-## Invite people to a community
+## Invite options
 
 There are three approaches to inviting someone.
 
-| Approach | Description | Works with |
+| Option | Description | Works with |
 |---------|-------------|------|
 | Share to Status contacts | Use this option to share the community with people in your Status contact list. | Mobile and desktop |
 | Show QR code | Use this option to show the community QR code to people to scan. | Mobile |
 | Share a link | Use this option to share a link via your other social media or copy it and share it manually. | Mobile and desktop |
+
+## Invite people to a community
 
 === "Mobile"
 
@@ -29,7 +31,7 @@ There are three approaches to inviting someone.
     1. In the **Communities** list, long press the community you want to share. If you don't see the community, enter the name in the search bar.
     1. In the action sheet, choose an option and proceed as follows:
     
-    | Approach | Steps |
+    | Option | Steps |
     |---------|--------|
     | Share to Status contacts | 1. Select :mobile-add-user: **Invite people from contacts list**. <br/> 2. Check the boxes next to the contacts you want to share with. <br/> 3. Tap **Invite users**. |
     | Show QR code | 1. Select :moblie-qr-code: **Show QR code**. <br/> 2. Show or send the QR code to people you want to invite. |

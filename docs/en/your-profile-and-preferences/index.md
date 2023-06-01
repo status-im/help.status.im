@@ -18,6 +18,13 @@ Set up your Status profile and notifications, customize your settings and fix co
 - [**Log out** of Status][log-out-of-status]
 - [**Delete** your Status profile][delete-your-status-profile]
 
+## Change your settings and preferences
+
+- [Status settings **reference**][status-settings-reference]
+- [Enable **rich link previews** in messages][enable-rich-link-previews-in-messages]
+- [Register or add your **ENS name** in Status][register-or-add-your-ens-name-in-status]
+- [Set the **default browser** in Status][set-the-default-browser-in-status]
+
 ## Adjust your notifications
 
 - [Your Status **notifications guide**][your-status-notifications-guide]
@@ -32,38 +39,36 @@ Set up your Status profile and notifications, customize your settings and fix co
 - [Customize **membership request** notifications][customize-membership-request-notifications]
 - [**Reset** your notification settings][reset-your-notification-settings]
 
-## Handle your contact list and user verification
-
-- [**Block or unblock** someone in Status][block-or-unblock-someone-in-status]
-- [Understand Status **profile labels**][understand-status-profile-labels]
-
 ## Your profile security and privacy
 
 - [**Back up and secure** your recovery phrase][back-up-and-secure-your-recovery-phrase]
 - [Understand your **Status keys** and **recovery phrase**][understand-your-status-keys-and-recovery-phrase]
-- [Add a **nickname** to your contacts][add-a-nickname-to-your-contacts]
-- [**Remove a contact** from Status][remove-a-contact-from-status]
-- [**Stay anonymous** when your messages are forwarded][stay-anonymous-when-your-messages-are-forwarded]
+- [**View your profile** as someone else][view-your-profile-as-someone-else]
 - [About changing your **password**][about-changing-your-password]
+- [**Remove a contact** from Status][remove-a-contact-from-status]
 - [Set up **biometric authentication**][set-up-biometic-authentication]
+- [**FAQ**: Status keys and recovery phrase][faq-status-keys-and-recovery-phrase]
+- [**Block or unblock** someone in Status][block-or-unblock-someone-in-status]
+- [**Stay anonymous** when your messages are forwarded][stay-anonymous-when-your-messages-are-forwarded]
 - [Set up **automatic locking** for the Status app][set-up-automatic-locking-for-the-status-app]
 
 ## Troubleshooting
 
 - [If you **lose** your Status **password** or **recovery phrase**][if-you-lose-your-status-password-or-recovery-phrase]
-- [Common issues when the **community's control node is offline**][common-issues-when-the-community-s-control-node-is-offline]
 - [**Uninstall** Status desktop][uninstall-status-desktop]
+- [Common issues when the **community's control node is offline**][common-issues-when-the-community-s-control-node-is-offline]
 
-## Keycard
+## Use your Keycard
 
 - [Keycard: your **quick start guide**][keycard-your-quick-start-guide]
 - [Create or restore your Status profile **using Keycard**][create-or-restore-your-status-profile-using-keycard]
 
-## Change your settings and preferences
+## Handle your contact list and user verification
 
-- [Status settings **reference**][status-settings-reference]
-- [Register or add your **ENS name** in Status][register-or-add-your-ens-name-in-status]
-- [Set the **default browser** in Status][set-the-default-browser-in-status]
-- [Enable **rich link previews** in messages][enable-rich-link-previews-in-messages]
+- [**Remove** a contact from Status][remove-a-contact-from-status]
+- [Respond to a **contact request**][respond-to-a-contact-request]
+- [Understand Status **profile labels**][understand-status-profile-labels]
+- [**Add a contact** in Status][add-a-contact-in-status]
+- [Add or remove a **nickname** from someone else's profile][add-or-remove-a-nickname-from-someone-else-s-profile]
 
 --8<-- "includes/urls-en.txt"
