@@ -176,7 +176,7 @@
 [common-issues-when-the-community-s-control-node-is-offline]: /en/status-communities/common-issues-when-the-community-s-control-node-is-offline
 [create-and-use-additional-status-profiles]: /en/your-profile-and-preferences/create-and-use-additional-status-profiles
 [create-or-restore-your-status-profile-using-keycard]: /en/your-profile-and-preferences/create-or-restore-your-status-profile-using-keycard
-[configure-community-and-channel-notifications]: /en/your-profile-and-preferences/configure-community-and-channel-notifications.md
+[configure-community-and-channel-notifications]: /en/your-profile-and-preferences/configure-community-and-channel-notifications
 [customize-direct-message-notifications]: /en/your-profile-and-preferences/customize-direct-message-notifications
 [customize-group-chat-notifications]: /en/your-profile-and-preferences/customize-group-chat-notifications
 [configure-mentions-and-all-other-messages]: /en/your-profile-and-preferences/configure-mentions-and-all-other-messages
@@ -213,9 +213,9 @@
 [understand-your-status-keys-and-recovery-phrase]: /en/your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase
 [uninstall-status-desktop]: /en/your-profile-and-preferences/uninstall-status-desktop
 [view-and-edit-your-profile]: /en/your-profile-and-preferences/view-and-edit-your-profile
-[verify-your-contacts-identity]: /en/your-profile-and-preferences/verify-your-contacts-identity.md
-[view-your-profile-as-someone-else]: /en/your-profile-and-preferences/view-your-profile-as-someone-else
+[verify-your-contacts-identity]: /en/your-profile-and-preferences/verify-your-contacts-identity
 [view-notifications-and-updates]: /en/your-profile-and-preferences/view-notifications-and-updates
+[view-your-profile-as-someone-else]: /en/your-profile-and-preferences/view-your-profile-as-someone-else
 [your-chatkey-emojihash-and-identicon-ring]: /en/your-profile-and-preferences/your-chatkey-emojihash-and-identicon-ring
 [your-status-notifications-guide]: /en/your-profile-and-preferences/your-status-notifications-guide
 

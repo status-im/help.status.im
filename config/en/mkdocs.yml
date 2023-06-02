@@ -164,7 +164,7 @@ nav:
       - Run the Status app for the first time: getting-started/run-the-status-app-for-the-first-time.md
       - Create or restore your Status profile using a recovery phrase: getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase.md
       - Sign into your Status profile on a new device: getting-started/sign-into-your-status-profile-on-a-new-device.md
-      - Add a contact in Status: messaging-and-web3-browser/add-a-contact-in-status.md
+      - Add a contact in Status: your-profile-and-preferences/add-a-contact-in-status.md
       - Join a Status Community: status-communities/join-a-status-community.md
       - Invite friends to Status: getting-started/invite-friends-to-status.md
       - Status Wallet – your quick start guide: status-wallet/status-wallet-your-quick-start-guide.md
@@ -293,12 +293,11 @@ nav:
       - Share your Status profile: your-profile-and-preferences/share-your-status-profile.md
       - Sync your profile across devices: your-profile-and-preferences/sync-your-profile-across-devices.md
       - Remove a Status profile from your profile list: your-profile-and-preferences/remove-a-status-profile-from-your-profile-list.md
-      - View your profile as someone else: your-profile-and-preferences/view-your-profile-as-someone-else.md
       - Log out of Status: your-profile-and-preferences/log-out-of-status.md 
       - Delete your Status profile: your-profile-and-preferences/delete-your-status-profile.md
     - Change your settings and preferences:
-      - Enable rich link previews in messages: your-profile-and-preferences/enable-rich-link-previews-in-messages.md    
       - Status settings reference: your-profile-and-preferences/status-settings-reference.md
+      - Enable rich link previews in messages: your-profile-and-preferences/enable-rich-link-previews-in-messages.md    
       - Register or add your ENS name in Status: your-profile-and-preferences/register-or-add-your-ens-name-in-status.md
       - Set the default browser in Status: your-profile-and-preferences/set-the-default-browser-in-status.md
     - Adjust your notifications:
@@ -314,7 +313,7 @@ nav:
       - Customize membership request notifications: your-profile-and-preferences/customize-membership-request-notifications
       - Reset your notification settings: your-profile-and-preferences/reset-your-notification-settings.md
     - Your profile security and privacy:
-      - Back up and secure** your recovery phrase: your-profile-and-preferences/back-up-and-secure-your-recovery-phrase.md
+      - Back up and secure your recovery phrase: your-profile-and-preferences/back-up-and-secure-your-recovery-phrase.md
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
       - View your profile as someone else: your-profile-and-preferences/view-your-profile-as-someone-else.md
       - About changing your password: your-profile-and-preferences/about-changing-your-password.md

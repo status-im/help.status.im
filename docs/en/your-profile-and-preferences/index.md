@@ -15,7 +15,6 @@ Set up your Status profile and notifications, customize your settings and fix co
 - [**Share** your Status profile][share-your-status-profile]
 - [**Sync** your profile across devices][sync-your-profile-across-devices]
 - [**Remove** a Status profile from your profile list][remove-a-status-profile-from-your-profile-list]
-- [**View your profile** as someone else][view-your-profile-as-someone-else]
 - [**Log out** of Status][log-out-of-status]
 - [**Delete** your Status profile][delete-your-status-profile]
 
@@ -67,9 +66,7 @@ Set up your Status profile and notifications, customize your settings and fix co
 ## Handle your contact list and user verification
 
 - [**Remove** a contact from Status][remove-a-contact-from-status]
-- [Respond to a **contact request**][respond-to-a-contact-request]
 - [Understand Status **profile labels**][understand-status-profile-labels]
 - [**Add a contact** in Status][add-a-contact-in-status]
-- [Add or remove a **nickname** from someone else's profile][add-or-remove-a-nickname-from-someone-else-s-profile]
 
 --8<-- "includes/urls-en.txt"

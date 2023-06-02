@@ -8,20 +8,18 @@ hide:
 
 # View your profile as someone else
 
-Your Status profile can reveal a lot about you. It's important to check if you're sharing the right details with the right people.
-
-## What to expect
-
-- You can view how your profile appears to different Status users.
+Your Status profile can reveal a lot about you. It's important to check if you're sharing the right details with the right people. For example, you may want to share more information with your Status contacts than with others.
 
 ## View your profile as someone else
+
+The desktop version only shows a limited preview of your profile. Instead, use the mobile version.
 
 === "Mobile"
 
     1. From the tab bar, tap :mobile-messages: **Messages**.
-    1. Tap your avatar.
+    1. Tap your profile picture.
     1. Tap :mobile-reveal: **Reveal**.
-    1. Tap the :mobile-dropdown: **Arrow** to view your profile for **Everyone**, **Contact** or **Verified contact**.
+    1. Tap the :mobile-dropdown: **Arrow** to view your profile as **Everyone**, **Contact** or **Verified contact**.
 
 === "Desktop"
 
@@ -30,6 +28,6 @@ Your Status profile can reveal a lot about you. It's important to check if you'r
     1. In the **Profile** content area, select **Preview**.
 
 !!! tip
-    If you want to make any changes, check out [Edit your Status profile][edit-your-status-profile].
+    If you want to make any changes, check out [View and edit your Status profile][view-and-edit-your-status-profile].
 
 --8<-- "includes/urls-en.txt"
