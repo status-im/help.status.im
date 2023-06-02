@@ -28,7 +28,7 @@ This table summarizes your options when you have a recovery phrase:
 | You have | Next step | Your Status profile | Your wallet funds |
 |:---|:---|:---|:---|
 | :material-check: Recovery phrase</br>:octicons-x-24:Status profile | [Create profile using a recovery phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | New profile | :material-check: |
-| :material-check: Recovery phrase</br>:material-check: Used your Status profile in the past 30 days | [Restore profile using a recoverpy phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | :material-check: | :material-check: 
+| :material-check: Recovery phrase</br>:material-check: Used your Status profile in the past 30 days | [Restore profile using a recovery phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | :material-check: | :material-check: 
 | :material-check: Recovery phrase</br>:octicons-x-24: Used your Status profile in the past 30 days</br>:octicons-x-24: Access to your device | [Create profile using a recovery phrase](#create-or-restore-your-profile-using-a-recovery-phrase) | :octicons-x-24: | :material-check: |
 
 (:material-check: available, :octicons-x-24: not available )
