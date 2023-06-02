@@ -122,6 +122,7 @@
 [set-up-your-community-permissions]: /en/status-communities/set-up-your-community-permissions
 [token-based-access-to-communities-and-channels]: /en/status-communities/token-based-access-to-communities-and-channels
 [transfer-your-community-s-ownership]: /en/status-communities/transfer-your-community-s-ownership
+[token-based-access-to-communities-and-channels]: /en/status-communities/token-based-access-to-communities-and-channels
 [turn-off-the-community-history-service]: /en/status-communities/turn-off-the-community-history-service
 [understand-throwaway-profiles-in-status-web]: /en/status-communities/understand-throwaway-profiles-in-status-web
 [understand-token-requirements-in-channels]: /en/status-communities/understand-token-requirements-in-channels
