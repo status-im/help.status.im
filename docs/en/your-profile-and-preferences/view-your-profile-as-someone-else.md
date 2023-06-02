@@ -8,7 +8,7 @@ hide:
 
 # View your profile as someone else
 
-Your Status profile can reveal a lot about you. It's important to check if you're sharing the right details with the right people. For example, you may want to share more information with your Status contacts than with others.
+Your Status profile can reveal a lot about you. It's important to check if you're sharing the right details with the right people. For example, you may want to share more information with your Status contacts than with non-contacts.
 
 ## View your profile as someone else
 
