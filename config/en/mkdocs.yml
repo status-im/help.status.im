@@ -157,9 +157,9 @@ nav:
     - getting-started/index.md
     - Intro to Status:
       - What is Status: getting-started/what-is-status.md
-      - How to use Status – your quick start quide: getting-started/how-to-use-status-your-quick-start-guide
-      - Understand your actions in Status: getting-started/understand-your-actions-in-status
-      - About the Ethereum blockchain: getting-started/about-the-ethereum-blockchain
+      - How to use Status – your quick start quide: getting-started/how-to-use-status-your-quick-start-guide.md
+      - Understand your actions in Status: getting-started/understand-your-actions-in-status.md
+      - About the Ethereum blockchain: getting-started/about-the-ethereum-blockchain.md
     - Getting started for new users:
       - Run the Status app for the first time: getting-started/run-the-status-app-for-the-first-time.md
       - Create or restore your Status profile using a recovery phrase: getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase.md
@@ -192,7 +192,7 @@ nav:
     - Group chats:
       - Understand group chats: messaging-and-web3-browser/understand-group-chats.md
       - Create a group chat: messaging-and-web3-browser/create-a-group-chat.md
-      - Customize a group chat: messaging-and-web3-browser/customize-a-group-chat
+      - Customize a group chat: messaging-and-web3-browser/customize-a-group-chat.md
       - Add members to a group chat: messaging-and-web3-browser/add-members-to-a-group-chat.md
       - Join a group chat: messaging-and-web3-browser/join-a-group-chat.md
       - Clear group chat history: messaging-and-web3-browser/clear-group-chat-history.md
