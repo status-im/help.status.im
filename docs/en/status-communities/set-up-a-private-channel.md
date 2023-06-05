@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Set a private channel
+# Set up a private channel
 
  :octicons-tools-24: In progress
 
