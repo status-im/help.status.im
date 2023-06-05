@@ -27,7 +27,7 @@ In some cases, users may still see your original messages, even after you edit o
 - In communities and group chats, you can hide messages you don't want to see with **Delete for me**. Everyone else will still be able to see this message.
 - To delete a message for everyone, select **Delete for everyone**. You can only delete your own messages.
 
-## Edit your messages
+## Edit your messages {: #edit-messages }
 
 === "Mobile"
 

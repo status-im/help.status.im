@@ -38,6 +38,7 @@
 [delete-community-permissions]: /en/messaging-and-web3-browser/set-up-your-community-permissions#delete-community-permissions
 [delete-messages]: /en/messaging-and-web3-browser/edit-and-delete-your-messages#delete-messages
 [edit-and-delete-your-messages]: /en/messaging-and-web3-browser/edit-and-delete-your-messages
+[edit-messages]: /en/messaging-and-web3-browser/edit-and-delete-your-messages#edit-messages
 [find-people-on-status]: /en/messaging-and-web3-browser/find-people-on-status
 [format-your-messages]: /en/messaging-and-web3-browser/format-your-messages
 [how-to-use-status-browser-your-quick-start-guide]: /en/messaging-and-web3-browser/how-to-use-status-browser-your-quick-start-guide
