@@ -12,7 +12,7 @@ As a community owner in Status, you can use tokens to create different access le
 
 For example, you can use tokens to organize a conference with community access limited to token holders and exclusive channels just for speakers. If you are an artist or content creator, you can set up a community for your fans and give certain fans access to exclusive channels where you release new content.
 
-The options are many, allowing you to create an environment tailored to your community's needs. For more examples of using tokens to provide exclusive access to your community, check out [Token-base access to communities and channels][token-based-access-to-communities-and-channels].
+The options are many, allowing you to create an environment tailored to your community's needs. For more examples of using tokens to provide exclusive access to your community, check out [Token-based access to communities and channels][token-based-access-to-communities-and-channels].
 
 ## Practical example: use a Status Community to organize an event
 
