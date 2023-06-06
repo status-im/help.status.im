@@ -234,8 +234,8 @@ nav:
       - Customize your channel: status-communities/customize-your-channel.md
       - Change a private channel to public: status-communities/change-a-private-channel-to-public.md
       - Set up channel permissions: status-communities/set-up-channel-permissions.md
-      - Set a read-only channel: status-communities/set-a-read-only-channel.md
-      - Set a private channel: status-communities/set-a-read-only-channel.md
+      - Set a read-only channel: status-communities/set-up-a-read-only-channel.md
+      - Set a private channel: status-communities/set-up-a-read-only-channel.md
       - Delete a channel: status-communities/delete-a-channel.md
     - Create your community:
       - Getting started for community owners: status-communities/getting-started-for-community-owners.md
