@@ -67,7 +67,6 @@
 [about-status-web-communities]: /en/status-communities/about-status-web-communities
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
 [about-the-control-node-in-status-communities]: /en/status-communities/about-the-control-node-in-status-communities
-[back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [about-tokens-collectibles-and-ens-names]: /en/status-communities/about-tokens-collectibles-and-ens-names
 [administer-your-community-from-different-computers]: /en/status-communities/administer-your-community-from-different-computers
 [back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
@@ -115,7 +114,6 @@
 [set-up-a-read-only-channel]: /en/status-communities/set-up-a-read-only-channel 
 [set-up-a-private-community]: /en/status-communities/set-up-a-private-community
 [set-up-a-private-channel]: /en/status-communities/set-up-a-private-channel
-[restore-your-status-community]: /en/status-communities/restore-your-status-community
 [set-up-collectible-options]: /en/status-communities/mint-tokens-for-your-community#set-up-collectible-options
 [set-up-your-communitys-approval-options]: /en/status-communities/set-up-your-communitys-approval-options
 [set-up-your-community-permissions]: /en/status-communities/set-up-your-community-permissions
