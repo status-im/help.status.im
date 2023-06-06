@@ -40,12 +40,12 @@ You can choose to be notified about mentions (personal and global) or every new 
 
 | Preference | Description |
 |:---|:---|
-| Notification on| Turn this on if you want to see notifications banners. |
+| Notification on| Turn on this if you want to see notifications banners. |
 | In notification centre only |Turn on this option to receive subtle notifications without banners. You need to unlock your phone to see your notifications. |
 | Notifications off | Turn this off if you don't want to receive notifications. |
 
 !!! note
-	You can't customize channel notifications on desktop.
+	You can't customize your channel notification settings on desktop.
 
 ## How to disable Status on-screen notifications
 
