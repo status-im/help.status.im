@@ -9,67 +9,53 @@ hide:
 # View and edit your Status profile
 
 !!! note ""
-    Currently, some sections are not editable on Status desktop. Use the Status mobile app to edit them.
+    Currently, some profile sections are not editable on Status desktop. Use the Status mobile app to edit them.
 
-Your profile serves as a showcase of who you are to other Status users. You can fully customize your profile.
+Your profile serves as a showcase of who you are to other Status users. You can make as many edits as you need, and the profile updates take effect instantly.
 
 !!! tip
     To see how your profile appears to others, check out [View your profile as someone else][view-your-profile-as-someone-else].
 
-## What to expect
-
-- Your profile updates take effect instantly.
-- You can make as many edits as you need.
-
 ## Edit your Status profile
-
-You can edit four types of content on your profile in different ways.
 
 === "Mobile"
 
     1. From the tab bar, tap :mobile-messages: **Messages**.
-    1. Tap your avatar.
+    1. Tap your profile picture.
     1. Tap **Edit profile**.
-    1. Choose the section you want to edit and follow the corresponding procedure：
-    
-    | Sections | Works with |
-    |:----|:----|
-    | [Edit profile picture][edit-profile-picture] | Mobile and desktop (limited functionality)|
-    | [Edit name, bio or accent colour][edit-profile-info] | Mobile and desktop (limited functionality) |
-    | [Edit communities, accounts, collectibles or assets][edit-showcase] | Mobile |
-    | [Manage web links][manage-links] | Mobile and desktop |
+    1. Choose the area you want to edit and follow the corresponding procedure from this table：
 
 === "Desktop"
 
-    1. From the navigation sidebar, :desktop-settings: **Settings**, and then click :desktop-profile: **Profile**.
+    1. From the navigation sidebar, click :desktop-settings: **Settings**, and then click :desktop-profile: **Profile**.
     1. In the **Profile** content area, select **Edit**.
-    1. Choose the type of content you want to edit and follow the corresponding procedure：
-    
-    | Sections | Works with |
-    |:----|:----|
-    | [Edit profile picture][edit-profile-picture] | Mobile and desktop (limited functionality)|
-    | [Edit name, bio or accent colour][edit-profile-info] | Mobile and desktop (limited functionality) |
-    | [Edit communities, accounts, collectibles or assets][edit-showcase] | Mobile |
-    | [Manage web links][manage-links] | Mobile and desktop |
+    1. Choose the area you want to edit and follow the corresponding procedure from this table：
 
-## Edit profile picture {: #edit-profile-picture}
+| Area to edit | Availability |
+|:----|:----|
+| [Profile picture][edit-profile-picture] | Mobile and desktop (limited functionality)|
+| [Name, bio or accent colour][edit-profile-info] | Mobile and desktop (limited functionality) |
+| [Communities, accounts, collectibles or assets][edit-showcase] | Mobile |
+| [Web links][manage-links] | Mobile and desktop |
+
+### Profile picture {: #edit-profile-picture}
 
 You can use a photo, an image or a collectible as your profile picture. If you use Status desktop, you can only choose an image from your computer.
 
 === "Mobile"
 
-    1. Tap :mobile-camera: **Camera** in your avatar. 
+    1. Tap :mobile-camera: **Camera** in your profile picture. 
     1. In the action sheet, choose :mobile-camera: **Take photo**, :mobile-image: **Select from gallery** or :mobile-nft: **Select collectible**.
     1. Authorize the Status app to access your camera or photo gallery.
     1. Set a profile picture and tap **Choose**.
 
 === "Desktop"
 
-    1. Click :desktop-edit: **Edit** in your avatar. 
+    1. Click :desktop-edit: **Edit** in your profile picture. 
     1. Choose a picture from your computer.
     1. Adjust your picture size and click **Make this my profile picture**.
 
-## Edit name, bio or accent colour {: #edit-profile-info}
+### Name, bio or accent colour {: #edit-profile-info}
 
 Use Status mobile if you want to edit the accent colour.
 
@@ -83,9 +69,9 @@ Use Status mobile if you want to edit the accent colour.
     1. Update content in the **Display name** or **Bio** field.
     1. Click **Save changes**.
 
-## Edit communities, accounts, collectibles or assets {: #edit-showcase}
+### Communities, accounts, collectibles or assets {: #edit-showcase}
 
-The information in this section is hidden by default. You can choose what to reveal to different groups of Status users.
+Such information is hidden by default. You can choose what to reveal to different groups of Status users.
 
 === "Mobile"
 
@@ -94,16 +80,16 @@ The information in this section is hidden by default. You can choose what to rev
 1. Choose **Everyone**, **Contacts**, **ID verified contacts** or **No one**.
 
 !!! warning "Caution"
-    Be careful with sharing sensitive information to protect yourself against scams and frauds.
+    Be careful with sharing sensitive information to protect yourself against scams and fraud.
 
-## Manage web links {: #manage-links}
+### Web links {: #manage-links}
 
 If you want to tell people more about yourself, you can display social media links and other web links on your profile.
 
 === "Mobile"
 
     1. In the **On the web** list, tap **Links**.
-    1. Choose the action you want to complete and follow the steps:
+    1. Choose the action you want to complete and follow the steps from this table:
     
     | Action | Steps |
     |:-------|:------|
@@ -115,7 +101,7 @@ If you want to tell people more about yourself, you can display social media lin
 === "Desktop"
 
     1. Choose the action you want to complete.
-    1. Follow the steps:
+    1. Follow the steps from this table:
 
     | Action | Steps |
     |:-------|:------|
