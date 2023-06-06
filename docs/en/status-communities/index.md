@@ -23,16 +23,6 @@ Create your community, set up private channels or join others' communities and c
 - [Understand **token requirements** in channels][understand-token-requirements-in-channels]
 - [About **losing access** to a channel][about-losing-access-to-a-channel]
 
-## Administer channels
-
-- [**Create** a channel][create-a-channel]
-- [**Customize** your channel][customize-your-channel]
-- [**Change** a private channel to public][change-a-private-channel-to-public]
-- [Set up **channel permissions**][set-up-channel-permissions]
-- [Set a read-only channel][set-up-a-read-only-channel]
-- [Set a private channel][set-up-a-read-only-channel]
-- [**Delete** a channel][delete-a-channel]
-
 ## Create your community
 
 - [**Getting started** for community owners][getting-started-for-community-owners]
@@ -53,14 +43,24 @@ Create your community, set up private channels or join others' communities and c
 - [**Kick or ban** someone from your community][kick-or-ban-someone-from-your-community]
 - [**Delete** your Status **Community**][delete-your-status-community]
 
-## Use tokens and set community permissions
+## Administer channels
+
+- [**Create** a channel][create-a-channel]
+- [**Customize** your channel][customize-your-channel]
+- [**Change** a private channel to public][change-a-private-channel-to-public]
+- [Set up **channel permissions**][set-up-channel-permissions]
+- [Set a **read-only channel**][set-up-a-read-only-channel]
+- [Set a private channel][set-up-a-read-only-channel]
+- [**Delete** a channel][delete-a-channel]
+
+## Use tokens and set permissions
 
 - [**Token-based access** to communities and channels][token-based-access-to-communities-and-channels]
 - [Set up a **private community**][set-up-a-private-community]
 - [**Change** a private community to public][change-a-private-community-to-public]
 - [**Permissions by role** in Status Communities][permissions-by-role-in-status-communities]
 - [Set up your **community permissions**][set-up-your-community-permissions]
-- [Grant **exclusive access** with custom tokens][grant-exclusive-access-with-custom-tokens]
+- [Grant **exclusive access** with tokens][grant-exclusive-access-with-tokens]
 - [**Mint tokens** for your community][mint-tokens-for-your-community]
 - [How to mint an **admin token**][how-to-mint-an-admin-token]
 - [**Import tokens** to your community][import-tokens-to-your-community]

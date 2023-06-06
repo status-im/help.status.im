@@ -229,14 +229,6 @@ nav:
       - Join a channel: status-communities/join-a-channel.md
       - Understand token requirements in channels: status-communities/understand-token-requirements-in-channels.md
       - About losing access to a channel: status-communities/about-losing-access-to-a-channel.md
-    - Administer channels:
-      - Create a channel: status-communities/create-a-channel.md
-      - Customize your channel: status-communities/customize-your-channel.md
-      - Change a private channel to public: status-communities/change-a-private-channel-to-public.md
-      - Set up channel permissions: status-communities/set-up-channel-permissions.md
-      - Set a read-only channel: status-communities/set-up-a-read-only-channel.md
-      - Set a private channel: status-communities/set-up-a-read-only-channel.md
-      - Delete a channel: status-communities/delete-a-channel.md
     - Create your community:
       - Getting started for community owners: status-communities/getting-started-for-community-owners.md
       - Create a Status community: status-communities/create-a-status-community.md
@@ -253,6 +245,14 @@ nav:
       - Turn off the Community History Service: status-communities/turn-off-the-community-history-service.md
       - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
       - Delete your Status Community: status-communities/delete-your-status-community.md
+    - Administer channels:
+      - Create a channel: status-communities/create-a-channel.md
+      - Customize your channel: status-communities/customize-your-channel.md
+      - Change a private channel to public: status-communities/change-a-private-channel-to-public.md
+      - Set up channel permissions: status-communities/set-up-channel-permissions.md
+      - Set a read-only channel: status-communities/set-up-a-read-only-channel.md
+      - Set a private channel: status-communities/set-up-a-read-only-channel.md
+      - Delete a channel: status-communities/delete-a-channel.md
     - Use tokens and set community permissions:
       - Token-based access to communities and channels: status-communities/token-based-access-to-communities-and-channels.md
       - Set up a private community: status-communities/set-up-a-private-community.md
