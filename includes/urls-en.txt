@@ -111,7 +111,7 @@
 [replace-your-community-s-control-node]: /en/status-communities/replace-your-community-s-control-node
 [restore-your-status-community]: /en/status-communities/restore-your-status-community
 [self-destruct-a-token-remotely]: /en/status-communities/self-destruct-a-token-remotely
-[set-up-a-read-only-channel]: /en/status-communities/set-up-a-read-only-channel 
+[set-up-a-view-only-channel]: /en/status-communities/set-up-a-view-only-channel 
 [set-up-a-private-community]: /en/status-communities/set-up-a-private-community
 [set-up-a-private-channel]: /en/status-communities/set-up-a-private-channel
 [set-up-collectible-options]: /en/status-communities/mint-tokens-for-your-community#set-up-collectible-options

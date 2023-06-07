@@ -6,28 +6,28 @@ hide:
   - navigation
 ---
 
-# Set a read-only channel
+# Set a view-only channel
 
 !!! tip ""
-    Currently, you can only set a read-only channel using Status desktop. [:octicons-desktop-download-16: Download Status desktop][status-web-download].
+    Currently, you can only set a view-only channel using Status desktop. [:octicons-desktop-download-16: Download Status desktop][status-web-download].
 
-In a read-only channel, everyone with access can view the conversation, but they can't respond or write in the channel. The community owner or admin can designate certain people or groups to write in the read-only channel.
+In a view-only channel, everyone with access can view the conversation, but they can't respond or write in the channel. The community owner or admin can designate certain people or groups to write in the view-only channel.
 
 !!! note
     Members with access to the channel can still [react][react-and-reply-to-messages] on the channel's messages.
 
 ## What to expect
 
-- You can configure read-only permissions in a channel using token-based permissions or without tokens. The result is the same in both cases.
-- When using tokens, you can use different types of tokens, including X, X, and ENS names. To easy the read-only managmeent, mint your own community token and assign the token to the people you want to grant read
-- Community owners and admins can always read and write in the community channels, irrespective of the read-only permissions.
+- You can configure view-only permissions in a channel using token-based permissions or without tokens. The result is the same in both cases.
+- When using tokens, you can use different types of tokens, including X, X, and ENS names. To easy the view-only managmeent, mint your own community token and assign the token to the people you want to grant view
+- Community owners and admins can always view and write in the community channels, irrespective of the view-only permissions.
 - After you configure the permissions, they take effect immediately.
 
-## Set up a read-only channel without tokens
+## Set up a view-only channel without tokens
 
-Using channel permissions, you can set up a read-only channel without tokens.
+Using channel permissions, you can set up a view-only channel without tokens.
 
-set read and write permissions for community owners and admins
+set view and write permissions for community owners and admins
 
 === "Desktop"
 
@@ -44,25 +44,25 @@ set read and write permissions for community owners and admins
     | `Is allowed to` | The level of access or role that you assign to someone. | Become admin, Become member, Moderate. |
     | `In` | The channel this permission applies to. | Channel |
 
-## Set up a read-only channels with token-based permissions
+## Set up a view-only channels with token-based permissions
 
-Alternatively, you may want this read-only permission to depend on a certain token to set up a read-only channel without tokens.
+Alternatively, you may want this view-only permission to depend on a certain token to set up a view-only channel without tokens.
 
-Complete these steps to set a read-only channel in your community:
+Complete these steps to set a view-only channel in your community:
 
 === "Desktop"
 
     ### Step 1: Mint a new community token
 
-    For instructions to mint a community token, read [ ]. 
+    For instructions to mint a community token, view [ ]. 
 
     ### Step 2: Airdrop the token
 
-    The token provides read and write permissions to its owners. Airdrp the token to the people you want to to write in your read-only channel.
+    The token provides view and write permissions to its owners. Airdrp the token to the people you want to to write in your view-only channel.
 
-    - [x] Step 1: [Mint a new community token]. The owners of this token have read and write permissions on the channel.
-    - [x] Step 2: [Airdrop the token] to the peole you want to add with read and writer permissions.
-    - [x] Step 3: Using the community token, configure the view-only permission. You can set the read-only permission with or without tkoens
+    - [x] Step 1: [Mint a new community token]. The owners of this token have view and write permissions on the channel.
+    - [x] Step 2: [Airdrop the token] to the peole you want to add with view and writer permissions.
+    - [x] Step 3: Using the community token, configure the view-only permission. You can set the view-only permission with or without tkoens
     
         1. From the navigation sidebar, click your community.
         1. On top of the channel sidebar, click your community logo and then, click **Permissions**.
