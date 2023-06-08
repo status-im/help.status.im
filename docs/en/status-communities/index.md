@@ -9,11 +9,11 @@ Create your community, set up private channels or join others' communities and c
 
 ## Status Communities
 
-- [About community **request approvals**][about-community-request-approvals]
-- [About **losing access** to a community][about-losing-access-to-a-community]
-- [**Invite** people to a Status community][invite-people-to-a-status-community]
 - [**Import** a community someone shares with you][import-a-community-someone-shares-with-you]
+- [**Invite** people to a Status community][invite-people-to-a-status-community]
+- [About community **request approvals**][about-community-request-approvals]
 - [Understand **token requirements** in communities][understand-token-requirements-in-communities]
+- [About **losing access** to a community][about-losing-access-to-a-community]
 
 ## Channels
 
