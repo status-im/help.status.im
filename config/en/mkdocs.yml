@@ -225,10 +225,14 @@ nav:
   - Communities:
     - status-communities/index.md
     - Status Communities:
+      - About the different types of Status Communities: status-communities/about-the-different-types-of-status-communities.md
       - Import a community someone shares with you: status-communities/import-a-community-someone-shares-with-you.md
       - Invite people to a Status community: status-communities/invite-people-to-a-status-community.md
       - About community request approvals: status-communities/about-community-request-approvals.md
+      - Invite people to a Status community: status-communities/invite-people-to-a-status-community.md
+      - About community request approvals: status-communities/about-community-request-approvals.md
       - Understand token requirements in communities: status-communities/understand-token-requirements-in-communities.md
+      - About losing access to a community: status-communities/about-losing-access-to-a-community.md
       - About losing access to a community: status-communities/about-losing-access-to-a-community.md
     - Channels:
       - Channels your quick start guide: status-communities/channels-your-quick-start-guide.md
