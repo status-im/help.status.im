@@ -6,28 +6,45 @@ hide:
   - navigation
 ---
 
-# Set a view-only channel
+# Set up a view-only channel
 
-!!! tip ""
-    Currently, you can only set a view-only channel using Status desktop. [:octicons-desktop-download-16: Download Status desktop][status-web-download].
+!!! note ""
+    Currently, you can only set up a view-only channel using Status desktop. [:octicons-desktop-download-16: Download Status desktop][status-web-download].
 
-In a view-only channel, everyone with access can view the conversation, but they can't respond or write in the channel. The community owner or admin can designate certain people or groups to write in the view-only channel.
+In a view-only channel, everyone with access can view the conversation, but they can't respond or write in the channel. The community [owner or admin][permissions-by-role-in-status-communities] can designate certain people or groups to write in the view-only channel.
 
 !!! note
-    Members with access to the channel can still [react][react-and-reply-to-messages] on the channel's messages.
+    Members with view-only access to the channel can still [react][react-and-reply-to-messages] on the channel's messages.
+
+To learn how to use read-only channels in your community, check out [About view-only channels][about-view-only-channels].
 
 ## What to expect
 
-- You can configure view-only permissions in a channel using token-based permissions or without tokens. The result is the same in both cases.
-- When using tokens, you can use different types of tokens, including X, X, and ENS names. To easy the view-only managmeent, mint your own community token and assign the token to the people you want to grant view
 - Community owners and admins can always view and write in the community channels, irrespective of the view-only permissions.
-- After you configure the permissions, they take effect immediately.
+- You can configure view-only channels with or without tokens. Using tokens requires more steps, but provides more options. For example, [minting][mint-tokens-for-your-community] and [airdropping][how-to-airdrop-tokens-in-status] tokens can incentivize community engagement.
+- When using tokens, [mint a community token][mint-tokens-for-your-community] and share the token with everyone you want to have view-only access.
+- Once you set up the view-only permission, only members who meet its criteria can access the channel. However, their access is limited to read-only.
+- Owners can set up [additional post permissions](#grant-someone-post-permissions-in-a-view-only-channel) in read-only channels for specific members.
 
 ## Set up a view-only channel without tokens
 
 Using channel permissions, you can set up a view-only channel without tokens.
 
-set view and write permissions for community owners and admins
+=== "Desktop"
+
+    1. From the navigation sidebar, click your community.
+    1. On top of the channels sidebar, click your community logo and then, click **Permissions**.
+    1. Click **Add permission**.
+    1. Turn off the `Who holds` to disable the token requirement.
+    1. For the `Is allowed to` variable, select :desktop-read: **View only**.
+    1. For the `In` variable, select the channel you want to set as read-only.
+    1. Click **Create permission**.
+
+## Set up a view-only channel with token-based permissions
+
+Depending on your community's needs, you may want the view-only channel permission linked to a token. You can use an existing token (such as SNT or DAI, for example), or [a token you mint][mint-tokens-for-your-community] for the community.
+
+If you mint a [collectible][collectibles-your-quick-start-guide] to manage the view-only access, enable the `Non-transferable (Soulbound)` and `Remotely-destruct` options to maintain control of who has view-only access to the channel. For more information, check out the [available collectible options][set-up-collectible-options].
 
 === "Desktop"
 
@@ -35,46 +52,19 @@ set view and write permissions for community owners and admins
     1. On top of the channel sidebar, click your community logo and then, click **Permissions**.
     1. Click **Add permission**.
     1. For the `Who holds`, `Is allowed to` and `In` variables, click :desktop-plus: **Add** next to the variable and use the table below for reference.
-    Optionally, check :desktop-hide: **Hide permission** to hide this permission from members who don't meet the requirements.
     1. Click **Create permission**.
     
-    | Variable | Description | Options |
-    |:--|:--|:--|
-    | `Who holds` | The tokens and amounts (for assets and collectibles) someone needs to hold, or the ENS name someone owns. | Assets, Collectibles, ENS |
-    | `Is allowed to` | The level of access or role that you assign to someone. | Become admin, Become member, Moderate. |
-    | `In` | The channel this permission applies to. | Channel |
+    | Variable | Steps |
+    |:--|:--|
+    | `Who holds` | 1. Select **Assets** or **Collectibles**.</br>2. Choose the asset or collectible, and the amount you want to use to enable read-only access.</br>3. Alternatively, **Import existing collectible**.</br>4. Click **Add**. |
+    | `Is allowed to` | :desktop-view: `View only` |
+    | `In` | Choose the channel you want to set as read-only. |
 
-## Set up a view-only channels with token-based permissions
-
-Alternatively, you may want this view-only permission to depend on a certain token to set up a view-only channel without tokens.
-
-Complete these steps to set a view-only channel in your community:
-
-=== "Desktop"
-
-    ### Step 1: Mint a new community token
-
-    For instructions to mint a community token, view [ ]. 
-
-    ### Step 2: Airdrop the token
-
-    The token provides view and write permissions to its owners. Airdrp the token to the people you want to to write in your view-only channel.
-
-    - [x] Step 1: [Mint a new community token]. The owners of this token have view and write permissions on the channel.
-    - [x] Step 2: [Airdrop the token] to the peole you want to add with view and writer permissions.
-    - [x] Step 3: Using the community token, configure the view-only permission. You can set the view-only permission with or without tkoens
-    
-        1. From the navigation sidebar, click your community.
-        1. On top of the channel sidebar, click your community logo and then, click **Permissions**.
-        1. Click **Add permission**.
-        1. For the `Who holds`, `Is allowed to` and `In` variables, click :desktop-plus: **Add** next to the variable and use the table below for reference.
+    !!! tip
         Optionally, check :desktop-hide: **Hide permission** to hide this permission from members who don't meet the requirements.
-        1. Click **Create permission**.
-        
-        | Variable | Description | Options |
-        |:--|:--|:--|
-        | `Who holds` | The tokens and amounts (for assets and collectibles) someone needs to hold, or the ENS name someone owns. | Assets, Collectibles, ENS |
-        | `Is allowed to` | The level of access or role that you assign to someone. | Become admin, Become member, Moderate. |
-        | `In` | The channel this permission applies to. | Channel |
+
+## Grant someone post permissions in a view-only channel
+
+If you want someone else to post content in a view-only channel, configure this person's `View and post` permission. For information on configuring channel permissions, check out [Set up channel permissions][set-up-channel-permissions].
 
 --8<-- "includes/urls-en.txt"
