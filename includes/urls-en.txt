@@ -94,8 +94,8 @@
 [how-to-airdrop-tokens-in-status]: /en/status-communities/how-to-airdrop-tokens-in-status
 [how-to-mint-an-admin-token]: /en/status-communities/how-to-mint-an-admin-token
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
-[import-a-community-someone-shares-with-you]: /en/status-communities/import-a-discord-community-into-status
-[import-a-discord-community-into-status]: /en/status-communities/import-a-community-someone-shares-with-you
+[import-a-community-someone-shares-with-you]: /en/status-communities/import-a-community-someone-shares-with-you
+[import-a-discord-community-into-status]: /en/status-communities/import-a-discord-community-into-status
 [import-your-status-community]: /en/status-communities/import-your-status-community
 [import-tokens-to-your-community]: /en/status-communities/import-tokens-to-your-community
 [invite-people-to-a-channel]: /en/status-communities/invite-people-to-a-channel
