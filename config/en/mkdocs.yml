@@ -251,7 +251,7 @@ nav:
       - Change a private channel to public: status-communities/change-a-private-channel-to-public.md
       - Set up channel permissions: status-communities/set-up-channel-permissions.md
       - Set a view-only channel: status-communities/set-up-a-view-only-channel.md
-      - Set a private channel: status-communities/set-up-a-view-only-channel.md
+      - Set a private channel: status-communities/set-up-a-private-channel.md
       - Delete a channel: status-communities/delete-a-channel.md
     - Use tokens and set community permissions:
       - Token-based access to communities and channels: status-communities/token-based-access-to-communities-and-channels.md
