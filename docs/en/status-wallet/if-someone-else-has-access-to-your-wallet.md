@@ -25,8 +25,6 @@ Start with creating a new Status profile. You can use multiple profiles at the s
 
 === "Mobile"
 
-    ### Step 1. Copying your new address
-
     If you're on your compromised Status profile, switch to your new one. For more details on how to do that, check out [Create and use additional status profiles][create-and-use-additional-status-profiles].
 
     1. From the tab bar, tap :mobile-wallet: **Wallet**.
@@ -37,8 +35,6 @@ Start with creating a new Status profile. You can use multiple profiles at the s
     1. Paste your new Status Wallet address into the Address field and tap **Send**. Repeat these steps for every account you still have crypto or collectibles in.
 
 === "Desktop"
-
-    ### Step 1: Copying your new address
 
     If you're on your compromised Status profile, switch to your new one. For more details on how to do that, check out [Create and use additional status profiles][create-and-use-additional-status-profiles].
 
