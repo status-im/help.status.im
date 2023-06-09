@@ -13,13 +13,13 @@ hide:
 
 [Channels][channels-your-quick-start-guide] represent spaces for conversation, discussion and information sharing. By default, all community members with access to a channel can participate in the conversation, reading and posting messages.
 
-As a community owner or admin, you can set a channel as view-only. For specific instructions, check out [Set up a view-only channel][set-up-a-view-only-channel]. 
+As a community [owner or admin][permissions-by-role-in-status-communities], you can set a channel as view-only. For specific instructions, check out [Set up a view-only channel][set-up-a-view-only-channel]. 
 
 A read-only channel aims to facilitate clear, uninterrupted communication for specific purposes. While members can't respond directly in these channels, they are crucial in keeping your community informed and engaged.
 
 ## View-only channel permission
 
-When you set up permission, only members who meet the criteria for that permission can perform the associated action within that channel.
+When you [set up a channel permission][set-up-channel-permissions], only members who meet the criteria for that permission can perform the associated action within that channel.
 
 This table summarizes how the `View` and `View and post` channel permissions work in your community.
 
