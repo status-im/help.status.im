@@ -180,7 +180,7 @@
 [configure-community-and-channel-notifications]: /en/your-profile-and-preferences/configure-community-and-channel-notifications
 [customize-direct-message-notifications]: /en/your-profile-and-preferences/customize-direct-message-notifications
 [customize-group-chat-notifications]: /en/your-profile-and-preferences/customize-group-chat-notifications
-[configure-mentions-and-all-other-messages]: /en/your-profile-and-preferences/configure-mentions-and-all-other-messages
+[customize-mentions-and-all-other-messages]: /en/your-profile-and-preferences/customize-mentions-and-all-other-messages
 [customize-membership-request-notifications]: /en/your-profile-and-preferences/customize-membership-request-notifications
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
 [customize-mentions-and-other-messages]: /en/your-profile-and-preferences/customize-mentions-and-other-messages

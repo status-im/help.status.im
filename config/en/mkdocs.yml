@@ -310,7 +310,13 @@ nav:
       - Set up your notification settings: your-profile-and-preferences/set-up-your-notification-settings.md
       - View notifications and updates: your-profile-and-preferences/view-notifications-and-updates.md
       - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
-      - Customize mentions and other messages: your-profile-and-preferences/customize-mentions-and-other-messages.md
+      - Customize direct message notifications: your-profile-and-preferences/customize-direct-message-notifications.md
+      - Customize mentions and all other messages: your-profile-and-preferences/customize-mentions-and-all-other-messages.md
+      - Customize group chat notifications: your-profile-and-preferences/customize-group-chat-notifications.md
+      - Configure community and channel notifications: your-profile-and-preferences/configure-community-and-channel-notifications.md
+      - Set up and customize notification exceptions: your-profile-and-preferences/set-up-and-customize-notification-exceptions.md
+      - Customize membership request notifications: your-profile-and-preferences/customize-membership-request-notifications
+      - Reset your notification settings: your-profile-and-preferences/reset-your-notification-settings.md
     - Handle your contact list and user verification:
       - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status.md
       - Understand Status profile labels: your-profile-and-preferences/understand-status-profile-labels.md
