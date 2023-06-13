@@ -1,12 +1,12 @@
 ---
-id: 637
+id: 638
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# Channel a private community to public
+# Change a closed channel to open
 
  :octicons-tools-24: In progress
 

@@ -13,7 +13,7 @@ hide:
 
 A [Status Community][about-status-communities] is a place where you can connect and communicate with people who share your interests. Communities are ideal for those with a passion or hobby, study groups, gaming communities, professional network groups, or creators looking to generate income from their content without intermediaries.
 
-As a community owner, you can create open communities or [restrict community access using tokens][set-up-a-private-community], control [membership approval][set-up-your-community-s-approval-options] and organize discussion groups in [channels][create-a-channel]. Owners have complete control over their community and are responsible for maintaining its rules.
+As a community owner, you can create open communities or [restrict community access using tokens][set-up-a-closed-community], control [membership approval][set-up-your-community-s-approval-options] and organize discussion groups in [channels][create-a-channel]. Owners have complete control over their community and are responsible for maintaining its rules.
 
 ## Create a community
 
@@ -34,7 +34,7 @@ You can configure these community settings:
 | Setting | Description |
 |:---|:---|
 | **Community history service** | Status Communities store up to 30 days of chat history by default. When this option is checked, community members can see messages older than 30 days.</br></br>For more information, check out [About the Community history service][about-the-community-history-service].|
-| **Request to join required** | Community owners must manually approve each join request if this setting is checked. This option applies to [open and private][about-status-communities] communities. |
+| **Request to join required** | Community owners must manually approve each join request if this setting is checked. This option applies to [open and closed][about-status-communities] communities. |
 | **Any member can pin a message** | Any community member can [pin messages][pin-a-message] when this setting is checked. If the setting is unchecked, only the community owner can pin messages. |
 
 !!! note

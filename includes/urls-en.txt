@@ -74,8 +74,8 @@
 [administer-your-community-from-different-computers]: /en/status-communities/administer-your-community-from-different-computers
 [back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [burn-your-community-tokens]: /en/status-communities/burn-your-community-tokens
-[change-a-private-community-to-public]: /en/status-communities/change-a-private-community-to-public
-[change-a-private-channel-to-public]: /en/status-communities/change-a-private-channel-to-public
+[change-a-closed-community-to-open]: /en/status-communities/change-a-closed-community-to-open
+[change-a-closed-channel-to-open]: /en/status-communities/change-a-closed-channel-to-open
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [co-manage-your-status-community]: /en/status-communities/co-manage-your-status-community
 [common-issues-when-the-community-s-control-node-is-offline]: /en/status-communites/common-issues-when-the-community-s-control-node-is-offline
@@ -115,8 +115,8 @@
 [restore-your-status-community]: /en/status-communities/restore-your-status-community
 [self-destruct-a-token-remotely]: /en/status-communities/self-destruct-a-token-remotely
 [set-up-a-view-only-channel]: /en/status-communities/set-up-a-view-only-channel 
-[set-up-a-private-community]: /en/status-communities/set-up-a-private-community
-[set-up-a-private-channel]: /en/status-communities/set-up-a-private-channel
+[set-up-a-closed-community]: /en/status-communities/set-up-a-closed-community
+[set-up-a-closed-channel]: /en/status-communities/set-up-a-closed-channel
 [set-up-collectible-options]: /en/status-communities/mint-tokens-for-your-community#set-up-collectible-options
 [set-up-your-communitys-approval-options]: /en/status-communities/set-up-your-communitys-approval-options
 [set-up-your-community-permissions]: /en/status-communities/set-up-your-community-permissions

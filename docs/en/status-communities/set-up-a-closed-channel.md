@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Set a private channel
+# Set a closed channel
 
  :octicons-tools-24: In progress
 
