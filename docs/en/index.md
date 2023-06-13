@@ -26,7 +26,7 @@ hide:
 
     ---
 
-    Create your community, set up private channels or join others' communities and channels.
+    Create your community, set up closed channels or join others' communities and channels.
 
     [:octicons-arrow-right-24: Status Communities][status-communities]
 

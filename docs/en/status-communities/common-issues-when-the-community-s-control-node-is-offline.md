@@ -19,7 +19,7 @@ If you don't have the Status desktop app running and connected to the internet, 
 - [Community join requests][manage-community-join-requests] can't be processed and are rejected or ignored.
 - [Banning or kicking out members][kick-or-ban-someone-from-your-community] is delayed until the control node is online.
 - Your community can't verify if members in [token-gated channels][set-up-channel-permissions] still hold the required tokens.
-- Members who could not access a private channel for not [meeting the requirements][understand-token-requirements-in-channels] can't join the channel even if they meet them now.
+- Members who could not access a closed channel for not [meeting the requirements][understand-token-requirements-in-channels] can't join the channel even if they meet them now.
 
 !!! tip
     Keep the Status desktop app working as the [community control node][about-the-control-node-in-status-communities] online every day or at least once every six days.
