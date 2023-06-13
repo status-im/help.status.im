@@ -63,4 +63,12 @@ Here is an example of how you can disable notifications when you don’t want ba
 
     1. Select **In notification centre only**.
 
+=== "Desktop"  
+
+    1. From the navigation sidebar, click :desktop-settings: **Settings**.
+    1. From the **Settings sidebar**, click :desktop-notification: **Notifications and Sounds**.
+    1. Under the **Message** area, Select  **Deliver Quietly** for **Personal mentions**, **Global mentions** and **All messages** using the drop-down menu.
+
+Your new notifications settings take effect immediately.
+
 --8<-- "includes/urls-en.txt"
