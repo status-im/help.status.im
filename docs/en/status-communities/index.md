@@ -9,6 +9,7 @@ Create your community, set up private channels or join others' communities and c
 
 ## Status Communities
 
+- [How to use **communities**: your quick start guide][how-to-use-communities-your-quick-start-guide]
 - [**Import** a community someone shares with you][import-a-community-someone-shares-with-you]
 - [**Invite** people to a Status community][invite-people-to-a-status-community]
 - [About community **request approvals**][about-community-request-approvals]
