@@ -66,6 +66,7 @@ Set up your Status profile and notifications, customize your settings and fix co
 ## Handle your contact list and user verification
 
 - [**Remove** a contact from Status][remove-a-contact-from-status]
+- [**Verify** your contact's identity][verify-your-contacts-identity]
 - [Understand Status **profile labels**][understand-status-profile-labels]
 - [**Add a contact** in Status][add-a-contact-in-status]
 
