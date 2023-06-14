@@ -27,7 +27,7 @@ In your verification request, you're asking a question only this person can know
     1. Tap :mobile-trusted: **Request identity verification**.
     1. Type a question only this person can know the answer to. Once you're done, tap **Request identity verification**.
     !!! tip
-         To cancel your identity veriifcation request, go to your contact's profile and tap :mobile-more-options: **More options** > :mobile-block: **Cancel identity verification request**.
+         To cancel your identity verification request, go to your contact's profile and tap :mobile-more-options: **More options** > :mobile-block: **Cancel identity verification request**.
 
 === "Desktop"
 
@@ -38,7 +38,7 @@ In your verification request, you're asking a question only this person can know
     1. Click :desktop-verify-identity: **Verify identity**.
     1. Type a question only this person can know the answer to. Once you're done, click **Send verification request**.
     !!! tip
-         To cancel your identity veriifcation request, go to your contact's profile and tap :mobile-more-options: **More options** > :desktop-verify-identity: **ID request pending...** > **Cancel verification**.
+         To cancel your identity verification request, go to your contact's profile and tap :mobile-more-options: **More options** > :desktop-verify-identity: **ID request pending...** > **Cancel verification**.
 
 ## Step 2. Wait for their response
 
