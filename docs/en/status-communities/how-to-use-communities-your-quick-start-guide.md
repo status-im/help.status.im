@@ -8,68 +8,93 @@ hide:
 
 # How to use Status Communities: your quick start guide
 
-The Status app combines a privacy-first messaging app, a non-custodial crypto wallet and a web3 browser to interact with dApps. At the core of Status' messaging are Communities. Status Communities can be defined as a platform that allows users to create, join, and engage in groups centred around shared interests or topics. 
+![An illustration of a fictional Status Community.](./how-to-use-status-communities-your-quick-start-guide/110-0-1.png)
 
-With Status, you can create your own community or become part of an existing one. To start with your community, check out  
+The Status app combines a privacy-first [messaging app][about-status-messages], a non-custodial [crypto wallet][status-wallet-your-quick-start-guide] and a [web3 browser][how-to-use-status-browser-your-quick-start-guide] to interact with dApps. At the core of Status' messaging are communities.
+
+With Status Communities, you can create, join and engage in groups centred around shared interests or topics. You can [create your community][create-a-status-community] or [become part of an existing one][join-a-status-community].
+
+!!! note
+    Status Communities are decentralized and self-sovereign. This means owners control their communities, not Status. We've built the platform, but control is in your hands.
 
 ## Discover Communities
 
-When you open the Status, the :mobile-communities: Communities brings the list of communities where you participate. If can also access the Community Directory
+When you open the Status app, the :mobile-communities: Communities option in the tab bar brings the list of communities where you participate. You can also discover new communities to join in the community directory. 
 
-The Communities Directory shows the list of communities you can join. However, private communites don't show up in this directory. This communities are intentionlly hidden from the directory and you need the public's community key to join them. If you know some member of a private community, you can ask this member to share the puclic's community key with you and then, import the key in your Status app.
+![The main user interface elements after selecting the communities option from the Status tap bar.](./how-to-use-status-communities-your-quick-start-guide/110-0-2.png)
 
-!!! note
-    Private communities may still require tokens and join request to join them.
+=== ":mobile-one: Create or import communities"
 
-=== "Communities tab"
+    Using :mobile-add-blue: **Add**, you can [create a new community][create-a-status-community] or [import a community][import-a-community-someone-shares-with-you] someone shares with you via link, QR code or the community's public key.
 
-    Description
+=== ":mobile-two: Discover"
 
-=== "Plus"
+    The **Discover** option brings the list of public communities you can join. These communities may have token and join requirements set by the community owner. For more information, check out [About the different types of Status Communities][about-the-different-types-of-status-communities].
 
-    Description
+=== ":mobile-three: Communities list"
 
-## Join communities
-
-In Status, community owners have complete control over how users can join their community. Owners can configure token requirements and manual approval to join the community
-
-When token requirements are set, you need to own and maintain the required tokens to join the community. 
-
-!!! note
-    Your tokens serve as a proof of ownership and are never transfer to the community owner, Status or someone else.
-
-## Participate in communities and channels
-
-Status Communities are made out of channels. Think of channels as rooms, each with its unique theme, helping to keep discussions focused and organized. Access to these channels can also be controlled via tokens or other permissions set by the community owner. Some channels might require additional tokens, while others could grant access but in a read-only mode, letting you view discussions but not contribute.
-
-!!! Note
-    Respect the community rules and members, and don't spam people or promote scams or deceptive practices.
-
-Similarly to token-based communities, different channels within a community may have varyging levels of access. Some channels might be open to all members, while other could be restricted or have rea-only access.
-
-Inside channels, you can participate in the conversation using the messaging tools available in direct messsage or group chats. Use the notification filters to tailor community and channel notifications to your taste.
-
-## Status communities privacy and security
-
-Communities within Status are fully decentralized, meaning they are self-governed and not managed by Status.
-
-Your Status profile security 
-
-When you participate in a channel, your messages and profile are visible to anyone with access to the same channel.
-
-St
+    The **Joined** option shows the communities where you participate. You can also select **Pending** to see the communities you are waiting to join, or **Opened** to see the communities you visited but didn't join.
 
 !!! tip
-    To customize what information others can see in your profile, check out 
+    [Private communities][about-the-different-types-of-status-communities] are hidden and don't appear in the community directory. To join these communities, you need to [import them to your profile][import-a-community-someone-shares-with-you].
+
+## Join communities and channels
+
+In Status, community owners have complete control over how users join their communities and can restrict access [using tokens][token-based-access-to-communities-and-channels].
+
+In token-gated communities, members must own and maintain the required tokens to join and participate in the community. In addition to token requirements, community owners may require [manual approval to join][about-community-request-approvals] their communities.
+
+![When the community owner sets token-based access for their community, you must fulfil the token requirements to join.](./how-to-use-status-communities-your-quick-start-guide/110-0-3.png)
+
+=== ":mobile-one: Token requirements"
+
+    Token-gated communities require specific tokens and token amounts to join. When you hold the necessary tokens, a :mobile-green-check: green checkmark appears next to the token. Check out [Understand token requirements in communities][understand-token-requirements-in-communities] for more information.
+
+=== ":mobile-two: Join community"
+
+    In token-gated communities, the **Join community** option is active only when you meet the token requirements.
+
+!!! note
+
+    When joining a token-gated community, your tokens work as proof of ownership and stay in your Status Wallet. They are not transferred to the community owner, Status or someone else.
+
+Status Communities contain [channels][channels-your-quick-start-guide]. Think of channels as rooms, each with a unique theme, helping keep discussions focused and organized.
+
+Community owners can also control access to channels using tokens or other permissions. Some channels might be open to all members, while others can be restricted or read-only.
+
+![A picture of a token-gated channel where the community owner has set different token-based permission for the view and view and post access](./how-to-use-status-communities-your-quick-start-guide/110-0-4.png)
+
+=== ":mobile-one: View requirements"
+
+    Token-gated channels require specific tokens and token amounts to join and read the channel. When you hold the necessary tokens, a :mobile-green-check: green checkmark appears next to the token.
+
+=== ":mobile-two: View and post requirements"
+
+    Owners can configure different view-only and view and post requirements for channels. 
+
+=== ":mobile-two: Enter channel"
+
+    If you meet some or all of the channel requirements, the :mobile-lock: **Enter channel** option is active and you can join the conversation.
+
+!!! tip
+    Use your [notification settings][configure-community-and-channel-notifications] to customize the community and channel notifications.
+
+## Communities' privacy and security
+
+When you participate in a channel, your messages and profile are visible to anyone with access to the same channel. You can customize [what information others can see][view-your-profile-as-someone-else] in your profile.
+
+!!! note
+
+    In communities or channels, you don't see [the users you have blocked][block-or-unblock-someone-in-status], but a blocked user can still see messages you send.
+
+Your communication in channels is encrypted and available only to the channel members. Status messaging uses decentralized peer-to-peer (P2P) technology and strong end-to-end (E2EE) encryption to ensure the privacy and security of your communication.
 
 ## Losing access to communities
 
-Only community owner regulate access to their communities, not Status. The community ower can decide to kick you out or ban you from their community at their only discrection.
+Only the community owners regulate access to their communities, not Status. After you join a community, its owner can kick you out or ban you]kick-or-ban-someone-from-your-community from the community at their discretion.
 
-You can also los access to token-gated communities or channels when you no longer hold the required tokens.
+You can also lose access to token-gated communities or channels when you no longer hold the [required tokens][understand-token-requirements-in-communities].
 
-!!! Note
-    Status communities are fully decentralized and community owner have full control on them. Status can't and won't censer, ban or block you.
-
+*[dApps]: A dApp (or decentralized application) is a software that runs on a decentralized network (such as the blockchain). dApps are not controlled by any single entity, and their operations are transparent and immutable.
 
 --8<-- "includes/urls-en.txt"
