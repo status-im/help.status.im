@@ -39,13 +39,7 @@ Set up your Status profile and notifications, customize your settings and fix co
 - [Customize **membership request** notifications][customize-membership-request-notifications]
 - [**Reset** your notification settings][reset-your-notification-settings]
 
-## Handle your contact list and user verification
-
-- [**Respond** to a **contact request**][respond-to-a-contact-request]
-- [Understand Status **profile labels**][understand-status-profile-labels]
-- [**Block** or **unblock** someone in Status][block-or-unblock-someone-in-status]
-
-## Secure your profile
+## Your profile security and privacy
 
 - [**Back up and secure** your recovery phrase][back-up-and-secure-your-recovery-phrase]
 - [Understand your **Status keys** and **recovery phrase**][understand-your-status-keys-and-recovery-phrase]
