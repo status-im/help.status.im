@@ -19,6 +19,9 @@ To add someone to your contact list, you need their [chat key][understand-your-s
 !!! tip
     To add someone you know from a group chat or community, simply right-click their name and select :desktop-add-user: **Send a contact request**.
 
+!!! tip
+    To respond to contact requests, check out [Respond to a contact request][respond-to-a-contact-request].
+
 ## Add a contact
 
 === "Mobile"

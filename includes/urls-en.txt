@@ -173,6 +173,7 @@
 [back-up-recovery-phrase]: /en/your-profile-and-preferences/back-up-and-secure-your-recovery-phrase#back-up-recovery-phrase
 [block-or-unblock-someone-in-status]: /en/your-profile-and-preferences/block-or-unblock-someone-in-status
 [about-changing-your-password]: /en/your-profile-and-preferences/about-changing-your-password
+[block-stranger]: /en/your-profile-and-preferences/block-or-unblock-someone-in-status#block-stranger
 [change-your-status-display-name]: /en/your-profile-and-preferences/change-your-status-display-name
 [common-issues-when-the-community-s-control-node-is-offline]: /en/status-communities/common-issues-when-the-community-s-control-node-is-offline
 [create-and-use-additional-status-profiles]: /en/your-profile-and-preferences/create-and-use-additional-status-profiles
@@ -202,7 +203,9 @@
 [remove-a-contact-from-status]: /en/your-profile-and-preferences/remove-a-contact-from-status
 [remove-a-status-profile-from-your-profile-list]: /en/your-profile-and-preferences/remove-a-status-profile-from-your-profile-list
 [reset-your-notification-settings]: /en/your-profile-and-preferences/reset-your-notification-settings
+[respond-to-a-contact-request]: /en/your-profile-and-preferences/respond-to-a-contact-request
 [set-notification-exceptions]: /en/your-profile-and-preferences/set-notification-exceptions
+[stop-contact-requests]: /en/your-profile-and-preferences/respond-to-a-contact-request#stop-contact-requests
 [set-the-default-browser-in-status]: /en/your-profile-and-preferences/set-the-default-browser-in-status
 [set-up-and-customize-notification-exceptions]: /en/your-profile-and-preferences/set-up-and-customize-notification-exceptions
 [set-up-automatic-locking-for-the-status-app]: /en/your-profile-and-preferences/set-up-automatic-locking-for-the-status-app

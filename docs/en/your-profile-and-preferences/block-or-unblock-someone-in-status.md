@@ -55,7 +55,7 @@ A stranger is a user who is not your contact. You can encounter a stranger in a 
     | Mutual community or channel | 1. From the tab bar, tap :mobile-communities: **Communities** > **Joined**. <br/>2. Long press the community. <br/> 3. Tap :mobile-group-members: **View members**. |
     | Contact request | From the tab bar, tap :mobile-messages: **Messages** > **Contacts** > **Pending requests**. |
 
-    ### Step 2: Block the user
+    ### Step 2: Block the user {: #block-stranger}
     
     1. Tap the profile picture of the user.
     1. From the top navigation, tap :mobile-more-options: **More options**.
