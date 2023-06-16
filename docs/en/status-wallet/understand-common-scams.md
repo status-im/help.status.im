@@ -37,10 +37,18 @@ Scammers can create fake apps and extensions that steal your recovery phrase whe
 
 When installing new apps on the device you use for Status, be extra careful. This also applies to browser extensions (add-ons). Always make sure you're downloading the app or installing the extension from the official website. You can also try googling its name and carefully reading the reviews. For extra protection, consider installing a trusted antivirus software.
 
-### Public WiFi attacks
+### Fake tokens
 
-If you need to use a public WiFi network, you should turn a VPN on. To fully protect your private data, you should also avoid keeping any copies of your recovery phrase on your phone.
+If you swap crypto using a third-party service, you may receive fake tokens that don't have any actual value but have a ticker similar to the original token's. For example, you may receive tokens that appear to be DAI but are actually worthless. Such tokens are not visible in your Status Wallet.
 
-Once you connect to an unprotected public WiFi network, anyone can scan your phone storage. If you have any digital copies of your recovery phrase on your phone (for example, a screenshot), potential hackers may find them. They may also access your internet traffic history and target you if they see anything crypto-related. 
+To prevent this, only use trusted crypto swap services.
+
+### Address poisoning attacks
+
+Scammers may send you a transaction that's very similar to the one you previously received or sent. Their intention is that you copy their address from your transaction history and send them crypto by mistake.
+
+To prevent this, always double-check the address you're sending crypto to.
+
+*[ticker]: A ticker is a short combination of letters that represents an asset. For example, Ether's ticker is ETH, and Shibtoken's ticker is SHIB.
 
 --8<-- "includes/urls-en.txt"
