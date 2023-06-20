@@ -69,8 +69,8 @@
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
 [about-the-control-node-in-status-communities]: /en/status-communities/about-the-control-node-in-status-communities
 [about-view-only-channels]: /en/status-communities/about-view-only-channels
-[back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [about-tokens-collectibles-and-ens-names]: /en/status-communities/about-tokens-collectibles-and-ens-names
+[administer-membership]: /en/status-communities/how-to-run-a-community-your-quick-start-guide#administer-membership
 [administer-your-community-from-different-computers]: /en/status-communities/administer-your-community-from-different-computers
 [back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [burn-your-community-tokens]: /en/status-communities/burn-your-community-tokens
@@ -90,7 +90,7 @@
 [delete-a-channel]: /en/status-communities/delete-a-channel
 [delete-community-permissions]: /en/status-communities/set-up-your-community-permissions#delete-community-permissions
 [delete-your-status-community]: /en/status-communities/delete-your-status-community
-[getting-started-for-community-owners]: /en/status-communities/getting-started-for-community-owners
+[how-to-run-a-community-your-quick-start-guide]: /en/status-communities/how-to-run-a-community-your-quick-start-guide
 [grant-exclusive-access-with-tokens]: /en/status-communities/grant-exclusive-access-with-tokens
 [how-chs-works]: /en/status-communities/about-the-community-history-service#how-chs-works
 [how-to-airdrop-tokens-in-status]: /en/status-communities/how-to-airdrop-tokens-in-status
@@ -121,6 +121,7 @@
 [set-up-your-communitys-approval-options]: /en/status-communities/set-up-your-communitys-approval-options
 [set-up-your-community-permissions]: /en/status-communities/set-up-your-community-permissions
 [token-based-access-to-communities-and-channels]: /en/status-communities/token-based-access-to-communities-and-channels
+[token-based-permissions]: /en/status-communities/how-to-run-a-community-your-quick-start-guide#token-based-permissions
 [transfer-your-community-s-ownership]: /en/status-communities/transfer-your-community-s-ownership
 [turn-off-the-community-history-service]: /en/status-communities/turn-off-the-community-history-service
 [understand-throwaway-profiles-in-status-web]: /en/status-communities/understand-throwaway-profiles-in-status-web
