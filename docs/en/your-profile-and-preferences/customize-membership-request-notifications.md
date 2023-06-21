@@ -30,8 +30,8 @@ There are three notification options you can choose from: `Notification on`, `
     
 | Preference | Description |
 |:---|:---|
-| Notifications on| Turn this on if you want to see notifications banners. |
-| In notification centre only |Turn this on to receive subtle notifications without banners. You need to unlock your phone to see your notifications. |
-| Notifications off | Turn this off if you don't want to receive notifications. |
+| `Notifications on`| Turn this on if you want to see notifications banners and lock screen notifications. |
+| `In notification centre only` |Turn this on to receive subtle notifications without banners. You need to unlock your phone to see your notifications. |
+| `Notifications off` | Turn this off if you don't want to receive notifications. |
 
 --8<-- "includes/urls-en.txt"
