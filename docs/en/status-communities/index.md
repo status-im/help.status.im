@@ -50,8 +50,8 @@ Create your community, set up private channels or join others' communities and c
 - [**Customize** your channel][customize-your-channel]
 - [**Change** a private channel to public][change-a-private-channel-to-public]
 - [Set up **channel permissions**][set-up-channel-permissions]
-- [Set a read-only channel][set-a-read-only-channel]
-- [Set a private channel][set-a-read-only-channel]
+- [Set up a read-only channel][set-a-read-only-channel]
+- [Set up a private channel][set-a-read-only-channel]
 - [**Delete** a channel][delete-a-channel]
 
 ## Use tokens and set community permissions

@@ -250,17 +250,33 @@ nav:
       - About the Community History Service: status-communities/about-the-community-history-service.md
       - Turn off the Community History Service: status-communities/turn-off-the-community-history-service.md
       - Kick or ban someone from your community: status-communities/kick-or-ban-someone-from-your-community.md
-      - Manage community join requests: status-communities/manage-community-join-requests.md
-      - Restore your Status Community: status-communities/restore-your-status-community.md
-      - Delegate admin functions to community members: status-communities/delegate-admin-functions-to-community-members.md
-      - Remotely self destruct a token: status-communities/remotely-self-destruct-a-token.md
-      - Burn your community tokens: status-communities/burn-your-community-tokens.md
+      - Delete your Status Community: status-communities/delete-your-status-community.md
     - Administer channels:
       - Create a channel: status-communities/create-a-channel.md
       - Customize your channel: status-communities/customize-your-channel.md
       - Change a private channel to public: status-communities/change-a-private-channel-to-public.md
       - Set up channel permissions: status-communities/set-up-channel-permissions.md
+      - About view-only channels: status-communities/about-view-only-channels.md
+      - Set up a view-only channel: status-communities/set-up-a-view-only-channel.md
+      - Set up a private channel: status-communities/set-up-a-private-channel.md
       - Delete a channel: status-communities/delete-a-channel.md
+    - Use tokens and set community permissions:
+      - Token-based access to communities and channels: status-communities/token-based-access-to-communities-and-channels.md
+      - Set up a private community: status-communities/set-up-a-private-community.md
+      - Change a private community to public: status-communities/change-a-private-community-to-public.md
+      - Permissions by role in Status Communities: status-communities/permissions-by-role-in-status-communities.md
+      - Set up your community permissions: status-communities/set-up-your-community-permissions.md
+      - Grant exclusive access with custom tokens: status-communities/grant-exclusive-access-with-custom-tokens.md
+      - Permissions by role in Status Communities: status-communities/permissions-by-role-in-status-communities.md
+      - Set up your community permissions: status-communities/set-up-your-community-permissions.md
+      - Grant exclusive access with tokens: status-communities/grant-exclusive-access-with-tokens.md
+      - Mint tokens for your community: status-communities/mint-tokens-for-your-community.md
+      - How to mint an admin token: status-communities/how-to-mint-an-admin-token.md
+      - Import tokens to your community: status-communities/import-tokens-to-your-community.md
+      - How to airdrop tokens in status: status-communities/how-to-airdrop-tokens-in-status.md
+      - Delegate admin functions to community members: status-communities/delegate-admin-functions-to-community-members.md
+      - Remotely self destruct a token: status-communities/remotely-self-destruct-a-token.md
+      - Burn your community tokens: status-communities/burn-your-community-tokens.md
     - Status Web Communities:
       - About status web communities: status-communities/about-status-web-communities.md
       - Join a Community on Status Web: status-communities/join-a-community-on-status-web.md
@@ -297,11 +313,19 @@ nav:
       - Register or add your ENS name in Status: your-profile-and-preferences/register-or-add-your-ens-name-in-status.md
       - Set the default browser in Status: your-profile-and-preferences/set-the-default-browser-in-status.md
     - Adjust your notifications:
+      - Your Status notifications guide : your-profile-and-preferences/your-status-notifications-guide.md
+      - Set up your notification settings: your-profile-and-preferences/set-up-your-notification-settings.md
+      - View notifications and updates: your-profile-and-preferences/view-notifications-and-updates.md
       - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
-    - Handle your contact list and user verification:
-      - Block or unblock someone in Status: your-profile-and-preferences/block-or-unblock-someone-in-status.md
-      - Understand Status profile labels: your-profile-and-preferences/understand-status-profile-labels.md
-    - Secure your profile:
+      - Customize direct message notifications: your-profile-and-preferences/customize-direct-message-notifications.md
+      - Configure mentions and all other messages: your-profile-and-preferences/configure-mentions-and-all-other-messages.md
+      - Customize group chat notifications: your-profile-and-preferences/customize-group-chat-notifications.md
+      - Configure community and channel notifications: your-profile-and-preferences/configure-community-and-channel-notifications.md
+      - Set up and customize notification exceptions: your-profile-and-preferences/set-up-and-customize-notification-exceptions.md
+      - Customize membership request notifications: your-profile-and-preferences/customize-membership-request-notifications.md
+      - Reset your notification settings: your-profile-and-preferences/reset-your-notification-settings.md
+    - Your profile security and privacy:
+      - Back up and secure your recovery phrase: your-profile-and-preferences/back-up-and-secure-your-recovery-phrase.md
       - Understand your Status keys and recovery phrase: your-profile-and-preferences/understand-your-status-keys-and-recovery-phrase.md
       - View your profile as someone else: your-profile-and-preferences/view-your-profile-as-someone-else.md
       - About changing your password: your-profile-and-preferences/about-changing-your-password.md
