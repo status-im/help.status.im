@@ -50,6 +50,7 @@ Create your community, set up private channels or join others' communities and c
 - [**Customize** your channel][customize-your-channel]
 - [**Change** a private channel to public][change-a-private-channel-to-public]
 - [Set up **channel permissions**][set-up-channel-permissions]
+- [About **view-only channels**][about-view-only-channels]
 - [Set up a view-only channel][set-up-a-view-only-channel]
 - [Set up a private channel][set-up-a-private-channel]
 - [**Delete** a channel][delete-a-channel]

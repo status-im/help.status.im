@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Getting started for community owners
+# How to run a community: your quick start guide
 
  :octicons-tools-24: In progress
 
