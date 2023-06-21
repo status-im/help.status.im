@@ -10,11 +10,14 @@ hide:
 
 There are times when you may not enjoy the conversations in a community, and you can leave it.
 
+!!! tip
+    If you find yourself overwhelmed by community notifications, there's no need to leave the communities. You can [turn off the notifications][configure-community-and-channel-notifications].
+
 ## What to expect
 
-- You no longer receive messages from the community.
-- Status does not notify the community owner and other members of your action.
-- You can join the community again.
+- When you leave a community, you stop receiving messages or updates from that community.
+- Status does not notify the community owner and other members when you leave.
+- You can request to join the community again. Depending on the community rules, rejoining might require a new approval process or specific tokens.
 
 ## Leave a Status Community
 
