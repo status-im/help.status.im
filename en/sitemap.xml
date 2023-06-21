@@ -381,11 +381,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://help.status.im/en/status-communities/getting-started-for-community-owners/</loc>
-         <lastmod>2023-06-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://help.status.im/en/status-communities/grant-exclusive-access-with-custom-tokens/</loc>
          <lastmod>2023-06-21</lastmod>
          <changefreq>daily</changefreq>
@@ -402,6 +397,11 @@
     </url>
     <url>
          <loc>https://help.status.im/en/status-communities/how-to-mint-an-admin-token/</loc>
+         <lastmod>2023-06-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://help.status.im/en/status-communities/how-to-run-a-community-your-quick-start-guide/</loc>
          <lastmod>2023-06-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
