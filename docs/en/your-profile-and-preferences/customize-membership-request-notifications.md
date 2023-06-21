@@ -11,7 +11,7 @@ hide:
 !!! note ""
     Currently, you can only customize membership request notifications in the Status mobile app.
 
- If [manual request approval][manage-community-join-requests] is required to join your community, you receive a notification every time someone requests to join your community.  
+ If [manual request approval][manage-community-join-requests] is required to join your community, you receive a notification every time someone requests to join.  
 
 There are three notification options you can choose from: `Notification on`, `In notification centre only` and `Notifications off`. For each one of them, follow the same procedure and use the table below as a reference.
 
