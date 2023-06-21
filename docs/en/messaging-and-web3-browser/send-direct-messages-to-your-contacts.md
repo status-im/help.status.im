@@ -8,7 +8,7 @@ hide:
 
 # Send direct messages to your contacts
 
-A direct message is a communication between you and another person. In Status, you can send direct messages to people in your contact list. If the person is not your contact yet, [send a contact request][add-a-contact-in-status] first.
+A direct message (or DM, for short) is a communication between you and another person. In Status, you can send direct messages to people in your contact list. If the person is not your contact yet, [send a contact request][add-a-contact-in-status] first.
 
 ## Send direct messages
 
