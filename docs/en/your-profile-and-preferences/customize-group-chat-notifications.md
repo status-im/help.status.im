@@ -27,6 +27,7 @@ You can choose which message and mention notifications you want to receive for a
 
 !!! tip
 	When you mute notifications for a group chat, it appears greyed out and has :mobile-mute: Mute next to its name.
+
 ## Mute group chat notifications except personal mentions
 
 If you want to avoid missing important messages, you can mute some notifications. Here's how to mute all group chat notifications except personal mentions:
@@ -61,11 +62,12 @@ If you want to avoid missing important messages, you can mute some notifications
 
 === "Desktop"  
 
-For desktop, you mute a specific group chat by creating an exception. Here's how:
-
     1. From the navigation sidebar, click :desktop-settings: **Settings**.
     1. From the **Settings sidebar**, click :desktop-notification: **Notifications and Sounds**.
     1. Under the **Messages** area, click on the drop-down menu next to **Group chats**.
-    1. Select **Turn off**.
+    1. Select **Turn off**.
+
+    !!! note
+	    For desktop, you mute a specific group chat by creating an exception.
 
 --8<-- "includes/urls-en.txt"
