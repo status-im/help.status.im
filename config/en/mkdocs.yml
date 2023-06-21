@@ -235,12 +235,6 @@ nav:
       - Join a channel: status-communities/join-a-channel.md
       - Understand token requirements in channels: status-communities/understand-token-requirements-in-channels.md
       - About losing access to a channel: status-communities/about-losing-access-to-a-channel.md
-    - Administer channels:
-      - Create a channel: status-communities/create-a-channel.md
-      - Customize your channel: status-communities/customize-your-channel.md
-      - Change a private channel to public: status-communities/change-a-private-channel-to-public.md
-      - Set up channel permissions: status-communities/set-up-channel-permissions.md
-      - Delete a channel: status-communities/delete-a-channel.md
     - Create your community:
       - Getting started for community owners: status-communities/getting-started-for-community-owners.md
       - Create a Status community: status-communities/create-a-status-community.md
@@ -261,6 +255,12 @@ nav:
       - Delegate admin functions to community members: status-communities/delegate-admin-functions-to-community-members.md
       - Remotely self destruct a token: status-communities/remotely-self-destruct-a-token.md
       - Burn your community tokens: status-communities/burn-your-community-tokens.md
+    - Administer channels:
+      - Create a channel: status-communities/create-a-channel.md
+      - Customize your channel: status-communities/customize-your-channel.md
+      - Change a private channel to public: status-communities/change-a-private-channel-to-public.md
+      - Set up channel permissions: status-communities/set-up-channel-permissions.md
+      - Delete a channel: status-communities/delete-a-channel.md
     - Status Web Communities:
       - About status web communities: status-communities/about-status-web-communities.md
       - Join a Community on Status Web: status-communities/join-a-community-on-status-web.md
