@@ -10,6 +10,8 @@ hide:
 
 You can customize the messages and mentions notifications you receive in communities and channels. By doing so, you only receive the notifications relevant to you.
 
+The notifications you customize for a community apply to all its channels. For example, suppose you decide to [mute all community notifications][#mute-all-community-notifications]. In that case, you won't receive any notification from any channel, even if someone mentions you. To customize notifications for specific channels, check out Set up and customize notification exceptions.
+
 This article describes common examples.
 
 - [Mute all community notifications.](#mute-all-community-notifications)
@@ -34,11 +36,11 @@ You can turn off your notifications for specific communities for a designated pe
     1. Choose the community you want to mute and click :desktop-notification: **Mute**.
 
 !!! tip
-	When you mute notifications for a community, it starts appearing greyed out :mobile-mute: **Mute** next to their name.
+	When you mute notifications for a community, it appears greyed out and has :mobile-mute: **Mute** next to its name.
 
 ## Mute community notifications except global mentions
 
-If you want to avoid missing important messages, you can selectively mute some notifications, except global mentions.
+If you want to avoid missing general announcements, you can selectively mute some notifications, except global mentions (such as @everyone). This example explains how to turn off all notifications for a specific community while maintaining global mentions. This can be helpful in very active communities where you're only interested in global mentions, such as @everyone
 
 === "Mobile"
 
@@ -47,7 +49,7 @@ If you want to avoid missing important messages, you can selectively mute some n
     1. Tap :mobile-notifications-settings: **Notification settings**.
     1. Select **Personal mentions** > **Notifications off**.
     1. Select **All other messages** > **Notifications off**.
-    1. MAke sure **Global mentions** is set to **On**. If it is not, select **Global mentions** > **Notifications on**.
+    1. Make sure **Global mentions** is set to **On**. If it is not, select **Global mentions** > **Notifications on**.
 
 === "Desktop"  
 
@@ -59,9 +61,9 @@ If you want to avoid missing important messages, you can selectively mute some n
     1. On the same pop-up menu, verify **Global mentions** is set to **Send alerts**. If it is not, then select **Global mentions** > **Send Alerts**.
     1. Click **Done**. 
 
-## Set the same settings for all community message types
+## Set the same notification setting for all messages in a community.
 
-Currently, you can only set the same settings for all community types using Status mobile.
+Currently, you can only set the same settings for all community message types using Status mobile.
 
 === "Mobile"
 
@@ -72,6 +74,6 @@ Currently, you can only set the same settings for all community types using Stat
     1. Choose your preferred notification option. 
 
 !!! note
-	You can fine-tune your notifications using exceptions. Status provides more advanced ways to configure your exceptions. For more details, check out [Set up and customize notification exceptions][set-up-and-customize-notification-exceptions].
+	You can customize notifications for channels in a community using exceptions. For more details, check out [Set up and customize notification exceptions][set-up-and-customize-notification-exceptions].
 
 --8<-- "includes/urls-en.txt"
