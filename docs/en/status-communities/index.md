@@ -50,8 +50,8 @@ Create your community, set up private channels or join others' communities and c
 - [**Customize** your channel][customize-your-channel]
 - [**Change** a private channel to public][change-a-private-channel-to-public]
 - [Set up **channel permissions**][set-up-channel-permissions]
-- [Set up a read-only channel][set-a-read-only-channel]
-- [Set up a private channel][set-a-read-only-channel]
+- [Set up a view-only channel][set-up-a-view-only-channel]
+- [Set up a private channel][set-up-a-private-channel]
 - [**Delete** a channel][delete-a-channel]
 
 ## Use tokens and set community permissions
@@ -61,7 +61,7 @@ Create your community, set up private channels or join others' communities and c
 - [**Change** a private community to public][change-a-private-community-to-public]
 - [**Permissions by role** in Status Communities][permissions-by-role-in-status-communities]
 - [Set up your **community permissions**][set-up-your-community-permissions]
-- [Grant **exclusive access** with custom tokens][grant-exclusive-access-with-custom-tokens]
+- [Grant **exclusive access** with tokens][grant-exclusive-access-with-tokens]
 - [**Mint tokens** for your community][mint-tokens-for-your-community]
 - [How to mint an **admin token**][how-to-mint-an-admin-token]
 - [**Import tokens** to your community][import-tokens-to-your-community]
