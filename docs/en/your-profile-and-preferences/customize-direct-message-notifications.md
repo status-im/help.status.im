@@ -8,20 +8,18 @@ hide:
 
 # Customize direct message notifications
 
-By default, you receive notifications for direct messages (DMs). You can choose which notifications you receive for your DMs. If you do so, you only receive the DMs notifications relevant to you.
+By default, you receive notifications for direct messages (DMs). You can customize the DM notifications and receive only the ones relevant to you.
 
 In addition to DM notifications, you also receive notifications for mentions. For example, if you mute someone, they can still mention you in a community channel or group chat. To customize your mention notifications, read [Customize mentions and other messages][customize-mentions-and-other-messages].
 
-## Mute direct messages notifications from a user
-
-When you mute DMs from a user, you may still receive mention notification from that user. If you want to customize mention notifications, check out [Customize mentions and other messages][customize-mentions-and-other-messages].
+## Mute direct message notifications from a user
 
 === "Mobile"
 
     1. From the tab bar, tap :mobile-messages: **Messages**.
     1. Long press the DM you want to mute.
     1. Tap :mobile-mute: **Mute**.
-    1. Select the length of time you'd like to mute your notifications.
+    1. Select the amount of time you'd like to mute your notifications.
 
 === "Desktop"  
 
@@ -30,11 +28,11 @@ When you mute DMs from a user, you may still receive mention notification from t
     1. Select **Mute chat**.
 
 !!! tip
-	When you mute notifications for a DM, it gets greyed out and :mobile-mute: Mute appears next to the user's name.
+	When you mute notifications for a DM, it gets greyed out and :mobile-mute: **Mute** appears next to the user's name.
 
-## Mute all direct messages notifications
+## Mute all direct message notifications
 
-This action mutes notifications from all your direct messages (DMs). If you want to mute all Status notifications, read [Mute your notifications][mute-your-notifications].
+This action mutes notifications from all your direct messages (DMs). If you want to mute all the Status app notifications, read [Mute your notifications][mute-your-notifications].
 
 === "Mobile"
 
@@ -52,7 +50,7 @@ This action mutes notifications from all your direct messages (DMs). If you want
 !!! note
     If you mute all Status app notifications, you're also muting notifications that appear on your screen and disappear shortly after.
 
-## Customize direct messages notifications
+## Customize direct message notifications
 
 === "Mobile"
 
