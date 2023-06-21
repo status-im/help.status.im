@@ -8,7 +8,7 @@ hide:
 
 # Customize group chat notifications
 
-You can customize the messages and mentions notifications you receive in group chats. By doing so, you only receive the group chat notifications relevant to you.
+You can choose which message and mention notifications you want to receive for any group chat. This helps you only see those notifications that are relevant to you.
 
 ## Mute notifications in specific group chats
 
@@ -26,11 +26,10 @@ You can customize the messages and mentions notifications you receive in group c
     1. Select **Mute chat**.
 
 !!! tip
-	  Group chats show up greyed out :mobile-mute: **Mute** next to their name, when you mute notifications.
-
+	When you mute notifications for a group chat, it appears greyed out and has :mobile-mute: Mute next to its name.
 ## Mute group chat notifications except personal mentions
 
-If you want to avoid missing important messages, you can selectively mute some notifications, except global mentions. This procedure mutes all group chats notifications except personal mentions
+If you want to avoid missing important messages, you can mute some notifications. Here's how to mute all group chat notifications except personal mentions:
 
 === "Mobile"
 
@@ -48,7 +47,7 @@ If you want to avoid missing important messages, you can selectively mute some n
     1. Scroll down to  the **Exceptions** area and click :desktop-add: **Add** next to the group chat you want to mute.
     1. Select **Global mentions** > **Turn off**. 
     1. Select **All other messages** > **Turn off**.
-    1. On the same pop-up menu, verify **Personal mentions** is set to **Send alerts**. If it is not, then select **Personal mentions** > **Send Alerts**.
+    1. In the same pop-up menu, make sure **Personal mentions** is set to **Send alerts**. If it's not, then select **Personal mentions** > **Send Alerts**.
   
 ## Mute all group chats notifications
 
@@ -56,13 +55,13 @@ If you want to avoid missing important messages, you can selectively mute some n
 
     1. From the tab bar, tap :mobile-messages: **Messages**.
     1. Tap your profile picture.
-    1. Scroll down in the list and tap :mobile-mute: **Notifications**.
-    1. Select **Group chats** > **Your default notification settings**
+    1. Scroll down the list and tap :mobile-mute: **Notifications**.
+    1. Select **Group chats** > **Your default notification settings**.
     1. Turn off **Personal mentions**, **Global mentions** and **All other messages**.
 
 === "Desktop"  
 
-For desktop, you mute a specific group chat by creating an exception. Here is how.
+For desktop, you mute a specific group chat by creating an exception. Here's how:
 
     1. From the navigation sidebar, click :desktop-settings: **Settings**.
     1. From the **Settings sidebar**, click :desktop-notification: **Notifications and Sounds**.
