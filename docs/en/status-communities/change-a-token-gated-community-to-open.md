@@ -20,7 +20,7 @@ You might want to transition from a token-gated community to an open one for var
 - To transform your token-gated community into an open one, remove the `Become member` community permission.
 - You can change your community from token-gated to open or the other way around at any time.
 - Any token-based channel within your community remains token-based unless you [change it to open][change a token-gated channel to open].
-If your community requires new members to send a request to join, you still need to [approve new member requests][manage-community-join-requests] manually. Token-based access and manual approval work independently.
+- If your community requires new members to send a request to join, you still need to [approve new member requests][manage-community-join-requests] manually. Token-based access and manual approval work independently.
 
 ## Change a token-gated community to an open one
 
