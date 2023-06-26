@@ -16,7 +16,7 @@ The community owner can permanently ban your account if you break the community 
 
 - If you lose access to a community, you must request to [join the community][join-a-status-community] again.
 - For token-gated communities, you should hold the token requirements at all times.
-- When you lose access to a community, it does show up under the Joined tab on your [Communities page][how-to-use-communities-your-quick-start-guide].
+- When you lose access to a community, it does show up under the Joined tab on your [Communities page][how-to-use-status-communities-your-quick-start-guide].
 - In the [notifications centre][view-notifications-and-updates], your Membership notifications show when you have lost access to a community. You don't receive a notification when you're banned from a community.
 
 !!! note

@@ -82,6 +82,7 @@
 [customize-your-community]: /en/status-communities/customize-your-community
 [create-a-channel]: /en/status-communities/create-a-channel
 [create-a-status-community]: /en/status-communities/create-a-status-community
+[create-a-token-gated-channel]: /en/status-communities/create-a-token-gated-channel
 [configure-channel-permissions]: /en/status-communities/configure-channel-permissions
 [configure-your-community-permissions]: /en/status-communities/configure-your-community-permissions
 [delegate-admin-functions-to-community-members]: /en/status-communities/delegate-admin-functions-to-community-members
@@ -94,7 +95,7 @@
 [how-to-airdrop-tokens-in-status]: /en/status-communities/how-to-airdrop-tokens-in-status
 [how-to-mint-an-admin-token]: /en/status-communities/how-to-mint-an-admin-token
 [how-to-run-a-community-your-quick-start-guide]: /en/status-communities/how-to-run-a-community-your-quick-start-guide
-[how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
+[how-to-use-status-communities-your-quick-start-guide]: /en/status-communities/how-to-use-status-communities-your-quick-start-guide
 [import-a-community-someone-shares-with-you]: /en/status-communities/import-a-community-someone-shares-with-you
 [import-a-discord-community-into-status]: /en/status-communities/import-a-discord-community-into-status
 [import-your-status-community]: /en/status-communities/import-your-status-community

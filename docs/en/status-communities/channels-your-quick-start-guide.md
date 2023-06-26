@@ -8,7 +8,7 @@ hide:
 
 # Channels: your quick start guide
 
-In [Status Communities][how-to-use-communities-your-quick-start-guide], you have access to dedicated spaces called channels. Channels bring the right people and information together for any project or topic. A channel conversation focuses on specific topics, and you can [join](./join-a-channel.md) and [leave](./leave-a-channel.md) the conversation anytime.
+In [Status Communities][how-to-use-status-communities-your-quick-start-guide], you have access to dedicated spaces called channels. Channels bring the right people and information together for any project or topic. A channel conversation focuses on specific topics, and you can [join](./join-a-channel.md) and [leave](./leave-a-channel.md) the conversation anytime.
 
 As a community owner, you can use channels to break down a large community into smaller, more focused sub-groups. With Status, you can [configure channel permissions][configure-channel-permissions] based on token ownership. For example, you can make an open channel token-gated or view-only by only allowing holders of specific tokens to join or post.
 
