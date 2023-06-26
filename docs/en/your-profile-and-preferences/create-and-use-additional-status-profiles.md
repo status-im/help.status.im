@@ -44,7 +44,7 @@ If you have another Status profile you can add it to your device. For example, y
 
 === "Mobile"
 
-    If the profile to add is logged in on another device, read [Sync your profile on a new device][sync-new-device] and follow the instructions. Otherwise, [log out of Status][log-out-of-status] and sign in [using your recovery phrase][create-or-restore-your-status-profile-using-a-recovery-phrase] or [Keycard][create-or-restore-your-status-profile-using-keycard]. 
+    If the profile to add is logged in on another device, read [Sync your profile on a new device][sync-new-device] and follow the instructions. Otherwise, [log out of Status][log-out-of-status] and sign in [using your recovery phrase][create-or-restore-your-status-profile-using-the-recovery-phrase] or [Keycard][create-or-restore-your-status-profile-using-keycard]. 
 
 === "Desktop"
 
@@ -54,7 +54,7 @@ If you have another Status profile you can add it to your device. For example, y
     1. Click :desktop-chevron-down: **Arrow** and then click **Add existing Status user** to sign in.
     
     !!! note
-        If you want to add an existing Status profile using its recovery phrase, read [Create or restore your Status profile using a recovery phrase][create-or-restore-your-status-profile-using-a-recovery-phrase]. If you want to add an existing Status profile using your Keycard, read [Create or restore your Status profile using Keycard][create-or-restore-your-status-profile-using-keycard]. 
+        If you want to add an existing Status profile using its recovery phrase, read [Create or restore your Status profile using the recovery phrase][create-or-restore-your-status-profile-using-the-recovery-phrase]. If you want to add an existing Status profile using your Keycard, read [Create or restore your Status profile using Keycard][create-or-restore-your-status-profile-using-keycard]. 
 
 ## Switch profiles
 

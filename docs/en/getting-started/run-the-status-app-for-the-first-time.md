@@ -14,7 +14,7 @@ These keys are securely stored on your device and protected by your Status passw
 
 ## Create a new Status profile {: new-profile }
 
-If you want to create your profile from an existing recovery phrase, check out [Create or restore your Status profile using a recovery phrase][create-or-restore-your-status-profile-using-a-recovery-phrase]. If you're going to use a Keycard to create your profile, check out [Create or restore your Status profile using Keycard][create-or-restore-your-status-profile-using-keycard].
+If you want to create your profile from an existing recovery phrase, check out [Create or restore your Status profile using the recovery phrase][create-or-restore-your-status-profile-using-the-recovery-phrase]. If you're going to use a Keycard to create your profile, check out [Create or restore your Status profile using Keycard][create-or-restore-your-status-profile-using-keycard].
 
 === "Mobile"
 
