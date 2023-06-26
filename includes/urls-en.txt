@@ -8,8 +8,8 @@
 [about-the-ethereum-blockchain]: /en/getting-started/about-the-ethereum-blockchain
 [add-a-contact-in-status]: /en/getting-started/add-a-contact-in-status
 [add-a-new-device-to-your-status-profile]: /en/getting-started/add-a-new-device-to-your-status-profile
-[create-or-restore-your-status-profile-using-a-recovery-phrase]: /en/getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase
-[create-or-restore-profile-with-recovery-phrase]: /en/getting-started/create-or-restore-your-status-profile-using-a-recovery-phrase#create-or-restore-profile-with-recovery-phrase
+[create-or-restore-your-status-profile-using-the-recovery-phrase]: /en/getting-started/create-or-restore-your-status-profile-using-the-recovery-phrase
+[create-or-restore-profile-with-recovery-phrase]: /en/getting-started/create-or-restore-your-status-profile-using-the-recovery-phrase#create-or-restore-profile-with-recovery-phrase
 [download-status]: /en/getting-started/#download-status
 [download-status-for-linux]: /en/getting-started/download-status-for-linux
 [download-status-for-mac]: /en/getting-started/download-status-for-mac
