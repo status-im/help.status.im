@@ -81,11 +81,10 @@ Community owners can also control [access to channels using tokens][create-a-tok
 
 ## Communities' privacy and security
 
-When you participate in a channel, your messages and profile are visible to anyone with access to the same channel. You can customize [what information others can see][view-your-profile-as-someone-else] in your profile.
+When you participate in a channel, your messages are visible to anyone with access to the same channel. In communities or channels, you don't see [the users you have blocked][block-or-unblock-someone-in-status], but a blocked user can still see messages you send in the community.
 
 !!! note
-
-    In communities or channels, you don't see [the users you have blocked][block-or-unblock-someone-in-status], but a blocked user can still see messages you send in the community.
+    Your Status profile is visible to anyone in Status, and you can customize [what information others can see][view-your-profile-as-someone-else] in your profile.
 
 Your communication in channels is encrypted and available only to the channel members. Status messaging uses decentralized peer-to-peer (P2P) technology and strong end-to-end (E2EE) encryption to ensure the privacy and security of your communication.
 
