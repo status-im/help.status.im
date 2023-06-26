@@ -8,7 +8,7 @@ hide:
 
 # Channels: your quick start guide
 
-In [Status Communities][how-to-use-communities-your-quick-start-guide], you have access to dedicated spaces called channels. Channels bring the right people and information together for any project or topic. A channel conversation focuses on specific topics, and you can [join](./join-a-channel.md) and [leave](./leave-a-channel.md) the conversation anytime.
+In [Status Communities][how-to-use-status-communities-your-quick-start-guide], you have access to dedicated spaces called channels. Channels bring the right people and information together for any project or topic. A channel conversation focuses on specific topics, and you can [join](./join-a-channel.md) and [leave](./leave-a-channel.md) the conversation anytime.
 
 As a community owner, you can use channels to break down a large community into smaller, more focused sub-groups. With Status, you can [configure channel permissions][configure-channel-permissions] based on token ownership. For example, you can make a public channel private or view-only by only allowing holders of specific tokens to join or post.
 
@@ -30,10 +30,10 @@ As a community owner, you can use channels to break down a large community into 
 
 ## Public and private channels
 
-All members in a [Status Community][how-to-use-communities-your-quick-start-guide] can browse and join public channels. For private channels, you must [meet the token requirements][understand-token-requirements-in-channels] to join the channel. To maintain access to private channels, hold the required tokens at all times.
+All members in a [Status Community][how-to-use-status-communities-your-quick-start-guide] can browse and join public channels. For private channels, you must [meet the token requirements][understand-token-requirements-in-channels] to join the channel. To maintain access to private channels, hold the required tokens at all times.
 
 !!! note
-    Messages in [private communities][how-to-use-communities-your-quick-start-guide] and private channels are always end-to-end encrypted.
+    Messages in [private communities][how-to-use-status-communities-your-quick-start-guide] and private channels are always end-to-end encrypted.
 
 <!--
 ![image](image)

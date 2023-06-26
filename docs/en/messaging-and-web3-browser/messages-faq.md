@@ -8,7 +8,7 @@ hide:
 
 # Messages FAQ
 
-Messaging others is an important part of your Status experience, along with [Status Communities][how-to-use-communities-your-quick-start-guide], the [Status Wallet][status-wallet-your-quick-start-guide] and the [Status Web3 browser][how-to-use-status-browser-your-quick-start-guide]. In Status, you can message others and chat in communities privately and securely.
+Messaging others is an important part of your Status experience, along with [Status Communities][how-to-use-status-communities-your-quick-start-guide], the [Status Wallet][status-wallet-your-quick-start-guide] and the [Status Web3 browser][how-to-use-status-browser-your-quick-start-guide]. In Status, you can message others and chat in communities privately and securely.
 
 The Status app provides a privacy-centric messenger using decentralized [peer-to-peer (P2P) technology][about-status-messages] and strong end-to-end (E2EE) encryption.
 
