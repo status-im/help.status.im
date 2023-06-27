@@ -47,9 +47,6 @@ This action mutes notifications from all your direct messages (DMs). If you want
     1. In the **Settings** sidebar, click :desktop-notification: **Notifications and Sounds**.
     1. Turn **Notifications** off.
 
-!!! note
-    If you mute all Status app notifications, you're also muting notifications that appear on your screen and disappear shortly after.
-
 ## Customize direct message notifications
 
 === "Mobile"
@@ -62,10 +59,9 @@ This action mutes notifications from all your direct messages (DMs). If you want
 
     | Preference | Description |
     |:---|:---|
-    | Notifications on| Turn this on if you want to see notification banners. |
-    | In notification centre only |Turn this on to receive subtle notifications without banners. You need to unlock your phone to see your notifications. |
-    | Notifications off | Turn this off if you don't want to receive any notifications. |
-
+    | Notifications on | Turn this on if you want to receive direct message notifications. |
+    | In notification centre only | Turn this on to receive direct message notifications in the Status notification centre. |
+    | Notifications off | Turn this off if you don't want to receive any direct message notifications. |
 
 === "Desktop"  
 
@@ -76,7 +72,7 @@ This action mutes notifications from all your direct messages (DMs). If you want
     
     | Preference | Description |
     |:---|:---|
-    | Send alerts| Turn this on if you want to see notifications banners. |
+    | Send alerts | Turn this on if you want to see notifications. |
     | Deliver quietly |Turn this on to receive subtle notifications without banners. You need to unlock your phone to see your notifications. |
     | Turn off | Turn this off if you don't want to receive notifications. |
     
