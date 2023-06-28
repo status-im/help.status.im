@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Reset your notifications settings
+# Reset your notification settings
 
 !!! note ""
     Currently, you can only reset your notifications settings using Status mobile.
