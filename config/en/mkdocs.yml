@@ -266,9 +266,6 @@ nav:
       - Change a private community to public: status-communities/change-a-private-community-to-public.md
       - Permissions by role in Status Communities: status-communities/permissions-by-role-in-status-communities.md
       - Set up your community permissions: status-communities/set-up-your-community-permissions.md
-      - Grant exclusive access with custom tokens: status-communities/grant-exclusive-access-with-custom-tokens.md
-      - Permissions by role in Status Communities: status-communities/permissions-by-role-in-status-communities.md
-      - Set up your community permissions: status-communities/set-up-your-community-permissions.md
       - Grant exclusive access with tokens: status-communities/grant-exclusive-access-with-tokens.md
       - Mint tokens for your community: status-communities/mint-tokens-for-your-community.md
       - How to mint an admin token: status-communities/how-to-mint-an-admin-token.md

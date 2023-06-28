@@ -9,26 +9,26 @@ hide:
 # Token-based access to communities and channels
 
 !!! tip ""
-    Currently, you can only configure token-based access using Status desktop.
+    Currently, you can only set up token-based access using Status desktop.
 
-In the Status app, community [owners and admins][permissions-by-role-in-status-communities] can use token-based permissions to organize and control their communities and channels.
+In the Status app, community [owners and admins][permissions-by-role-in-status-communities] can use token-based permissions to limit access and organize their communities and channels.
 
-As a community owner, you can configure token-based permission in [the community as a whole][set-up-your-community-permissions] and individual [channels within it][set-up-channel-permissions]. This functionality allows you to set up open communities with specific token-gated channels or [entirely closed communities][set-up-a-private-community] that require certain tokens for access.
+As a community owner, you can set up token-based permissions in [the community as a whole][set-up-your-community-permissions] and individual [channels within it][set-up-channel-permissions]. You can set up open communities with specific token-gated channels or [token-gated communities][set-up-a-private-community] that require owning certain tokens for access.
 
 !!! note
-    Both community owners and admins can define token-based permission using Status desktop. For more information, check out [Permissions by role in Status Communities][permissions-by-role-in-status-communities].
+    Both community owners and admins can define token-based permission using the Status desktop app. For more information, check out [Permissions by role in Status Communities][permissions-by-role-in-status-communities].
 
-## Define and assign token-based access
+## Set up and assign token-based access
 
-To define different access levels in your community, you start with a token.
+To set up different access levels in your community, you start with a token.
 
-- [x] Choose one or more tokens you want to use. This can be an existing token (such as ETH, SNT or an ENS name), [a new token you mint][mint-tokens-for-your-community] or [a token you import][import-tokens-to-your-community] into the community.
-- [x] Create a new [community-level][set-up-your-community-permissions] or [channel-level][set-up-channel-permissions] permission using your the token.
+- [x] Choose one or more tokens you want to use. This can be an existing token (such as DAI, SNT or an ENS name), [a new token you mint][mint-tokens-for-your-community] or [a token you import][import-tokens-to-your-community] into the community.
+- [x] Create a new [community-level][set-up-your-community-permissions] or [channel-level][set-up-channel-permissions] permission using the token.
 - [x] You can now token-gate access to your community or channels within it. For ideas on how to use these token-based permissions, check out [Using token-based access in your community](#using-token-based-access-in-your-community).
 
 ## Using token-based access in your community
 
-Let's explore some examples of using token-based access in the Status app.
+Let's explore some examples of using token-based access in your Status community.
 
 ### Provide early access to content
 
@@ -36,10 +36,10 @@ As a content creator, you can set up a Status community for your fans. By [minti
 
 ### Community access and administration
 
-Token-based permissions in Status Communities allow community owners to restrict access and delegate administrative functions to specific token holders. For more information, check out [Delegate admin functions to community members][delegate-admin-functions-to-community-members].
+As a community owner, you can use token-based permissions to restric access and delegate administrative functions to specific token holders. For more information, check out [Delegate admin functions to community members][delegate-admin-functions-to-community-members].
 
 !!! note
-    You're always in control of your community. You can [remove permissions][delete-community-permissions] or [destroy admin tokens][remotely-self-destruct-a-token] if necessary.
+    You're always in control of your community permissions. You can [remove permissions][delete-community-permissions] or [destroy admin tokens][remotely-self-destruct-a-token] if necessary.
 
 ### Run an event or conference
 
