@@ -21,8 +21,8 @@ Resetting notifications settings for communities, channels, group chats, and dir
 
     1. From the tab bar, tap **Communities** to reset your notifications settings in a community or channel, or tap **Messages** to reset your notifications settings in a group chat or DM.
     1. Tap the community, channel, group chat or DM where you want to reset the notifications settings.
-    1. In the top navigation, tap :mobile-more-options: More options.
+    1. In the top navigation, tap :mobile-more-options: **More options**.
     1. Tap :mobile-notifications-settings: **Notification settings**. 
-    1. Tap "Reset to default notifications settings"
+    1. Tap **Reset to default notifications settings**.
 
 --8<-- "includes/urls-en.txt"
