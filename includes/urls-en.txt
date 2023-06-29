@@ -70,6 +70,7 @@
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
 [about-the-control-node-in-status-communities]: /en/status-communities/about-the-control-node-in-status-communities
 [about-view-only-channels]: /en/status-communities/about-view-only-channels
+[add-or-remove-a-community-from-the-community-directory]: /en/status-communities/add-or-remove-a-community-from-the-community-directory
 [about-tokens-collectibles-and-ens-names]: /en/status-communities/about-tokens-collectibles-and-ens-names
 [administer-your-community-from-different-computers]: /en/status-communities/administer-your-community-from-different-computers
 [burn-your-community-tokens]: /en/status-communities/burn-your-community-tokens
