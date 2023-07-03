@@ -11,15 +11,15 @@ hide:
 !!! note ""
     Currently, you can only reset your notifications settings using Status mobile.
 
-You can reset your notifications settings if you have customized your notifications, but you have lost track (your notifications don't work the way you want). When you reset your notifications, your previous configuration is discarded and your notifications settings return to the default configuration.
+If you set custom notification settings before but your notifications don't work the way you want anymore, you can reset your notification settings. Once you do, your notification settings go back to default.
 
 ## Reset your notification settings
 
-Resetting notifications settings for communities, channels, group chats, and direct messages (DM) is similar. Follow the steps below for each one of them.
+You can reset your notification settings for communities, channels, group chats and direct messages (DM). Here's how:
 
 === "Mobile"
 
-    1. From the tab bar, tap **Communities** to reset your notifications settings in a community or channel, or tap **Messages** to reset your notifications settings in a group chat or DM.
+    1. From the tab bar, tap :mobile-communities: **Communities** to reset your notifications settings in a community or channel, or tap :mobile-messages: **Messages** to reset your notifications settings in a group chat or DM.
     1. Tap the community, channel, group chat or DM where you want to reset the notifications settings.
     1. In the top navigation, tap :mobile-more-options: **More options**.
     1. Tap :mobile-notifications-settings: **Notification settings**. 
