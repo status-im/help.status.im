@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Set a token-gated channel
+# Prevent member removal when you set up token-based permissions
 
 :octicons-tools-24: In progress
 

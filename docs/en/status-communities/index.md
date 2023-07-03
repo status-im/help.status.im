@@ -70,6 +70,7 @@ Create your community, set up token-gated channels or join others' communities a
 - [**Delegate admin functions** to community members][delegate-admin-functions-to-community-members]
 - [**Remotely self destruct** a token][remotely-self-destruct-a-token]
 - [**Burn** your community tokens][burn-your-community-tokens]
+- [**Prevent member removal** when you set up token-based permissions][prevent-member-removal-when-you-set-up-token-based-permissions]
 
 ## Status Web Communities
 

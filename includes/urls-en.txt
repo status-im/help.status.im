@@ -71,6 +71,7 @@
 [about-the-control-node-in-status-communities]: /en/status-communities/about-the-control-node-in-status-communities
 [about-view-only-channels]: /en/status-communities/about-view-only-channels
 [about-tokens-collectibles-and-ens-names]: /en/status-communities/about-tokens-collectibles-and-ens-names
+[back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [administer-your-community-from-different-computers]: /en/status-communities/administer-your-community-from-different-computers
 [burn-your-community-tokens]: /en/status-communities/burn-your-community-tokens
 [change-a-token-gated-community-to-open]: /en/status-communities/change-a-token-gated-community-to-open
@@ -198,6 +199,7 @@
 [log-out-of-status]: /en/your-profile-and-preferences/log-out-of-status
 [manage-links]: /en/your-profile-and-preferences/view-and-edit-your-status-profile#manage-links
 [mute-your-notifications]: /en/your-profile-and-preferences/mute-your-notifications
+[prevent-member-removal-when-you-set-up-token-based-permissions]: /en/your-profile-and-preferences/prevent-member-removal-when-you-set-up-token-based-permissions
 [profile-synchronization-reference]: /en/your-profile-and-preferences/profile-synchronization-reference
 [register-or-add-your-ens-name-in-status]: /en/your-profile-and-preferences/register-or-add-your-ens-name-in-status
 [remove-a-contact-from-status]: /en/your-profile-and-preferences/remove-a-contact-from-status

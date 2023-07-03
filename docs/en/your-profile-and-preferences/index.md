@@ -57,6 +57,7 @@ Set up your Status profile and notifications, customize your settings and fix co
 - [If you **lose** your Status **password** or **recovery phrase**][if-you-lose-your-status-password-or-recovery-phrase]
 - [**Uninstall** Status desktop][uninstall-status-desktop]
 - [Common issues when the **community's control node is offline**][common-issues-when-the-community-s-control-node-is-offline]
+- [**Prevent member removal** when you set up token-based permissions][prevent-member-removal-when-you-set-up-token-based-permissions]
 
 ## Use your Keycard
 
