@@ -8,6 +8,9 @@ hide:
 
 # How to run a community: your quick start guide
 
+!!! note ""
+    Currently, you can only create and administer communities using the Status desktop app.</br><p style="text-align: center;">[Download Status desktop :octicons-desktop-download-16:][status-web-download]{ .md-button }
+
 A Status Community is a virtual space for like-minded people to exchange ideas and collaborate.
 
 As a community owner, you have the autonomy to oversee membership and administration. This enables you to shape the community's dynamics and ensure a positive atmosphere that fosters engagement and productive interactions.
@@ -25,7 +28,7 @@ First, create your community and set up channels in the community. Think of chan
 
 === ":mobile-two: Channels"
 
-If a community member behaves inappropriately, you can [kick or ban the user][kick-or-ban-someone-from-your-community].
+    In your community, you can [set up channels][create-a-channel] for different discussion topics, [customize][customize-your-channel] and categorize them.
 
 ## Administer your members and membership {: #administer-membership}
 
