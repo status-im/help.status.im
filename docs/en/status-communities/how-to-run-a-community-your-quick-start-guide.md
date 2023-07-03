@@ -42,15 +42,15 @@ After you create the community, you and your community members can [invite peopl
 
 There are [two factors][about-the-different-types-of-status-communities] under your control to restrict access to your community. You can set a token requirement for joining your [community][set-up-a-closed-community] or specific [channels][set-up-a-closed-channel]. Alternatively, turn on [manual approval for join requests][manage-community-join-requests].
 
-For example, suppose you're a digital artist who wants to create an community only for those owning your art. In this case, you could create a closed community requiring members to hold the collectibles you issued. If you want to verify users' identities before they join, you could enable manual approval for join requests.
-    
-Additionaly, if a community member misbehaves, you can [kick or ban the user][kick-or-ban-someone-from-your-community].
+For example, suppose you're a digital artist who wants to create a community only for those owning your art. In this case, you could create a closed community requiring members to hold the collectibles you issued. If you want to verify users' identities before they join, you could enable manual approval for join requests.
+
+Additionally, if a community member misbehaves, you can [kick or ban the user][kick-or-ban-someone-from-your-community].
     
 ## Token and token-based permissions {: #token-based-permissions}
 
-Tokens serve as a means for you to motivate members and manage permissions. You can [mint][mint-tokens-for-your-community] and [airdrop][how-to-airdrop-tokens-in-status] tokens including virtual coins and collectible within your community.
+Tokens serve as a means for you to motivate members and manage permissions. You can [mint][mint-tokens-for-your-community] and [airdrop][how-to-airdrop-tokens-in-status] tokens including virtual coins and collectibles within your community.
 
-In Status Communities, there are three types of roles: owner, admin and member. The different roles have [unique permissions][permissions-by-role-in-status-communities] that allow them to perform corresponding actions like deleting messages or editing community settings.
+In Status Communities, there are three roles: owner, admin and member. The different roles have [unique permissions][permissions-by-role-in-status-communities] that allow them to perform corresponding actions like deleting messages or editing community settings.
 
 ### Customize permissions
 
