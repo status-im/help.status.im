@@ -45,7 +45,7 @@ When you mint a token, you create a new and unique digital asset in the blockcha
 !!! note
     You can't change the collectible description or options after minting.
 
-## Set up collectible options
+## Set up collectible options {: #set-up-collectible-options}
 
 | Setting | Description |
 |:---|:---|
