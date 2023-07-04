@@ -14,7 +14,7 @@ hide:
 A [token-gated community][token-based-access-to-communities-and-channels] requires members to meet specific token requirements to join. As a community owner, you can change an open-gated community into an open one so anyone can join without requiring tokens.
 
 !!! note
-    In addition to token requirements, you can can set up [manual approval][about-community-request-approvals] to join your community. Token requirements and manual approval work independently.
+    In addition to token requirements, you can set up [manual approval][about-community-request-approvals] to join your community. Token requirements and manual approval work independently.
 
 You might want to transition from a token-gated community to an open one for various reasons. For instance, you might want to grow your community by attracting new members, or perhaps you want to make your community more inclusive by removing the entry barrier.
 
