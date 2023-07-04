@@ -48,7 +48,7 @@ Create your community, set up private channels or join others' communities and c
 
 - [**Create** a channel][create-a-channel]
 - [**Customize** your channel][customize-your-channel]
-- [**Change** a private channel to public][change-a-private-channel-to-public]
+- [**Change** a token-gated channel to open][change-a-token-gated-channel-to-open]
 - [Set up **channel permissions**][set-up-channel-permissions]
 - [About **view-only channels**][about-view-only-channels]
 - [Set up a view-only channel][set-up-a-view-only-channel]

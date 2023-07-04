@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Channel a private channel to public
+# Channel a token-gated channel to open
 
  :octicons-tools-24: In progress
 

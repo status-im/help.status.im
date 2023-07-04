@@ -75,7 +75,7 @@
 [back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [burn-your-community-tokens]: /en/status-communities/burn-your-community-tokens
 [change-a-private-community-to-public]: /en/status-communities/change-a-private-community-to-public
-[change-a-private-channel-to-public]: /en/status-communities/change-a-private-channel-to-public
+[change-a-token-gated-channel-to-open]: /en/status-communities/change-a-token-gated-channel-to-open
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [co-manage-your-status-community]: /en/status-communities/co-manage-your-status-community
 [common-issues-when-the-community-s-control-node-is-offline]: /en/status-communites/common-issues-when-the-community-s-control-node-is-offline
