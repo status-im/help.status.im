@@ -11,7 +11,7 @@ hide:
 !!! note ""
     Currently, you can only set up token-gated and open communities using Status desktop. [:octicons-desktop-download-16: Download Status desktop][status-web-download].
 
-A [token-gated community][token-based-access-to-communities-and-channels] requires members to meet specific token requirements to join. As a community owner, you can change an open-gated community into an open one so anyone can join without requiring tokens.
+In a [token-gated community][token-based-access-to-communities-and-channels] members should meet specific token requirements to join. As a community owner, you can change an open-gated community into an open one so anyone can join without requiring tokens.
 
 !!! note
     In addition to token requirements, you can set up [manual approval][about-community-request-approvals] to join your community. Token requirements and manual approval work independently.
@@ -34,7 +34,7 @@ You might want to transition from a token-gated community to an open one for var
 
     1. From the navigation sidebar, click your community.
     1. At the top of the channel sidebar, click your community logo and then click **Permissions**.
-    1. In the list of permissions, locate the `Become member` permission and click :desktop-delete: **Delete**.
+    1. In the list of permissions, locate the `Become member` permission in your community and click :desktop-delete: **Delete**.
     1. Click **Delete permission** to confirm your action.
 
 !!! note
