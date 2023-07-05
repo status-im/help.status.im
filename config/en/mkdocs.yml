@@ -295,6 +295,7 @@ nav:
     - Understand crypto assets:
       - Understand wrapped tokens: status-wallet/understand-wrapped-tokens.md
     - Handle your crypto:
+      - Add watch-only accounts: status-wallet/add-watch-only-accounts.md
       - Delete your wallet: status-wallet/delete-your-wallet.md
   - Your profile:
     - your-profile-and-preferences/index.md
