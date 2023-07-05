@@ -129,6 +129,7 @@
 [use-a-throwaway-profile-in-status-web]: /en/status-communities/use-a-throwaway-profile-in-status-web
 [what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
 
+[about-custom-derivation-paths]: /en/status-wallet/about-custom-derivation-paths
 [about-custom-tokens]: /en/status-wallet/about-custom-tokens
 [about-snt]: /en/status-wallet/about-snt
 [about-your-wallet-accounts-and-addresses]: /en/status-wallet/about-your-wallet-accounts-and-addresses
