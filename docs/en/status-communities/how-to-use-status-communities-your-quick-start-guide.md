@@ -62,7 +62,7 @@ Status Communities contain [channels][channels-your-quick-start-guide]. Think of
 
 Community owners can also control [access to channels using tokens][create-a-token-gated-channel] or other permissions. Some channels might be open to all members, while others can be restricted or read-only.
 
-![A screenshot of a token-gated channel with different token-based permission for the view-only and view and post access](./how-to-use-status-communities-your-quick-start-guide/110-0-4.png)
+![A screenshot of a token-gated channel with different token-based permissions for the view-only and view and post access](./how-to-use-status-communities-your-quick-start-guide/110-0-4.png)
 
 === ":mobile-one: View only requirements"
 
@@ -72,7 +72,7 @@ Community owners can also control [access to channels using tokens][create-a-tok
 
     Owners can configure different view-only and view and post requirements for channels. 
 
-=== ":mobile-two: Enter channel"
+=== ":mobile-three: Enter channel"
 
     If you meet some or all of the channel requirements, the :mobile-unlocked-lock: **Enter channel** option is active and you can join the conversation.
 
@@ -81,14 +81,14 @@ Community owners can also control [access to channels using tokens][create-a-tok
 
 ## Communities' privacy and security
 
+In a token-gated community, only those possessing the required tokens can access the community's content. No outside party (not even Status) can gain access to or view the community's exchanges and interactions.
+
 When you participate in a channel, your messages are visible to anyone with access to the same channel. In communities or channels, you don't see [the users you have blocked][block-or-unblock-someone-in-status], but a blocked user can still see messages you send in the community.
 
 !!! note
     Your Status profile is visible to anyone in Status, and you can customize [what information others can see][view-your-profile-as-someone-else] in your profile.
 
-Your communication in channels is encrypted and available only to the channel members. Status messaging uses decentralized peer-to-peer (P2P) technology and strong end-to-end (E2EE) encryption to ensure the privacy and security of your communication.
-
-In a token-gated community, only those possessing the required tokens can access the community's content. No outside party (not even Status) can gain access to or view the community's exchanges and interactions.
+Status messaging uses decentralized peer-to-peer (P2P) technology and strong end-to-end encryption (E2EE) to ensure the privacy and security of your communication. Your communication in channels is encrypted and available only to the channel members.
 
 ## Losing access to communities
 
