@@ -286,6 +286,7 @@ nav:
     - status-wallet/index.md
     - Getting started:
       - Status Wallet FAQ: status-wallet/status-wallet-faq.md
+      - Import an account into your Status Wallet: status-wallet/import-an-account.md
     - Send and receive crypto:
       - Receive crypto: status-wallet/receive-crypto.md
       - Send crypto to your Status Wallet: status-wallet/send-crypto-to-your-status-wallet.md
