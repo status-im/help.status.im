@@ -248,15 +248,15 @@ nav:
     - Administer channels:
       - Create a channel: status-communities/create-a-channel.md
       - Customize your channel: status-communities/customize-your-channel.md
-      - Change a closed channel to open: status-communities/change-a-closed-channel-to-open.md
+      - Change a token-gated channel to open: status-communities/change-a-token-gated-channel-to-open.md
       - Set up channel permissions: status-communities/set-up-channel-permissions.md
       - Set a view-only channel: status-communities/set-up-a-view-only-channel.md
-      - Set a closed channel: status-communities/set-up-a-closed-channel.md
+      - Set a token-gated channel: status-communities/set-up-a-token-gated-channel.md
       - Delete a channel: status-communities/delete-a-channel.md
     - Use tokens and set community permissions:
       - Token-based access to communities and channels: status-communities/token-based-access-to-communities-and-channels.md
-      - Set up a closed community: status-communities/set-up-a-closed-community.md
-      - Change a closed community to open: status-communities/change-a-closed-community-to-public.md
+      - Set up a token-gated community: status-communities/set-up-a-token-gated-community.md
+      - Change a token-gated community to open: status-communities/change-a-token-gated-community-to-public.md
       - Permissions by role in Status Communities: status-communities/permissions-by-role-in-status-communities.md
       - Set up your community permissions: status-communities/set-up-your-community-permissions.md
       - Grant exclusive access with custom tokens: status-communities/grant-exclusive-access-with-custom-tokens.md

@@ -11,7 +11,7 @@ hide:
 Whether you are a community member or not, you can tell people about the community and invite them to join.
 
 !!! note
-    People you invite still need to meet the requirements to join closed communities.
+    People you invite still need to meet the requirements to join token-gated communities.
 
 ## Invite options
 

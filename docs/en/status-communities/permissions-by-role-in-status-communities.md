@@ -24,7 +24,7 @@ Refer to this table for the Status Communities permissions by role type.
 | [Edit community settings][customize-your-community]                                                                                                              | :material-check: | :material-check: |                  |
 | [Create][create-a-channel], [edit][customize-your-channel] and [delete channels or categories][delete-a-channel]                                                 | :material-check: | :material-check: |                  |
 | [Reorder channels and categories][customize-your-channel]                                                                                                        | :material-check: | :material-check: |                  |
-| [Create, edit and delete `Become member` permissions][set-up-a-closed-community]                                                                                | :material-check: | :material-check: |                  |
+| [Create, edit and delete `Become member` permissions][set-up-a-token-gated-community]                                                                                | :material-check: | :material-check: |                  |
 | [Create, edit and delete `Become admin` permissions][delegate-admin-functions-to-community-members]                                                              | :material-check: |                  |                  |
 | [Create, edit and delete other permissions][set-up-your-community-permissions]                                                                                   | :material-check: | :material-check: |                  |
 | [Recieve `Request to join` notifications and ability to accept or reject requests][manage-community-join-requests] :one:                                         | :material-check: | :material-check: |                  |
@@ -40,7 +40,7 @@ Refer to this table for the Status Communities permissions by role type.
 
 :one: If an admin [accepts a member request][manage-community-join-requests] or removes a member by [kicking or banning them][kick-or-ban-someone-from-your-community], the command is sent to the owner node for action. If the owner node is not online, it will take the required action the next time it comes online.
 
-:two: Community owners have the option to [manage their community using multiple computers][manage-your-community-from-different-computers]. For instance, they may use a laptop in addition to their desktop computer. If the owner manages the community from a computer without importing the community's private key, the key is not available on that computer.
+:two: Community owners can manage their community using multiple computers][manage-your-community-from-different-computers]. For instance, they may use a laptop in addition to their desktop computer. If the owner manages the community from a computer without importing the community's private key, the key is not available on that computer.
 
 !!! note
     To provide the best experience for their members, community owners should keep the Status desktop app online every day or at least once every six days.
