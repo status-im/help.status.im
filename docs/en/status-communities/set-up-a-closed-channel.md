@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Set a closed channel
+# Set a token-gated channel
 
  :octicons-tools-24: In progress
 

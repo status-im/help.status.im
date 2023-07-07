@@ -10,7 +10,7 @@ hide:
 
 In [Status Communities][how-to-use-communities-your-quick-start-guide], you have access to dedicated spaces called channels. Channels bring the right people and information together for any project or topic. A channel conversation focuses on specific topics, and you can [join](./join-a-channel.md) and [leave](./leave-a-channel.md) the conversation anytime.
 
-As a community owner, you can use channels to break down a large community into smaller, more focused sub-groups. With Status, you can [configure channel permissions][configure-channel-permissions] based on token ownership. For example, you can make an open channel closed or view-only by only allowing holders of specific tokens to join or post.
+As a community owner, you can use channels to break down a large community into smaller, more focused sub-groups. With Status, you can [configure channel permissions][configure-channel-permissions] based on token ownership. For example, you can make an open channel token-gated or view-only by only allowing holders of specific tokens to join or post.
 
 !!! tip
     To add channels to your community, check out [Create a channel][create-a-channel].
@@ -26,14 +26,14 @@ As a community owner, you can use channels to break down a large community into 
     Community owners can group related channels into [categories][create-a-channel]. This is especially useful for communities with a lot of channels.
 
 === ":mobile-three: Channels list"
-    The list of available channels in a community. [Closed channels][configure-channel-permissions] have a :mobile-locked-lock: lock icon next to the channel name.
+    The list of available channels in a community. [Token-gated channels][configure-channel-permissions] have a :mobile-locked-lock: lock icon next to the channel name.
 
-## open and closed channels
+## Open and token-gated channels
 
-All members in a [Status Community][how-to-use-communities-your-quick-start-guide] can browse and join open channels. For closed channels, you must [meet the token requirements][understand-token-requirements-in-channels] to join the channel. To maintain access to closed channels, hold the required tokens at all times.
+All members in a [Status Community][how-to-use-communities-your-quick-start-guide] can browse and join open channels. For token-gated channels, you must [meet the token requirements][understand-token-requirements-in-channels] to join the channel. To maintain access to token-gated channels, hold the required tokens at all times.
 
 !!! note
-    Messages in [closed communities][how-to-use-communities-your-quick-start-guide] and closed channels are always end-to-end encrypted.
+    Messages in [token-gated communities][how-to-use-communities-your-quick-start-guide] and token-gated channels are always end-to-end encrypted.
 
 <!--
 ![image](image)
@@ -42,8 +42,8 @@ All members in a [Status Community][how-to-use-communities-your-quick-start-guid
 === ":mobile-one: Open channel"
      All community members can join open channels. When you join a community, you automatically get access to these channels.
 
-=== ":mobile-two: Closed channel"
-    Closed channels have a :mobile-locked-lock: lock icon next to the channel name. To access these channels, you need to [meet the token requirements][understand-token-requirements-in-channels]. To maintain access, keep holding the required tokens.
+=== ":mobile-two: Token-gated channel"
+    Token-gated channels have a :mobile-locked-lock: lock icon next to the channel name. To access these channels, you need to [meet the token requirements][understand-token-requirements-in-channels]. To maintain access, keep holding the required tokens.
 
 ## Channel information
 

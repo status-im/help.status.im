@@ -5,7 +5,7 @@ hide:
 
 # Status Communities
 
-Create your community, set up closed channels or join others' communities and channels.
+Create your community, set up token-gated channels or join others' communities and channels.
 
 ## Status Communities
 
@@ -48,18 +48,18 @@ Create your community, set up closed channels or join others' communities and ch
 
 - [**Create** a channel][create-a-channel]
 - [**Customize** your channel][customize-your-channel]
-- [Set up a closed channel][set-up-a-view-only-channel]
-- [**Change** a closed channel to open][change-a-closed-channel-to-open]
+- [Set up a token-gated channel][set-up-a-token-gated-channel]
+- [**Change** a token-gated channel to open][change-a-token-gated-channel-to-open]
 - [Set up **channel permissions**][set-up-channel-permissions]
-- [About **view-only channels**][about-view-only-channels]
-- [Set up a view-only channel][set-up-a-view-only-channel]
+- [About **view-only** channels][about-view-only-channels]
+- [Set up a **view-only channel**][set-up-a-view-only-channel]
 - [**Delete** a channel][delete-a-channel]
 
 ## Use tokens and set community permissions
 
 - [**Token-based access** to communities and channels][token-based-access-to-communities-and-channels]
-- [Set up a **closed community**][set-up-a-closed-community]
-- [**Change** a closed community to open][change-a-closed-community-to-open]
+- [Set up a **token-gated community**][set-up-a-token-gated-community]
+- [**Change** a token-gated community to open][change-a-token-gated-community-to-open]
 - [**Permissions by role** in Status Communities][permissions-by-role-in-status-communities]
 - [Set up your **community permissions**][set-up-your-community-permissions]
 - [Grant **exclusive access** with tokens][grant-exclusive-access-with-tokens]

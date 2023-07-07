@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Change a closed community to open
+# Change a token-gated community to open
 
  :octicons-tools-24: In progress
 
