@@ -3493,13 +3493,39 @@
   
   
     <li class="md-nav__item">
-      <a href="../change-a-private-channel-to-public/" class="md-nav__link">
+      <a href="../set-up-a-token-gated-channel.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     
   
-    Change a private channel to public
+    Set up a token-gated channel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../change-a-token-gated-channel-to-open.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Change a token-gated channel to open
   
 
     
@@ -3577,33 +3603,7 @@
   <span class="md-ellipsis">
     
   
-    Set up a view-only channel
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../set-up-a-private-channel/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    
-  
-    Set up a private channel
+    Set a view-only channel
   
 
     
@@ -3729,13 +3729,13 @@
   
   
     <li class="md-nav__item">
-      <a href="../set-up-a-private-community/" class="md-nav__link">
+      <a href="../set-up-a-token-gated-community.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     
   
-    Set up a private community
+    Set up a token-gated community
   
 
     
@@ -3755,13 +3755,13 @@
   
   
     <li class="md-nav__item">
-      <a href="../change-a-private-community-to-public/" class="md-nav__link">
+      <a href="../change-a-token-gated-community-to-public.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     
   
-    Change a private community to public
+    Change a token-gated community to open
   
 
     
@@ -6680,7 +6680,7 @@
 <p>Currently, you can only customize community permissions using Status desktop.</p>
 </div>
 <p>In Status Communities, owners can customize community permissions using tokens. Tokens are digital assets in a <abbr title="A blockchain is a digital ledger that stores information across a network of computers,  making it difficult to modify or hack. It consists of blocks of data, each connected to the previous one, forming a chain.">blockchain</abbr> (such as the <a href="/en/getting-started/about-the-ethereum-blockchain">Ethereum <abbr title="A blockchain is a digital ledger that stores information across a network of computers,  making it difficult to modify or hack. It consists of blocks of data, each connected to the previous one, forming a chain.">blockchain</abbr></a>), including virtual coins, <abbr title="A collectible is a unique digital asset that is stored on a blockchain. These assets are called non-fungible tokens (NFTs) and represent ownership of digital art, music, videos and other creative works.">collectibles</abbr> and domain names.</p>
-<p>Once you set up token-based permissions, certain actions within your community are only available to users who own a particular token. For instance, owners can <a href="/en/status-communities/set-up-a-private-community">restrict access to their community</a> or <a href="/en/status-communities/delegate-admin-functions-to-community-members">delegate admin functions</a> to specific token holders.</p>
+<p>Once you set up token-based permissions, certain actions within your community are only available to users who own a particular token. For instance, owners can <a href="/en/status-communities/set-up-a-token-gated-community">restrict access to their community</a> or <a href="/en/status-communities/delegate-admin-functions-to-community-members">delegate admin functions</a> to specific token holders.</p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 <p>In Status, your tokens are securely stored in your <a href="/en/status-wallet/status-wallet-your-quick-start-guide">Status Wallet</a>.</p>
@@ -6689,17 +6689,17 @@
 <ul>
 <li>Using token-based permissions, community owners can restrict community access and actions to specific people based on token requirements.</li>
 <li>Only the community owner can add, edit or delete community-level permissions.</li>
-<li>You set up community permissions in the same way you <a href="/en/status-communities/set-up-channel-permissions">set up channel permissions</a>. The only difference is the permissions you grant, either community-level (Become admin or Become member) or channel-level (Moderate, View and post or View only).</li>
-<li>Use the Become member permission to <a href="/en/status-communities/set-up-a-private-community">restrict access to your community</a>. Use the Become admin permission to <a href="/en/status-communities/delegate-admin-functions-to-community-members">delegate admin functions</a> to someone.</li>
+<li>You set up community permissions in the same way you <a href="/en/status-communities/set-up-channel-permissions">set up channel permissions</a>. The only difference is the permissions you grant, either community-level (<code>Become admin</code> or <code>Become member</code>) or channel-level (Moderate, View and post or View only).</li>
+<li>Use the <code>Become member</code> permission to <a href="/en/status-communities/set-up-a-token-gated-community">restrict access to your community</a>. Use the <code>Become admin</code> permission to <a href="/en/status-communities/delegate-admin-functions-to-community-members">delegate admin functions</a> to someone.</li>
 </ul>
 <h2 id="add-community-permissions">Add community permissions<a class="headerlink" href="#add-community-permissions" title="Permanent link">&para;</a></h2>
-<p>Community owners customize permissions using three different variables: <code>Who holds</code> (optional), <code>Is allowed to</code> and <code>In</code>. For each variable, follow the same procedure using the table below for reference.</p>
+<p>Community owners customize permissions using three variables: <code>Who holds</code> (optional), <code>Is allowed to</code> and <code>In</code>. For each variable, follow the same procedure using the table below for reference.</p>
 <div class="tabbed-set tabbed-alternate" data-tabs="1:1"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">Desktop</label></div>
 <div class="tabbed-content">
 <div class="tabbed-block">
 <ol>
 <li>From the navigation sidebar, click your community.</li>
-<li>On top of the channel sidebar, click your community logo and then, click <strong>Permissions</strong>.</li>
+<li>On top of the channel sidebar, click your community logo and then click <strong>Permissions</strong>.</li>
 <li>Click <strong>Add permission</strong> to start from scratch or click :desktop-duplicate: <strong>Duplicate</strong> to start from an existing permission.</li>
 <li>For the <code>Who holds</code>, <code>Is allowed to</code> and <code>In</code> variables, click <span class="twemoji"><svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M12.9999 7.85413C13.4486 7.85413 13.8124 8.2179 13.8124 8.66663L13.8124 11.6458C13.8124 11.9449 14.0549 12.1875 14.3541 12.1875L17.3332 12.1875C17.782 12.1875 18.1457 12.5512 18.1457 13C18.1457 13.4487 17.782 13.8125 17.3332 13.8125L14.3541 13.8125C14.0549 13.8125 13.8124 14.055 13.8124 14.3541L13.8124 17.3333C13.8124 17.782 13.4486 18.1458 12.9999 18.1458C12.5512 18.1458 12.1874 17.782 12.1874 17.3333L12.1874 14.3541C12.1874 14.055 11.9449 13.8125 11.6457 13.8125L8.66656 13.8125C8.21783 13.8125 7.85406 13.4487 7.85406 13C7.85406 12.5512 8.21783 12.1875 8.66656 12.1875L11.6457 12.1875C11.9449 12.1875 12.1874 11.9449 12.1874 11.6458L12.1874 8.66663C12.1874 8.2179 12.5512 7.85413 12.9999 7.85413Z" />
@@ -6730,7 +6730,7 @@
 </tr>
 <tr>
 <td align="left"><code>Is allowed to</code></td>
-<td align="left">The community role that you assign to someone.</td>
+<td align="left">The community role you assign to someone.</td>
 <td align="left"><span class="twemoji"><svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7124 7.15638C17.7124 10.8901 14.6856 13.9169 10.9518 13.9169C7.21804 13.9169 4.19123 10.8901 4.19123 7.15638C4.19123 3.42262 7.21804 0.395813 10.9518 0.395813C14.6856 0.395813 17.7124 3.42262 17.7124 7.15638ZM15.6842 7.15638C15.6842 9.77001 13.5654 11.8888 10.9518 11.8888C8.33817 11.8888 6.2194 9.77001 6.2194 7.15638C6.2194 4.54275 8.33817 2.42398 10.9518 2.42398C13.5654 2.42398 15.6842 4.54275 15.6842 7.15638Z" />
 <path d="M11.1003 20.0024C11.6669 20.0096 12.1684 19.5978 12.2154 19.0332C12.2614 18.4819 11.8562 17.9919 11.3032 17.9778C11.1863 17.9748 11.0691 17.9733 10.9516 17.9733C6.84046 17.9733 3.15787 19.8081 0.677997 22.7034C0.353679 23.0821 0.396107 23.6431 0.748644 23.9957C1.18646 24.4335 1.91122 24.3704 2.32023 23.9055C4.42644 21.5119 7.51262 20.0014 10.9516 20.0014C11.0012 20.0014 11.0508 20.0018 11.1003 20.0024Z" />
@@ -6751,7 +6751,7 @@
 </tbody>
 </table>
 <ul>
-<li>If you turn the <strong>Who holds</strong> option off, the permission isn't bound to a token. This option only applies to channel-level permissions.</li>
+<li>If you turn off the <strong>Who holds</strong> option, the permission isn't bound to a token. This option only applies to channel-level permissions.</li>
 <li>Tokens are linked by <code>AND</code> operators. This means the new permission takes effect when the holder owns all the tokens. If you want to use the <code>OR</code> operator instead, create additional permissions.</li>
 <li>You can include up to five tokens in a single permission.</li>
 <li>You can create a maximum of five different Become member community-level permissions.</li>
@@ -6765,7 +6765,7 @@
 <div class="tabbed-block">
 <ol>
 <li>From the navigation sidebar, click your community.</li>
-<li>On top of the channel sidebar, click your community logo and then, click <strong>Permissions</strong>.</li>
+<li>On top of the channel sidebar, click your community logo and then click <strong>Permissions</strong>.</li>
 <li>In the permission you want to edit, click <span class="twemoji"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4892 2.70487C14.5401 1.65393 16.244 1.65394 17.295 2.70487C18.3459 3.75581 18.3459 5.45971 17.295 6.51064L7.50188 16.3037C7.14589 16.6597 6.70506 16.9191 6.22099 17.0574L2.71462 18.0592C2.49599 18.1217 2.26068 18.0607 2.0999 17.8999C1.93912 17.7392 1.87814 17.5038 1.94061 17.2852L2.94243 13.7788C3.08073 13.2948 3.34012 12.8539 3.69611 12.498L13.4892 2.70487ZM16.4095 3.59031C15.8476 3.02839 14.9366 3.02839 14.3746 3.59031L4.58154 13.3834C4.37604 13.5889 4.22629 13.8434 4.14645 14.1228C3.84474 15.1788 4.82102 16.1551 5.87699 15.8534C6.15644 15.7735 6.41093 15.6238 6.61644 15.4183L16.4095 5.6252C16.9714 5.06328 16.9714 4.15223 16.4095 3.59031Z" />
 </svg>
@@ -6781,7 +6781,7 @@
 <div class="tabbed-block">
 <ol>
 <li>From the navigation sidebar, click your community.</li>
-<li>On top of the channel sidebar, click your community logo and then, click <strong>Permissions</strong>.</li>
+<li>On top of the channel sidebar, click your community logo and then click <strong>Permissions</strong>.</li>
 <li>In the permission you want to delete, click <span class="twemoji">
 <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1756 2.4375C8.89351 2.4375 7.85417 3.47684 7.85417 4.75893C7.85417 5.42134 7.31718 5.95833 6.65476 5.95833H3.25C2.80127 5.95833 2.4375 6.3221 2.4375 6.77083C2.4375 7.21956 2.80127 7.58333 3.25 7.58333H4.05033C4.32427 7.58333 4.5551 7.78787 4.58806 8.05982L6.03795 20.0214C6.30167 22.1971 8.14823 23.8333 10.3398 23.8333H15.6602C17.8518 23.8333 19.6983 22.1971 19.962 20.0214L21.4119 8.05982C21.4449 7.78787 21.6757 7.58333 21.9497 7.58333H22.75C23.1987 7.58333 23.5625 7.21956 23.5625 6.77083C23.5625 6.3221 23.1987 5.95833 22.75 5.95833H19.3452C18.6828 5.95833 18.1458 5.42134 18.1458 4.75893C18.1458 3.47684 17.1065 2.4375 15.8244 2.4375L10.1756 2.4375ZM15.9345 5.95833C16.3314 5.95833 16.6003 5.53677 16.5468 5.14352C16.5297 5.01776 16.5208 4.88938 16.5208 4.75893C16.5208 4.3743 16.209 4.0625 15.8244 4.0625L10.1756 4.0625C9.79097 4.0625 9.47917 4.3743 9.47917 4.75893C9.47917 4.88938 9.47032 5.01776 9.4532 5.14352C9.39966 5.53677 9.66859 5.95833 10.0655 5.95833L15.9345 5.95833ZM19.3452 7.58333C19.6045 7.58333 19.8053 7.81002 19.7741 8.06736L18.3489 19.8259C18.184 21.1857 17.0299 22.2083 15.6602 22.2083H10.3398C8.97007 22.2083 7.81597 21.1857 7.65114 19.8259L6.22587 8.06736C6.19467 7.81002 6.39554 7.58333 6.65476 7.58333L19.3452 7.58333Z" />
@@ -6805,7 +6805,7 @@
         <span class="md-icon" title="Last update">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
         </span>
-        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 24, 2023</span>
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 7, 2023</span>
       </span>
     
     
@@ -6821,6 +6821,11 @@
             <a href="https://github.com/jorge-campo" class="md-author" title="@jorge-campo">
               
               <img src="https://avatars.githubusercontent.com/u/62282406?size=72" alt="jorge-campo">
+            </a>
+          
+            <a href="https://github.com/cheny0" class="md-author" title="@cheny0">
+              
+              <img src="https://avatars.githubusercontent.com/u/67916832?size=72" alt="cheny0">
             </a>
           
           

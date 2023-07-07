@@ -3587,13 +3587,39 @@
   
   
     <li class="md-nav__item">
-      <a href="../change-a-private-channel-to-public/" class="md-nav__link">
+      <a href="../set-up-a-token-gated-channel.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     
   
-    Change a private channel to public
+    Set up a token-gated channel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../change-a-token-gated-channel-to-open.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Change a token-gated channel to open
   
 
     
@@ -3671,33 +3697,7 @@
   <span class="md-ellipsis">
     
   
-    Set up a view-only channel
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../set-up-a-private-channel/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    
-  
-    Set up a private channel
+    Set a view-only channel
   
 
     
@@ -3821,13 +3821,13 @@
   
   
     <li class="md-nav__item">
-      <a href="../set-up-a-private-community/" class="md-nav__link">
+      <a href="../set-up-a-token-gated-community.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     
   
-    Set up a private community
+    Set up a token-gated community
   
 
     
@@ -3847,13 +3847,13 @@
   
   
     <li class="md-nav__item">
-      <a href="../change-a-private-community-to-public/" class="md-nav__link">
+      <a href="../change-a-token-gated-community-to-public.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     
   
-    Change a private community to public
+    Change a token-gated community to open
   
 
     
@@ -6590,7 +6590,7 @@
 <p>Currently, you can only create and administer communities using the Status desktop app.</br><p style="text-align: center;"><a class="md-button" href="https://status.im/get">Download Status desktop <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="m4.927 5.427 2.896 2.896a.25.25 0 0 0 .354 0l2.896-2.896A.25.25 0 0 0 10.896 5H8.75V.75a.75.75 0 1 0-1.5 0V5H5.104a.25.25 0 0 0-.177.427Z"/><path d="M1.573 2.573a.25.25 0 0 0-.073.177v7.5a.25.25 0 0 0 .25.25h12.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25h-3a.75.75 0 1 1 0-1.5h3A1.75 1.75 0 0 1 16 2.75v7.5A1.75 1.75 0 0 1 14.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0 1 11.25 16h-6.5a.75.75 0 0 1-.565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 0 1 0 10.25v-7.5A1.75 1.75 0 0 1 1.75 1h3a.75.75 0 0 1 0 1.5h-3a.25.25 0 0 0-.177.073ZM6.982 12a5.72 5.72 0 0 1-.765 2.5h3.566a5.72 5.72 0 0 1-.765-2.5H6.982Z"/></svg></span></a></p>
 </div>
 <p>A <a href="/en/status-communities/about-status-communities">Status Community</a> is a place where you can connect and communicate with people who share your interests. Communities are ideal for those with a passion or hobby, study groups, gaming communities, professional network groups, or creators looking to generate income from their content without intermediaries.</p>
-<p>As a community owner, you can create open communities or <a href="/en/status-communities/set-up-a-private-community">restrict community access using tokens</a>, control [membership approval][set-up-your-community-s-approval-options] and organize discussion groups in <a href="/en/status-communities/create-a-channel">channels</a>. Owners have complete control over their community and are responsible for maintaining its rules.</p>
+<p>As a community owner, you can create open communities or <a href="/en/status-communities/set-up-a-token-gated-community">restrict community access using tokens</a>, control [membership approval][set-up-your-community-s-approval-options] and organize discussion groups in <a href="/en/status-communities/create-a-channel">channels</a>. Owners have complete control over their community and are responsible for maintaining its rules.</p>
 <h2 id="create-a-community">Create a community<a class="headerlink" href="#create-a-community" title="Permanent link">&para;</a></h2>
 <div class="tabbed-set tabbed-alternate" data-tabs="1:1"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">Desktop</label></div>
 <div class="tabbed-content">
@@ -6626,7 +6626,7 @@
 </tr>
 <tr>
 <td align="left"><strong>Request to join required</strong></td>
-<td align="left">Community owners must manually approve each join request if this setting is checked. This option applies to <a href="/en/status-communities/about-status-communities">open and private</a> communities.</td>
+<td align="left">Community owners must manually approve each join request if this setting is checked. This option applies to <a href="/en/status-communities/about-status-communities">open and token-gated</a> communities.</td>
 </tr>
 <tr>
 <td align="left"><strong>Any member can pin a message</strong></td>
@@ -6683,7 +6683,7 @@
         <span class="md-icon" title="Last update">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
         </span>
-        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 31, 2023</span>
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 7, 2023</span>
       </span>
     
     
