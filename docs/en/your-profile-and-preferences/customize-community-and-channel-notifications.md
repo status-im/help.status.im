@@ -18,7 +18,7 @@ This article describes common examples.
 - [Mute community notifications except global mentions.](#mute-community-notifications-except-global-mentions)
 - [Set the same settings for all community message types.](#set-the-same-settings-for-all-community-message-types)
 
-## Mute all community notifications
+## Mute community notifications
 
 You can turn off your notifications for specific communities for a designated period. When you mute all notifications for a community, a :desktop-mute: **Mute** icon appears next to the community name.
 
@@ -40,12 +40,12 @@ You can turn off your notifications for specific communities for a designated pe
 
 ## Mute community notifications except global mentions
 
-If you want to avoid missing general announcements, you can selectively mute some notifications, except global mentions (such as @everyone). This example explains how to turn off all notifications for a specific community while maintaining global mentions. This can be helpful in very active communities where you're only interested in global mentions, such as @everyone
+If you want to avoid missing general announcements, you can selectively mute some notifications, except global mentions (such as `@everyone`). This example explains how to turn off all notifications for a specific community while maintaining global mentions. This can be helpful in very active communities where you're only interested in global mentions, such as `@everyone`.
 
 === "Mobile"
 
     1. From the tab bar, tap :mobile-communities: **Communities**.
-    1. Long press the community you want to mute.
+    1. Tap the community you want to mute and, in the top navigation, tap :mobile-more-options: **More options**.
     1. Tap :mobile-notifications-settings: **Notification settings**.
     1. Select **Personal mentions** > **Notifications off**.
     1. Select **All other messages** > **Notifications off**.
