@@ -61,14 +61,14 @@ If you want to avoid missing general announcements, you can selectively mute som
     1. On the same pop-up menu, verify **Global mentions** is set to **Send alerts**. If it is not, then select **Global mentions** > **Send Alerts**.
     1. Click **Done**. 
 
-## Set the same notification setting for all messages in a community.
+## Set the same notification setting for all messages in a community
 
 Currently, you can only set the same settings for all community message types using Status mobile.
 
 === "Mobile"
 
     1. From the tab bar, tap :mobile-communities: **Communities**.
-    1. Long press the community you want to customize.
+    1. Tap the community you want to customize and, in the top navigation, tap :mobile-more-options: **More options**.
     1. Tap :mobile-notifications-settings: **Notification settings**.
     1. Turn on **Same settings for all messages types**. 
     1. Choose your preferred notification option. 
