@@ -36,7 +36,7 @@ You can turn off your notifications for specific communities for a designated pe
     1. Choose the community you want to mute and click :desktop-notification: **Mute**.
 
 !!! tip
-	To turn notifications back on, open the muted community, then tap :mobile-more-options: **More options** > :mobile-unmute: **Unmute community".
+	To turn notifications back on, open the muted community, then tap :mobile-more-options: **More options** > :mobile-unmute: **Unmute community**.
 
 ## Mute community notifications except global mentions
 
