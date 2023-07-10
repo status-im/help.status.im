@@ -20,13 +20,13 @@ This article describes common examples.
 
 ## Mute all community notifications
 
-You can turn off your notifications for specific communities for a designated period. When you mute notifications for a community, it starts appearing greyed out.
+You can turn off your notifications for specific communities for a designated period. When you mute all notifications for a community, a :desktop-mute: **Mute** icon appears next to the community name.
 
 === "Mobile"
 
     1. From the tab bar, tap :mobile-communities: **Communities**.
-    1. Long press the community you want to mute.
-    1. Tap :mobile-mute: **Mute**.
+    1. Tap the community you want to mute and, in the top navigation, tap :mobile-more-options: **More options**.
+    1. Tap :mobile-mute: **Mute community**.
     1. Choose for how long you'd like to mute your notifications.
 
 === "Desktop"  
@@ -36,7 +36,7 @@ You can turn off your notifications for specific communities for a designated pe
     1. Choose the community you want to mute and click :desktop-notification: **Mute**.
 
 !!! tip
-	When you mute notifications for a community, it appears greyed out and has :mobile-mute: **Mute** next to its name.
+	To turn notifications back on, open the muted community, then tap :mobile-more-options: **More options** > :mobile-unmute: **Unmute community".
 
 ## Mute community notifications except global mentions
 
