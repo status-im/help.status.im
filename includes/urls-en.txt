@@ -70,15 +70,16 @@
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
 [about-the-control-node-in-status-communities]: /en/status-communities/about-the-control-node-in-status-communities
 [about-view-only-channels]: /en/status-communities/about-view-only-channels
-[add-or-remove-a-community-from-the-community-directory]: /en/status-communities/add-or-remove-a-community-from-the-community-directory
 [about-tokens-collectibles-and-ens-names]: /en/status-communities/about-tokens-collectibles-and-ens-names
 [administer-your-community-from-different-computers]: /en/status-communities/administer-your-community-from-different-computers
 [burn-your-community-tokens]: /en/status-communities/burn-your-community-tokens
+[cast-vote]: /en/status-communites/vote-to-make-a-community-private-or-public#cast-vote
 [change-a-token-gated-community-to-open]: /en/status-communities/change-a-token-gated-community-to-open
 [change-a-token-gated-channel-to-open]: /en/status-communities/change-a-token-gated-channel-to-open
 [channels-your-quick-start-guide]: /en/status-communities/channels-your-quick-start-guide
 [co-manage-your-status-community]: /en/status-communities/co-manage-your-status-community
 [common-issues-when-the-community-s-control-node-is-offline]: /en/status-communites/common-issues-when-the-community-s-control-node-is-offline
+[connect-wallet]: /en/status-communites/vote-to-make-a-community-private-or-public#connect-wallet
 [customize-your-channel]: /en/status-communities/customize-your-channel
 [customize-your-community]: /en/status-communities/customize-your-community
 [create-a-channel]: /en/status-communities/create-a-channel
@@ -89,6 +90,7 @@
 [delete-a-channel]: /en/status-communities/delete-a-channel
 [delete-community-permissions]: /en/status-communities/set-up-your-community-permissions#delete-community-permissions
 [delete-your-status-community]: /en/status-communities/delete-your-status-community
+[finalize-vote]: /en/status-communites/vote-to-make-a-community-private-or-public#finalize-vote
 [getting-started-for-community-owners]: /en/status-communities/getting-started-for-community-owners
 [grant-exclusive-access-with-tokens]: /en/status-communities/grant-exclusive-access-with-tokens
 [how-chs-works]: /en/status-communities/about-the-community-history-service#how-chs-works
@@ -100,6 +102,7 @@
 [import-a-discord-community-into-status]: /en/status-communities/import-a-discord-community-into-status
 [import-your-status-community]: /en/status-communities/import-your-status-community
 [import-tokens-to-your-community]: /en/status-communities/import-tokens-to-your-community
+[initiate-vote]: /en/status-communites/vote-to-make-a-community-private-or-public#initiate-vote
 [invite-people-to-a-channel]: /en/status-communities/invite-people-to-a-channel
 [invite-people-to-a-status-community]: /en/status-communities/invite-people-to-a-status-community
 [join-a-channel]: /en/status-communities/join-a-channel
@@ -128,6 +131,8 @@
 [understand-token-requirements-in-channels]: /en/status-communities/understand-token-requirements-in-channels
 [understand-token-requirements-in-communities]: /en/status-communities/understand-token-requirements-in-communities
 [use-a-throwaway-profile-in-status-web]: /en/status-communities/use-a-throwaway-profile-in-status-web
+[verify-vote]: /en/status-communites/vote-to-make-a-community-private-or-public#verify-vote
+[vote-to-make-a-community-private-or-public]: /en/status-communities/vote-to-make-a-community-private-or-public
 [what-is-a-community-channel]: /en/status-communities/what-is-a-community-channel
 
 [about-custom-tokens]: /en/status-wallet/about-custom-tokens
