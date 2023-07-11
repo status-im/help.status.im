@@ -17,7 +17,7 @@ In addition to DM notifications, you also receive notifications for mentions. Fo
 === "Mobile"
 
     1. From the tab bar, tap :mobile-messages: **Messages**.
-    1. Long press the DM you want to mute.
+    1. Tap the DM you want to mute and, in the top navigation, tap :mobile-more-options: **More options**.
     1. Tap :mobile-mute: **Mute**.
     1. Select the amount of time you'd like to mute your notifications.
 
@@ -52,7 +52,7 @@ This action mutes notifications from all your direct messages (DMs). If you want
 === "Mobile"
 
     1. From the tab bar,  tap :mobile-messages: **Messages**.
-    1. Long press the DM you want to set up notifications for.
+    1. Tap the DM you want to set up notifications for and, in the top navigation, tap :mobile-more-options: **More options**.
     1. Tap :mobile-notifications-settings: **Notification settings**.
     1. Select **Personal mentions**, **Global mentions** or **All other messages**.
     1. Choose your notification preference.
