@@ -23,7 +23,7 @@ There are three notification options you can choose from: `Notification on`, `
 === "Mobile"
 
     1. From the tab bar, tap :mobile-communities: **Communities**.
-    1. Long press your community.
+    1. Tap the community you want to customize membership request notifications and, in the top navigation, tap :mobile-more-options: **More options**.
     1. Tap :mobile-notifications-settings: **Notification settings**.
     1. Select  **Join Requests**.
     1. Choose your notification preference.
