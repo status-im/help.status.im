@@ -39,7 +39,8 @@ This action mutes notifications from all your direct messages (DMs). If you want
     1. From the tab bar, tap :mobile-messages: **Messages**.
     1. Tap your profile picture.
     1. Scroll down the list and tap :mobile-mute: **Notifications**.
-    1. Turn **Notifications** off.
+    1. Select **Direct messages** > **Your default notification settings**
+    1. Turn off **All messages**.
 
 === "Desktop"
 
@@ -59,7 +60,7 @@ This action mutes notifications from all your direct messages (DMs). If you want
 
     | Preference | Description |
     |:---|:---|
-    | Notifications on | Turn this on if you want to receive direct message notifications. |
+    | Notifications on | Turn this on if you want to receive notifications banners and lock screen notifications for direct message notifications. |
     | In notification centre only | Turn this on to receive direct message notifications in the Status notification centre. |
     | Notifications off | Turn this off if you don't want to receive any direct message notifications. |
 
