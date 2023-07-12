@@ -18,8 +18,8 @@ In Status, there are different types of communities, and your ability to access 
 | Open communities | | | Not token-gated communities. You are not required to hold any specific tokens to join.|
 | Join approval required | [Join approval][about-community-request-approvals] | Community admins | You need to wait for the community admin to approve your join request. |
 | Join approval not required | | | You can join the communities directly if you meet the token requirements, or there's no token requirement. |
-| Private communities | Community vote | SNT token holders | You can't find the community in Discover Communities. |
-| Public communities | | | You can find the community in Discover Communities. |
+| Private communities | [Community vote][about-voting-to-change-community-visibility] | SNT token holders | The communities are on the Discover page in Communities. <br> When a new community is created, it's private by default. |
+| Public communities | | | The communities are not on the Discover page in Communities. |
 
 !!! note
     Your access to a community depends on the combination of the three factors. For example, a community can be both open and private, and at the same time, you need to wait for the admin to approve your join request.
