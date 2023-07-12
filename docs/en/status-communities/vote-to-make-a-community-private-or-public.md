@@ -11,7 +11,7 @@ hide:
 ![A header image of the Communities section.](./vote-to-make-a-community-private-or-public/676-0-1-light.png#only-light)
 ![A header image of the Communities section.](./vote-to-make-a-community-private-or-public/676-0-1-dark.png#only-dark)
 
-A public community can be found on the [Discover page][find-communities-to-join] in :mobile-communities: **Communities**, while a private community is not listed on this page.
+When a community is created, it's private by default. A public community can be found on the [Discover page][find-communities-to-join] in Communities, while a private community is not listed on this page.
 
 It is not one individual who decides whether a community is public or private, but the voting result. All SNT holders can vote, not just community members or Status users.
 
@@ -34,7 +34,7 @@ Voting involves five steps:
     Status does not charge you any fees for voting.
 
 !!! note
-    To know more about the dApp and the rules of each step, check out [About voting to make a community private or public][about-voting-to-make-a-community-private-or-public].
+    To know more about the dApp and the rules of each step, check out [About voting to change community visibility][about-voting-to-change-community-visibility].
 
 ## Step 1: Connect your wallet {: #connect-wallet}
 
