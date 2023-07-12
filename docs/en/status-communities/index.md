@@ -13,6 +13,7 @@ Create your community, set up token-gated channels or join others' communities a
 - [**Invite** people to a Status community][invite-people-to-a-status-community]
 - [About community **request approvals**][about-community-request-approvals]
 - [Understand **token requirements** in communities][understand-token-requirements-in-communities]
+- [About **voting** using the community directory curation dApp][about-voting-using-the-community-directory-curation-dapp]
 - [**Leave** a Status Community][leave-a-status-community]
 - [About **losing access** to a community][about-losing-access-to-a-community]
 
