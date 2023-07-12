@@ -29,7 +29,7 @@ Find out what makes Status unique, run Status for the first time and discover es
 ## Getting started with your community
 
 - [**Create** a Status Community][create-a-status-community]
-- [How to **run a community**: your quick start guide][how-to-run-a-community-your-quick-start-guide]
+- [How to **run a Status Community**: your quick start guide][how-to-run-a-status-community-your-quick-start-guide]
 - [About Status **Web Communities**][about-status-web-communities]
 
 ## Download Status

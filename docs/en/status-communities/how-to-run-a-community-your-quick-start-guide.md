@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# How to run a community: your quick start guide
+# How to run a Status Community: your quick start guide
 
 !!! note ""
     Currently, you can only create and administer communities using the Status desktop app.</br><p style="text-align: center;">[Download Status desktop :octicons-desktop-download-16:][status-web-download]{ .md-button }

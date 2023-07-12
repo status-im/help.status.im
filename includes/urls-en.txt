@@ -70,7 +70,7 @@
 [about-the-control-node-in-status-communities]: /en/status-communities/about-the-control-node-in-status-communities
 [about-view-only-channels]: /en/status-communities/about-view-only-channels
 [about-tokens-collectibles-and-ens-names]: /en/status-communities/about-tokens-collectibles-and-ens-names
-[administer-membership]: /en/status-communities/how-to-run-a-community-your-quick-start-guide#administer-membership
+[administer-membership]: /en/status-communities/how-to-run-a-status-community-your-quick-start-guide#administer-membership
 [administer-your-community-from-different-computers]: /en/status-communities/administer-your-community-from-different-computers
 [back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [burn-your-community-tokens]: /en/status-communities/burn-your-community-tokens
@@ -94,7 +94,7 @@
 [how-chs-works]: /en/status-communities/about-the-community-history-service#how-chs-works
 [how-to-airdrop-tokens-in-status]: /en/status-communities/how-to-airdrop-tokens-in-status
 [how-to-mint-an-admin-token]: /en/status-communities/how-to-mint-an-admin-token
-[how-to-run-a-community-your-quick-start-guide]: /en/status-communities/how-to-run-a-community-your-quick-start-guide
+[how-to-run-a-status-community-your-quick-start-guide]: /en/status-communities/how-to-run-a-status-community-your-quick-start-guide
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [import-a-community-someone-shares-with-you]: /en/status-communities/import-a-community-someone-shares-with-you
 [import-a-discord-community-into-status]: /en/status-communities/import-a-discord-community-into-status
