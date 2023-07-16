@@ -8,6 +8,8 @@ hide:
 
 # Customize membership request notifications
 
+![There are three different notification options you can choose to customize membership requests. ](./customize-membership-request-notifications/584-0-1-light.png#only-light)
+
 !!! note ""
     Currently, you can only customize membership request notifications in the Status mobile app.
 
