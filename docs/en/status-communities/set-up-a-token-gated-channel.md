@@ -1,12 +1,12 @@
 ---
-id: 105
+id: 315
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# Download Status for Windows
+# Set up a token gated channel
 
  :octicons-tools-24: In progress
 

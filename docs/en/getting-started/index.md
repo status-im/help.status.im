@@ -24,7 +24,7 @@ Find out what makes Status unique, run Status for the first time and discover es
 - [**Join** a Status Community][join-a-status-community]
 - [**Invite friends** to Status][invite-friends-to-status]
 - [**Status Wallet**: your quick start guide][status-wallet-your-quick-start-guide]
-- [[Secure your information and funds]]:[]
+- [**Secure** your information and funds][secure-your-information-and-funds]
 
 ## Getting started with your community
 

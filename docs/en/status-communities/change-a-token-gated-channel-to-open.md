@@ -1,12 +1,12 @@
 ---
-id: 640
+id: 638
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# Reset notifications settings
+# Change a token-gated channel to open
 
  :octicons-tools-24: In progress
 

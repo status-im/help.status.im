@@ -21,12 +21,13 @@
 [layer-2-scaling-solutions-for-ethereum]: /en/getting-started/layer-2-scaling-solutions-for-ethereum
 [new-profile]: /en/getting-started/run-the-status-app-for-the-first-time#new-profile
 [run-the-status-app-for-the-first-time]: /en/getting-started/run-the-status-app-for-the-first-time
+[secure-your-information-and-funds]: /en/getting-started/secure-your-information-and-funds
 [understand-your-actions-in-status]: /en/getting-started/understand-your-actions-in-status
 [what-is-status]: /en/getting-started/what-is-status
 
 [about-status-messages]: /en/messaging-and-web3-browser/about-status-messages
 [add-members-to-a-group-chat]: /en/messaging-and-web3-browser/add-members-to-a-group-chat
-[add-people-to-a-direct-message]: /en/messaging-and-web3-browser/dd-people-to-a-direct-message
+[add-people-to-a-direct-message]: /en/messaging-and-web3-browser/add-people-to-a-direct-message
 [add-remove-or-share-sticker-sets]: /en/messaging-and-web3-browser/add-remove-or-share-sticker-sets
 [privacy-and-security]: /en/messaging-and-web3-browser/about-status-messages#privacy-and-security
 [change-who-can-invite-you-to-group-chats]: /en/messaging-and-web3-browser/change-who-can-invite-you-to-group-chats
@@ -95,6 +96,7 @@
 [how-chs-works]: /en/status-communities/about-the-community-history-service#how-chs-works
 [how-to-airdrop-tokens-in-status]: /en/status-communities/how-to-airdrop-tokens-in-status
 [how-to-mint-an-admin-token]: /en/status-communities/how-to-mint-an-admin-token
+[how-to-run-a-community-your-quick-start-guide]: /en/status-communities/how-to-run-a-community-your-quick-start-guide
 [how-to-use-communities-your-quick-start-guide]: /en/status-communities/how-to-use-communities-your-quick-start-guide
 [import-a-community-someone-shares-with-you]: /en/status-communities/import-a-community-someone-shares-with-you
 [import-a-discord-community-into-status]: /en/status-communities/import-a-discord-community-into-status
@@ -184,7 +186,7 @@
 [configure-community-and-channel-notifications]: /en/your-profile-and-preferences/configure-community-and-channel-notifications
 [customize-direct-message-notifications]: /en/your-profile-and-preferences/customize-direct-message-notifications
 [customize-group-chat-notifications]: /en/your-profile-and-preferences/customize-group-chat-notifications
-[configure-mentions-and-all-other-messages]: /en/your-profile-and-preferences/configure-mentions-and-all-other-messages
+[configure-mentions-and-other-messages]: /en/your-profile-and-preferences/configure-mentions-and-other-messages
 [customize-membership-request-notifications]: /en/your-profile-and-preferences/customize-membership-request-notifications
 [customize-your-status-profile]: /en/your-profile-and-preferences/customize-your-status-profile
 [delete-your-status-profile]: /en/your-profile-and-preferences/delete-your-status-profile

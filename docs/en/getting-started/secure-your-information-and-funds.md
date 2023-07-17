@@ -1,12 +1,12 @@
 ---
-id: 638
+id: 99
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# Change a token-gated channel to open
+# Secure your information and funds
 
  :octicons-tools-24: In progress
 

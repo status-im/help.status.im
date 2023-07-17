@@ -32,7 +32,7 @@ Set up your Status profile and notifications, customize your settings and fix co
 - [**View** notifications and updates][view-notifications-and-updates]
 - [**Mute** your notifications][mute-your-notifications]
 - [Customize **direct message** notifications][customize-direct-message-notifications]
-- [Configure **mentions and all other messages**][configure-mentions-and-all-other-messages]
+- [Configure **mentions and other messages**][configure-mentions-and-other-messages]
 - [Customize **group chat** notifications][customize-group-chat-notifications]
 - [Configure **community and channel** notifications][configure-community-and-channel-notifications]
 - [Set up and customize **notification exceptions**][set-up-and-customize-notification-exceptions]

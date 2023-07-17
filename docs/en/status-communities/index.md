@@ -48,7 +48,7 @@ Create your community, set up token-gated channels or join others' communities a
 
 - [**Create** a channel][create-a-channel]
 - [**Customize** your channel][customize-your-channel]
-- [Set up a token-gated channel][set-up-a-token-gated-channel]
+- [Set up a **token-gated channel**][set-up-a-token-gated-channel]
 - [**Change** a token-gated channel to open][change-a-token-gated-channel-to-open]
 - [Set up **channel permissions**][set-up-channel-permissions]
 - [About **view-only** channels][about-view-only-channels]

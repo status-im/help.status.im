@@ -1,12 +1,12 @@
 ---
-id: 105
+id: 640
 revision: 0
 language: en
 hide:
   - navigation
 ---
 
-# Download Status for Windows
+# Reset your notifications settings
 
  :octicons-tools-24: In progress
 

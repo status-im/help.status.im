@@ -169,6 +169,7 @@ nav:
       - Invite friends to Status: getting-started/invite-friends-to-status.md
       - Status Wallet – your quick start guide: status-wallet/status-wallet-your-quick-start-guide.md
       - Sign into your Status profile on a new device: your-profile-and-preferences/sign-into-your-status-profile-on-a-new-device.md
+      - Secure your information and funds: getting-started/secure-your-information-and-funds.md
     - Getting started with your community:
       - Create a Status Community: status-communities/create-a-status-community.md
       - Getting started for community owners: status-communities/getting-started-for-community-owners.md
@@ -236,6 +237,7 @@ nav:
       - Understand token requirements in channels: status-communities/understand-token-requirements-in-channels.md
       - About losing access to a channel: status-communities/about-losing-access-to-a-channel.md
     - Create your community:
+      - How to run a community your quick start guide: status-communities/how-to-run-a-community-your-quick-start-guide.md
       - Getting started for community owners: status-communities/getting-started-for-community-owners.md
       - Create a Status community: status-communities/create-a-status-community.md
       - Customize your community: status-communities/customize-your-community.md
@@ -263,7 +265,7 @@ nav:
     - Use tokens and set community permissions:
       - Token-based access to communities and channels: status-communities/token-based-access-to-communities-and-channels.md
       - Set up a token-gated community: status-communities/set-up-a-token-gated-community.md
-      - Change a token-gated community to open: status-communities/change-a-token-gated-community-to-public.md
+      - Change a token-gated community to open: status-communities/change-a-token-gated-community-to-open.md
       - Permissions by role in Status Communities: status-communities/permissions-by-role-in-status-communities.md
       - Set up your community permissions: status-communities/set-up-your-community-permissions.md
       - Grant exclusive access with custom tokens: status-communities/grant-exclusive-access-with-custom-tokens.md
@@ -318,7 +320,7 @@ nav:
       - View notifications and updates: your-profile-and-preferences/view-notifications-and-updates.md
       - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
       - Customize direct message notifications: your-profile-and-preferences/customize-direct-message-notifications.md
-      - Configure mentions and all other messages: your-profile-and-preferences/configure-mentions-and-all-other-messages.md
+      - Configure mentions and other messages: your-profile-and-preferences/configure-mentions-and-other-messages.md
       - Customize group chat notifications: your-profile-and-preferences/customize-group-chat-notifications.md
       - Configure community and channel notifications: your-profile-and-preferences/configure-community-and-channel-notifications.md
       - Set up and customize notification exceptions: your-profile-and-preferences/set-up-and-customize-notification-exceptions.md
