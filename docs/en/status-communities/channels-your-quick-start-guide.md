@@ -10,10 +10,10 @@ hide:
 
 ![A screenshot of a list of channels in a Status Community channel, showing with different notifications for different channels.](./channels-your-quick-start-guide/287-1-1.png)
 
-A channel in Status is a dedicated conversation space within a community centered around a particular topic. Community members can [join](./join-a-channel.md) and [leave](./leave-a-channel.md) these channels at their convenience.
+A channel in Status is a dedicated conversation space within a community centred around a particular topic. Community members can [join](./join-a-channel.md) and [leave](./leave-a-channel.md) these channels at their convenience.
 
 !!! note
-    Messages in [token-gated communities][how-to-use-communities-your-quick-start-guide] and token-gated channels are always end-to-end encrypted.
+    Messages in token-gated communities and token-gated channels are always [end-to-end encrypted][about-status-messages].
 
 As a community owner, you can use channels to break down a large community into smaller, more focused sub-groups. With Status, you can [configure channel permissions][configure-channel-permissions] based on token ownership. For example, [you can make an open channel token-gated][set-up-a-token-gated-channel], only allowing holders of specific tokens to join.
 
@@ -56,7 +56,7 @@ All members in a [Status Community][how-to-use-communities-your-quick-start-guid
 ![A picture of a token-gated channel where the user meets the view-only requirements but doesn't meet the view and post ones.](./channels-your-quick-start-guide/287-1-4.png)
 
 === ":mobile-one: View-only requirements"
-     View-only requirements show the tokens users should hold to enter the channel and read the messages. When the user meets the requirements for a token, the token shows a :mobile-green-check: green checkmark.
+     [View-only requirements][about-view-only-channels] show the tokens users should hold to enter the channel and read the messages. When the user meets the requirements for a token, the token shows a :mobile-green-check: green checkmark.
 
 === ":mobile-two: View and post requirements"
     Community owners can also set view and post channel requirements. In this example, the user meets the view-only requirements but doesn't meet the view and post ones.
@@ -65,9 +65,9 @@ All members in a [Status Community][how-to-use-communities-your-quick-start-guid
     The :mobile-unlocked-lock: **Enter channel** option is only available when the user meets at least one of the requirements: view-only, view and post, or both.
 
 !!! tip
-    Token-gated channels show a :mobile-locked-lock: lock symbol next to the channel icon.
+    [Token-gated channels][set-up-a-token-gated-channel] show a :mobile-locked-lock: lock symbol next to the channel icon.
 
-## The #general channel
+## The `#general` channel
 
 All communities start with a default `#general` channel. You can use this channel for various purposes, including sharing news, discussing community policies and events, or making announcements.
 
