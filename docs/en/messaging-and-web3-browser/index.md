@@ -21,7 +21,7 @@ Send messages and files, create group chats or explore decentralized apps with t
 
 - [**Understand** group chats][understand-group-chats]
 - [**Create** a group chat][create-a-group-chat]
-- [**customize** a group chat][customize-a-group-chat]
+- [**Customize** a group chat][customize-a-group-chat]
 - [**Add members** to a group chat][add-members-to-a-group-chat]
 - [**Join** a group chat][join-a-group-chat]
 - [**Clear** group chat **history**][clear-group-chat-history]
