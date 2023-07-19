@@ -156,7 +156,7 @@ nav:
   - Getting started:
     - getting-started/index.md
     - Intro to Status:
-      - What is Status: getting-started/what-is-status.md
+      - What is Status?: getting-started/what-is-status.md
       - How to use Status – your quick start quide: getting-started/how-to-use-status-your-quick-start-guide.md
       - Understand your actions in Status: getting-started/understand-your-actions-in-status.md
       - About the Ethereum blockchain: getting-started/about-the-ethereum-blockchain.md

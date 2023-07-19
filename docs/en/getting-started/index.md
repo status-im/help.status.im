@@ -9,7 +9,7 @@ Find out what makes Status unique, run Status for the first time and discover es
 
 ## Intro to Status
 
-- [What is **Status**][what-is-status]
+- [What is **Status**?][what-is-status]
 - [How to use Status: your **quick start guide**][how-to-use-status-your-quick-start-guide]
 - [Understand **your actions** in Status][understand-your-actions-in-status]
 - [About the **Ethereum blockchain**][about-the-ethereum-blockchain]
