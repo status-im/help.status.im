@@ -288,15 +288,58 @@ nav:
     - status-wallet/index.md
     - Getting started:
       - Status Wallet FAQ: status-wallet/status-wallet-faq.md
+      - Import an existing account into Status Wallet: status-wallet/import-account.md
+      - Status Wallet: your quick start guide: status-wallet/status-wallet-your-quick-start-guide.md
+      - FAQ: What is an SNT? : status-wallet/faq-what-is-an-snt.md
+      - Use Status Wallet on multiple devices: status-wallet/use-status-wallet-on-multiple-devices.md
+      - About your wallet accounts and addresses: status-wallet/about-your-wallet-accounts-and-addresses.md
+      - Understand your wallet balance: status-wallet/understand-your-wallet-balance.md
     - Send and receive crypto:
+      - Share your address: status-wallet/share-your-address.md
       - Receive crypto: status-wallet/receive-crypto.md
       - Send crypto to your Status Wallet: status-wallet/send-crypto-to-your-status-wallet.md
+      - Send crypto to someone: status-wallet/send-crypto.md
       - Understand network fees: status-wallet/understand-network-fees.md
+      - Set custom network fees: status-wallet/set-custom-network-fees.md
+      - View transaction details: status-wallet/view-transaction-details.md
+      - Understand transaction confirmations: status-wallet/understand-transaction-confirmations.md
+      - About transaction statuses: status-wallet/about-transaction-statuses.md
+      - Understand block explorers: status-wallet/understand-block-explorers.md
+      - Handle pending or stuck transactions: status-wallet/handle-pending-or-stuck-transactions.md
+      - Cancel transactions: status-wallet/cancel-transactions.md
+      - If you see transactions you don't recognize: status-wallet/if-you-see-transactions-you-don-t-recognize.md
+    - Buy crypto:
+      - Buy and sell SNT: status-wallet/buy-and-sell-snt.md
+      - Buy crypto: status-wallet/buy-crypto.md
+      - Cancel order: status-wallet/cancel-order.md
+      - Handle stuck orders: status-wallet/handle-stuck-orders.md
+    - Swap and bridge crypto:
+      - Swap crypto: status-wallet/swap-crypto.md
+      - About swap fees: status-wallet/about-swap-fees.md
+      - Understand swap statuses: status-wallet/understand-swap-statuses.md
+      - Bridge crypto: status-wallet/bridge-crypto.md
+      - Understand bridge statuses: status-wallet/understand-bridge-statuses.md
+      - Understand crypto bridging: status-wallet/understand-crypto-bridging.md
+      - Crypto bridging: your quick start guide: status-wallet/crypto-briding-your-quick-start-guide.md
+      - Cancel a swap: status-wallet/cancel-swap.md
     - Privacy and security:
       - If someone else has access to your Wallet: status-wallet/if-someone-else-has-access-to-your-wallet.md
+      - Back up and secure your recovery phrase: status-wallet/back-up-and-secure-your-recovery-phrase.md
+      - Understand common scams: status-wallet/understand-common-scams.md
+      - Use Status Wallet alongside a hard wallet: status-wallet/use-status-wallet-alongside-a-hard-wallet.md
     - Understand crypto assets:
       - Understand wrapped tokens: status-wallet/understand-wrapped-tokens.md
+      - Understand coins and tokens: status-wallet/understand-coins-and-tokens.md
+      - Understand ERC-20 tokens: status-wallet/understand-erc-20-tokens.md
+      - Crypto assets: your quick start guide : status-wallet/crypto-assets-your-quick-start-guide.md
+      - Collectibles: your quick start guide : status-wallet/collectibles-your-quick-start-guide.md
     - Handle your crypto:
+      - Add watch-only addresses: status-wallet/add-watch-only-addresses.md
+      - About custom tokens in Status: status-wallet/about-custom-tokens-in-status.md
+      - Save an address and manage saved addresses: status-wallet/save-an-address-and-manage-saved-addresses.md
+      - Handle your crypto taxes: status-wallet/handle-your-crypto-taxes.md
+      - Create and manage Status Wallet accounts: status-wallet/create-and-manage-status-wallet-accounts.md
+      - Withdraw crypto to your bank account: status-wallet/withdraw-crypto-to-your-bank-account.md
       - Delete your wallet: status-wallet/delete-your-wallet.md
   - Your profile:
     - your-profile-and-preferences/index.md
