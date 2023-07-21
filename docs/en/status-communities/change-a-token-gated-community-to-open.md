@@ -11,24 +11,25 @@ hide:
 !!! note ""
     Currently, you can only set up token-gated and open communities using Status desktop. [:octicons-desktop-download-16: Download Status desktop][status-web-download].
 
-In a [token-gated community][token-based-access-to-communities-and-channels] members should meet specific token requirements to join. As a community owner, you can change an open-gated community into an open one so anyone can join without requiring tokens.
+In a [token-gated community][token-based-access-to-communities-and-channels], users should meet specific token requirements to join. As a community owner, you can change a token-gated community into an open one so that anyone can join even if they don't own any tokens.
 
 !!! note
-    In addition to token requirements, you can set up [manual approval][about-community-request-approvals] to join your community. Token requirements and manual approval work independently.
+    In addition to token requirements, you can require [manual approval][about-community-request-approvals] of new join requests. Token requirements and manual approval work independently.
 
 You might want to transition from a token-gated community to an open one for various reasons. For instance, you might want to grow your community by attracting new members, or perhaps you want to make your community more inclusive by removing the entry barrier.
 
 !!! tip
-    You can use token-gated communities and channels separately. For example, you may want to set up an open Status Community but [restrict access to certain channels][set-up-a-token-gated-channel].
+    You can use token-gated communities and channels separately. For example, you can set up and open Status Community but [restrict access to certain channels][set-up-a-token-gated-channel].
 
 ## What to expect
 
-- Remove all the `Become member` community permissions to transform your token-gated community into an open one.
-- You can change your community from token-gated to open or the other way around at any time.
-- Any token-based channel within your community remains token-based unless you [change it to open][change-a-token-gated-channel-to-open].
+- To transform your token-gated community into an open one, remove all the `Become member` community permissions.
+- Members of your community and channel must own and maintain the required tokens at all times. For more information, check out [Token-based access to communities and channels][token-based-access-to-communities-and-channels].
+- Any token-gated channel within your community remains token-gated unless you [change it to open][change-a-token-gated-channel-to-open].
 - If your community requires new members to send a [join request][about-community-request-approvals], you still need to [approve new member requests][manage-community-join-requests] manually.
+- You can change your community from token-gated to open at any time.
 
-## Change a token-gated community to an open one
+## Change a token-gated community to open
 
 === "Desktop"
 
