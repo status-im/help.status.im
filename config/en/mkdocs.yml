@@ -289,8 +289,8 @@ nav:
     - Getting started:
       - Status Wallet FAQ: status-wallet/status-wallet-faq.md
       - Import an existing account into Status Wallet: status-wallet/import-account.md
-      - Status Wallet: your quick start guide: status-wallet/status-wallet-your-quick-start-guide.md
-      - FAQ: What is an SNT? : status-wallet/faq-what-is-an-snt.md
+      - Status Wallet - your quick start guide: status-wallet/status-wallet-your-quick-start-guide.md
+      - FAQ - What is an SNT? : status-wallet/faq-what-is-an-snt.md
       - Use Status Wallet on multiple devices: status-wallet/use-status-wallet-on-multiple-devices.md
       - About your wallet accounts and addresses: status-wallet/about-your-wallet-accounts-and-addresses.md
       - Understand your wallet balance: status-wallet/understand-your-wallet-balance.md
@@ -320,7 +320,7 @@ nav:
       - Bridge crypto: status-wallet/bridge-crypto.md
       - Understand bridge statuses: status-wallet/understand-bridge-statuses.md
       - Understand crypto bridging: status-wallet/understand-crypto-bridging.md
-      - Crypto bridging: your quick start guide: status-wallet/crypto-briding-your-quick-start-guide.md
+      - Crypto bridging - your quick start guide: status-wallet/crypto-briding-your-quick-start-guide.md
       - Cancel a swap: status-wallet/cancel-swap.md
     - Privacy and security:
       - If someone else has access to your Wallet: status-wallet/if-someone-else-has-access-to-your-wallet.md
@@ -331,8 +331,8 @@ nav:
       - Understand wrapped tokens: status-wallet/understand-wrapped-tokens.md
       - Understand coins and tokens: status-wallet/understand-coins-and-tokens.md
       - Understand ERC-20 tokens: status-wallet/understand-erc-20-tokens.md
-      - Crypto assets: your quick start guide : status-wallet/crypto-assets-your-quick-start-guide.md
-      - Collectibles: your quick start guide : status-wallet/collectibles-your-quick-start-guide.md
+      - Crypto assets - your quick start guide : status-wallet/crypto-assets-your-quick-start-guide.md
+      - Collectibles - your quick start guide : status-wallet/collectibles-your-quick-start-guide.md
     - Handle your crypto:
       - Add watch-only addresses: status-wallet/add-watch-only-addresses.md
       - About custom tokens in Status: status-wallet/about-custom-tokens-in-status.md
