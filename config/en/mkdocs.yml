@@ -169,6 +169,7 @@ nav:
       - Invite friends to Status: getting-started/invite-friends-to-status.md
       - Status Wallet – your quick start guide: status-wallet/status-wallet-your-quick-start-guide.md
       - Sign into your Status profile on a new device: your-profile-and-preferences/sign-into-your-status-profile-on-a-new-device.md
+      - Secure your information and funds: getting-started/secure-your-information-and-funds.md
     - Getting started with your community:
       - Create a Status Community: status-communities/create-a-status-community.md
       - Getting started for community owners: status-communities/getting-started-for-community-owners.md
@@ -236,6 +237,7 @@ nav:
       - Understand token requirements in channels: status-communities/understand-token-requirements-in-channels.md
       - About losing access to a channel: status-communities/about-losing-access-to-a-channel.md
     - Create your community:
+      - How to run a community your quick start guide: status-communities/how-to-run-a-community-your-quick-start-guide.md
       - Getting started for community owners: status-communities/getting-started-for-community-owners.md
       - Create a Status community: status-communities/create-a-status-community.md
       - Customize your community: status-communities/customize-your-community.md
@@ -254,16 +256,16 @@ nav:
     - Administer channels:
       - Create a channel: status-communities/create-a-channel.md
       - Customize your channel: status-communities/customize-your-channel.md
-      - Change a private channel to public: status-communities/change-a-private-channel-to-public.md
+      - Set up a token-gated channel: status-communities/set-up-a-token-gated-channel.md
+      - Change a token-gated channel to open: status-communities/change-a-token-gated-channel-to-open.md
       - Set up channel permissions: status-communities/set-up-channel-permissions.md
       - About view-only channels: status-communities/about-view-only-channels.md
-      - Set up a view-only channel: status-communities/set-up-a-view-only-channel.md
-      - Set up a private channel: status-communities/set-up-a-private-channel.md
+      - Set a view-only channel: status-communities/set-up-a-view-only-channel.md
       - Delete a channel: status-communities/delete-a-channel.md
     - Use tokens and set community permissions:
       - Token-based access to communities and channels: status-communities/token-based-access-to-communities-and-channels.md
-      - Set up a private community: status-communities/set-up-a-private-community.md
-      - Change a private community to public: status-communities/change-a-private-community-to-public.md
+      - Set up a token-gated community: status-communities/set-up-a-token-gated-community.md
+      - Change a token-gated community to open: status-communities/change-a-token-gated-community-to-open.md
       - Permissions by role in Status Communities: status-communities/permissions-by-role-in-status-communities.md
       - Set up your community permissions: status-communities/set-up-your-community-permissions.md
       - Grant exclusive access with custom tokens: status-communities/grant-exclusive-access-with-custom-tokens.md
@@ -286,16 +288,58 @@ nav:
     - status-wallet/index.md
     - Getting started:
       - Status Wallet FAQ: status-wallet/status-wallet-faq.md
+      - Import an existing account into Status Wallet: status-wallet/import-account.md
+      - Status Wallet - your quick start guide: status-wallet/status-wallet-your-quick-start-guide.md
+      - FAQ - What is an SNT? : status-wallet/faq-what-is-an-snt.md
+      - Use Status Wallet on multiple devices: status-wallet/use-status-wallet-on-multiple-devices.md
+      - About your wallet accounts and addresses: status-wallet/about-your-wallet-accounts-and-addresses.md
+      - Understand your wallet balance: status-wallet/understand-your-wallet-balance.md
     - Send and receive crypto:
+      - Share your address: status-wallet/share-your-address.md
       - Receive crypto: status-wallet/receive-crypto.md
       - Send crypto to your Status Wallet: status-wallet/send-crypto-to-your-status-wallet.md
+      - Send crypto to someone: status-wallet/send-crypto.md
       - Understand network fees: status-wallet/understand-network-fees.md
+      - Set custom network fees: status-wallet/set-custom-network-fees.md
+      - View transaction details: status-wallet/view-transaction-details.md
+      - Understand transaction confirmations: status-wallet/understand-transaction-confirmations.md
+      - About transaction statuses: status-wallet/about-transaction-statuses.md
+      - Understand block explorers: status-wallet/understand-block-explorers.md
+      - Handle pending or stuck transactions: status-wallet/handle-pending-or-stuck-transactions.md
+      - Cancel transactions: status-wallet/cancel-transactions.md
+      - If you see transactions you don't recognize: status-wallet/if-you-see-transactions-you-don-t-recognize.md
+    - Buy crypto:
+      - Buy and sell SNT: status-wallet/buy-and-sell-snt.md
+      - Buy crypto: status-wallet/buy-crypto.md
+      - Cancel order: status-wallet/cancel-order.md
+      - Handle stuck orders: status-wallet/handle-stuck-orders.md
+    - Swap and bridge crypto:
+      - Swap crypto: status-wallet/swap-crypto.md
+      - About swap fees: status-wallet/about-swap-fees.md
+      - Understand swap statuses: status-wallet/understand-swap-statuses.md
+      - Bridge crypto: status-wallet/bridge-crypto.md
+      - Understand bridge statuses: status-wallet/understand-bridge-statuses.md
+      - Understand crypto bridging: status-wallet/understand-crypto-bridging.md
+      - Crypto bridging - your quick start guide: status-wallet/crypto-briding-your-quick-start-guide.md
+      - Cancel a swap: status-wallet/cancel-swap.md
     - Privacy and security:
       - If someone else has access to your Wallet: status-wallet/if-someone-else-has-access-to-your-wallet.md
+      - Back up and secure your recovery phrase: status-wallet/back-up-and-secure-your-recovery-phrase.md
+      - Understand common scams: status-wallet/understand-common-scams.md
+      - Use Status Wallet alongside a hard wallet: status-wallet/use-status-wallet-alongside-a-hard-wallet.md
     - Understand crypto assets:
       - Understand wrapped tokens: status-wallet/understand-wrapped-tokens.md
+      - Understand coins and tokens: status-wallet/understand-coins-and-tokens.md
+      - Understand ERC-20 tokens: status-wallet/understand-erc-20-tokens.md
+      - Crypto assets - your quick start guide : status-wallet/crypto-assets-your-quick-start-guide.md
+      - Collectibles - your quick start guide : status-wallet/collectibles-your-quick-start-guide.md
     - Handle your crypto:
-      - Add watch-only accounts: status-wallet/add-watch-only-accounts.md
+      - Add watch-only addresses: status-wallet/add-watch-only-addresses.md
+      - About custom tokens in Status: status-wallet/about-custom-tokens-in-status.md
+      - Save an address and manage saved addresses: status-wallet/save-an-address-and-manage-saved-addresses.md
+      - Handle your crypto taxes: status-wallet/handle-your-crypto-taxes.md
+      - Create and manage Status Wallet accounts: status-wallet/create-and-manage-status-wallet-accounts.md
+      - Withdraw crypto to your bank account: status-wallet/withdraw-crypto-to-your-bank-account.md
       - Delete your wallet: status-wallet/delete-your-wallet.md
   - Your profile:
     - your-profile-and-preferences/index.md
@@ -319,7 +363,7 @@ nav:
       - View notifications and updates: your-profile-and-preferences/view-notifications-and-updates.md
       - Mute your notifications: your-profile-and-preferences/mute-your-notifications.md
       - Customize direct message notifications: your-profile-and-preferences/customize-direct-message-notifications.md
-      - Configure mentions and all other messages: your-profile-and-preferences/configure-mentions-and-all-other-messages.md
+      - Configure mentions and other messages: your-profile-and-preferences/configure-mentions-and-other-messages.md
       - Customize group chat notifications: your-profile-and-preferences/customize-group-chat-notifications.md
       - Configure community and channel notifications: your-profile-and-preferences/configure-community-and-channel-notifications.md
       - Set up and customize notification exceptions: your-profile-and-preferences/set-up-and-customize-notification-exceptions.md
