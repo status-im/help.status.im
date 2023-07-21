@@ -71,7 +71,7 @@ You need the [community's public key][import-a-community-someone-shares-with-you
 
 ## Step 3: Cast your vote {: #cast-vote}
 
-Skip this step if you initiated the voting process.
+Skip this step if you initiated the voting process. The voting period lasts for 14 days.
 
 1. From the top navigation, select **Votes** to view ongoing votes.
 1. Find the community you want to vote for. If it's a vote for adding a community, select **Don't add** or **Add**. If it's a vote for removing a community, select **Keep** or **Remove**.
@@ -80,7 +80,7 @@ Skip this step if you initiated the voting process.
 
 ## Step 4: Verify the vote {: #verify-vote}
 
-After the 14-day voting period, the verification begins. During this period, valid votes are identified.
+After voting, the 7-day verification period begins. During this period, valid votes are identified.
 
 1. Open the dApp and find the vote to verify.
 1. Select **Verify the vote**
@@ -88,7 +88,7 @@ After the 14-day voting period, the verification begins. During this period, val
 
 ## Step 5: Finalize the vote {: #finalize-vote}
 
-After the 7-day verification period, the finalization begins. A vote stays pending until at least one person finalizes it.
+After verification, the finalization begins. A vote stays pending until at least one person finalizes it.
 
 1. Open the dApp and find the vote to finalize.
 1. Select **Finalize the vote**.
