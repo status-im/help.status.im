@@ -26,34 +26,39 @@ When a community is created, it's private by default, which is ideal for small, 
     Status does not charge you any fees for voting.
 
 ## Voting to make a community public or private
-
-Any SNT holder can initiate and engage in voting
-
-When initiating a vote for the first time, you can stake any amount of SNT. However, for every unsuccessful voting attempt, the minimum SNT required to start a new vote doubles.
+<!--
+(Not implemented yet)
+When initiating a vote, your minimum stake is ~200k SNT. However, for every unsuccessful voting attempt, the minimum SNT required to start a new vote doubles.
+-->
+The voting period lasts for 14 days.
 
 If a single vote exceeding 2,000,000 SNT supports the community's removal, the remaining voting period reduces to 24 hours. However, this can be reversed if a single vote of over 2,000,000 SNT opposes the removal.
 
+The [verification period][about-verification] lasts for 7 days. If no one verifies the vote, only the initial vote is counted. To make sure all valid votes are counted, at least one person should verify the vote, and this person doesn't have to be someone who has participated in the previous steps.
+
+At least one person needs to [finalize the vote][about-finalization], and this person doesn't have to be someone who has participated in the previous steps. Otherwise, the vote remains pending.
+
 If a vote doesn't pass, the same vote can be initiated again after 30 days.
 
-## Voting to feature a community
+## Voting to feature a community {: #about-verification}
 
-Every week, the top five communities in the number of votes appear in the Featured section, replacing the communities that were featured previously.
+Every week, the top five communities in the number of SNT tokens appear in the Featured section, replacing the communities that were featured previously.
 
-Once a community leaves the Featured section, it can't be featured again for 3 weeks.
+The [verification period][about-verification] lasts for 2 days. If no one verifies the vote, only the first vote of this round is counted. To make sure all valid votes are counted, at least one person should verify the vote, and this person doesn't have to be someone who has participated in the previous steps.
 
-## About verifying a vote
+At least one person needs to [finalize the vote][about-finalization], and this person doesn't have to be someone who has participated in the previous steps. Otherwise, it stays pending and no one can initiate a new round.
+
+Once a community leaves the Featured section, you can't vote for it for the next three rounds of vote. The Feature this community button next to the name of this community is greyed out.
+
+## About verifying a vote {: #about-finalization}
 
 When you verify an ongoing vote, everyone's votes are sent to the smart contract of the dApp, which selects valid votes. A vote is valid only if it includes the voter's signature and the voter has enough SNT to back the vote at the time of verification.
-
-The verification period lasts for 7 days. If no one verifies the vote, only the initial vote is counted. To make sure all valid votes are counted, at least one person should verify the vote, and this person doesn't have to be someone who has participated in the previous steps.
 
 ## About finalizing a vote
 
 When you finalize an ongoing vote, the smart contract rechecks all valid votes against the SNT balances of voters. Votes from those without sufficient balance are not counted.
 
-At least one person needs to finalize the vote, and this person doesn't have to be someone who has participated in the previous steps. Otherwise, the vote remains pending.
-
-Once the vote is finalized, the community is added or removed based on the voting result.
+Once a vote is finalized, the community is added, removed or featured based on the voting result.
 
 --8<-- "includes/urls-en.txt"
 
