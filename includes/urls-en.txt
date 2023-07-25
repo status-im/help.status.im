@@ -70,10 +70,8 @@
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
 [about-the-control-node-in-status-communities]: /en/status-communities/about-the-control-node-in-status-communities
 [about-view-only-channels]: /en/status-communities/about-view-only-channels
-[back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [about-tokens-collectibles-and-ens-names]: /en/status-communities/about-tokens-collectibles-and-ens-names
 [administer-your-community-from-different-computers]: /en/status-communities/administer-your-community-from-different-computers
-[back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [burn-your-community-tokens]: /en/status-communities/burn-your-community-tokens
 [change-a-token-gated-community-to-open]: /en/status-communities/change-a-token-gated-community-to-open
 [change-a-token-gated-channel-to-open]: /en/status-communities/change-a-token-gated-channel-to-open
@@ -82,7 +80,6 @@
 [common-issues-when-the-community-s-control-node-is-offline]: /en/status-communites/common-issues-when-the-community-s-control-node-is-offline
 [customize-your-channel]: /en/status-communities/customize-your-channel
 [customize-your-community]: /en/status-communities/customize-your-community
-[set-up-channel-permissions]: /en/status-communities/set-up-channel-permissions
 [create-a-channel]: /en/status-communities/create-a-channel
 [create-a-status-community]: /en/status-communities/create-a-status-community
 [configure-channel-permissions]: /en/status-communities/configure-channel-permissions
@@ -116,6 +113,7 @@
 [replace-your-community-s-control-node]: /en/status-communities/replace-your-community-s-control-node
 [restore-your-status-community]: /en/status-communities/restore-your-status-community
 [self-destruct-a-token-remotely]: /en/status-communities/self-destruct-a-token-remotely
+[set-up-channel-permissions]: /en/status-communities/set-up-channel-permissions
 [set-up-a-view-only-channel]: /en/status-communities/set-up-a-view-only-channel 
 [set-up-a-token-gated-community]: /en/status-communities/set-up-a-token-gated-community
 [set-up-a-token-gated-channel]: /en/status-communities/set-up-a-token-gated-channel
