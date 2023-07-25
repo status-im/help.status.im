@@ -29,7 +29,6 @@
 [add-members-to-a-group-chat]: /en/messaging-and-web3-browser/add-members-to-a-group-chat
 [add-people-to-a-direct-message]: /en/messaging-and-web3-browser/add-people-to-a-direct-message
 [add-remove-or-share-sticker-sets]: /en/messaging-and-web3-browser/add-remove-or-share-sticker-sets
-[privacy-and-security]: /en/messaging-and-web3-browser/about-status-messages#privacy-and-security
 [change-who-can-invite-you-to-group-chats]: /en/messaging-and-web3-browser/change-who-can-invite-you-to-group-chats
 [clear-group-chat-history]: /en/messaging-and-web3-browser/clear-group-chat-history
 [create-a-group-chat]: /en/messaging-and-web3-browser/create-a-group-chat
@@ -48,6 +47,7 @@
 [messages-faq]: /en/messaging-and-web3-browser/messages-faq
 [peer-to-peer-messaging]: /en/messaging-and-web3-browser/about-status-messages#peer-to-peer-messaging
 [pin-a-message]: /en/messaging-and-web3-browser/pin-a-message
+[privacy-and-security]: /en/messaging-and-web3-browser/about-status-messages#privacy-and-security
 [react-and-reply-to-messages]: /en/messaging-and-web3-browser/react-and-reply-to-messages
 [remove-members-from-a-group-chat]: /en/messaging-and-web3-browser/remove-members-from-a-group-chat
 [send-a-contact-request]: /en/messaging-and-web3-browser/send-a-contact-request
