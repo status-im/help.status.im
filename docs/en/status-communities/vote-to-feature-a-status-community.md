@@ -14,7 +14,11 @@ All SNT holders can vote for their favourite public communities. The five top co
 
 ## Vote to feature a Status Community
 
-Votes happen on the [Community Directory Curation dApp :octicons-tab-external-16:][curate.status.app]. Your voting power is determined by how many SNT tokens you stake. You don't spend the tokens to vote, but you must hold the tokens during validation and finalization periods. A [gas fee][understand-network-fees] in ETH is required for initiating, validating and finalizing a vote.
+Votes happen on the [Community Directory Curation dApp :octicons-tab-external-16:][curate.status.app].
+
+Your voting power is determined by how many SNT tokens you stake. You don't spend the tokens to vote, but you must hold the tokens during validation and finalization periods.
+
+A [gas fee][understand-network-fees] in ETH is required for initiating, validating and finalizing a vote. These steps are not required for every voter.
 
 Voting involves five steps:
 
@@ -36,7 +40,7 @@ Make sure your wallet contains enough SNT for voting and ETH for the gas fee.
 
 1. Open your wallet and switch the network to Optimism.
 1. Open the Community Directory Curation dApp and select **Connect** from the top navigation.
-1. Select **Confirm** in your wallet.
+1. From your wallet, confirm to connect.
 
 !!! note
     You can use Status Wallet or MetaMask.
@@ -45,32 +49,32 @@ Make sure your wallet contains enough SNT for voting and ETH for the gas fee.
 
 After the previous round of vote is finalized, a new round can be initiated. Each round lasts one week.
 
-A round of vote is initiated when the first voter [cast a vote][cast-the-vote]. The voter must pay a gas fee.
+A round of vote starts when the first voter [cast a vote][cast-the-vote]. This initiating voter must pay a gas fee.
 
-## Step 2: Cast your vote {: #cast-the-vote}
+## Step 3: Cast your vote {: #cast-the-vote}
 
 The voting period lasts for 5 days. Voters don't need to pay any gas fee.
 
 1. From the top navigation, select **Directory** to view all public communities.
 1. Find the community you want to vote for and select **Feature this community!**.
 1. Choose the amount of SNT to stake and select **Confirm vote to feature communtiy**.
-1. Confirm the transaction and pay the gas fee from your wallet.
+1. Sign the vote from your wallet.
 
-## Step 3: Verify the vote {: #verify-the-vote}
+## Step 4: Verify the vote {: #verify-the-vote}
 
 After the 5-day voting period, the 2-day verification period begins. During this period, valid votes are identified. If no one verifies the vote, only the first vote of this round is counted.
 
 1. From the top navigation, select **Directory**.
 1. Select **Verify Weekly Featured**.
-1. Confirm the transaction and pay the gas fee from your wallet.
+1. From your wallet, confirm and pay the gas fee.
 
-## Step 4: Finalize the vote {: #finalize-the-vote}
+## Step 5: Finalize the vote {: #finalize-the-vote}
 
 After the 2-day verification period, the finalization begins. At least one person must finalize the vote. Otherwise, it stays pending and no one can initiate a new round.
 
 1. From the top navigation, select **Directory**.
-1. Select **Finalize Weekly Featured***.
-1. Confirm the transaction and pay the gas fee from your wallet.
+1. Select **Finalize Weekly Featured**.
+1. From your wallet, confirm and pay the gas fee.
 
 !!! note
     After finalization, the top five communities in the number of SNT tokens appear in the Featured section.
