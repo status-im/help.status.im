@@ -58,11 +58,11 @@ The voting period lasts for 5 days. Voters don't need to pay any gas fee.
 1. From the top navigation, select **Directory** to view all public communities.
 1. Find the community you want to vote for and select **Feature this community!**.
 1. Choose the amount of SNT to stake and select **Confirm vote to feature communtiy**.
-1. Sign the vote from your wallet.
+1. From your wallet, sign the vote.
 
 ## Step 4: Verify the vote {: #verify-the-vote}
 
-After the 5-day voting period, the 2-day verification period begins. During this period, valid votes are identified. If no one verifies the vote, only the first vote of this round is counted.
+After voting, a 2-day verification period begins to identify valid votes. If no one verifies the vote, only the first vote of this round is counted.
 
 1. From the top navigation, select **Directory**.
 1. Select **Verify Weekly Featured**.
