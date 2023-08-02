@@ -1,7 +1,10 @@
 *[blockchain]: A blockchain is a digital ledger that stores information across a network of computers,  making it difficult to modify or hack. It consists of blocks of data, each connected to the previous one, forming a chain.
 *[collectible]: A collectible is a unique digital asset that is stored on a blockchain. These assets are called non-fungible tokens (NFTs) and represent ownership of digital art, music, videos and other creative works.
 *[collectibles]: A collectible is a unique digital asset that is stored on a blockchain. These assets are called non-fungible tokens (NFTs) and represent ownership of digital art, music, videos and other creative works.
+*[dApp]: A decentralized application running on a blockchain.
 *[DeFi]: DeFi, or Decentralized Finance, refers to a financial system built on blockchain technology that operates independently from traditional banks and financial institutions. This includes crypto loans and deposits, as well as token swapping and liquidity pools.
 *[pen-and-paper backup]: A pen-and-paper backup refers to a physical copy of important documents or notes. You can use this backup in case of loss or damage to the original information.
 *[mainnet]: The primary Ethereum blockchain network.
 *[pseudonymous]: All blockchain data is pseudonymous. This means that while everyone can view your balance and transaction history, there's no way to tie any of this data to your real-life identity. If you're concerned about your privacy, avoid sending money to your wallet from a centralized exchange such as Kraken, Coinbase or Gemini that requires you to confirm your identity.
+*[smart contract]: An dApp's program code, which is deployed on a blockchain.
+*[signature]: The information used to identify a digital message's sender. It's generated when you sign a message from your wallet.

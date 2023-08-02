@@ -93,6 +93,7 @@
 [delete-a-channel]: /en/status-communities/delete-a-channel
 [delete-community-permissions]: /en/status-communities/set-up-your-community-permissions#delete-community-permissions
 [delete-your-status-community]: /en/status-communities/delete-your-status-community
+[find-communities-to-join]: /en/status-communities/find-communities-to-join
 [getting-started-for-community-owners]: /en/status-communities/getting-started-for-community-owners
 [grant-exclusive-access-with-tokens]: /en/status-communities/grant-exclusive-access-with-tokens
 [how-chs-works]: /en/status-communities/about-the-community-history-service#how-chs-works
