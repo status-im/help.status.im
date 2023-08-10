@@ -62,16 +62,16 @@
 [use-mentions-in-status]: /en/messaging-and-web3-browser/use-mentions-in-status
 
 [about-community-request-approvals]: /en/status-communities/about-community-request-approvals
-[about-finalization]: /en/status-communities/about-voting-to-change-community-visibility#about-finalization
+[about-finalization]: /en/status-communities/about-voting-to-change-the-community-visibility#about-finalization
 [about-losing-access-to-a-channel]: /en/status-communities/about-losing-access-to-a-channel
 [about-losing-access-to-a-community]: /en/status-communities/about-losing-access-to-a-community
 [about-status-communities]: /en/status-communities/about-status-communities
 [about-status-web-communities]: /en/status-communities/about-status-web-communities
 [about-the-community-history-service]: /en/status-communities/about-the-community-history-service
 [about-the-control-node-in-status-communities]: /en/status-communities/about-the-control-node-in-status-communities
-[about-verification]: /en/status-communities/about-voting-to-change-community-visibility#about-verification
+[about-verification]: /en/status-communities/about-voting-to-change-the-community-visibility#about-verification
 [about-view-only-channels]: /en/status-communities/about-view-only-channels
-[about-voting-to-change-community-visibility]: /en/status-communities/about-voting-to-change-community-visibility
+[about-voting-to-change-the-community-visibility]: /en/status-communities/about-voting-to-change-the-community-visibility
 [back-up-your-community-s-private-key]: /en/status-communities/back-up-your-community-s-private-key
 [about-tokens-collectibles-and-ens-names]: /en/status-communities/about-tokens-collectibles-and-ens-names
 [administer-your-community-from-different-computers]: /en/status-communities/administer-your-community-from-different-computers
