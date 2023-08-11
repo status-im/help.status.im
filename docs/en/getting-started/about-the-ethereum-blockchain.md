@@ -17,16 +17,21 @@ These digital transactions serve various purposes, such as buying or sending tok
 
 ## What's Ethereum?
 
-If the blockchain is the digital ledger, think of Ethereum as the computer running this ledger. The Ethereum blockchain is a network consisting of thousands of computers. Anybody is free to join and contribute to the network, but nobody owns the network. This is in contrast to corporations that run their own centralized servers, control of the network and set the rules.
+If the blockchain is the digital ledger, think of Ethereum as the computer running this ledger. The Ethereum blockchain is a network consisting of thousands of computers. Anybody is free to join and contribute to the network, but nobody owns the network. This is in contrast to corporations that run their own centralized servers, control the network and set the rules.
 
 !!! note
     Contributors to the decentralized Ethereum network receive compensation in Ether (ETH), Ethereum's native cryptocurrency.
 
-When we talk about Ethereum, we often refer to the main Ethereum blockchain or mainnet. On mainnet, Ether has a value, and transactions have an actual cost. Besides the mainnet, there are other test Ethereum networks or testnets, where Ether holds no real value.
+When we talk about Ethereum, we often refer to the main Ethereum blockchain or mainnet. On mainnet, Ether has a value, and transactions have an actual cost. Besides the mainnet, there are other test Ethereum networks or testnets, where Ether holds no real value. Software developers use testnets to check their code runs properly before deploying it to mainnet.
 
 ## The role of Ethereum in the Status app
 
 When using the Status app, you take advantage of Ethereum's decentralization, transparency and security principles and design.
+
+- [Your Status profile and Ethereum account](#your-status-profile-and-ethereum-account)
+- [Status messaging and Waku](#status-messaging-and-waku)
+- [Status crypto wallet](#status-crypto-wallet)
+- [Running dApps on Ethereum](#running-dapps-on-ethereum)
 
 !!! note
     Alongside the Ethereum blockchain, Status also supports other [Layer-2 blockchain networks][layer-2-scaling-solutions-for-ethereum] fully committed to decentralization, such as Optimism and Artbitrum.
@@ -35,9 +40,9 @@ When using the Status app, you take advantage of Ethereum's decentralization, tr
 
 In the Ethereum blockchain, accounts validate identities. When you [create your Status profile][run-the-status-app-for-the-first-time], you generate a random private cryptographic key, represented by your [recovery phrase][understand-your-status-keys-and-recovery-phrase]. The private key derives the corresponding public key, and from this public key, your Ethereum account.
 
-This account (also known as Ethereum address) is what you use to receive funds, interact with dApps and carry out transactions on the Ethereum network. Your Ethereum address is part of your Status profile and identifies you in the Status network.
+This account (also known as the Ethereum address) is what you use to receive funds, interact with dApps and carry out transactions on the Ethereum network. Your Ethereum address is part of your Status profile and identifies you in the Status network.
 
-!!! note
+!!! tip
     Your Ethereum address or Status profile doesn't necessarily reveal your identity [unless you decide to do so][view-and-edit-your-status-profile].
 
 ### Status messaging and Waku
@@ -50,7 +55,7 @@ Status doesn't store your messages on the Ethereum blockchain. Your messages pas
 
 Your Ethereum address is similar to a bank account number in traditional banking. Using the [Status Wallet][status-wallet-your-quick-start-guide] and Ethereum address, you can handle Ethereum-based tokens. Much like a physical wallet holds your cash and cards, the Status Wallet is where your digital assets reside.
 
-You can send, receive and store tokens securely, including Ether and ERC-20 tokens, as well as assets from Ethereum [layer-2 blockchains (L2s) and sidechains][layer-2-scaling-solutions-for-ethereum].
+You can send, receive and store tokens securely, including Ether and [ERC-20 tokens][understand-erc-20-tokens], as well as assets from Ethereum [layer-2 blockchains (L2s) and sidechains][layer-2-scaling-solutions-for-ethereum].
 
 ### Running dApps on Ethereum
 
