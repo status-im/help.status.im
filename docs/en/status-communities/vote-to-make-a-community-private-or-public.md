@@ -8,46 +8,45 @@ hide:
 
 # Vote to make a community private or public
 
-![A header image of the Communities section.](./vote-to-make-a-community-private-or-public/676-0-1-light.png#only-light)
-![A header image of the Communities section.](./vote-to-make-a-community-private-or-public/676-0-1-dark.png#only-dark)
+![A header image of the Communities section.](./vote-to-make-a-community-private-or-public/676-0-1.png)
 
-Status Communities can be public or private. A public community appears on the [Discover page][find-communities-to-join] in Communities, while a private community does not.
-
-A voting process determines whether a community is public or private. All SNT holders, not just community members or Status users, can participate in the voting.
-
-!!! note
-    Apart from public and private communities, there are [other types of Status communities][about-the-different-types-of-status-communities].
+A voting process determines whether a community is public or private. A public community appears on the [Discover page][find-communities-to-join] in Communities, while a private community does not.
 
 ## What to expect
 
+-  All SNT holders, not just community members or Status users, can participate in the voting.
 - Votes happen on the [community directory curation dApp :octicons-tab-external-16:][curate.status.app].
-- You can initiate a vote for a community anytime.
-- Your voting power is determined by how many SNT tokens you stake. You don't spend the tokens to vote, but you must hold the tokens you stake till the voting results come out.
-- You should pay a [gas fee][understand-network-fees] in ETH for initiating, validating and finalizing a vote. These steps are not required for every voter.
+- Your voting power is determined by how many SNT tokens you stake.
+- You don't spend the tokens to vote, but you must hold the tokens you stake during the [verification][verify-the-vote] and [finalization][finalize-the-vote] periods.
 
 !!! note
     Status does not charge you any fees for voting.
 
-Voting involves five steps:
+Voting involves five steps. These steps are not required for every voter.
 
-- [x] [Connect your wallet][connect-wallet] (no gas fee)
-- [x] [Initiate a voting process][initiate-vote] (gas fee required)
-- [x] [Cast your vote][cast-vote] (no gas fee)
-- [x] [Verify the vote][verify-vote] (gas fee required)
-- [x] [Finalize the vote][finalize-vote] (gas fee required)
+| Voting step | Who can participate | Gas fee required |
+|:---|:---|:---|
+| 1. [Connect your wallet][connect-wallet] | Any SNT holder | No |
+| 2. [Initiate a voting process][initiate-vote] | Any SNT holder, at least one person | Yes |
+| 3. [Cast your vote][cast-vote] | Any SNT holder | No |
+| 4. [Verify the vote][verify-vote] | Any SNT holder, at least one person | Yes |
+| 5. [Finalize the vote][finalize-vote] | Any SNT holder, at least one person | Yes |
 
 !!! tip
     To know more about the dApp and the rules of each step, check out [About voting to change community visibility][about-voting-to-change-community-visibility].
 
 ## Step 1: Connect your wallet {: #connect-wallet}
 
-Make sure you open the [Community Directory Curation dApp :octicons-tab-external-16:][curate.status.app] and your wallet contains enough SNT for voting and ETH for the gas fee.
+Make sure you open the [Community Directory Curation dApp :octicons-tab-external-16:][curate.status.app] and your wallet contains enough SNT for voting and ETH to pay for the gas fees.
 
 The process is for Status Wallet, but you can also try other wallets like MetaMask.
 
-1. Open your wallet and switch the network to Optimism.
+1. Open your wallet and verify the Optimism network is checked.
 1. Open the dApp and select **Connect** from the top navigation.
 1. Select **Confirm** in your wallet.
+
+!!! note
+    You may need to connect your wallet again when you revisit the dApp depending on your browser settings.
 
 ## Step 2: Initiate a voting process {: #initiate-vote}
 
@@ -55,7 +54,7 @@ Initiate a vote if there isn't an ongoing vote for the community you want to add
 
 ### Initiate a vote for adding a community to Discover
 
-You need the [community's public key][import-a-community-someone-shares-with-you] to initiate a vote for adding a community.
+You need the [community's public key][import-a-community-someone-shares-with-you].
 
 1. From the top navigation of the dApp, select **Votes**.
 1. Select **Propose community**.
@@ -83,7 +82,7 @@ The voting period lasts for 14 days.
 
 ## Step 4: Verify the vote {: #verify-vote}
 
-After voting, a 7-day verification period begins to identify valid votes.
+After voting, a seven-day verification period begins for identifying valid votes.
 
 1. Open the dApp and find the vote to verify.
 1. Select **Verify the vote**.
@@ -91,7 +90,7 @@ After voting, a 7-day verification period begins to identify valid votes.
 
 ## Step 5: Finalize the vote {: #finalize-vote}
 
-After verification, the finalization begins. A vote stays pending until at least one person finalizes it.
+After the verification period, at least one person must finalize the vote for it to reach a result.
 
 1. Open the dApp and find the vote to finalize.
 1. Select **Finalize the vote**.
