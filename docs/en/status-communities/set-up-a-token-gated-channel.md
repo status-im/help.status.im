@@ -13,7 +13,7 @@ hide:
 !!! note ""
     Currently, you can only set up token-gated channels using Status desktop. [:octicons-desktop-download-16: Download Status desktop][status-web-download]
 
-By default, a new [community channel][channels-your-quick-start-guide] is open and available for everyone to join, view and post new messages. As a community owner, you can restrict community members actions in channels using [tokens][understand-coins-and-tokens] (assets, collectibles or ENS names).
+By default, a new [community channel][channels-your-quick-start-guide] is open and available for everyone to join, view and post new messages. As a community owner, you can restrict community members' actions in channels using [tokens][understand-coins-and-tokens] (assets, collectibles or ENS names).
 
 !!! tip
     Token-gated channels show a :mobile-locked-lock: lock symbol next to the channel icon.
