@@ -19,7 +19,7 @@ Votes happen on the [community directory curation dApp][curate.status.app]. This
 - Every SNT holder, not just community members or Status users, can participate in all voting steps.
 - Your voting power is determined by how many SNT tokens you stake.
 - You don't spend or lose control over the SNT tokens when you vote, but you must hold them during the [validation][about-verification] and [finalization][about-finalization] periods for your vote to count.
-- You pay a [gas fee][understand-network-fees] in ETH for initiating, validating and finalizing a vote. The amount of gas fee depends on the traffic of the Optimism network. These steps are not required for every voter.
+- You pay a [gas fee][understand-network-fees] in ETH for initiating, validating and finalizing a vote. The amount of gas fee depends on the traffic of the Optimism network.
 
 !!! note
     Status does not charge you any fees for voting.
